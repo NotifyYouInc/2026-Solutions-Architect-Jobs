@@ -1,16 +1,16 @@
-# Solution Architect - Corporate Systems at Covance
+# [Job-27242] Principal Architect, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Brazil |
 | Category | Solutions Architect |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Warsaw/Solution-Architect---Corporate-Systems_26405) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/39c8c218-76de-4e6f-883f-be1d9d60d854) |
 
 ## About This Role
 
-This solutions architect position at Covance was posted on 2026-02-05.
+This solutions architect position at Ciandt was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

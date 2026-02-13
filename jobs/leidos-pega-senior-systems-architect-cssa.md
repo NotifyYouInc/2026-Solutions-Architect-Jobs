@@ -1,16 +1,16 @@
-# Solution Architect - Corporate Systems at Covance
+# PEGA Senior Systems Architect (CSSA) at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Solutions Architect |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Warsaw/Solution-Architect---Corporate-Systems_26405) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/PEGA-Senior-Systems-Architect--CSSA-_R-00175418) |
 
 ## About This Role
 
-This solutions architect position at Covance was posted on 2026-02-05.
+This solutions architect position at Leidos was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

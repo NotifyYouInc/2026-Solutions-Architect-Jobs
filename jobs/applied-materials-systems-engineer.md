@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Newburyport, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Systems-Engineer_R2612080) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/NewburyportMA/Systems-Engineer_R2611458-1) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-02-02.
+This software engineer position at Applied Materials was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

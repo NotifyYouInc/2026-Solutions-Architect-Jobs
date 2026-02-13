@@ -1,16 +1,16 @@
-# Solution Architect - Corporate Systems at Covance
+# Principal Solution Consultant at Genesys
 
 | Field | Details |
 |-------|---------|
-| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Solutions Architect |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Warsaw/Solution-Architect---Corporate-Systems_26405) |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Bogota-Flexible/Principal-Solution-Consultant_JR110036) |
 
 ## About This Role
 
-This solutions architect position at Covance was posted on 2026-02-05.
+This solutions architect position at Genesys was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

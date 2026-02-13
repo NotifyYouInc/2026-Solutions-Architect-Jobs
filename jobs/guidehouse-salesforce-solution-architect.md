@@ -1,16 +1,16 @@
-# Solution Architect - Corporate Systems at Covance
+# Salesforce Solution Architect at Guidehouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Solutions Architect |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Warsaw/Solution-Architect---Corporate-Systems_26405) |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Architect_35579) |
 
 ## About This Role
 
-This solutions architect position at Covance was posted on 2026-02-05.
+This solutions architect position at Guidehouse was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solution Architect - Corporate Systems at Covance
+# Director, Principal Enterprise Architect at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Solutions Architect |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Warsaw/Solution-Architect---Corporate-Systems_26405) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Director--Principal-Enterprise-Architect_4951067-1) |
 
 ## About This Role
 
-This solutions architect position at Covance was posted on 2026-02-05.
+This solutions architect position at Pfizer was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

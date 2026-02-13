@@ -1,16 +1,16 @@
-# Application Architect at IBM
+# Solution Architect at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91648) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Solution-Architect_R-052980-1) |
 
 ## About This Role
 
-This solutions architect position at IBM was posted on 2026-02-05.
+This solutions architect position at Red Hat was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
