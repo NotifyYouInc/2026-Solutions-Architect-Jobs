@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | Indaiatuba, São Paulo, Brazil |
 | Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000106929725-it-information-security-architect) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107304715-it-information-security-architect) |
 
 ## About This Role
 
-This solutions architect position at Eurofins Scientific was posted on 2026-02-02.
+This solutions architect position at Eurofins Scientific was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

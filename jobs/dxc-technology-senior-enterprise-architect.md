@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | New York, US |
 | Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---NEW-YORK/Senior-Enterprise-Architect_51571952) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---NEW-YORK/Senior-Enterprise-Architect_51571956) |
 
 ## About This Role
 
-This solutions architect position at DXC Technology was posted on 2026-02-02.
+This solutions architect position at DXC Technology was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

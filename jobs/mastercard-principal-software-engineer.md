@@ -1,4 +1,4 @@
-# Principal Software Engineer at Mastercard
+# Principal software engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-02-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270070) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-software-engineer_R-269595-1) |
 
 ## About This Role
 

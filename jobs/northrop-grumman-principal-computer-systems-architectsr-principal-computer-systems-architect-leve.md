@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Redondo Beach, California, United States |
 | Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Computer-Systems-Architect-Sr-Principal-Computer-Systems-Architect--Level-3-4-_R10221434) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Computer-Systems-Architect-Sr-Principal-Computer-Systems-Architect--Level-3-4-_R10221983) |
 
 ## About This Role
 
-This solutions architect position at Northrop Grumman was posted on 2026-02-02.
+This solutions architect position at Northrop Grumman was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

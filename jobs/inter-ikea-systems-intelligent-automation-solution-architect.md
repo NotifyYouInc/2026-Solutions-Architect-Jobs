@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sweden |
-| Category | Operations |
+| Category | Solutions Architect |
 | Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000107054782-intelligent-automation-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000107063965-intelligent-automation-solution-architect) |
 
 ## About This Role
 
-This operations position at Inter Ikea Systems was posted on 2026-02-03.
+This solutions architect position at Inter Ikea Systems was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

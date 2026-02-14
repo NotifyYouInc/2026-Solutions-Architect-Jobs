@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
 | Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011470616-payments-solution-architect) |
+| Posted | 2026-02-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011482676-payments-solution-architect) |
 
 ## About This Role
 
-This solutions architect position at HelloKindred was posted on 2026-02-02.
+This solutions architect position at HelloKindred was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 
