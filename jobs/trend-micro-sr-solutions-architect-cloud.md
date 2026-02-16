@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Senior-Solutions-Architect--Cloud_R0008710) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Architect--Cloud_R0008709) |
 
 ## About This Role
 
-This solutions architect position at Trend Micro was posted on 2026-02-03.
+This solutions architect position at Trend Micro was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

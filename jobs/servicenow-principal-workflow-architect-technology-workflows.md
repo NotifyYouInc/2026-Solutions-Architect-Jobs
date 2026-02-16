@@ -1,16 +1,16 @@
-# Senior Platform Architect at ServiceNow
+# Principal Workflow Architect - Technology Workflows at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Switzerland |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107325872-senior-platform-architect) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108161446-principal-workflow-architect-technology-workflows) |
 
 ## About This Role
 
-This solutions architect position at ServiceNow was posted on 2026-02-04.
+This solutions architect position at ServiceNow was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

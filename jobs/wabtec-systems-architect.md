@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Systems Architect at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Erie, Pennsylvania, United States |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011593656-systems-architect) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at Wabtec was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

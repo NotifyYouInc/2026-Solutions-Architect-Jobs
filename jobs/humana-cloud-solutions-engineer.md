@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Cloud-Solutions-Engineer_R-396173) |
+| Category | Devops Engineer |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Cloud-Solutions-Engineer_R-402735-1) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-02-03.
+This devops engineer position at Humana was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

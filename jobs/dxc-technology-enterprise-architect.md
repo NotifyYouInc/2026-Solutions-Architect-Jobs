@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Enterprise Architect at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---VA---ASHBURN/Enterprise-Architect_51572343) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at DXC Technology was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

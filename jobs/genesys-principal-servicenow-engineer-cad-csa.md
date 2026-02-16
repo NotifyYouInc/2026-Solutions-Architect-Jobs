@@ -1,16 +1,16 @@
-# Principal Software Engineer at Mastercard
+# Principal ServiceNow Engineer (CAD, CSA) at Genesys
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Tamil Nadu, IN |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270555) |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Tamil-Nadu/Principal-ServiceNow-Engineer--CAD--CSA-_JR109811) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-09.
+This software engineer position at Genesys was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

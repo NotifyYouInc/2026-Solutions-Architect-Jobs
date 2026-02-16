@@ -1,16 +1,16 @@
-# Principal Software Engineer at Mastercard
+# Software Engineering Senior Advisors- Hybrid at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270555) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Plano-TX/Software-Engineering-Senior-Advisors--Hybrid_26001389) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-09.
+This software engineer position at Cigna was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

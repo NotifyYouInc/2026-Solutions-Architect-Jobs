@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Solution Architect/Project Manager (ServiceNow) at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108215865-solution-architectproject-manager-servicenow) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at Inetum was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

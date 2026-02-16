@@ -1,16 +1,16 @@
-# Principal Software Engineer at Mastercard
+# Software Architect at Concentrix
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270555) |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Work-at-Home/Software-Architect_R1699199) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-09.
+This software engineer position at Concentrix was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

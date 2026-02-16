@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Enterprise Architect, GTS Enterprise Architecture at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108125214-enterprise-architect-gts-enterprise-architecture) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at Grab was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

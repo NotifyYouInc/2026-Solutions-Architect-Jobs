@@ -1,16 +1,16 @@
-# Principal Software Engineer at Mastercard
+# Manager, Software Engineering at Q2
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270555) |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Manager--Software-Engineering_REQ-12232-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-09.
+This software engineer position at Q2 was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Software Engineer at Mastercard
+# Staff Software Engineer at Samsara
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | California, US |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270555) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7597673?gh_jid=7597673) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-09.
+This software engineer position at Samsara was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

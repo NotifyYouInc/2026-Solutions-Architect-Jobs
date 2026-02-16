@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Deep Learning Solution Architect at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Deep-Learning-Solution-Architect_JR1998016) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at Nvidia was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

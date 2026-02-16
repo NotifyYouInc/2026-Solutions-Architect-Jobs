@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Senior Solutions Architect (East Coast ) at Docker
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Docker](https://scoutify.ai/companies/docker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Canada |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docker/3ffb3836-12f3-4fef-b0ef-79e5d060c462) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at Docker was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

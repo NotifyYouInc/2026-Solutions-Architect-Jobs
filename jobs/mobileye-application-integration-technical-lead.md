@@ -1,16 +1,16 @@
-# Principal Software Engineer at Mastercard
+# Application Integration Technical Lead at Mobileye
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Jerusalem, Jerusalem, Israel |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Software-Engineer_R-270555) |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/cb5df043-e5c7-4253-84d1-30d6a364aaab) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-09.
+This software engineer position at Mobileye was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

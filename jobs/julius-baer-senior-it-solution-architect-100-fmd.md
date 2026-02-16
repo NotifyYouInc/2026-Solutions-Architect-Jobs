@@ -1,16 +1,16 @@
-# Senior Platform Architect at ServiceNow
+# Senior IT Solution Architect 100% (f/m/d) at Julius Baer
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
 | Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107325872-senior-platform-architect) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Senior-IT-Solution-Architect-100---f-m-d-_r-17430-3) |
 
 ## About This Role
 
-This solutions architect position at ServiceNow was posted on 2026-02-04.
+This solutions architect position at Julius Baer was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

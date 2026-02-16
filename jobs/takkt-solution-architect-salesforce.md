@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Solution Architect Salesforce at TAKKT
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [TAKKT](https://scoutify.ai/companies/takkt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hungary |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://takkt.wd3.myworkdayjobs.com/takkt/job/HUN---Budars---Szabadsg-t-117/Solution-Architect-Salesforce_JR100654) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at TAKKT was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

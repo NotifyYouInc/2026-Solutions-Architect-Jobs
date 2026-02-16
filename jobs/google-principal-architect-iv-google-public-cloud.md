@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Principal Architect IV, Google Public Cloud at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | New York, US |
 | Category | Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Junior-Solution-Architect_R-054540) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128019036268044998-principal-architect-iv-google-public-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This solutions architect position at Red Hat was posted on 2026-02-09.
+This solutions architect position at Google was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
