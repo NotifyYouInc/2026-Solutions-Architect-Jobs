@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107663374-sap-senior-architect-senior-expert) |
 
 ## About This Role
 
-This solutions architect position at Robert Bosch was posted on 2026-02-06.
+This technical & solutions architect position at Robert Bosch was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

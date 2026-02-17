@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/AE---Remote---Dubai-UAE/Principal-Solution-Architect---Dubai_R6005) |
 
 ## About This Role
 
-This solutions architect position at nCino was posted on 2026-02-06.
+This technical & solutions architect position at nCino was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

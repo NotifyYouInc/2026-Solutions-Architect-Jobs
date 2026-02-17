@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Global-Engineering-Lead_R302363) |
 
 ## About This Role
 
-This software engineer position at Cushman & Wakefield was posted on 2026-02-06.
+This technical & solutions architect position at Cushman & Wakefield was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

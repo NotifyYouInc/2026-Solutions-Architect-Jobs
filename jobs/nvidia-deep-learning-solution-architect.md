@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Deep-Learning-Solution-Architect_JR1998016) |
 
 ## About This Role
 
-This solutions architect position at Nvidia was posted on 2026-02-09.
+This technical & solutions architect position at Nvidia was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

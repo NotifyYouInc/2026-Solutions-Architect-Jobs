@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shield AI](https://scoutify.ai/companies/shieldai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Diego, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://jobs.lever.co/shieldai/5066a608-9185-4426-831b-c0ade202c358) |
 
 ## About This Role
 
-This software engineer position at Shield AI was posted on 2026-02-07.
+This technical & solutions architect position at Shield AI was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

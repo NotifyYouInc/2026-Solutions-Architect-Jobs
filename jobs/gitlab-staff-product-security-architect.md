@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Canada |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8398094002) |
 
 ## About This Role
 
-This solutions architect position at GitLab was posted on 2026-02-06.
+This technical & solutions architect position at GitLab was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

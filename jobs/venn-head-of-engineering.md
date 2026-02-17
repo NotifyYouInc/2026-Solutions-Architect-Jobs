@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/venn/8f2b777a-c75a-4ec5-8e68-910ba709946e) |
 
 ## About This Role
 
-This software engineer position at Venn was posted on 2026-02-09.
+This technical & solutions architect position at Venn was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

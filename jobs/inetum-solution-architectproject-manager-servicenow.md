@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108215865-solution-architectproject-manager-servicenow) |
 
 ## About This Role
 
-This solutions architect position at Inetum was posted on 2026-02-09.
+This technical & solutions architect position at Inetum was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

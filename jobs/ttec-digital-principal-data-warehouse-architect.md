@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TTEC Digital](https://scoutify.ai/companies/ttec-digital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.lever.co/ttecdigital/446916bd-5c16-4eb4-a310-8651a9dfdfab) |
 
 ## About This Role
 
-This data engineer position at TTEC Digital was posted on 2026-02-05.
+This technical & solutions architect position at TTEC Digital was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

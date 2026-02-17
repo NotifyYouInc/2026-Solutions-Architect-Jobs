@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5795481004) |
 
 ## About This Role
 
-This solutions architect position at Natera was posted on 2026-02-06.
+This technical & solutions architect position at Natera was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

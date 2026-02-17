@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Workday-Prism-Analytics-Lead_R-104427) |
 
 ## About This Role
 
-This data engineer position at Jade Global was posted on 2026-02-05.
+This technical & solutions architect position at Jade Global was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

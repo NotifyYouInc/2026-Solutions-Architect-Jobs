@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bracknell, England, United Kingdom |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000107792853-lead-architect-data-ai) |
 
 ## About This Role
 
-This data engineer position at Syngenta was posted on 2026-02-06.
+This technical & solutions architect position at Syngenta was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/PEGA-Senior-Systems-Architect--CSSA-_R-00175418) |
 
 ## About This Role
 
-This solutions architect position at Leidos was posted on 2026-02-05.
+This technical & solutions architect position at Leidos was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

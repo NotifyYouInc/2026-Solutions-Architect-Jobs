@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurgaon--Bld-14-IT-SEZ-Unit-1-5-6-17-Fl/Sr-Solution-Architect-II_R1667136) |
 
 ## About This Role
 
-This solutions architect position at Concentrix was posted on 2026-02-06.
+This technical & solutions architect position at Concentrix was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

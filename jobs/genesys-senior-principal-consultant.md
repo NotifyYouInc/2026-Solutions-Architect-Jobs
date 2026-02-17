@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/California-USA/Senior-Principal-Consultant_JR108099) |
 
 ## About This Role
 
-This solutions architect position at Genesys was posted on 2026-02-05.
+This technical & solutions architect position at Genesys was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

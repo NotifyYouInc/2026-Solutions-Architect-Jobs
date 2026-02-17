@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fremont, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-North-Bldg-California---USA/Sr-Principal-Engineer_NX-3345) |
 
 ## About This Role
 
-This software engineer position at Nextracker was posted on 2026-02-06.
+This technical & solutions architect position at Nextracker was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

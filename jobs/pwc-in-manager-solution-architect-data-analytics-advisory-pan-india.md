@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kolkata, West Bengal, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Manager--Solution-Architect--Data---Analytics--Advisory--PAN-India_703833WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-02-08.
+This technical & solutions architect position at PwC was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

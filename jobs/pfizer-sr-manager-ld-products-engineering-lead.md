@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Manager--L-D-Products-Engineering-Lead_4950074-2) |
 
 ## About This Role
 
-This software engineer position at Pfizer was posted on 2026-02-05.
+This technical & solutions architect position at Pfizer was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

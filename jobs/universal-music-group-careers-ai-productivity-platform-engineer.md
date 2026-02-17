@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Universal Music Group Careers](https://scoutify.ai/companies/universal-music-group-careers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://umusic.wd5.myworkdayjobs.com/umgapac/job/Sydney-New-South-Wales/AI-Productivity-Platform-Engineer_UMG-24793) |
 
 ## About This Role
 
-This software engineer position at Universal Music Group Careers was posted on 2026-02-05.
+This devops engineer position at Universal Music Group Careers was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

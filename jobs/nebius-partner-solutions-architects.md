@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://careers.nebius.com/?gh_jid=4773256101) |
 
 ## About This Role
 
-This solutions architect position at Nebius was posted on 2026-02-06.
+This technical & solutions architect position at Nebius was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

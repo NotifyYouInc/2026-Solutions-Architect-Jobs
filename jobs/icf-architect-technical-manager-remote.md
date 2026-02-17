@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Architect-Technical-Manager--Remote_R2600360) |
 
 ## About This Role
 
-This program manager position at ICF was posted on 2026-02-05.
+This technical & solutions architect position at ICF was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

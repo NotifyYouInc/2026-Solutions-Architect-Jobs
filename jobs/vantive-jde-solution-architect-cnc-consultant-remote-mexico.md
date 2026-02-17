@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Guadalajara-Jalisco/JDE-Solution-Architect---CNC-Consultant---Remote--Mexico-_JR-191999-1) |
 
 ## About This Role
 
-This solutions architect position at Vantive was posted on 2026-02-06.
+This technical & solutions architect position at Vantive was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

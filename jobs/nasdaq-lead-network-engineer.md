@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/Lead-Network-Engineer_R0024732-1) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-02-06.
+This devops engineer position at Nasdaq was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

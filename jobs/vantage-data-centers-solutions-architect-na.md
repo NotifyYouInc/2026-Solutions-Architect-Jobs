@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Denver-Colorado/Solutions-Architect--NA_R21483) |
 
 ## About This Role
 
-This solutions architect position at Vantage Data Centers was posted on 2026-02-05.
+This technical & solutions architect position at Vantage Data Centers was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000107670442-senior-architect) |
 
 ## About This Role
 
-This solutions architect position at Egis was posted on 2026-02-06.
+This technical & solutions architect position at Egis was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

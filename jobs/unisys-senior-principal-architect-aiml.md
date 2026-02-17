@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Principal-Architect---AI-ML_REQ570717) |
 
 ## About This Role
 
-This solutions architect position at Unisys was posted on 2026-02-08.
+This technical & solutions architect position at Unisys was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000108151725-software-architect-mwd) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-09.
+This devops engineer position at Devoteam was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

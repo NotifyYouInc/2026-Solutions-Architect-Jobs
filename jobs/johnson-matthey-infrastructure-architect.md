@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Matthey](https://scoutify.ai/companies/johnson-matthey?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Kuala-Lumpur---MY/Infrastructure-Architect_R-014355) |
 
 ## About This Role
 
-This solutions architect position at Johnson Matthey was posted on 2026-02-09.
+This technical & solutions architect position at Johnson Matthey was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

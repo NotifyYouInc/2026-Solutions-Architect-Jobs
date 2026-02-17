@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000107782499-network-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This solutions architect position at Arista Networks was posted on 2026-02-06.
+This technical & solutions architect position at Arista Networks was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

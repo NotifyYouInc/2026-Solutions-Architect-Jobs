@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Enterprise-Architect---Oracle-Fusion-Cloud--Financials--EPM-_R-104525) |
 
 ## About This Role
 
-This solutions architect position at Jade Global was posted on 2026-02-09.
+This technical & solutions architect position at Jade Global was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7592490) |
 
 ## About This Role
 
-This software engineer position at Lightspeed Commerce was posted on 2026-02-05.
+This technical & solutions architect position at Lightspeed Commerce was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

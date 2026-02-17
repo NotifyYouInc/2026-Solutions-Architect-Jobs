@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Lead-Systems-Architect_JR_1046654) |
 
 ## About This Role
 
-This solutions architect position at Zeiss was posted on 2026-02-08.
+This technical & solutions architect position at Zeiss was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

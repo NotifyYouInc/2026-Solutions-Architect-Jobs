@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108142960-technical-specialist-architect-ai) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-02-09.
+This technical & solutions architect position at Robert Bosch was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

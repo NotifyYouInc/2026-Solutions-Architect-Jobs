@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Jersey, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011562406-principal-cloud-engineer) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-02-06.
+This devops engineer position at AbbVie was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Data-Product-Architect--cross-functional_JR00021094-1) |
 
 ## About This Role
 
-This data engineer position at ABB was posted on 2026-02-05.
+This technical & solutions architect position at ABB was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

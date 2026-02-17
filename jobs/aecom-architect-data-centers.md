@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colombia |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107536941-architect-data-centers) |
 
 ## About This Role
 
-This program manager position at AECOM was posted on 2026-02-05.
+This technical & solutions architect position at AECOM was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

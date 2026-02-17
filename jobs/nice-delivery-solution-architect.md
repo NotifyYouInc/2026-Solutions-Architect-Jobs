@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4775697101?gh_jid=4775697101) |
 
 ## About This Role
 
-This solutions architect position at NiCE was posted on 2026-02-06.
+This technical & solutions architect position at NiCE was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

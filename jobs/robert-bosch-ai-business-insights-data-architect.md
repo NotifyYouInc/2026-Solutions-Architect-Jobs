@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107487755-ai-business-insights-data-architect) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-02-05.
+This technical & solutions architect position at Robert Bosch was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

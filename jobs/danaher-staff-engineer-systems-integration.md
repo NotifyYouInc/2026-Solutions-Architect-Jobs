@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Staff-Engineer--Systems-Integration_R1304988) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-02-05.
+This technical & solutions architect position at Danaher was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 12 locations |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Mid-Level-Data-Solution-Architect_JR2025481695-1) |
 
 ## About This Role
 
-This data engineer position at Boeing was posted on 2026-02-05.
+This technical & solutions architect position at Boeing was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

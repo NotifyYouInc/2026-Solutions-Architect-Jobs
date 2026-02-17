@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coatesgroup](https://scoutify.ai/companies/coatesgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.lever.co/coatesgroup/fc2b0e14-08e6-423f-8874-799af39d6bca) |
 
 ## About This Role
 
-This software engineer position at Coatesgroup was posted on 2026-02-06.
+This technical & solutions architect position at Coatesgroup was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

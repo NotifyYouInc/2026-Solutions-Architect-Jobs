@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7591638?gh_jid=7591638) |
 
 ## About This Role
 
-This solutions architect position at Okta was posted on 2026-02-06.
+This technical & solutions architect position at Okta was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108242305-ai-solution-architect) |
 
 ## About This Role
 
-This solutions architect position at ServiceNow was posted on 2026-02-09.
+This technical & solutions architect position at ServiceNow was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

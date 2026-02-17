@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Penang, MY |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Principal-NoC-IP-Micro-Architect_R01976) |
 
 ## About This Role
 
-This solutions architect position at Altera Corporation was posted on 2026-02-06.
+This technical & solutions architect position at Altera Corporation was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

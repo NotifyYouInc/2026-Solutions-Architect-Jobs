@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/XMLNAME-51562830-SAP-Fiori-Technical-Lead--UI5---S-4HANA-_51572100) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-06.
+This technical & solutions architect position at DXC Technology was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

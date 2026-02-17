@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Associate-Director--Solution-Engineer_JR86698) |
 
 ## About This Role
 
-This software engineer position at Marriott Vacations Worldwide was posted on 2026-02-06.
+This technical & solutions architect position at Marriott Vacations Worldwide was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

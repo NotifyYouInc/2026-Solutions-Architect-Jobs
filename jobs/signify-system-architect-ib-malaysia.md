@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shah Alam, Selangor, Malaysia |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shah-Alam/System-Architect-IB---Malaysia_362931) |
 
 ## About This Role
 
-This solutions architect position at Signify was posted on 2026-02-05.
+This technical & solutions architect position at Signify was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

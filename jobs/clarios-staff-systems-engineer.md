@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarios](https://scoutify.ai/companies/clarios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Systems-Engineer_WD44853) |
 
 ## About This Role
 
-This software engineer position at Clarios was posted on 2026-02-06.
+This technical & solutions architect position at Clarios was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

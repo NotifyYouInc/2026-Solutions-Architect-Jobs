@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bonn, North Rhine-Westphalia, Germany |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Senior-PreSales-Consultant-IT-Services--m-w-d-_JR107831-1) |
 
 ## About This Role
 
-This solutions architect position at Dedalus CandG was posted on 2026-02-08.
+This technical & solutions architect position at Dedalus CandG was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

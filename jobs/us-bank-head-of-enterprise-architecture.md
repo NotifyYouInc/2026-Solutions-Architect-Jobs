@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Head-of-Enterprise-Architecture_2025-0022106) |
 
 ## About This Role
 
-This solutions architect position at U.S. Bank was posted on 2026-02-04.
+This technical & solutions architect position at U.S. Bank was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

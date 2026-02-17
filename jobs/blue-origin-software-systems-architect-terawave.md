@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Bay-Area-CA/Software-Systems-Architect---TeraWave_R59918) |
 
 ## About This Role
 
-This solutions architect position at Blue Origin was posted on 2026-02-05.
+This technical & solutions architect position at Blue Origin was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

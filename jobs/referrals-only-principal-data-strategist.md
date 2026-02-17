@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7541078) |
 
 ## About This Role
 
-This program manager position at Referrals Only was posted on 2026-02-05.
+This technical & solutions architect position at Referrals Only was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Application-and-Testing-Infrastructure-Architect_R0114728) |
 
 ## About This Role
 
-This solutions architect position at USAA was posted on 2026-02-05.
+This technical & solutions architect position at USAA was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

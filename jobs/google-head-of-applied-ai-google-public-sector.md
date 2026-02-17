@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/135747159902298822-head-of-applied-ai-google-public-sector?sort_by=date&page=1) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-02-09.
+This technical & solutions architect position at Google was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

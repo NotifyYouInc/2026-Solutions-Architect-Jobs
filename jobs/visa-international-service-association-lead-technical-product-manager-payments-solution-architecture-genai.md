@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107580551-lead-technical-product-manager-payments-solution-architecture-genai) |
 
 ## About This Role
 
-This solutions architect position at Visa International Service Association was posted on 2026-02-05.
+This technical & solutions architect position at Visa International Service Association was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

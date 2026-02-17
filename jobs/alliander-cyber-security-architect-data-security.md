@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arnhem, Gelderland, The Netherlands |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/ARNHEM/Cyber-Security-Architect---Data-Security_JR17855) |
 
 ## About This Role
 
-This solutions architect position at Alliander was posted on 2026-02-09.
+This technical & solutions architect position at Alliander was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

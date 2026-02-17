@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rhenus SE & Co.](https://scoutify.ai/companies/rhenus-se-co?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Nuneaton, England, United Kingdom |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://rhe.wd3.myworkdayjobs.com/r1111/job/Nuneaton-United-Kingdom/Solution-Architect--WMS-_JR119479-1) |
 
 ## About This Role
 
-This solutions architect position at Rhenus SE & Co. was posted on 2026-02-06.
+This technical & solutions architect position at Rhenus SE & Co. was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

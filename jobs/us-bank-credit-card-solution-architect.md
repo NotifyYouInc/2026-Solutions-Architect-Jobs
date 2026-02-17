@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brookfield, Wisconsin, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Credit-Card-Solution-Architect_2026-0002957-1) |
 
 ## About This Role
 
-This solutions architect position at U.S. Bank was posted on 2026-02-07.
+This technical & solutions architect position at U.S. Bank was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

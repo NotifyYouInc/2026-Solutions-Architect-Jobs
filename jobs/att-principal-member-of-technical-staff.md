@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Principal-Member-of-Technical-Staff_R-100154) |
 
 ## About This Role
 
-This program manager position at AT&T was posted on 2026-02-06.
+This technical & solutions architect position at AT&T was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

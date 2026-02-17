@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextech Systems](https://scoutify.ai/companies/nextech-systems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.lever.co/nextech/c2aee6b9-dd8f-4232-b4e4-850bdd5f22b1) |
 
 ## About This Role
 
-This solutions architect position at Nextech Systems was posted on 2026-02-06.
+This technical & solutions architect position at Nextech Systems was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

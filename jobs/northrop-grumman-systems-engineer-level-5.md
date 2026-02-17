@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-5_R10221953) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-06.
+This technical & solutions architect position at Northrop Grumman was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

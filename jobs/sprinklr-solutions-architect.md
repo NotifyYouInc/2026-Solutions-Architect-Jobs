@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Germany---Remote/Solutions-Architect_112703-JOB-1) |
 
 ## About This Role
 
-This solutions architect position at Sprinklr was posted on 2026-02-06.
+This technical & solutions architect position at Sprinklr was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

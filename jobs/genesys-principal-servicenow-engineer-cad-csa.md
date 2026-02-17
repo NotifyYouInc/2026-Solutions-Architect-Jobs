@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tamil Nadu, IN |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Tamil-Nadu/Principal-ServiceNow-Engineer--CAD--CSA-_JR109811) |
 
 ## About This Role
 
-This software engineer position at Genesys was posted on 2026-02-09.
+This technical & solutions architect position at Genesys was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

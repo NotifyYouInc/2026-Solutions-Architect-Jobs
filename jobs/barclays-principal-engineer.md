@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Principal-Engineer_JR-0000072495-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-06.
+This technical & solutions architect position at Barclays was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

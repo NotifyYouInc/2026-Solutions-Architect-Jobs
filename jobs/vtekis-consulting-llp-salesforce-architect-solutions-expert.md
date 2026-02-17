@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000107331108-salesforce-architect-solutions-expert) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000107578710-salesforce-architect-solutions-expert) |
 
 ## About This Role
 
-This solutions architect position at VTekis Consulting LLP was posted on 2026-02-04.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

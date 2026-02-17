@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107997345-principal-engineer-servicenow-architect) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-02-08.
+This technical & solutions architect position at Entain was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

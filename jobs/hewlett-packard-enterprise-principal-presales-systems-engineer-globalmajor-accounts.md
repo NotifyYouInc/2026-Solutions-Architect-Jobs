@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Washington-United-States-of-America/Principal-Presales--Systems-Engineer---Global-Major-Accounts_1198556) |
 
 ## About This Role
 
-This solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-09.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

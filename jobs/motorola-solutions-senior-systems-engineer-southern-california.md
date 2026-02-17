@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-Remote-Work/Senior-Systems-Engineer---Southern-California_R61253) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-05.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denmark |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Lead-Engineer---Product-Engineering-Technology_0000031789) |
 
 ## About This Role
 
-This software engineer position at LEGO was posted on 2026-02-09.
+This technical & solutions architect position at LEGO was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/decagon/d62476d8-8fa6-4c34-8e72-d9e2740f891d) |
 
 ## About This Role
 
-This program manager position at Decagon was posted on 2026-02-06.
+This technical & solutions architect position at Decagon was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

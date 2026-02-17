@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011549016-senior-engineer-quality-systems-qc-labs) |
 
 ## About This Role
 
-This program manager position at AbbVie was posted on 2026-02-05.
+This technical & solutions architect position at AbbVie was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000108207585-consultante-junior-analyst-en-transformation-digitale-cto-advisory-plateformes-digitales-cdi) |
 
 ## About This Role
 
-This solutions architect position at Wavestone was posted on 2026-02-09.
+This technical & solutions architect position at Wavestone was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

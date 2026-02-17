@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Senior-Application-Security-Architect_174684) |
 
 ## About This Role
 
-This solutions architect position at Vanguard was posted on 2026-02-06.
+This technical & solutions architect position at Vanguard was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

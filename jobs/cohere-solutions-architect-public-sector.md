@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cohere](https://scoutify.ai/companies/cohere?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7) |
 
 ## About This Role
 
-This solutions architect position at Cohere was posted on 2026-02-05.
+This technical & solutions architect position at Cohere was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

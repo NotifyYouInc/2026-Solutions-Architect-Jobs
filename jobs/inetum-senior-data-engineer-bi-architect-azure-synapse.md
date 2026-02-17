@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bilbao, Basque Country, Spain |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108135767-senior-data-engineer-bi-architect-azure-synapse) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-02-09.
+This technical & solutions architect position at Inetum was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

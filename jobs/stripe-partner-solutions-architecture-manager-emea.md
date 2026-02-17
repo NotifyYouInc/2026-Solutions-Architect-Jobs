@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7579045) |
 
 ## About This Role
 
-This program manager position at Stripe was posted on 2026-02-06.
+This technical & solutions architect position at Stripe was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

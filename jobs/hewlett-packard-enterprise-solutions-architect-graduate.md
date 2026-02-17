@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Prague-Praha-Czech-Republic/Solutions-Architect-Graduate_1195527) |
 
 ## About This Role
 
-This solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-06.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

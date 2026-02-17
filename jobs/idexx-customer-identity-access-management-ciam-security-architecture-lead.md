@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Westbrook, Maine, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Customer-Identity---Access-Management--CIAM--Security-Architecture-Lead_J-051484-1) |
 
 ## About This Role
 
-This solutions architect position at IDEXX was posted on 2026-02-06.
+This technical & solutions architect position at IDEXX was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

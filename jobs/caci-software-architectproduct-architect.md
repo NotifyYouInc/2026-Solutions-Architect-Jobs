@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Software-Architect-Product-Architect_321727) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-05.
+This technical & solutions architect position at CACI was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

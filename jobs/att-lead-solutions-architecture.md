@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Solutions-Architecture_R-100226) |
 
 ## About This Role
 
-This solutions architect position at AT&T was posted on 2026-02-06.
+This technical & solutions architect position at AT&T was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

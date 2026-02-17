@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107604646-lead-solution-architect-telecom) |
 
 ## About This Role
 
-This solutions architect position at ServiceNow was posted on 2026-02-05.
+This technical & solutions architect position at ServiceNow was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

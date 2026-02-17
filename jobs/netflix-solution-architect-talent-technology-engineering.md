@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/USA---Remote/Solution-Architect---Talent-Technology-Engineering_JR38727-1) |
 
 ## About This Role
 
-This software engineer position at Netflix was posted on 2026-02-05.
+This technical & solutions architect position at Netflix was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

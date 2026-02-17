@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Sr-DevSecOps-Architect_R2611592) |
 

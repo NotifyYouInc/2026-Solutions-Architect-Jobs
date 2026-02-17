@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer---eCommerce_JR-202522036) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-06.
+This technical & solutions architect position at General Motors was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

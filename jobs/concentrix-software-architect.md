@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Work-at-Home/Software-Architect_R1699199) |
 
 ## About This Role
 
-This software engineer position at Concentrix was posted on 2026-02-09.
+This technical & solutions architect position at Concentrix was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

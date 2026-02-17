@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Plug Power](https://scoutify.ai/companies/plugpower?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Albany, New York, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Albany-NY/Enterprise-Network-Architect_R6807) |
 
 ## About This Role
 
-This solutions architect position at Plug Power was posted on 2026-02-09.
+This technical & solutions architect position at Plug Power was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

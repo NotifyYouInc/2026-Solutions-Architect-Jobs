@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TX---PLANO/SAP-BTP-Integration-Lead-Architect_51572347) |
 
 ## About This Role
 
-This solutions architect position at DXC Technology was posted on 2026-02-09.
+This technical & solutions architect position at DXC Technology was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

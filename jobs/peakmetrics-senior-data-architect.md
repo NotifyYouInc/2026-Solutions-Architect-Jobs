@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PeakMetrics](https://scoutify.ai/companies/peakmetrics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/peakmetrics/141c873f-cbde-4750-9e8b-c9b500bc486c) |
 
 ## About This Role
 
-This data engineer position at PeakMetrics was posted on 2026-02-06.
+This technical & solutions architect position at PeakMetrics was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

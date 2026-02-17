@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7589389?gh_jid=7589389) |
 
 ## About This Role
 
-This solutions architect position at Cloudflare was posted on 2026-02-06.
+This technical & solutions architect position at Cloudflare was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Cloud-Engineer---Enterprise-Content-Management_R000064274-4) |
 
 ## About This Role
 
-This software engineer position at Chevron was posted on 2026-02-05.
+This devops engineer position at Chevron was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

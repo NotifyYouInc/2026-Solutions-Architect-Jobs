@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.lever.co/field-ai/878966c6-56b6-48c2-b8cd-aae597cad2b0) |
 
 ## About This Role
 
-This software engineer position at Field AI was posted on 2026-02-05.
+This technical & solutions architect position at Field AI was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

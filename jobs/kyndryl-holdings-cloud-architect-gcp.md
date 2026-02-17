@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Italy-Milan-ITMILVP22-Office/Cloud-Architect---GCP_R-39661) |
 
 ## About This Role
 
-This solutions architect position at Kyndryl Holdings was posted on 2026-02-06.
+This technical & solutions architect position at Kyndryl Holdings was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Systems-Engineer_36099-1) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-02-06.
+This technical & solutions architect position at Guidehouse was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

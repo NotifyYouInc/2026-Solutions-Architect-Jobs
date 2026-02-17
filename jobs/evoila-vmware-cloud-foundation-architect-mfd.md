@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [evoila](https://scoutify.ai/companies/evoila?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://evoila.wd3.myworkdayjobs.com/evoilajobs/job/Madrid-Remote/Vmware-Cloud-Foundation-Architect--m-f-d-_JR100265-1) |
 
 ## About This Role
 
-This solutions architect position at evoila was posted on 2026-02-09.
+This technical & solutions architect position at evoila was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

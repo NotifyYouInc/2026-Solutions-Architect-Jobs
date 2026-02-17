@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Manager--Software-Engineering_REQ-12232-1) |
 
 ## About This Role
 
-This software engineer position at Q2 was posted on 2026-02-09.
+This technical & solutions architect position at Q2 was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

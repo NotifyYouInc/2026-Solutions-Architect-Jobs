@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Java-Principal-Engineer--VP_R-00271825) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-02-05.
+This technical & solutions architect position at NatWest Group was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

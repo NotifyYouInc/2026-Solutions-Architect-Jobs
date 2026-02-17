@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Senior-IT-Solution-Architect-100---f-m-d-_r-17430-3) |
 
 ## About This Role
 
-This solutions architect position at Julius Baer was posted on 2026-02-08.
+This technical & solutions architect position at Julius Baer was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

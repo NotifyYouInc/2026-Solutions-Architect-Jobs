@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/handshake/b7fe4853-bc90-41fa-89ae-6124990adbfe) |
 
 ## About This Role
 
-This software engineer position at Handshake was posted on 2026-02-05.
+This technical & solutions architect position at Handshake was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

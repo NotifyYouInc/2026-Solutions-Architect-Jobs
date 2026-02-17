@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000108223075-senior-manager-application-and-solution-architect-medical-healthcare-fmd) |
 
 ## About This Role
 
-This solutions architect position at Renesas Electronics was posted on 2026-02-09.
+This technical & solutions architect position at Renesas Electronics was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

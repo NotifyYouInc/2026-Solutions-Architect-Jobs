@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Director--Enterprise-Architect---PGS_4951068-1) |
 
 ## About This Role
 
-This program manager position at Pfizer was posted on 2026-02-05.
+This technical & solutions architect position at Pfizer was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

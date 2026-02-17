@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Principal-Cloud-Architect--No-sponsorship-or-OPT-_R4035337-1) |
 
 ## About This Role
 
-This solutions architect position at GE HealthCare was posted on 2026-02-06.
+This technical & solutions architect position at GE HealthCare was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

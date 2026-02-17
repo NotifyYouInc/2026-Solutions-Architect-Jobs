@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Adelaide, South Australia, Australia |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Network-Solution-Architect_51571968) |
 
 ## About This Role
 
-This solutions architect position at DXC Technology was posted on 2026-02-05.
+This technical & solutions architect position at DXC Technology was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

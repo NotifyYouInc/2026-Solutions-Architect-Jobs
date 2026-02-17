@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/IN-Hyderabad/Senior-Architect-Mobile-Application-Development_JR-40104153) |
 
 ## About This Role
 
-This software engineer position at Goodyear was posted on 2026-02-05.
+This technical & solutions architect position at Goodyear was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

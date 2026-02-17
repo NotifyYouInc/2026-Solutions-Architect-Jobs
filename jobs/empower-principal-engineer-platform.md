@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Principal-Engineer-Platform_R0054746) |
 
 ## About This Role
 
-This software engineer position at Empower was posted on 2026-02-05.
+This devops engineer position at Empower was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

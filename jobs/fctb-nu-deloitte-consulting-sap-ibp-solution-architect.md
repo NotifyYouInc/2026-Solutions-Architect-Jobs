@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000107761819-sap-ibp-solution-architect) |
 
 ## About This Role
 
-This solutions architect position at FCTB (nu: Deloitte Consulting) was posted on 2026-02-06.
+This technical & solutions architect position at FCTB (nu: Deloitte Consulting) was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

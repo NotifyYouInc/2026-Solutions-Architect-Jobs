@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Architect_35579) |
 
 ## About This Role
 
-This solutions architect position at Guidehouse was posted on 2026-02-05.
+This technical & solutions architect position at Guidehouse was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

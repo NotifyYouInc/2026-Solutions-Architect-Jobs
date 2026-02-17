@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brazil |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/53b2b332-0d9d-4974-b1d7-9b8a0aa38ec8) |
 
 ## About This Role
 
-This data engineer position at Ciandt was posted on 2026-02-05.
+This technical & solutions architect position at Ciandt was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

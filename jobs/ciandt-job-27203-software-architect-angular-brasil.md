@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/34531d5d-bf1e-45d8-8ba9-d9898c80db09) |
 
 ## About This Role
 
-This software engineer position at Ciandt was posted on 2026-02-04.
+This technical & solutions architect position at Ciandt was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

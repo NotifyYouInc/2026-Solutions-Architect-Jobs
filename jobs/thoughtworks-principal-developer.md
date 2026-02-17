@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Development |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7573498?gh_jid=7573498) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7582749?gh_jid=7582749) |
 
 ## About This Role
 
-This business development position at Thoughtworks was posted on 2026-02-03.
+This technical & solutions architect position at Thoughtworks was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

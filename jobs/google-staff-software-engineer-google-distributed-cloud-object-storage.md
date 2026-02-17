@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/98923881980404422-staff-software-engineer-google-distributed-cloud-object-storage?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-06.
+This technical & solutions architect position at Google was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

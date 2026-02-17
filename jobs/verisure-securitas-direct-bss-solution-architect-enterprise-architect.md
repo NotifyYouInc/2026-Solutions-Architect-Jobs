@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Spain |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Pozuelo-de-Alarcon/BSS-Solution-Architect---Enterprise-Architect_r2026020003) |
 
 ## About This Role
 
-This solutions architect position at Verisure Securitas Direct was posted on 2026-02-09.
+This technical & solutions architect position at Verisure Securitas Direct was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

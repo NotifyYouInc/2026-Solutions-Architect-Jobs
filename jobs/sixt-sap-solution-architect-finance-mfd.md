@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000107523224-sap-solution-architect-finance-mfd) |
 
 ## About This Role
 
-This solutions architect position at Sixt was posted on 2026-02-05.
+This technical & solutions architect position at Sixt was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

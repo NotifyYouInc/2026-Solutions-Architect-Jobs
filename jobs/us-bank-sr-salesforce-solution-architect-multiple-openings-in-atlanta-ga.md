@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Sr-Salesforce-Solution-Architect--Multiple-openings--in-Atlanta--GA_2026-0002778) |
 
 ## About This Role
 
-This solutions architect position at U.S. Bank was posted on 2026-02-09.
+This technical & solutions architect position at U.S. Bank was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

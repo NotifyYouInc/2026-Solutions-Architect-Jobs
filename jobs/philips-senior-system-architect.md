@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Senior-System-Architect_575064) |
 
 ## About This Role
 
-This solutions architect position at Philips was posted on 2026-02-05.
+This technical & solutions architect position at Philips was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

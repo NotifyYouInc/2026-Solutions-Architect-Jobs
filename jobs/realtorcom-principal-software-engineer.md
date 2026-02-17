@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7612555003?gh_jid=7612555003) |
 
 ## About This Role
 
-This software engineer position at Realtor.com was posted on 2026-02-07.
+This technical & solutions architect position at Realtor.com was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Tech-Lead--Cust-Operational-Excellence_R-134642) |
 
 ## About This Role
 
-This software engineer position at Coca-Cola was posted on 2026-02-06.
+This technical & solutions architect position at Coca-Cola was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
