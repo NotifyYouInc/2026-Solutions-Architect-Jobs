@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Sales |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Shanghai/Senior-Solutions-Architect_JR-158083) |
+| Location | Denver, Colorado, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Denver/Senior-Solutions-Architect_JR-158291) |
 
 ## About This Role
 
-This sales position at Equinix was posted on 2026-02-03.
+This technical & solutions architect position at Equinix was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

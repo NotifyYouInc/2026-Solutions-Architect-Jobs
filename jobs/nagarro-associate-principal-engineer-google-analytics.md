@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107671555-associate-principal-engineer-google-analytics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107743697-associate-principal-engineer-google-analytics) |
 
 ## About This Role
 

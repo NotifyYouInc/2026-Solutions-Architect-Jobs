@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107532431-principal-architect-data-centers) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107841061-principal-architect-data-centers) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-05.
+This technical & solutions architect position at AECOM was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
