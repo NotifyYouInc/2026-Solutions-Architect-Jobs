@@ -1,16 +1,16 @@
-# Software Architect, WeAdd - Tieto Caretech (m/f/d/ at Tietoevry
+# Software Architect, WeAdd - Tieto Caretech (m/f/d/) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sweden |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000107283126-software-architect-weadd-tieto-caretech-mfd) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108753466-software-architect-weadd-tieto-caretech-mfd) |
 
 ## About This Role
 
-This software engineer position at Tietoevry was posted on 2026-02-04.
+This technical & solutions architect position at Tietoevry was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

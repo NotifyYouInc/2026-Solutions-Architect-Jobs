@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7592310) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7597852) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-02-06.
+This technical & solutions architect position at MongoDB was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

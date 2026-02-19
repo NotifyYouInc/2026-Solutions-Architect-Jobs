@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denmark |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107713365-advisory-enterprise-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108185781-advisory-enterprise-architect) |
 
 ## About This Role
 
-This sales position at ServiceNow was posted on 2026-02-06.
+This technical & solutions architect position at ServiceNow was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

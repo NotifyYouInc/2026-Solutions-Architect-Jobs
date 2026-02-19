@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91377) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91383) |
 
 ## About This Role
 
