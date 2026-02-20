@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amstelveen, North Holland, The Netherlands |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Amstelveen-North-Holland-Netherlands/Presales-Architect_1202461) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/London-London-United-Kingdom/Presales-Architect_1201985) |
 
 ## About This Role
 
-This business development position at Hewlett Packard Enterprise was posted on 2026-02-06.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

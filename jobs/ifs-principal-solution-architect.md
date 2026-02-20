@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000107040597-principal-solution-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000108974001-principal-solution-architect) |
 
 ## About This Role
 
-This solutions architect position at IFS was posted on 2026-02-03.
+This technical & solutions architect position at IFS was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

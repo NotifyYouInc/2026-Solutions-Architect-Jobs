@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000106991545-architect-solution-data-information) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000108944495-architect-solution-data-information) |
 
 ## About This Role
 
-This solutions architect position at Standard Bank was posted on 2026-02-03.
+This technical & solutions architect position at Standard Bank was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

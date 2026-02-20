@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108299584-senior-systems-engineer-pre-sales) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108782406-senior-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-02-09.
+This technical & solutions architect position at Arista Networks was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

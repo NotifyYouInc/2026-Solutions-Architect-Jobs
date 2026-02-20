@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Albuquerque, New Mexico, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Senior-Software-Architect_JR2026493477-1) |
+| Location | Seattle, Washington, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Software-Architect_JR2026495464-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-04.
+This technical & solutions architect position at Boeing was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
