@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108540865-pre-sales-manager-tieto-banktech-mfd) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108807580-pre-sales-manager-tieto-banktech-mfd) |
 
 ## About This Role
 
-This sales position at Tietoevry was posted on 2026-02-10.
+This sales position at Tietoevry was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

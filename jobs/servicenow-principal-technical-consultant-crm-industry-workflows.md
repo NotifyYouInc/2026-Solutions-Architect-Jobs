@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000106935444-principal-technical-consultant-crm-industry-workflows) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109290035-principal-technical-consultant-crm-industry-workflows) |
 
 ## About This Role
 
-This solutions architect position at ServiceNow was posted on 2026-02-02.
+This technical & solutions architect position at ServiceNow was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lausanne, Vaud, Switzerland |
+| Location | Staines, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108273376-advisory-presales-solution-consultant-platform-data-ai) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109177421-advisory-presales-solution-consultant-platform-data-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-02-09.
+This technical & solutions architect position at ServiceNow was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

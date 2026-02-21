@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000107792853-lead-architect-data-ai) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109266527-lead-architect-data-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Syngenta was posted on 2026-02-06.
+This technical & solutions architect position at Syngenta was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

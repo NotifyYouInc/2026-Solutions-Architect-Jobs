@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amplitude](https://scoutify.ai/companies/amplitude?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8403937002) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8422261002) |
 
 ## About This Role
 
-This solutions architect position at Amplitude was posted on 2026-02-04.
+This technical & solutions architect position at Amplitude was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

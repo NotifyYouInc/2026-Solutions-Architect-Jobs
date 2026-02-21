@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Devops Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Principal-Systems-Reliability-Engineer--Secure-Federal-Operations_REQ343930-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Principal-Systems-Reliability-Engineer--Secure-Federal-Operations_REQ345685) |
 
 ## About This Role
 
-This devops engineer position at T-Mobile was posted on 2026-02-02.
+This devops engineer position at T-Mobile was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

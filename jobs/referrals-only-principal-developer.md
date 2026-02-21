@@ -1,16 +1,16 @@
-# Principal Developer at Referrals Only
+#  Principal Developer at Referrals Only
 
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7593652) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7601767) |
 
 ## About This Role
 
-This business development position at Referrals Only was posted on 2026-02-10.
+This technical & solutions architect position at Referrals Only was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
