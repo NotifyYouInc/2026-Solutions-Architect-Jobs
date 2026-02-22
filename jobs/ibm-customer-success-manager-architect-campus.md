@@ -1,16 +1,16 @@
-# Application Architect-ServiceNow at IBM
+# Customer Success Manager Architect (Campus) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Location | Philippines |
+| Category | Customer Success |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92266) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90854) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-14.
+This customer success position at IBM was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

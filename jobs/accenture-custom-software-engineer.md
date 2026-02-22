@@ -1,16 +1,16 @@
-# Sr. AI Solutions Architect at Dialpad
+# Custom Software Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8418706002) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5305850-S1942066-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Dialpad was posted on 2026-02-11.
+This technical & solutions architect position at Accenture was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

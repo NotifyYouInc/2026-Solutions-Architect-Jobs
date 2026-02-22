@@ -1,16 +1,16 @@
-# Application Architect-ServiceNow at IBM
+# Application Support Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92266) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5348764-S1970661) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-14.
+This customer success position at Accenture was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. AI Solutions Architect at Dialpad
+# CATT Tech Delivery - AI Solution Architect at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8418706002) |
+| Posted | 2026-02-15 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/Business-Analyst_JR108274) |
 
 ## About This Role
 
-This technical & solutions architect position at Dialpad was posted on 2026-02-11.
+This technical & solutions architect position at RSM was posted on 2026-02-15.
 
 ## Get Real-Time Alerts
 
