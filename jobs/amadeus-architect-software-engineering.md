@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Architect, Software Engineering at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Architect--Software-Engineering_R33390) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at Amadeus was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

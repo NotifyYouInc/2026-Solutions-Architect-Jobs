@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Principal Enterprise Strategist - Services Engagement at CDW
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Illinois, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Principal-Enterprise-Strategist---Services-Engagement_R26_00000851) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at CDW was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

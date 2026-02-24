@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Junior Solution Architect - Openshift at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sydney/Junior-Solution-Architect---Openshift_R-054530) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at Red Hat was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

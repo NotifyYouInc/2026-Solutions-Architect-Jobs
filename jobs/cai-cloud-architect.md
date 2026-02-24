@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Cloud Architect at CAI
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | New Jersey, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/NJ-CLIENT-STATE/Cloud-Architect_R7163) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at CAI was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

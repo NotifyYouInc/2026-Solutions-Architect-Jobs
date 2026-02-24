@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Robotics Systems Architect at Formic
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4654803006) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at Formic was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

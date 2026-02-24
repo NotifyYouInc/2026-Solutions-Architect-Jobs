@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108801505-sap-ariba-solution-architect) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109012245-sap-ariba-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-02-11.
+This technical & solutions architect position at Talan was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solution Architect - Data Platforms at IBM
+# Solution Architect-Data Platforms at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=89093) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84086) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-11.
+This technical & solutions architect position at IBM was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Turkey |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744596101) |
 
 ## About This Role
 
-This customer success position at Veeam Software was posted on 2026-02-11.
+This customer success position at Veeam Software was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

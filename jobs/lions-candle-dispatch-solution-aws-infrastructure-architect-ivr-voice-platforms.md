@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000108751636-aws-infrastructure-architect-ivr-voice-platforms) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000109234319-aws-infrastructure-architect-ivr-voice-platforms) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-02-11.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

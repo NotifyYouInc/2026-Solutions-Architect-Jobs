@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Principal Systems Engineer at Solventum
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Maplewood, Minnesota, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Minnesota-Maplewood/Principal-Systems-Engineer_R01127672-1) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at Solventum was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

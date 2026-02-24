@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7597823) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=6606599) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-02-11.
+This customer success position at MongoDB was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

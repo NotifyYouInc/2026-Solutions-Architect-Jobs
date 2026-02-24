@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Technical-Solution-Architect--Insurance-_51564986) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Technical-Solution-Architect--Insurance-_51564988) |
 
 ## About This Role
 
-This solutions architect position at DXC Technology was posted on 2026-02-04.
+This technical & solutions architect position at DXC Technology was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

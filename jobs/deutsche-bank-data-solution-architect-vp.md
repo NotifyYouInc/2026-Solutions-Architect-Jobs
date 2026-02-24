@@ -1,16 +1,16 @@
-# Solution Architect at Barclays
+# Data/ Solution Architect, VP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Solution-Architect_JR-0000088449-1) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Data--Solution-Architect--VP_R0416896) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-02-16.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

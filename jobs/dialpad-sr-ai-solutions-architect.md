@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8418706002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8419110002) |
 
 ## About This Role
 

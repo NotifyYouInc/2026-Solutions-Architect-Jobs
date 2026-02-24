@@ -1,16 +1,16 @@
-# Junior Solution Architect at Red Hat
+# Principal Software Engineer at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sydney/Junior-Solution-Architect_R-054529) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Principal-Software-Engineer_REQ252294) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-02-16.
+This technical & solutions architect position at Commonwealth Bank of Australia was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

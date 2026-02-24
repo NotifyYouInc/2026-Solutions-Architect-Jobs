@@ -1,16 +1,16 @@
-# Principal Architect (Data Centers) at AECOM
+# Advisory Solution Architect - German speaking at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109603170-principal-architect-data-centers) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109584725-advisory-solution-architect-german-speaking) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-16.
+This technical & solutions architect position at ServiceNow was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
