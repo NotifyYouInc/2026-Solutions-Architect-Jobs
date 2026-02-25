@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Systems-Engineer----Sr-Principal-Systems-Engineer_R10221427) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Systems-Engineer----Sr-Principal-Systems-Engineer_R10223130) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-04.
+This technical & solutions architect position at Northrop Grumman was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

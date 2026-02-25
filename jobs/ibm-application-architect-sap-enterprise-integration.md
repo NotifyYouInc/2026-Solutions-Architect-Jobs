@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88172) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91051) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-12.
+This technical & solutions architect position at IBM was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Sales |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108935076-senior-contact-center-solution-architect-pre-sales-lead-mfd-tieto-tech-consulting) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000109014775-senior-contact-center-solution-architect-pre-sales-lead-mfd-tieto-tech-consulting) |
 
 ## About This Role
 

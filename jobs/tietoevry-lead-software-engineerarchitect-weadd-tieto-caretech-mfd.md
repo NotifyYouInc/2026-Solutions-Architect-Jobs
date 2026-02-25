@@ -5,12 +5,12 @@
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108987705-lead-software-engineerarchitect-weadd-tieto-caretech-mfd) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000109167686-lead-software-engineerarchitect-weadd-tieto-caretech-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Tietoevry was posted on 2026-02-12.
+This technical & solutions architect position at Tietoevry was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

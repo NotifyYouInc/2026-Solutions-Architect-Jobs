@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5796302004) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5804110004) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-09.
+This technical & solutions architect position at Vercel was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

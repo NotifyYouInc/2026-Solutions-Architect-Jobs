@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108587265-sap-logistics-solution-architect-lead-consultant) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109744388-sap-logistics-solution-architect-lead-consultant) |
 
 ## About This Role
 
-This operations position at Talan was posted on 2026-02-10.
+This technology / it consulting position at Talan was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

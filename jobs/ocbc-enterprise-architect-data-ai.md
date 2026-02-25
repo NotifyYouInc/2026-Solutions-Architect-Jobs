@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Enterprise-Architect---Data---AI_JR00005784) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Enterprise-Architect---Data---AI_JR00005787) |
 
 ## About This Role
 
