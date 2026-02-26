@@ -1,16 +1,16 @@
-# Architect (Data Centers) at AECOM
+# Architect - Data Centers at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Colombia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107536941-architect-data-centers) |
+| Location | Arlington, Texas, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110010503-architect-data-centers) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-02-05.
+This technology / it consulting position at AECOM was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

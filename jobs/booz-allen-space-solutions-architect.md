@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Space Solutions Architect at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | El Segundo, California, United States |
 | Category | Technology / IT Consulting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Space-Solutions-Architect_R0234238) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technology / it consulting position at Booz Allen was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

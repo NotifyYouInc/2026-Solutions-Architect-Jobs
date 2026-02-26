@@ -1,16 +1,16 @@
-# Solutions Engineer at Adyen
+# Sr. Specialist Solutions Architect at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7613503) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8407188002) |
 
 ## About This Role
 
-This technical & solutions architect position at Adyen was posted on 2026-02-13.
+This technical & solutions architect position at Databricks was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

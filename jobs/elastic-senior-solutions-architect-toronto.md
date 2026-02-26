@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Senior Solutions Architect - Toronto at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Canada |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7629653&gh_jid=7629653) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technical & solutions architect position at Elastic was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

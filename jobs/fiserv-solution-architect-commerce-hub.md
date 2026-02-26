@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Solution Architect - Commerce Hub at Fiserv
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Ireland |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Nenagh-Ireland/Solution-Architect_R-10373227-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Fiserv was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

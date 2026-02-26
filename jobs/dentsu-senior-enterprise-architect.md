@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Senior Enterprise Architect at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 7 locations |
 | Category | Technology / IT Consulting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Vila-Real/Senior-Enterprise-Architect_R1116201) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technology / it consulting position at Dentsu was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

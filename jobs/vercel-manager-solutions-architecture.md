@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Manager, Solutions Architecture at Vercel
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
+| Category | Engineering Manager |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806456004) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This engineering manager position at Vercel was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

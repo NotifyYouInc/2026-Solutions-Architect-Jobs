@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109079126-principal-cloud-storage-architect) |
+| Category | Technical Writer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109800776-principal-cloud-storage-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Western Digital was posted on 2026-02-12.
+This technical writer position at Western Digital was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

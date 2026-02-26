@@ -1,16 +1,16 @@
-# Director, Solutions Architect at Nationwide
+# AI Factory Team Lead at Banyan Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [Banyan Software](https://scoutify.ai/companies/banyan-software?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Engineering Manager |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Solutions-Architect_096792-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/banyansoftware/jobs/5056435007) |
 
 ## About This Role
 
-This engineering manager position at Nationwide was posted on 2026-02-19.
+This engineering manager position at Banyan Software was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

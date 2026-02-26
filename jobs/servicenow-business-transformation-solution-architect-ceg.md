@@ -1,16 +1,16 @@
-# Principal Platform Architect at ServiceNow
+# Business Transformation Solution Architect - CEG at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Technology / IT Consulting |
+| Location | Munich, Bavaria, Germany |
+| Category | Strategy / Management Consulting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109955525-principal-platform-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109925502-business-transformation-solution-architect-ceg) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-18.
+This strategy / management consulting position at ServiceNow was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Software Architect AI Security at DigiCert
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8416253002) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at DigiCert was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

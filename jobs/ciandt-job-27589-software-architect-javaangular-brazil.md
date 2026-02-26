@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# [Job-27589] Software Architect Java/Angular, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/0e3b35a5-8ce7-457c-8302-d5bc5d939a98) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Ciandt was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

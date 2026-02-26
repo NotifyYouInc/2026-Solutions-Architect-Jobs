@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Devops Architect at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Devops-Architect_575928-1) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This devops engineer position at Philips was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director, Solutions Architect at Nationwide
+# Cloud Solution Architect Manager at SC Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Racine, Wisconsin, United States |
 | Category | Engineering Manager |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Solutions-Architect_096792-1) |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Cloud-Solution-Architect-Manager_32247) |
 
 ## About This Role
 
-This engineering manager position at Nationwide was posted on 2026-02-19.
+This engineering manager position at SC Johnson was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

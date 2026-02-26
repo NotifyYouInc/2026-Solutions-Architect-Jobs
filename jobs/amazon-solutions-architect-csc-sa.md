@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Solutions Architect, CSC SA at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184499/solutions-architect-csc-sa) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technology / it consulting position at Amazon was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

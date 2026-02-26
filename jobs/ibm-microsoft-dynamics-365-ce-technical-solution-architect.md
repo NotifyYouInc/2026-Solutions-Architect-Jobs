@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Microsoft Dynamics 365 CE Technical Solution Architect at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92913) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technology / it consulting position at IBM was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

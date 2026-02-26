@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Solutions Architect at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Boadilla del Monte, Madrid, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Solutions-Architect_Req1544894) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Santander was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

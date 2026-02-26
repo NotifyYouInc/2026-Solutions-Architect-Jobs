@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Principal Payments Product Architect at Versapay
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Versapay](https://scoutify.ai/companies/versapay?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://jobs.lever.co/versapay/2432566f-5829-408e-9dd2-f5bf75ab9470) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Versapay was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

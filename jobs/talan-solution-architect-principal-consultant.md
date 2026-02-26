@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Solution Architect (Principal Consultant) at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Category | Strategy / Management Consulting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109951461-solution-architect-principal-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This strategy / management consulting position at Talan was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

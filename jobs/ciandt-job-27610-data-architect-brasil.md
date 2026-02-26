@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# [Job - 27610] Data Architect, Brasil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Brazil |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/5b558428-fca0-485e-9754-521b76c90c8b) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technical & solutions architect position at Ciandt was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

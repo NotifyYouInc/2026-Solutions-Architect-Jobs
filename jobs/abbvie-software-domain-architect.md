@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Software Domain Architect at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | North Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011726876-software-domain-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at AbbVie was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

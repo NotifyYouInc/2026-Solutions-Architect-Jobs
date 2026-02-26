@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Senior Computing Architect at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 7 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Senior-Computing-Architect_JR2026497192-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Boeing was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Principal Software Architect at Bose
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Bose](https://scoutify.ai/companies/boseallaboutme?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Framingham, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Principal-Software-Architect_R28663) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Bose was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

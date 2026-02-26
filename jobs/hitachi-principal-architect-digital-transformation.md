@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Principal Architect – Digital Transformation at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Principal-Architect---Digital-Transformation_R0119029) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at Hitachi was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

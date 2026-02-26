@@ -5,12 +5,12 @@
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000109085045-senior-systems-engineering-analyst-architecture) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000109233976-senior-systems-engineering-analyst-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics UK was posted on 2026-02-12.
+This technical & solutions architect position at General Dynamics UK was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

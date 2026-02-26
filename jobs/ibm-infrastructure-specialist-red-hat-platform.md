@@ -1,16 +1,16 @@
-# Senior Platform Architect at Mastercard
+# Infrastructure Specialist-Red Hat Platform at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Architect_R-271250) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=57708) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-18.
+This technical & solutions architect position at IBM was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

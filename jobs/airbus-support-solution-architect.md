@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Support Solution Architect at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
+| Category | Customer Success |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Support-Solution-Architect_JR10392665) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This customer success position at Airbus was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

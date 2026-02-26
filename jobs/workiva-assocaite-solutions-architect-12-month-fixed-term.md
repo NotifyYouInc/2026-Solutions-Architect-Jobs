@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Assocaite Solutions Architect - 12 Month Fixed Term at Workiva
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1511721227182750) |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Amsterdam/Assocaite-Solutions-Architect---12-Month-Fixed-Term_R11410) |
 
 ## About This Role
 
-This technology / it consulting position at Meta was posted on 2026-02-18.
+This technology / it consulting position at Workiva was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
