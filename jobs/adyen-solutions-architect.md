@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7613501) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7626028) |
 
 ## About This Role
 
-This technical & solutions architect position at Adyen was posted on 2026-02-13.
+This technical & solutions architect position at Adyen was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

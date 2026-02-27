@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108923475-data-architect-for-commercial) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110159275-data-architect-for-commercial) |
 
 ## About This Role
 
-This technical & solutions architect position at Syngenta was posted on 2026-02-12.
+This technical & solutions architect position at Syngenta was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
