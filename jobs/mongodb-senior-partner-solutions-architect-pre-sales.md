@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Senior Partner Solutions Architect (Pre-Sales) at MongoDB
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7637033) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at MongoDB was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

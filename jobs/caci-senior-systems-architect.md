@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Senior Systems Architect at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Oklahoma-City/Senior-Systems-Architect_322228) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at CACI was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

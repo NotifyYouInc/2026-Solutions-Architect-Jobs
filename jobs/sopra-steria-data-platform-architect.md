@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Data Platform Architect at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110422355-data-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at Sopra Steria was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

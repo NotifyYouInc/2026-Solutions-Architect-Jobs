@@ -1,16 +1,16 @@
-# Solution Architect-Cognitive Computing at IBM
+# Cloud Computing Application Architect, Senior at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71261) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Cloud-Computing-Application-Architect--Senior_R0234439) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-20.
+This technology / it consulting position at Booz Allen was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

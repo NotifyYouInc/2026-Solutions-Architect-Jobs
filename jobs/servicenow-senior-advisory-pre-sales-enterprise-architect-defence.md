@@ -1,16 +1,16 @@
-# Advisory Solution Architect - German speaking at ServiceNow
+# Senior Advisory Pre-Sales Enterprise Architect-  Defence at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109928558-advisory-solution-architect-german-speaking) |
+| Location | Staines, England, United Kingdom |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110395171-senior-advisory-pre-sales-enterprise-architect-defence) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-02-18.
+This technology / it consulting position at ServiceNow was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

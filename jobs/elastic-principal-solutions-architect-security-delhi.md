@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Principal Solutions Architect, Security, Delhi at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Delhi, Delhi, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at Elastic was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Data Architect at HNTB
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Kansas City, Missouri, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Data-Architect_R-24736) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at HNTB was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

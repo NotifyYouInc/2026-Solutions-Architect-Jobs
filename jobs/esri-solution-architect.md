@@ -1,16 +1,16 @@
-# Solution Architect-Cognitive Computing at IBM
+# Solution Architect at Esri
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technology / IT Consulting |
+| Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 5 locations |
+| Category | Strategy / Management Consulting |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71261) |
+| Apply | [View on company site](https://www.esri.com/careers/5058576007?gh_jid=5058576007) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-20.
+This strategy / management consulting position at Esri was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

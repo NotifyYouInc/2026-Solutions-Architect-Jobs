@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Principal Solution Architect - IBM Power at CDW
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Principal-Solution-Architect---IBM-Power_R26_00000909) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at CDW was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

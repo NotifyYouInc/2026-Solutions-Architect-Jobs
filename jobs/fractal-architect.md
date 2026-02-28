@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Architect at Fractal
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Architect_SR-38716) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at Fractal was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

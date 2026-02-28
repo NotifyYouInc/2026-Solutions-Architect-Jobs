@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Solution Architect at Chevron
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Solution-Architect_R000069083) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at Chevron was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

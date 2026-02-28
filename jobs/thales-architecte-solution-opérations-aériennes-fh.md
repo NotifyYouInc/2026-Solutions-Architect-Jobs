@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Architecte solution opérations aériennes F.H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Massy, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Massy/Architecte-solution-oprations-ariennes-FH_R0317657-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at Thales was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

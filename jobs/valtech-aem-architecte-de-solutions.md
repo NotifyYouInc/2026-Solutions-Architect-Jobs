@@ -1,16 +1,16 @@
-# Solution Architect-Cognitive Computing at IBM
+# AEM Architecte de Solutions at Valtech
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technology / IT Consulting |
+| Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Montréal, Quebec, Canada |
+| Category | Engineering Manager |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71261) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4786624101) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-20.
+This engineering manager position at Valtech was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

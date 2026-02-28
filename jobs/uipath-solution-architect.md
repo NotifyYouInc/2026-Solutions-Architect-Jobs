@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Solution Architect at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Manchester, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/857321f1-b47f-4368-8c00-37f2505a2eff) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at UiPath was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

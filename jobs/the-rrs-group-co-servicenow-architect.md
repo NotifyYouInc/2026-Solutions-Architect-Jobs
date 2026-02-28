@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# ServiceNow Architect at The RRS Group & Co.
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [The RRS Group & Co.](https://scoutify.ai/companies/therrsgroupco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheRRSGroupCo/744000110344160-servicenow-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at The RRS Group & Co. was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

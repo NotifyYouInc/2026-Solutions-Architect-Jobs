@@ -1,16 +1,16 @@
-# Lead Solution Architect at BP
+# Lead solution architect at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Budapest, Budapest, Hungary |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Lead-Solution-Architect_RQ102003-2) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Lead-solution-architect_RQ106343-1) |
 
 ## About This Role
 
-This technical & solutions architect position at BP was posted on 2026-02-11.
+This technical & solutions architect position at BP was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

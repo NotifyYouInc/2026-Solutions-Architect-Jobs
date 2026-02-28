@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Principal OneStream Architect (Financial Systems) at FICO
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Principal-OneStream-Architect--Financial-Systems-_31635) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at FICO was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

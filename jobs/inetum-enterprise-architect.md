@@ -1,16 +1,16 @@
-# Solution Architect-Cognitive Computing at IBM
+# Enterprise Architect at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technology / IT Consulting |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Belgium |
+| Category | Strategy / Management Consulting |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71261) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000110368355-enterprise-architect) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-20.
+This strategy / management consulting position at Inetum was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

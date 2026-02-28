@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# OutSystems Platform Architect (Tech Lead) at Woongjin
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Ramsey, Minnesota, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110457678-outsystems-platform-architect-tech-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at Woongjin was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

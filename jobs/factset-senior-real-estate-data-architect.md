@@ -1,16 +1,16 @@
-# Presales Cloud Solution Architect at Unisys
+# Senior Real Estate Data Architect at FactSet
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 8 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Presales-Cloud-Solution-Architect_REQ571216) |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Norwalk-CT-USA/Senior-Real-Estate-Data-Architect_R31507) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-20.
+This technical & solutions architect position at FactSet was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Pega Lead Systems Architect at Leidos
+# Signature Integrity Chief Architect at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Technical Writer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Pega-Lead-Systems-Architect_R-00176513) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Signature-Integrity-Chief-Architect_JR2026497602-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-02-20.
+This technical writer position at Boeing was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
