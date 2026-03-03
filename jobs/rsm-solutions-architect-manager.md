@@ -1,16 +1,16 @@
-# Solution Architect at PA Consulting
+# Solutions Architect Manager at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Technology / IT Consulting |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000110705836-solution-architect) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Solutions-Architect-Manager_JR116436) |
 
 ## About This Role
 
-This technology / it consulting position at PA Consulting was posted on 2026-02-23.
+This technology / it consulting position at RSM was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

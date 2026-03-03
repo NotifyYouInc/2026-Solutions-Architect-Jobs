@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Partner Solutions Architect, Betting & Gaming at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3187674/partner-solutions-architect-betting-gaming) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at Amazon was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

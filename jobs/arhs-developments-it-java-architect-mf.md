@@ -1,16 +1,16 @@
-# Business Systems Services Manager at Freshworks CRM
+# IT Java Architect (m/f) at ARHS Developments
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110722235-business-systems-services-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000110708955-it-java-architect-mf) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-02-23.
+This technical & solutions architect position at ARHS Developments was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

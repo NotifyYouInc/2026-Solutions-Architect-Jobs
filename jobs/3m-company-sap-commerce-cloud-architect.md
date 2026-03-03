@@ -1,16 +1,16 @@
-# Business Systems Services Manager at Freshworks CRM
+# SAP Commerce Cloud Architect at 3M Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Maplewood, Minnesota, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110722235-business-systems-services-manager) |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/SAP-Commerce-Cloud-Architect_R01161806) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-02-23.
+This technical & solutions architect position at 3M Company was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

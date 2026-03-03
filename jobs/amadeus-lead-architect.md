@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Lead Architect at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Lead-Architect_R29703-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at Amadeus was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

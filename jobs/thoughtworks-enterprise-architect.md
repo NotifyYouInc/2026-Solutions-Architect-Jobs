@@ -1,16 +1,16 @@
-# Application Architect-SAP Enterprise Integration at IBM
+# Enterprise Architect at Thoughtworks
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81037) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7369356?gh_jid=7369356) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-19.
+This technology / it consulting position at Thoughtworks was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Systems Services Manager at Freshworks CRM
+# Lead Architect - Data & AI at OneWest Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110722235-business-systems-services-manager) |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Lead-Architect---Data---AI_24361-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-02-23.
+This technical & solutions architect position at OneWest Bank was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

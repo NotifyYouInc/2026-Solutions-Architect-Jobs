@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Architect II at CareSource
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Azure-Application-Developer-III_R10028-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at CareSource was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

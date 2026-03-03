@@ -1,16 +1,16 @@
-# Business Systems Services Manager at Freshworks CRM
+# Solution Architect - Digital at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110722235-business-systems-services-manager) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Solution-Architect---Digital_JR-0000081127) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-02-23.
+This technical & solutions architect position at Barclays was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

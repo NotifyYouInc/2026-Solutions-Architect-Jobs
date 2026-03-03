@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Solution-Architect_R0234102) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Solution-Architect_R0234294) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-02-17.
+This technology / it consulting position at Booz Allen was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

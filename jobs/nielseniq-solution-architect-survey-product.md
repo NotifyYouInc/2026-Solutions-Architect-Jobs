@@ -1,16 +1,16 @@
-# Solution Architect at SailPoint Technologies
+# Solution Architect, Survey Product  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | South Korea |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Korea/Solution-Architect_R012836-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110894616-solution-architect-survey-product) |
 
 ## About This Role
 
-This technical & solutions architect position at SailPoint Technologies was posted on 2026-02-24.
+This technical & solutions architect position at NielsenIQ was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

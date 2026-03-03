@@ -1,16 +1,16 @@
-# Solution Architect at SailPoint Technologies
+# Senior Architect, AI at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | South Korea |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Chengdu, Sichuan, China |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Korea/Solution-Architect_R012836-1) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Senior-Architect--AI_JR-64246-2) |
 
 ## About This Role
 
-This technical & solutions architect position at SailPoint Technologies was posted on 2026-02-24.
+This technical & solutions architect position at AIA Group was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

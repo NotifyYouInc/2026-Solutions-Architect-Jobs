@@ -1,16 +1,16 @@
-# Business Systems Services Manager at Freshworks CRM
+# Senior Solution Architect at Smiths Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hemel Hempstead, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110722235-business-systems-services-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000110723936-senior-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-02-23.
+This technical & solutions architect position at Smiths Group was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

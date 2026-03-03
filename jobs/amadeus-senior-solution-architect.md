@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Senior Solution Architect at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Senior-Solution-Architect_R33312) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at Amadeus was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

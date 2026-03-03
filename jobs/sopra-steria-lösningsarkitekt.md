@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Lösningsarkitekt at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110756005-losningsarkitekt) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at Sopra Steria was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

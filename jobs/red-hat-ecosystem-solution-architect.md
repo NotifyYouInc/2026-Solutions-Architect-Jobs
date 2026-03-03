@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Ecosystem Solution Architect at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Ecosystem-Solution-Architect_R-054298-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at Red Hat was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

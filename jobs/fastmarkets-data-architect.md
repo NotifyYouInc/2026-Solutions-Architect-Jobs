@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000108145542-data-architect) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000110710375-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Fastmarkets was posted on 2026-02-09.
+This technical & solutions architect position at Fastmarkets was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

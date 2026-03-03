@@ -1,16 +1,16 @@
-# Solutions Architect  at Vercel
+# Senior AI/ML Architect at Blue
 
 | Field | Details |
 |-------|---------|
-| Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Company | [Blue](https://scoutify.ai/companies/blue?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5806749004) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.lever.co/blue/37871ea8-fc7e-419f-9e36-9cc452a83c6b) |
 
 ## About This Role
 
-This technical & solutions architect position at Vercel was posted on 2026-02-18.
+This technical & solutions architect position at Blue was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

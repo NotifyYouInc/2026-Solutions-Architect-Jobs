@@ -1,16 +1,16 @@
-# Business Systems Services Manager at Freshworks CRM
+# Cloud Solutions Architect (Infra & AI Cloud) at Lavendo
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Lavendo](https://scoutify.ai/companies/lavendo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110722235-business-systems-services-manager) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lavendo/ce9aa32d-736a-446a-a299-8928908dc110) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-02-23.
+This technical & solutions architect position at Lavendo was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
