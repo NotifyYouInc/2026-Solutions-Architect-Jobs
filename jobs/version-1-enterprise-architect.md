@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Strategy / Management Consulting |
+| Category | Technology / IT Consulting |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110129030-enterprise-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110194925-enterprise-architect) |
 
 ## About This Role
 
-This strategy / management consulting position at Version 1 was posted on 2026-02-19.
+This technology / it consulting position at Version 1 was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

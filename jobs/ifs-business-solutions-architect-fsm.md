@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110049880-business-solutions-architect-fsm) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110242027-business-solutions-architect-fsm) |
 
 ## About This Role
 
-This technology / it consulting position at IFS was posted on 2026-02-18.
+This technology / it consulting position at IFS was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

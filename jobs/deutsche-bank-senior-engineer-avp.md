@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Senior-Engineer--AVP_R0415030) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Technical-Specialist--Data-Engineer--L3---AVP_R0410988) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Bank was posted on 2026-02-17.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

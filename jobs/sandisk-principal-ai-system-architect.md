@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000108879155-principal-ai-system-architect) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000111160455-principal-ai-system-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SanDisk was posted on 2026-02-12.
+This semiconductor / chip design position at SanDisk was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
