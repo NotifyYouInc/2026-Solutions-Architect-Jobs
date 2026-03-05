@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000110365835-senior-it-strategy-consultant-solution-architect-legacy-modernization) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000111031580-senior-it-strategy-consultant-solution-architect-legacy-modernization) |
 
 ## About This Role
 
-This strategy / management consulting position at Talan was posted on 2026-02-20.
+This strategy / management consulting position at Talan was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denmark |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109260116-senior-platform-architect) |
+| Location | Madrid, Madrid, Spain |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111388018-senior-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-02-13.
+This technology / it consulting position at ServiceNow was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
