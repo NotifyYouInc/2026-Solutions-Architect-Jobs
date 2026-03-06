@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110756005-losningsarkitekt) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111593105-losningsarkitekt) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-23.
+This technical & solutions architect position at Sopra Steria was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

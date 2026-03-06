@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Advisor--Software-Architecture_R-10373690) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Advisor--Software-Architecture_R-10378285) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-02-23.
+This technical & solutions architect position at Fiserv was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
