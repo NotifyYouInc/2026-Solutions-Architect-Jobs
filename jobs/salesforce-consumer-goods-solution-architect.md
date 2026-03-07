@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Consumer-Goods-Solution-Architect_JR330558) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Consumer-Goods-Solution-Architect_JR330559) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-02-24.
+This technical & solutions architect position at Salesforce was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

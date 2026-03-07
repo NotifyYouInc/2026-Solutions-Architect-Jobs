@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.esri.com/careers/5058576007?gh_jid=5058576007) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5064920007?gh_jid=5064920007) |
 
 ## About This Role
 
-This strategy / management consulting position at Esri was posted on 2026-02-20.
+This technology / it consulting position at Esri was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

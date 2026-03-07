@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tennessee, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TN-Millington/UiPath-Solution-Architect-and-SME_36479) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TN-Millington/UiPath-Solution-Architect-and-SME_36881) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-02-12.
+This technology / it consulting position at Guidehouse was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111033600-platform-architect) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111297430-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-02-24.
+This technical & solutions architect position at Endava was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

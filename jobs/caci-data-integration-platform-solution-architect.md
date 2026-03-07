@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Tinker-AFB/Data-Integration-Platform-Solution-Architect_321761) |
+| Category | Technical Writer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Data-Integration-Platform-Solution-Architect_322646) |
 
 ## About This Role
 
-This solutions architect position at CACI was posted on 2026-02-03.
+This technical writer position at CACI was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

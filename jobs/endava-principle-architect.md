@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000110732756-principle-architect) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111814480-principle-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-02-23.
+This technical & solutions architect position at Endava was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
