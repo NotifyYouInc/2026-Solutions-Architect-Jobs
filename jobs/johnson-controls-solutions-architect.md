@@ -1,16 +1,16 @@
-# Principal Enterprise Architect - Manufacturing at ServiceNow
+# Solutions Architect at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112081557-principal-enterprise-architect-manufacturing) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Solutions-Architect_WD30263065) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-03-02.
+This technical & solutions architect position at Johnson Controls was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

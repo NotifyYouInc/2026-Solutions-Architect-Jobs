@@ -1,16 +1,16 @@
-# Principal Enterprise Architect - Manufacturing at ServiceNow
+# Cloud Solution Architect - AWS at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112081557-principal-enterprise-architect-manufacturing) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cloud-Solution-Architect---AWS_REQ571325) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-03-02.
+This technical & solutions architect position at Unisys was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

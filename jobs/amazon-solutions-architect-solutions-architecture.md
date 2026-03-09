@@ -1,16 +1,16 @@
-# Principal Enterprise Architect - Manufacturing at ServiceNow
+# Solutions Architect, Solutions Architecture at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112081557-principal-enterprise-architect-manufacturing) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3192502/solutions-architect-solutions-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-03-02.
+This technical & solutions architect position at Amazon was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

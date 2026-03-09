@@ -1,16 +1,16 @@
-# Principal Enterprise Architect - Manufacturing at ServiceNow
+# Executive Solutions Architect at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112081557-principal-enterprise-architect-manufacturing) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/JPN-Tokyo-Tamachi-Station/Executive-Solutions-Architect_R025242) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-03-02.
+This technical & solutions architect position at Broadcom was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
