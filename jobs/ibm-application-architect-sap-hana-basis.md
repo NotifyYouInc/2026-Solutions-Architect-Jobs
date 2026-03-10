@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96445) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97393) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-24.
+This technical & solutions architect position at IBM was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

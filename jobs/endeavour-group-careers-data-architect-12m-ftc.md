@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000111203585-data-architect-12m-ftc) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000111720855-data-architect-12m-ftc) |
 
 ## About This Role
 
-This technical & solutions architect position at Endeavour Group Careers was posted on 2026-02-24.
+This technical & solutions architect position at Endeavour Group Careers was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

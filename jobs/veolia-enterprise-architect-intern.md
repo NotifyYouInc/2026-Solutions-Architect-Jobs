@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paramus, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110453241-enterprise-architect-intern) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112266087-enterprise-architect-intern) |
 
 ## About This Role
 
-This technical & solutions architect position at Veolia was posted on 2026-02-20.
+This technical & solutions architect position at Veolia was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92155) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96309) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-06.
+This technical & solutions architect position at IBM was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Randburg, Gauteng, South Africa |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Systems-Architect_R40434) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Systems-Architect_R46965) |
 
 ## About This Role
 
-This operations position at FirstRand was posted on 2026-02-06.
+This technical & solutions architect position at FirstRand was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

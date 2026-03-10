@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
-| Category | Devops Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4767844101) |
+| Location | Not specified |
+| Category | DevOps Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4791156101) |
 
 ## About This Role
 
-This devops engineer position at Nebius was posted on 2026-02-04.
+This devops engineer position at Nebius was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

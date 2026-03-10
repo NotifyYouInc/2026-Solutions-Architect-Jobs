@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Architect_573812-1) |
+| Location | Germany |
+| Category | Frontend Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bblingen/Software-Architect_575045) |
 
 ## About This Role
 
-This technical & solutions architect position at Philips was posted on 2026-02-10.
+This frontend engineer position at Philips was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

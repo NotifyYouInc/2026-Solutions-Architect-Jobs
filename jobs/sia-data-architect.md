@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Maastricht, Limburg, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111403821-data-architect) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111805173-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SIA was posted on 2026-02-25.
+This technical & solutions architect position at SIA was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Success-Architect---Service-Cloud_JR330377) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Success-Architect---Service-Cloud_JR330931) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-02-25.
+This customer success position at Salesforce was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
