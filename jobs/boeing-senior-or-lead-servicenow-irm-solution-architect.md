@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 13 locations |
+| Location | 12 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-or-Lead-ServiceNow-IRM-Solution-Architect_JR2026497139-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-or-Lead-ServiceNow-IRM-Solution-Architect_JR2026499152-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-02-24.
+This technical & solutions architect position at Boeing was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

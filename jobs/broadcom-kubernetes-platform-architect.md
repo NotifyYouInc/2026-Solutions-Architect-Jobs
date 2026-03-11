@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | District of Columbia, US |
+| Location | Ontario, CA |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-NJ-Remote-Location/Kubernetes-Platform-Architect_R025223) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/CAN-Ontario-Remote-Location/Kubernetes-Platform-Architect_R025264) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadcom was posted on 2026-02-25.
+This technical & solutions architect position at Broadcom was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

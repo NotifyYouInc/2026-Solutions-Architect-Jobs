@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Japan |
-| Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Japan/Solution-Architect_R012857) |
+| Location | Colorado, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Colorado-USA/Solution-Architect_R012731-1) |
 
 ## About This Role
 
-This customer success position at SailPoint Technologies was posted on 2026-02-26.
+This technical & solutions architect position at SailPoint Technologies was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
