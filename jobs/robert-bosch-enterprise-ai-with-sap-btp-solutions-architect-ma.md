@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111831845-enterprise-ai-with-sap-btp-solutions-architect-ma) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112138123-enterprise-ai-with-sap-btp-solutions-architect-ma) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-02-27.
+This technical & solutions architect position at Robert Bosch was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

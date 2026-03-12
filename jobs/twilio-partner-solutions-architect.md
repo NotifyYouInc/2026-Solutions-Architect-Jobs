@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7659776) |
+| Location | Singapore |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7645948) |
 
 ## About This Role
 
-This technology / it consulting position at Twilio was posted on 2026-02-27.
+This technical & solutions architect position at Twilio was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

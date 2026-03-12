@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cardiff, Wales, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000108230409-aws-solutions-architect) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000112666852-aws-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Legal & General was posted on 2026-02-09.
+This technical & solutions architect position at Legal & General was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

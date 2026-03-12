@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Solutions-Architecture_R-10382187) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Solutions-Architecture_R-10382185) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-02-27.
+This technical & solutions architect position at Fiserv was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

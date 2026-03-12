@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-Application-Architect_R0000351690) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Autonomy-Application-Architect_R0000353663) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar was posted on 2026-02-27.
+This technical & solutions architect position at Caterpillar was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Pre-Sales-Technical-Architect_R62313) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Adelaide-Australia/Pre-Sales-Technical-Architect_R62520) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-02-27.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

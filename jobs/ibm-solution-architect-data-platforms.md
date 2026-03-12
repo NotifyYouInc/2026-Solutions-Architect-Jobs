@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96920) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99248) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-26.
+This technology / it consulting position at IBM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111338141-architecte-infrastructure-it-kubernetes-cicd-linux-hf-rennes) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112640723-architecte-infrastructure-it-kubernetes-cicd-linux-hf-rennes) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-02-25.
+This technical & solutions architect position at Inetum was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
