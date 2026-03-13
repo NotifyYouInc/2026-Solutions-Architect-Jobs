@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Specialist Solutions Architect, Containers, ASPI HCLS Specialist at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | New York, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3196772/specialist-solutions-architect-containers-aspi-hcls-specialist) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at Amazon was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

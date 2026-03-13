@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Enterprise Architect AFDC at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Enterprise-Architect-AFDC_JR332443) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at Salesforce was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

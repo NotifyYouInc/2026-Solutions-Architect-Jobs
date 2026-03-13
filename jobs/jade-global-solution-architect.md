@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Solution Architect at Jade Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Hyderabad-Telangana/Solution-Architect_R-104380) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at Jade Global was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

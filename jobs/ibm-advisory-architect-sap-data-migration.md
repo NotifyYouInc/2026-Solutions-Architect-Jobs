@@ -1,4 +1,4 @@
-# Senior Architect SAP Data Migration at IBM
+# Advisory Architect SAP Data Migration at IBM
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 6 locations |
 | Category | Technology / IT Consulting |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99711) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99713) |
 
 ## About This Role
 

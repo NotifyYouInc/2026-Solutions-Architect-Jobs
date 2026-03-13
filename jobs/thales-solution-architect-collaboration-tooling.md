@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Solution Architect Collaboration Tooling at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hengelo, Overijssel, The Netherlands |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Solution-Architect-Collaboration-Tooling_R0290077) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at Thales was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

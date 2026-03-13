@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Technical Lead at ShyftLabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/453e64d1-2ab5-474c-8cf2-88bc5f2712df) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at ShyftLabs was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

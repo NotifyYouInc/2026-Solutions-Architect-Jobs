@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110760730-principal-platform-architect) |
+| Location | Singapore, Singapore |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112911567-principal-platform-architect) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-23.
+This technical & solutions architect position at ServiceNow was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

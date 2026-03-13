@@ -1,16 +1,16 @@
-# Cloud Solution Architect at Microsoft
+# Mulesoft Technical Architect at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826784) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Mulesoft-Technical-Architect_JR332593) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-05.
+This technical & solutions architect position at Salesforce was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

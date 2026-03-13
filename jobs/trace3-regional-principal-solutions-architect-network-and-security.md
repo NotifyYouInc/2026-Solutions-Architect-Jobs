@@ -1,16 +1,16 @@
-# Senior Architect SAP Data Migration at IBM
+# Regional Principal Solutions Architect | Network and Security at Trace3
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
+| Company | [Trace3](https://scoutify.ai/companies/trace3?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Irvine, California, United States |
 | Category | Technology / IT Consulting |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99711) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/7576727) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-05.
+This technology / it consulting position at Trace3 was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000111341895-java-technical-architect-banking) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000112872187-java-technical-architect-banking) |
 
 ## About This Role
 
-This technical & solutions architect position at VAM Systems was posted on 2026-02-25.
+This technical & solutions architect position at VAM Systems was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

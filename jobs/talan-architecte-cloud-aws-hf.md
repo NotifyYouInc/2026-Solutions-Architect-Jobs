@@ -1,16 +1,16 @@
-# Architecte Cloud AWS – H/F at Talan
+# Architecte Cloud AWS (H/F) at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109751297-architecte-cloud-aws-hf) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000112983494-architecte-cloud-aws-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-02-17.
+This technical & solutions architect position at Talan was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

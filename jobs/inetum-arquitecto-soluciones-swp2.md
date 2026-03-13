@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Arquitecto Soluciones SWP2 at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112979687-arquitecto-soluciones-swp2) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at Inetum was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Architect at Bank of America
+# Vice President, Chief Architect at MicroStrategy
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Architect_26007671-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113009477-vice-president-chief-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-03-05.
+This technical & solutions architect position at MicroStrategy was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
