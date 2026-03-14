@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000112175750-architecte-data-hf) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000112696887-architecte-data-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at CITECH was posted on 2026-03-02.
+This technical & solutions architect position at CITECH was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108279535-senior-atlassian-solution-architect-tieto-tech-consulting-mfd) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000113109707-senior-atlassian-solution-architect-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Tietoevry was posted on 2026-02-09.
+This technical & solutions architect position at Tietoevry was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

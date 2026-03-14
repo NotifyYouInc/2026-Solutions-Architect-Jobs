@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Pega-Lead-Systems-Architect_R-00177074-1) |
+| Location | Washington, District of Columbia, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Pega-Lead-Systems-Architect_R-00177174-1) |
 
 ## About This Role
 
-This frontend engineer position at Leidos was posted on 2026-02-27.
+This technical & solutions architect position at Leidos was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
