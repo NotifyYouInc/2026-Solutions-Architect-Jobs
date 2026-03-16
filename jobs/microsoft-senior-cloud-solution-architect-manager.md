@@ -1,16 +1,16 @@
-# Data architect at Barclays
+# Senior Cloud Solution Architect Manager at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Engineering Manager |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-architect_JR-0000089946) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556827690) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-08.
+This engineering manager position at Microsoft was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

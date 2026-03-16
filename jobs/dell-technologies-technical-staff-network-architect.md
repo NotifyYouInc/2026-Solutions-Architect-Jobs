@@ -1,4 +1,4 @@
-# Technical Staff-Storage Architect at Dell Technologies
+# Technical Staff-Network Architect at Dell Technologies
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Round Rock, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Technical-Staff-Storage-Architect_R286796-1) |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Technical-Staff-Network-Architect_R286864-1) |
 
 ## About This Role
 

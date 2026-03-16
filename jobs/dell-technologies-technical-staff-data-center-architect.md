@@ -1,16 +1,16 @@
-# Technical Staff-Storage Architect at Dell Technologies
+# Technical Staff-Data Center Architect at Dell Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Round Rock, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Technical-Staff-Storage-Architect_R286796-1) |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Technical-Staff-Data-Center-Architect_R286865-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Dell Technologies was posted on 2026-03-09.
+This electrical / hardware engineer position at Dell Technologies was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

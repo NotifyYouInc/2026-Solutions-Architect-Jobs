@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112266312-ai-solution-architect) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112438838-ai-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-03-02.
+This technical & solutions architect position at ServiceNow was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

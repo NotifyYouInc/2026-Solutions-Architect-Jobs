@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Senior Solutions Architect, ISV at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3199065/senior-solutions-architect-isv) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-03.
+This technical & solutions architect position at Amazon was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

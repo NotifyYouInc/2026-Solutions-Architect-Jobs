@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Lead / IT Architect (Data Architect) at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000918774-lead-it-architect-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-03.
+This technical & solutions architect position at NCS was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

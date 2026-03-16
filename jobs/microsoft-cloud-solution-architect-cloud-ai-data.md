@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Cloud Solution Architect - Cloud & AI Data at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Illinois, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556800941) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-03.
+This technical & solutions architect position at Microsoft was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 
