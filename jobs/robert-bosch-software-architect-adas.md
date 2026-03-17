@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Telangana, IN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112397828-software-architect-adas) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113467817-software-architect-adas) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-03-03.
+This technical & solutions architect position at Robert Bosch was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

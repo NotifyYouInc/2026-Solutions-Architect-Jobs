@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111306907-tech-leadarchitecte-full-stack-defense-securite-lille) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113407267-tech-leadarchitecte-full-stack-defense-securite-lille) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-25.
+This technical & solutions architect position at Sopra Steria was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

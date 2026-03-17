@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Northampton, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Solution-Architect_JR-0000086030) |
+| Location | Pune, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Solution-Architect_JR-0000093129-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-02-27.
+This engineering manager position at Barclays was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

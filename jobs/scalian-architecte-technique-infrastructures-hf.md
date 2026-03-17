@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Orange, Provence-Alpes-Côte d'Azur, France |
+| Location | France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000112369747-architecte-technique-infrastructures-hf) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000112884528-architecte-technique-infrastructures-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Scalian was posted on 2026-03-03.
+This technical & solutions architect position at Scalian was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

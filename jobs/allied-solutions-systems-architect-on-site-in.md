@@ -5,12 +5,12 @@
 | Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Carmel, Indiana, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Systems-Architect--On-Site--IN-_R-010556) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Systems-Architect--On-Site--IN-_R-010642) |
 
 ## About This Role
 
-This technical & solutions architect position at Allied Solutions was posted on 2026-02-05.
+This technical & solutions architect position at Allied Solutions was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
-| Category | Developer Relations |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195364/senior-ai-solution-architect) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3196737/senior-ai-solution-architect) |
 
 ## About This Role
 
-This developer relations position at Amazon was posted on 2026-03-04.
+This technical & solutions architect position at Amazon was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

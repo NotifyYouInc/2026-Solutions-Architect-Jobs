@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1370410707383737) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1247727360827904) |
 
 ## About This Role
 
-This technical & solutions architect position at Meta was posted on 2026-03-03.
+This technical & solutions architect position at Meta was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

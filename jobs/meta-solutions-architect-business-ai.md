@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1835582317134298) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4399634066922612) |
 
 ## About This Role
 
-This technical & solutions architect position at Meta was posted on 2026-03-03.
+This technical & solutions architect position at Meta was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

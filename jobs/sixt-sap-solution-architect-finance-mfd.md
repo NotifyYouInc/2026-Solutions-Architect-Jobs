@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000107523224-sap-solution-architect-finance-mfd) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000113437318-sap-solution-architect-finance-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Sixt was posted on 2026-02-05.
+This technical & solutions architect position at Sixt was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

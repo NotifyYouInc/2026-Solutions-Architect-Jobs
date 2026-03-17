@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Senior-Technical-Architect_JR331295) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Senior-Technical-Architect_JR332599) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-03.
+This technical & solutions architect position at Salesforce was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

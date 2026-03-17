@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000112077808-lead-architect-integration) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000113626218-lead-architect-integration) |
 
 ## About This Role
 
-This technical & solutions architect position at Dr. Reddy's Laboratories was posted on 2026-03-02.
+This technical & solutions architect position at Dr. Reddy's Laboratories was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000112155152-senior-oracle-cloud-infrastructure-oci-architect) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113481627-senior-oracle-cloud-infrastructure-oci-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Version 1 was posted on 2026-03-02.
+This technical & solutions architect position at Version 1 was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
