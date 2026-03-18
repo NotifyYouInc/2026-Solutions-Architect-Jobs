@@ -5,12 +5,12 @@
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bagneux, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000112602857-j202602024-architecte-technique-open) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000113221364-j202602024-architecte-technique-open) |
 
 ## About This Role
 
-This technical & solutions architect position at Quadient was posted on 2026-03-04.
+This technical & solutions architect position at Quadient was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

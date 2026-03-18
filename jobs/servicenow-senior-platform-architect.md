@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111388018-senior-platform-architect) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113746191-senior-platform-architect) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-25.
+This technology / it consulting position at ServiceNow was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

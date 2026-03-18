@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Menlo Park, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4399634066922612) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/893690770143024) |
 
 ## About This Role
 
-This technical & solutions architect position at Meta was posted on 2026-03-04.
+This technical & solutions architect position at Meta was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

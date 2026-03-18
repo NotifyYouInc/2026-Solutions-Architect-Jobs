@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109673280-senior-network-architect-operations-technology) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113643801-senior-network-architect-operations-technology) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-02-17.
+This technical & solutions architect position at Robert Bosch was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

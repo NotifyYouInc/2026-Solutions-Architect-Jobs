@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Cloud-Architect---Developer-SME_RQ215819-1) |
+| Location | Not specified |
+| Category | DevOps Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cloud-Architect---Developer-SME_RQ216417-1) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-02-27.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

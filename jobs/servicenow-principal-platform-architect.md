@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Detroit, Michigan, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112911567-principal-platform-architect) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113266317-principal-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-03-05.
+This technical & solutions architect position at ServiceNow was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

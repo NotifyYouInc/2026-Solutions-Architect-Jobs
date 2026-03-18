@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000106848032-enterprise-architect-payments-domain-tieto-banktech-mfd) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000113657147-enterprise-architect-payments-domain-tieto-banktech-mfd) |
 
 ## About This Role
 
-This solutions architect position at Tietoevry was posted on 2026-02-02.
+This technical & solutions architect position at Tietoevry was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

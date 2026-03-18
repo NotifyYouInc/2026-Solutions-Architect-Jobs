@@ -5,12 +5,12 @@
 | Company | [Courir](https://scoutify.ai/companies/courir?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Courir/744000110751026-architecte-mulesoft-fh) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Courir/744000113721477-architecte-mulesoft-fh) |
 
 ## About This Role
 
-This technical & solutions architect position at Courir was posted on 2026-02-23.
+This technical & solutions architect position at Courir was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

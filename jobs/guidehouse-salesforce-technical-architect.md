@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Technical-Architect_35604) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MA-Boston/Salesforce-Technical-Architect_35601) |
 
 ## About This Role
 
-This technology / it consulting position at Guidehouse was posted on 2026-02-18.
+This technology / it consulting position at Guidehouse was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

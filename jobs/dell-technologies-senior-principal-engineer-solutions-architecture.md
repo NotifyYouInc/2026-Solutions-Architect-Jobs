@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Technical Writer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Senior-Principal-Engineer--Solutions-Architecture_R286398-1) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Gurgaon-India/Senior-Principal-Engineer--Solutions-Architecture_R286402-1) |
 
 ## About This Role
 
-This technical writer position at Dell Technologies was posted on 2026-02-27.
+This technical & solutions architect position at Dell Technologies was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
