@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113165825-quality-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113269787-quality-architect) |
 
 ## About This Role
 

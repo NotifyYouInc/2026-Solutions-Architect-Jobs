@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000113190545-senior-product-architect) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000113477647-senior-product-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-03-06.
+This technical & solutions architect position at Endava was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 7 locations |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000109014487-technical-support-architect) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000114030640-technical-support-architect) |
 
 ## About This Role
 
-This customer success position at Assent was posted on 2026-02-12.
+This customer success position at Assent was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

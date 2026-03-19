@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Senior-Architect--Software-Engineering_JR0128918-2) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA---CO---Denver/Senior-Architect--Software-Engineering_JR0129885) |
 
 ## About This Role
 
-This technical & solutions architect position at Western Union was posted on 2026-02-17.
+This technical & solutions architect position at Western Union was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

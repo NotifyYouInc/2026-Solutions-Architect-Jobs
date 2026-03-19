@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000112368513-data-architect) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000114033135-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Fastmarkets was posted on 2026-03-03.
+This technical & solutions architect position at Fastmarkets was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

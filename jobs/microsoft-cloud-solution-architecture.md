@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556820770) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556820695) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-06.
+This technical & solutions architect position at Microsoft was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
