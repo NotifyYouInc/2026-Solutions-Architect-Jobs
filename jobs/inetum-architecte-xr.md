@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111834076-architecte-xr) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000114411042-architecte-xr) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-02-27.
+This technical & solutions architect position at Inetum was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

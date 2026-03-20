@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93433) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93435) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-19.
+This technology / it consulting position at IBM was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

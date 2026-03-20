@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Maharashtra, IN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Timisoara-RO/System-Architect_R00210640) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Maharashtra-IN/System-Architect_R00209668-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Magna was posted on 2026-02-10.
+This technical & solutions architect position at Magna was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

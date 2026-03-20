@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Redwood City, California, United States |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5821406004) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5825328004) |
 
 ## About This Role
 
-This customer success position at Reltio was posted on 2026-03-07.
+This customer success position at Reltio was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

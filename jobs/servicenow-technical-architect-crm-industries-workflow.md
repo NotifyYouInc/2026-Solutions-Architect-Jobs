@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Addison, Illinois, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112539988-technical-architect-crm-industries-workflow) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114454847-technical-architect-crm-industries-workflow) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-03-03.
+This technology / it consulting position at ServiceNow was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

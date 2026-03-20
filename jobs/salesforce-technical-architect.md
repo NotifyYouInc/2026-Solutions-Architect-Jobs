@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Architect_JR326090) |
+| Location | Argentina |
+| Category | Technical Writer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Technical-Architect_JR332928) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-09.
+This technical writer position at Salesforce was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

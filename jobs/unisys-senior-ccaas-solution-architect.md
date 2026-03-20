@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
+| Location | Budapest, Budapest, Hungary |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Milton-Keynes-Buckinghamshire-United-Kingdom/Senior-CCaaS-Solution-Architect_REQ571742) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Senior-CCaaS-Solution-Architect_REQ571354-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-03-09.
+This technical & solutions architect position at Unisys was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

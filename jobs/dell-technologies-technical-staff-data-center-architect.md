@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Round Rock, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Technical-Staff-Data-Center-Architect_R286865-1) |
+| Location | Not specified |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Santa-Clara-California-United-States/Technical-Staff-Data-Center-Architect_R286866-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Dell Technologies was posted on 2026-03-09.
+This technical & solutions architect position at Dell Technologies was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

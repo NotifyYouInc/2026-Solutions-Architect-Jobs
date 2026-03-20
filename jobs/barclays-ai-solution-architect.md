@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AI-Solution-Architect_JR-0000092851) |
+| Category | Engineering Manager |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AI-Solution-Architect_JR-0000088811-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-02-25.
+This engineering manager position at Barclays was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

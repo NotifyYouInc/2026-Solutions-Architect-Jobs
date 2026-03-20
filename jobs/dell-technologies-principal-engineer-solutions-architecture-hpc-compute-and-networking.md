@@ -5,12 +5,12 @@
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Principal-Engineer--Solutions-Architecture---HPC--Compute-and-Networking_R286415) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Principal-Engineer--Solutions-Architecture---HPC--Compute-and-Networking_R286419-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Dell Technologies was posted on 2026-02-27.
+This technical & solutions architect position at Dell Technologies was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/MHS-Data-Systems-Solution-Architect_35827) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/MHS-Data-Systems-Solution-Architect_37165) |
 
 ## About This Role
 
-This solutions architect position at Guidehouse was posted on 2026-02-02.
+This technology / it consulting position at Guidehouse was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

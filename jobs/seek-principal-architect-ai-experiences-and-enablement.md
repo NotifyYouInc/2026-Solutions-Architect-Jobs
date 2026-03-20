@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New South Wales, AU |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000107395465-principal-architect-ai-experiences-and-enablement) |
+| Location | Australia |
+| Category | Engineering Manager |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000114489957-principal-architect-ai-experiences-and-enablement) |
 
 ## About This Role
 
-This solutions architect position at SEEK was posted on 2026-02-04.
+This engineering manager position at SEEK was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

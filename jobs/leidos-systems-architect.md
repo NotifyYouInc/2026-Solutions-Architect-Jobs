@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Odenton, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Systems-Architect_R-00176227) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Architect_R-00178095) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-02-18.
+This technical & solutions architect position at Leidos was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
