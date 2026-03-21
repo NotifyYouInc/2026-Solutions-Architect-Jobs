@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112679303-architecte-aws-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000114581367-architecte-aws-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-03-04.
+This technical & solutions architect position at Inetum was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110749244-expert-uipath-business-line-solutions-et-expertises-lille) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114555658-expert-uipath-business-line-solutions-et-expertises-lille) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-23.
+This technical & solutions architect position at Sopra Steria was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

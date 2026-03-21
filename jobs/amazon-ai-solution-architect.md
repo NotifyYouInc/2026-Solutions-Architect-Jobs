@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Developer Relations |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3200367/ai-solution-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201800/ai-solution-architect) |
 
 ## About This Role
 
-This developer relations position at Amazon was posted on 2026-03-10.
+This technical & solutions architect position at Amazon was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

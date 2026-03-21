@@ -5,12 +5,12 @@
 | Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/df113e33-c068-4bb9-9439-e5d083c3bfb2) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/6ec71987-9023-41ad-9cba-ecaefcc5a88c) |
 
 ## About This Role
 
-This technical & solutions architect position at ShyftLabs was posted on 2026-02-12.
+This technical & solutions architect position at ShyftLabs was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

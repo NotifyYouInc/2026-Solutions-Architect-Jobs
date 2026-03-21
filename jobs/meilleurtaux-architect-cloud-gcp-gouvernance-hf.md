@@ -5,12 +5,12 @@
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000112445167-architect-cloud-gcp-gouvernance-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000114580577-architect-cloud-gcp-gouvernance-hf) |
 
 ## About This Role
 
-This devops engineer position at Meilleurtaux was posted on 2026-03-03.
+This devops engineer position at Meilleurtaux was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

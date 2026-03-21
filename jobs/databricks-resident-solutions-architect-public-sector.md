@@ -6,7 +6,7 @@
 | Location | California, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-10 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8456973002) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8456975002) |
 
 ## About This Role
 

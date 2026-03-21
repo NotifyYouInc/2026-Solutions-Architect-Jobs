@@ -5,12 +5,12 @@
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000111202655-mulesoft-architect) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000114686620-mulesoft-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-02-24.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
