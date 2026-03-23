@@ -1,16 +1,16 @@
-# Sr. Solutions Architect at Databricks
+# Software Engineer V - Solution Architect at Astreya
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8438773002) |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Ramon-CA/Software-Engineer-V---Solution-Architect_R0014972) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-15.
+This technical & solutions architect position at Astreya was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

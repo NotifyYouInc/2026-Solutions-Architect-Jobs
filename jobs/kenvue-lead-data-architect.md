@@ -1,16 +1,16 @@
-# Sr. Solutions Architect at Databricks
+# Lead Data Architect at Kenvue
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8438773002) |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Data-Architect_2607043352W) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-15.
+This technical & solutions architect position at Kenvue was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

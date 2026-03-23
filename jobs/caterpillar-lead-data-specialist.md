@@ -1,16 +1,16 @@
-# Sr. Solutions Architect at Databricks
+# Lead Data Specialist at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8438773002) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Data-Specialist_R0000353984) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-15.
+This technical & solutions architect position at Caterpillar was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

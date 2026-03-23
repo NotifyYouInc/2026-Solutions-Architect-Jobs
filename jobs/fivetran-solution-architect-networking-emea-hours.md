@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Solution Architect, Networking - EMEA Hours at Fivetran
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | California, US |
+| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8289850002) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7653328003) |
 
 ## About This Role
 
-This customer success position at Databricks was posted on 2026-03-13.
+This customer success position at Fivetran was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

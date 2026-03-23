@@ -1,16 +1,16 @@
-# Sr. Solutions Architect at Databricks
+# Solution Architect at Abacus Insights
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Nepal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8438773002) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8463864002?gh_jid=8463864002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-15.
+This technical & solutions architect position at Abacus Insights was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
