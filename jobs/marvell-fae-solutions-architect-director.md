@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data Platform at Microsoft
+# FAE Solutions Architect - Director at Marvell
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556650916) |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/FAE-Solutions-Architect---Director_2600886) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-16.
+This technical & solutions architect position at Marvell was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

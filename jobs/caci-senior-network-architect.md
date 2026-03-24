@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Senior Network Architect at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | High Point, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204034/senior-ai-solution-architect) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-High-Point/Senior-Network-Architect_323322) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-13.
+This technical & solutions architect position at CACI was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

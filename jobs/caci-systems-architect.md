@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Dayton, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Springfield/Systems-Architect_322976) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OH-Dayton/Systems-Architect_323386-1) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-03-09.
+This technical & solutions architect position at CACI was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

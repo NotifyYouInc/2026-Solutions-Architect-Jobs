@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Senior Architect at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204034/senior-ai-solution-architect) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7663563?gh_jid=7663563) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-13.
+This technical & solutions architect position at Okta was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

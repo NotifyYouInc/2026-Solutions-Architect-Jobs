@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data Platform at Microsoft
+# Sr. Solutions Architect - SDDC at SHI International
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556650916) |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Sr-Solutions-Architect---SDDC_JR2715-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-16.
+This technical & solutions architect position at SHI International was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

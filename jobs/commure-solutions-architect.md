@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Solutions Architect at Commure
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Commure](https://scoutify.ai/companies/commure?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204034/senior-ai-solution-architect) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/commure/3eee810c-dff1-4331-90e8-462976b2b97e) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-13.
+This technical & solutions architect position at Commure was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data Platform at Microsoft
+# IT Solution Architect - PLM & Master Data at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Boise, Idaho, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556650916) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/IT-Solution-Architect---PLM---Master-Data_JR94915-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-16.
+This technical & solutions architect position at Micron was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

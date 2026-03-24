@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data Platform at Microsoft
+# Salesforce  Architect - IN at Arctic Wolf
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556650916) |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Salesforce--Architect---IN_R26_263-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-16.
+This technical & solutions architect position at Arctic Wolf was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

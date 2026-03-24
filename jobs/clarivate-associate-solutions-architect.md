@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data Platform at Microsoft
+# Associate Solutions Architect at Clarivate
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556650916) |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/USA---Philadelphia-PA/Associate-Solutions-Architect_JREQ134998-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-16.
+This technical & solutions architect position at Clarivate was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

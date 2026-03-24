@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Philadelphia-PA/Services-Solutions-Technical-Architect-Intern_JR_14535) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Philadelphia-PA/Services-Solutions-Technical-Architect-Intern_JR_14531) |
 
 ## About This Role
 
-This technical writer position at Guidewire Software was posted on 2026-03-10.
+This technical writer position at Guidewire Software was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
