@@ -5,12 +5,12 @@
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000112431510-data-architect-aws-azure-gcp) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115319512-data-architect-aws-azure-gcp) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-03-03.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

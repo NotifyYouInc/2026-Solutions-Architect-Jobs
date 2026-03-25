@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826702) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843682) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-11.
+This technical & solutions architect position at Microsoft was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

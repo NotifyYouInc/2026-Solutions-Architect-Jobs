@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000113693967-architect) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000115266108-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Greene King was posted on 2026-03-10.
+This technical & solutions architect position at Greene King was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

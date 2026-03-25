@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical Writer |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Principal-Data-and-AI-Architect_JR333491) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Principal-Data-and-AI-Architect_JR331266) |
 
 ## About This Role
 

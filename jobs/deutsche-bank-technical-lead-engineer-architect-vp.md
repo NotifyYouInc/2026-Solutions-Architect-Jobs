@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Technical-Lead-Engineer--Architect--VP_R0425872) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Technical-Lead-Engineer--Architect--VP_R0427251) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Bank was posted on 2026-03-05.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
