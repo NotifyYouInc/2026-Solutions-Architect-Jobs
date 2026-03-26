@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726) |
+| Location | 3 locations |
+| Category | Business Development |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7722122/?gh_jid=7722122) |
 
 ## About This Role
 
-This technical & solutions architect position at Datadog was posted on 2026-03-06.
+This business development position at Datadog was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

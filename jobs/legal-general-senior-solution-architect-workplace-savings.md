@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000114413628-senior-solution-architect-workplace-savings) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000115150552-senior-solution-architect-workplace-savings) |
 
 ## About This Role
 
-This technical & solutions architect position at Legal & General was posted on 2026-03-12.
+This technical & solutions architect position at Legal & General was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

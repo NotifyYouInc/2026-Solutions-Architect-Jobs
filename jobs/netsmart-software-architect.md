@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Software-Architect_R014379) |
+| Category | Mobile Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Software-Architect_R014702) |
 
 ## About This Role
 
-This technical & solutions architect position at Netsmart was posted on 2026-02-26.
+This mobile engineer position at Netsmart was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

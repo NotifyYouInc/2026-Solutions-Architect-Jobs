@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London---Shell-Centre/Senior-Solution-Architect---Endur_R199008) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Senior-Solution-Architect---Endur_R197751) |
 
 ## About This Role
 
-This technical & solutions architect position at Shell was posted on 2026-03-11.
+This technical & solutions architect position at Shell was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

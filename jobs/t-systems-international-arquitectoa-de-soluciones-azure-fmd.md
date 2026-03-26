@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000112676050-arquitectoa-de-soluciones-azure-fmd) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000115430447-arquitectoa-de-soluciones-azure-fmd) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-03-04.
+This technical & solutions architect position at T-Systems International was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114402044-architecte-logiciels-defense-securite-rennes) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115447228-architecte-logiciels-defense-securite-rennes) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-03-12.
+This technical & solutions architect position at Sopra Steria was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

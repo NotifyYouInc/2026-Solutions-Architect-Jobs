@@ -1,16 +1,16 @@
-# Senior Cloud Architect – Oracle Cloud Infrastructure (OCI) at Leidos
+# Senior Cloud Architect / Oracle Cloud Infrastructure (OCI) at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Cloud-Architect---Oracle-Cloud-Infrastructure--OCI-_R-00177352-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Cloud-Architect---Oracle-Cloud-Infrastructure--OCI-_R-00178751) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-03-03.
+This technical & solutions architect position at Leidos was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

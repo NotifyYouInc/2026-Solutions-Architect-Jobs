@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Technical Writer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Principal-Data-and-AI-Architect_JR331266) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/Principal-Data-and-AI-Architect_JR331288) |
 
 ## About This Role
 
-This technical writer position at Salesforce was posted on 2026-03-12.
+This technical & solutions architect position at Salesforce was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

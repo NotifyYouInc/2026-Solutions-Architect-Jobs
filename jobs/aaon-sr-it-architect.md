@@ -5,12 +5,12 @@
 | Company | [Aaon](https://scoutify.ai/companies/aaon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Memphis-TN/Sr-IT-Architect_JR101163) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Memphis-TN/Sr-IT-Architect_JR101301) |
 
 ## About This Role
 
-This technical & solutions architect position at Aaon was posted on 2026-03-06.
+This technical & solutions architect position at Aaon was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
