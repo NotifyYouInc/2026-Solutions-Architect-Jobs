@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York, US |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114749817-data-architect-t7) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115247197-data-architect-t7) |
 
 ## About This Role
 
-This technical & solutions architect position at NielsenIQ was posted on 2026-03-13.
+This technical & solutions architect position at NielsenIQ was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

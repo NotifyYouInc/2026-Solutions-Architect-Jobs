@@ -1,16 +1,16 @@
-# Lead Platform Architect at Mastercard
+# Lead, Platform Architect at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Platform-Architect_R-270920) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead--Platform-Architect_R-273347) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-17.
+This technical & solutions architect position at Mastercard was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

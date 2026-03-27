@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Port of Spain, Port of Spain, Trinidad and Tobago |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Solution-Architect_R-0000160775-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Port-of-Spain-Trinidad-and-Tobago/Senior-Solution-Architect_R-0000164424) |
 
 ## About This Role
 
-This technical & solutions architect position at Royal Bank of Canada was posted on 2026-03-11.
+This technical & solutions architect position at Royal Bank of Canada was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

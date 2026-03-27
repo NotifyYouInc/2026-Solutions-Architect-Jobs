@@ -1,16 +1,16 @@
-# Cloud Solution Architect - AI Business Solutions at Microsoft
+# Cloud Solution Architect- AI Business Solutions at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Illinois, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803562) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556802863) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-02-25.
+This technical & solutions architect position at Microsoft was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

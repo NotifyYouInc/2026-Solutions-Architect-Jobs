@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000114686620-mulesoft-architect) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115220339-mulesoft-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-03-13.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Texas, US |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Solution-Architect_R012941) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Solution-Architect_R012890) |
 
 ## About This Role
 
-This technical & solutions architect position at SailPoint Technologies was posted on 2026-03-06.
+This technical & solutions architect position at SailPoint Technologies was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Business Development |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7719083) |
+| Category | Account Executive |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7735952) |
 
 ## About This Role
 
-This business development position at MongoDB was posted on 2026-03-13.
+This account executive position at MongoDB was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

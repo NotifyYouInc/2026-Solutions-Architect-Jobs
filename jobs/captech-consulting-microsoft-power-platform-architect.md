@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000114663707-microsoft-power-platform-architect) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115230147-microsoft-power-platform-architect) |
 
 ## About This Role
 
-This technology / it consulting position at CapTech Consulting was posted on 2026-03-13.
+This technology / it consulting position at CapTech Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

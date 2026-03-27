@@ -5,12 +5,12 @@
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000114661986-salesforce-architect) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115250277-salesforce-architect) |
 
 ## About This Role
 
-This technology / it consulting position at CapTech Consulting was posted on 2026-03-13.
+This technology / it consulting position at CapTech Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
