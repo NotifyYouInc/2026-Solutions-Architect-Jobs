@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Marketing Operations |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115032577-sr-solution-architect-marketing-technology) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115699557-sr-solution-architect-marketing-technology) |
 
 ## About This Role
 
-This marketing operations position at ServiceNow was posted on 2026-03-16.
+This marketing operations position at ServiceNow was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

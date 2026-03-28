@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Texas-United-States-of-America/Enterprise-Architect---Texas_1204527) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Texas-United-States-of-America/Enterprise-Architect---Texas_1204514) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-03-17.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

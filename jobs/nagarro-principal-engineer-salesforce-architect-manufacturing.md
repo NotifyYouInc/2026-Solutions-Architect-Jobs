@@ -1,16 +1,16 @@
-# Principal Engineer / Salesforce Architect (Manufacturing) at Nagarro
+# Principal Engineer - Salesforce Architect (Manufacturing) at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pennsylvania, US |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113503737-principal-engineer-salesforce-architect-manufacturing) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000115885692-principal-engineer-salesforce-architect-manufacturing) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-03-09.
+This devops engineer position at Nagarro was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

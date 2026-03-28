@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/IT-Solution-Architect---PLM---Master-Data_JR94915-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/IT-Solution-Architect---PLM---Master-Data_JR93935) |
 
 ## About This Role
 
-This technical & solutions architect position at Micron was posted on 2026-03-16.
+This technical & solutions architect position at Micron was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R025285) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R025480) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadcom was posted on 2026-03-05.
+This technical & solutions architect position at Broadcom was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
