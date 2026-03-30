@@ -1,16 +1,16 @@
-# Application Architect-ServiceNow at IBM
+# ServiceNow Architect at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90393) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/ServiceNow-Architect_JR118547) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-20.
+This technology / it consulting position at RSM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
