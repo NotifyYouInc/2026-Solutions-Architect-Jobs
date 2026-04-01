@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect_R-113126) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect_R-111844) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-02-27.
+This technical & solutions architect position at Ingram Micro was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

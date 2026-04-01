@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Senior-Software-Architect_R53257) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Senior-Software-Architect_R52535) |
 
 ## About This Role
 
-This technical & solutions architect position at Cadence Design Systems was posted on 2026-02-18.
+This technical & solutions architect position at Cadence Design Systems was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Remote/Solution-Architect--Computer-Aided-Engineering_JR2014310-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Remote/Solution-Architect--Computer-Aided-Engineering_JR2015324) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-03-09.
+This technical & solutions architect position at Nvidia was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

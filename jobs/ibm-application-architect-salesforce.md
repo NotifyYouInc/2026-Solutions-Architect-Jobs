@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98304) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104877) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-10.
+This technical & solutions architect position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

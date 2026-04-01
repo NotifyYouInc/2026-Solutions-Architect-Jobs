@@ -1,16 +1,16 @@
-# Corporate Bank Technology - Cash Management - AI Lead, VP at Deutsche Bank
+# Corporate Bank Technology – Cash Management – AI Lead - VP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Corporate-Bank-Technology---Cash-Management---AI-Lead--VP_R0424843) |
+| Category | Engineering Manager |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Corporate-Bank-Technology---Cash-Management---AI-Lead---VP_R0428988) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Bank was posted on 2026-02-11.
+This engineering manager position at Deutsche Bank was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

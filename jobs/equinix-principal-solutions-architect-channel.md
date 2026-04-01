@@ -1,16 +1,16 @@
-# Principal Solutions Architect - Channel at Equinix
+# Principal Solutions Architect- Channel at Equinix
 
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Business Development |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Shanghai/Principal-Solutions-Architect---Channel_JR-158084) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/JP-Minato-ku/Principal-Solutions-Architect_JR-159170) |
 
 ## About This Role
 
-This business development position at Equinix was posted on 2026-02-03.
+This technical & solutions architect position at Equinix was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

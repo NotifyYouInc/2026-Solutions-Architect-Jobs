@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Ottawa, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99071) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105840) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-03-02.
+This technical & solutions architect position at IBM was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

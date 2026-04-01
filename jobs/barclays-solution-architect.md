@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Solution-Architect_JR-0000098197-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Solution-Architect_JR-0000086034-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-11.
+This technical & solutions architect position at Barclays was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

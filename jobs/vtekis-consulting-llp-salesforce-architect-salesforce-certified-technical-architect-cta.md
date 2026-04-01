@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000115278817-salesforce-architect-salesforce-certified-technical-architect-cta) |
+| Location | United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000115709112-salesforce-architect-salesforce-certified-technical-architect-cta) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-03-17.
+This technology / it consulting position at VTekis Consulting LLP was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

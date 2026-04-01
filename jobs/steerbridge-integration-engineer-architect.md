@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SteerBridge](https://scoutify.ai/companies/steerbridge?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.lever.co/steerbridge/40ee68f4-396f-40fa-81d7-c3e83ad17877) |
+| Category | Technical Writer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.lever.co/steerbridge/dab09ea0-deaa-4f57-b14a-18afc331e629) |
 
 ## About This Role
 
-This technical & solutions architect position at SteerBridge was posted on 2026-03-17.
+This technical writer position at SteerBridge was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

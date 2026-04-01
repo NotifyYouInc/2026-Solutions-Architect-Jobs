@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000113394202-principal-architect-network-and-security) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000116326312-principal-architect-network-and-security) |
 
 ## About This Role
 
-This security engineer position at Dr. Reddy's Laboratories was posted on 2026-03-09.
+This security engineer position at Dr. Reddy's Laboratories was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

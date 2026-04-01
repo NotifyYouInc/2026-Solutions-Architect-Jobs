@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112399357-adas-domain-knowledge-functions-architect) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116146649-adas-domain-knowledge-functions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-03-03.
+This technical & solutions architect position at Robert Bosch was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

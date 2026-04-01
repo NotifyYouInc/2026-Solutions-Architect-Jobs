@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Virginia-Beach-Virginia/Senior-Digital-Architect_R0000349641) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Digital-Architect_R0000323854) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar was posted on 2026-02-24.
+This technical & solutions architect position at Caterpillar was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr IT Architect at McKesson
+# Sr. IT Architect at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Sr-IT-Architect_JR0143219-2) |
+| Location | Toronto, Ontario, Canada |
+| Category | DevOps Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Toronto/Sr-IT-Architect_JR0141901-1) |
 
 ## About This Role
 
-This technical & solutions architect position at McKesson was posted on 2026-03-05.
+This devops engineer position at McKesson was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

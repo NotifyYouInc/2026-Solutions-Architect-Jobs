@@ -1,16 +1,16 @@
-# Senior Platform architect at Mastercard
+# Senior Platform Architect at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Platform-architect_R-269831) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Platform-Architect_R-273557) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-02-19.
+This technical & solutions architect position at Mastercard was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

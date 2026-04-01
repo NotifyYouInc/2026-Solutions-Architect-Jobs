@@ -1,16 +1,16 @@
-# Arquiteto de Soluções  at Neoris
+# Arquiteto de Soluções at Neoris
 
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4783773101) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4818753101) |
 
 ## About This Role
 
-This technical & solutions architect position at Neoris was posted on 2026-02-19.
+This technical & solutions architect position at Neoris was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
