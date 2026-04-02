@@ -1,16 +1,16 @@
-# Solutions Architect  at phData
+# Solutions Architect at phData
 
 | Field | Details |
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7583622) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7726748) |
 
 ## About This Role
 
-This solutions architect position at phData was posted on 2026-02-02.
+This technical & solutions architect position at phData was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

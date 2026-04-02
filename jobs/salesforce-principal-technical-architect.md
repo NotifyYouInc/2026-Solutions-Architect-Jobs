@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York-City-Metro---Remote/Principal--Technical-Architect_JR330272) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco-Metro---Remote/Principal--Technical-Architect_JR335164) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-02-24.
+This technical & solutions architect position at Salesforce was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

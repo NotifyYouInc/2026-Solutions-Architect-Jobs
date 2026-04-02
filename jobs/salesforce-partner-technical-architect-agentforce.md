@@ -1,16 +1,16 @@
-# Partner Technical Architect - Agentforce at Salesforce
+# Partner Technical Architect – Agentforce at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | 6 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Partner-Technical-Architect---Agentforce_JR328759) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Remote/Partner-Technical-Architect---Agentforce_JR328751) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-02-19.
+This technical & solutions architect position at Salesforce was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

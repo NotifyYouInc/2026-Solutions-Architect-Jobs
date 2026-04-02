@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96925304848556742-power-system-architect-fuel-gauge?sort_by=date&page=1) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/141618825261916870-power-system-architect-fuel-gauge?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-03.
+This semiconductor / chip design position at Google was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

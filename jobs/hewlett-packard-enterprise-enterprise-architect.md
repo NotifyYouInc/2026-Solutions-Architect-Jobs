@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Kolkata, West Bengal, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mississauga-Ontario-Canada/Enterprise-Architect_1204517) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Kolkata-West-Bengal-India/Enterprise-Architect_1204186) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-18.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

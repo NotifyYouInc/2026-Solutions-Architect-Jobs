@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114571386-full-stack-application-architect) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116597321-full-stack-application-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-03-13.
+This technical & solutions architect position at Robert Bosch was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

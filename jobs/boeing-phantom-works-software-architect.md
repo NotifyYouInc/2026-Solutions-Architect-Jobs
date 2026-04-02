@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Software-Architect_JR2026498271-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Software-Architect_JR2026502581) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-03-04.
+This devops engineer position at Boeing was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

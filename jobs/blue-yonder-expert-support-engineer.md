@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | India |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Monterrey/Sr-Technical-Architect_253619-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Expert-Support-Engineer_253637) |
 
 ## About This Role
 
-This technical support engineer position at Blue Yonder was posted on 2026-03-19.
+This technical support engineer position at Blue Yonder was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

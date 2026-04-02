@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000112123287-sap-finance-solution-architect-mfd) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000116606792-sap-finance-solution-architect-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-03-02.
+This technical & solutions architect position at METRO/MAKRO was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

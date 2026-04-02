@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000113680207-cloud-application-architect-aws-full-stack-devops) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000116631307-cloud-application-architect-aws-full-stack-devops) |
 
 ## About This Role
 
-This devops engineer position at ARHS Developments was posted on 2026-03-10.
+This technical & solutions architect position at ARHS Developments was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

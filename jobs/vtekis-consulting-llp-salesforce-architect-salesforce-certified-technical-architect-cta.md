@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000115709112-salesforce-architect-salesforce-certified-technical-architect-cta) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000116246028-salesforce-architect-salesforce-certified-technical-architect-cta) |
 
 ## About This Role
 
-This technology / it consulting position at VTekis Consulting LLP was posted on 2026-03-19.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

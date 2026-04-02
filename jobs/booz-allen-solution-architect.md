@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Solution-Architect_R0231336) |
+| Location | 3 locations |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Solution-Architect_R0236865) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-17.
+This strategy / management consulting position at Booz Allen was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5803447004) |
+| Location | India |
+| Category | Technical Writer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5835329004) |
 
 ## About This Role
 
-This technical & solutions architect position at Reltio was posted on 2026-02-13.
+This technical writer position at Reltio was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5825328004) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5834325004) |
 
 ## About This Role
 
-This customer success position at Reltio was posted on 2026-03-11.
+This customer success position at Reltio was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
