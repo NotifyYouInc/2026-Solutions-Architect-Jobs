@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000116206587-architecte-power-platform-ia-copilot-hf) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000116340232-architecte-power-platform-ia-copilot-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Magellan Partners was posted on 2026-03-23.
+This technical & solutions architect position at Magellan Partners was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

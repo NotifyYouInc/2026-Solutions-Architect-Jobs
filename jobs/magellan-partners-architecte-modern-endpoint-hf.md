@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000113735437-architecte-modern-endpoint-hf) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000116885061-architecte-modern-endpoint-hf) |
 
 ## About This Role
 
-This technical writer position at Magellan Partners was posted on 2026-03-10.
+This technical writer position at Magellan Partners was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85614608332530374-senior-staff-architect-silicon-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/134166163650159302-senior-staff-architect-silicon-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-19.
+This semiconductor / chip design position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

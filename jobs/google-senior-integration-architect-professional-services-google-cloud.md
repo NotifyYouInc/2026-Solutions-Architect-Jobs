@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/80876640929751750-senior-integration-architect-professional-services-google-cloud?sort_by=date&page=1) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93904521742164678-senior-integration-architect-professional-services-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-18.
+This technology / it consulting position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

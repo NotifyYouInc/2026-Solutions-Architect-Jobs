@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7739719?gh_jid=7739719) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7742587?gh_jid=7742587) |
 
 ## About This Role
 
-This strategy / management consulting position at Thoughtworks was posted on 2026-03-23.
+This technical & solutions architect position at Thoughtworks was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

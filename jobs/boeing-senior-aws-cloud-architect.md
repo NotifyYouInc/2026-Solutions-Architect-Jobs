@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Senior-AWS-Cloud-Architect_JR2026494755-1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Senior-AWS-Cloud-Architect_JR2026502935-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-02-16.
+This devops engineer position at Boeing was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

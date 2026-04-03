@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Hyderabad-Telangana/Solution-Architect_R-104380) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Solution-Architect_R-105061) |
 
 ## About This Role
 
-This technical & solutions architect position at Jade Global was posted on 2026-03-05.
+This technical & solutions architect position at Jade Global was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

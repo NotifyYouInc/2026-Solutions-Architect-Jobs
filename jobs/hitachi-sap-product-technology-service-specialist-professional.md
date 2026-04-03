@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/SAP-Product---Technology---Service-Specialist-Professional_R0121033) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/SAP-Product---Technology---Service-Specialist-Professional_R0121034) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-03-04.
+This technical & solutions architect position at Hitachi was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

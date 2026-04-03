@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dayton, Ohio, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OH-Dayton/Systems-Architect_323386-1) |
+| Location | Hampton, Virginia, United States |
+| Category | Engineering Manager |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Hampton/Systems-Architect_323847) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-03-16.
+This engineering manager position at CACI was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

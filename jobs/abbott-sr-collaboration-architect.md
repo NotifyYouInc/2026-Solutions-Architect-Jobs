@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Selangor, MY |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Sr-Collaboration-Architect_31143825-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/Sr-Collaboration-Architect_31144769) |
 
 ## About This Role
 
-This technical & solutions architect position at Abbott was posted on 2026-03-06.
+This technical & solutions architect position at Abbott was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

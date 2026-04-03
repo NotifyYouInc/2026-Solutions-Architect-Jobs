@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Espoo, Uusimaa, Finland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000115806824-solution-architect-tieto-caretech-mfd) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000116890042-solution-architect-tieto-caretech-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Tietoevry was posted on 2026-03-20.
+This technical & solutions architect position at Tietoevry was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
