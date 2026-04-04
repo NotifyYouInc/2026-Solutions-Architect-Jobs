@@ -1,16 +1,16 @@
-# Arquiteto (a) Sênior at Experian
+# Arquiteto de Soluções lll (Cloud | Pré-vendas) at Ingram Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brazil |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117318109-arquiteto-a-senior) |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/So-Paulo-Brazil/Arquiteto-de-Solues-lll--Cloud---Pr-vendas-_R-114503) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-03-27.
+This technical & solutions architect position at Ingram Micro was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

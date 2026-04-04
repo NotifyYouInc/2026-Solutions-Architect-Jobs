@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Senior Principal AI Solutions Architect at SanDisk
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Milpitas, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000117261757-senior-principal-ai-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at SanDisk was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

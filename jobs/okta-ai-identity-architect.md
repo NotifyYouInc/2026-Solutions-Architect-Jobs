@@ -1,16 +1,16 @@
-# Robotics Systems Architect at Formic
+# AI Identity Architect at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Robotics Engineer |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Security Engineer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4667583006) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7749222?gh_jid=7749222) |
 
 ## About This Role
 
-This robotics engineer position at Formic was posted on 2026-03-27.
+This security engineer position at Okta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

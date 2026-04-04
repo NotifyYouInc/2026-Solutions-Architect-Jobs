@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Senior Solution Architect Global DTC Technology at Puma
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Herzogenaurach, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Senior-Solution-Architect-Global-DTC-Technology_R40560) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at Puma was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

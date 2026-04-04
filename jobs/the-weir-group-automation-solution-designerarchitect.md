@@ -1,16 +1,16 @@
-# Technical Architect at Salesforce
+# Automation Solution Designer/Architect at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Technical-Architect_JR333712) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Glasgow/Automation-Solution-Designer-Architect_R0036262) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-27.
+This technical & solutions architect position at The Weir Group was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

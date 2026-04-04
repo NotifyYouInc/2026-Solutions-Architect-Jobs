@@ -1,16 +1,16 @@
-# Solution Architect at McFadyen Digital
+# VP, Chief Enterprise Architect at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 4 locations |
 | Category | Engineering Manager |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000117270439-solution-architect) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK--London--New-Oxford-Street/VP--Chief-Enterprise-Architect_438305-1) |
 
 ## About This Role
 
-This engineering manager position at McFadyen Digital was posted on 2026-03-27.
+This engineering manager position at GSK was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

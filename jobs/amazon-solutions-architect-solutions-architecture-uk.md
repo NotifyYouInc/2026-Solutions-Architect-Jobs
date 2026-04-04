@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Solutions Architect, Solutions Architecture, UK at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10377896/solutions-architect-solutions-architecture-uk) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technology / it consulting position at Amazon was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

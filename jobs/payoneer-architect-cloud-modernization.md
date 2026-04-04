@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Architect - Cloud & Modernization  at Payoneer
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/7699186/?gh_jid=7699186) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at Payoneer was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

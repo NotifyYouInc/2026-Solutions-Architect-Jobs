@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Technical Leader at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Salt-Lake-City/Technical-Leader_R5035489-3) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at GE Vernova was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

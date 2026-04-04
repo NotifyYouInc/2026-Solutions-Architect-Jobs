@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Presales Enterprise Architect at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
+| Category | Account Manager |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Presales-Enterprise-Architect_R167135) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This account manager position at Adobe was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

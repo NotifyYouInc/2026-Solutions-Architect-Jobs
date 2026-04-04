@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Systems Architect at Kone
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Coahuila/Systems-Architect_R0658725) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at Kone was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

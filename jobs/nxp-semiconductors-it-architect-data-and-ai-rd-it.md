@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# IT Architect  Data and AI - R&D IT at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/IT-Architect--Data-and-AI---R-D-IT_R-10062427) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at NXP Semiconductors was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

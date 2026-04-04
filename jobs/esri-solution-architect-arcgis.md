@@ -1,16 +1,16 @@
-# Technical Architect at Salesforce
+# Solution Architect- ArcGIS at Esri
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Strategy / Management Consulting |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Technical-Architect_JR333712) |
+| Apply | [View on company site](https://www.esri.com/careers/5091613007?gh_jid=5091613007) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-27.
+This strategy / management consulting position at Esri was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Databricks Solution Architect at BDO Dunwoody
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at BDO Dunwoody was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

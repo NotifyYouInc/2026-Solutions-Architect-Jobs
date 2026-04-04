@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Sr Lead Enterprise Architecture at GlobalFoundries
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/OFFSITE/Sr-Lead-Enterprise-Architecture_JR-2601280) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at GlobalFoundries was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

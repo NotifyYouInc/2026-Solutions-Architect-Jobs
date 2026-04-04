@@ -1,16 +1,16 @@
-# Data Architect at Utility Warehouse
+# Cloud Solution Architect Groningen at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Groningen, Groningen, The Netherlands |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117319779-cloud-solution-architect-groningen) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at Sopra Steria was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

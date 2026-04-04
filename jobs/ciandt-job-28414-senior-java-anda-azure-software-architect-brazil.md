@@ -1,16 +1,16 @@
-# Solution Architect at McFadyen Digital
+# [Job-28414] Senior Java anda Azure Software Architect, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Engineering Manager |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000117270439-solution-architect) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/f63b91fa-97ba-42a6-ac55-cdc15f0a0bf3) |
 
 ## About This Role
 
-This engineering manager position at McFadyen Digital was posted on 2026-03-27.
+This engineering manager position at Ciandt was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

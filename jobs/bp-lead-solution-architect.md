@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Lead-solution-architect_RQ106343-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Lead-solution-architect_RQ107893-1) |
 
 ## About This Role
 
-This technical & solutions architect position at BP was posted on 2026-02-20.
+This technical & solutions architect position at BP was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

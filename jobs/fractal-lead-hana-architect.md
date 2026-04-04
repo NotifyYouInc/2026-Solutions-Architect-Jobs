@@ -1,16 +1,16 @@
-# Technical Architect at Salesforce
+# Lead HANA Architect at Fractal
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Engineering Manager |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Technical-Architect_JR333712) |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Lead-HANA-Architect_SR-40551-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-27.
+This engineering manager position at Fractal was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
