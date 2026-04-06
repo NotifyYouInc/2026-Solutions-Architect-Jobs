@@ -1,16 +1,16 @@
-# Solutions Architect - Lead at Ingram Micro
+# Senior Solutions Architect (Sales) at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Arkansas, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect---Lead_R-113129) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Massachusetts/Senior-Solutions-Architect--Sales-_R0323219) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-03-30.
+This technical & solutions architect position at Thales was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

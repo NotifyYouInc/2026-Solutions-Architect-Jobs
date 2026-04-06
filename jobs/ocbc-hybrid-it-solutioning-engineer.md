@@ -1,16 +1,16 @@
-# Solutions Architect - Lead at Ingram Micro
+# Hybrid IT Solutioning Engineer at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect---Lead_R-113129) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Hybrid-IT-Solutioning-Engineer_JR00006700) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-03-30.
+This technical & solutions architect position at OCBC was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Home-Based-India/IT-Service-Management---Presales-Solution-Architect_REQ569035) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Home-Based-India/Service-Management-Presales-Solution-Architect_REQ572131) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-03-24.
+This technical & solutions architect position at Unisys was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

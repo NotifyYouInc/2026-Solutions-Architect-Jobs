@@ -1,16 +1,16 @@
-# Full-Stack Architect at TD Bank
+# Solutions Architect at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Architect_R_1481126-1) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117499127-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Bank was posted on 2026-03-30.
+This technical & solutions architect position at Experian was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

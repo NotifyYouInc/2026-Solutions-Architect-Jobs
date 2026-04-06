@@ -1,16 +1,16 @@
-# Solutions Architect - Lead at Ingram Micro
+# Lead IT Architect, Engineering  at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect---Lead_R-113129) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000963958-lead-it-architect-engineering) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-03-30.
+This technical & solutions architect position at NCS was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

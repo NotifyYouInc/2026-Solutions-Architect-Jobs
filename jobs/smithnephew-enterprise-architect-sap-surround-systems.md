@@ -1,16 +1,16 @@
-# Senior Business Solutions Architect – Enterprise Data Management at Nvidia
+# Enterprise Architect – SAP Surround Systems at Smith+Nephew
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Business-Solutions-Architect---Enterprise-Data-Management_JR2014674) |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/Enterprise-Architect---SAP-Surround-Systems_R89388) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-03-30.
+This technical & solutions architect position at Smith+Nephew was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

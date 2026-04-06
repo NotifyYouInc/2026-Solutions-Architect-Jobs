@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000116365479-software-architect-english-german-speaking-ref5278q) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000117256077-software-architect-english-german-speaking-ref5278q) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-03-24.
+This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
