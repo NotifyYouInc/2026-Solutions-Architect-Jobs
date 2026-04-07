@@ -1,16 +1,16 @@
-# Senior Java Developer, Solution Architect- Vice President at Citigroup
+# Senior Java Developer Solution Architect - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Developer--Solution-Architect--Vice-President_26944381) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Java-Developer-Solution-Architect---Vice-President_26944390-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-03-16.
+This technical & solutions architect position at Citigroup was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

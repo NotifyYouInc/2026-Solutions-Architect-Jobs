@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Writer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8085147002) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8484719002) |
 
 ## About This Role
 
-This technical writer position at Workato was posted on 2026-02-24.
+This technical & solutions architect position at Workato was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
