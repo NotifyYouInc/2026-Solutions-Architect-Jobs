@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# FSI Solutions Arch, FSI Solutions Arch at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8482406002) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380968/fsi-solutions-arch-fsi-solutions-arch) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-27.
+This technical & solutions architect position at Amazon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

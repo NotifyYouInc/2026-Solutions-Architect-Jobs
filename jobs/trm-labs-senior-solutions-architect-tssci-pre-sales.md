@@ -1,16 +1,16 @@
-# OutSystems Platform Architect (Tech Lead) at Woongjin
+# Senior Solutions Architect - TS/SCI (Pre-Sales) at TRM Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117005707-outsystems-platform-architect-tech-lead) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/d5c9b448-2e1d-4e90-80df-79d49c533849) |
 
 ## About This Role
 
-This technical & solutions architect position at Woongjin was posted on 2026-03-26.
+This technical & solutions architect position at TRM Labs was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

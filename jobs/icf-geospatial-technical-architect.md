@@ -1,16 +1,16 @@
-# Software Architect at KBR
+# Geospatial Technical Architect at ICF
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Software-Architect_R2121225) |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Geospatial-Technical-Architect_R2601135) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-03-31.
+This technical & solutions architect position at ICF was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

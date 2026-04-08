@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Load Balancing Architect at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8482406002) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/300-Kimball-Drive-Parsippany-NJ-USA/Load-Balancer-Solutions-Architect_JR2503278) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-27.
+This technical & solutions architect position at AIG was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Architect at KBR
+# Principal Data Solutions Architect at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Software-Architect_R2121225) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Principal-Data-Solutions-Architect_R-525667-1) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-03-31.
+This technical & solutions architect position at Wells Fargo was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

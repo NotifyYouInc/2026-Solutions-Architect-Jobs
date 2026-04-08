@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116644687-software-architect-principal) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116997607-software-architect-principal) |
 
 ## About This Role
 
-This technical & solutions architect position at MicroStrategy was posted on 2026-03-25.
+This technical & solutions architect position at MicroStrategy was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

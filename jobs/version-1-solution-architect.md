@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 6 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000116622508-solution-architect) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000117605922-solution-architect) |
 
 ## About This Role
 
-This technology / it consulting position at Version 1 was posted on 2026-03-25.
+This technology / it consulting position at Version 1 was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

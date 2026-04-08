@@ -1,16 +1,16 @@
-# Software Architect at KBR
+# M365 Architect - Modern Workplace at Nelnet
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Lincoln, Nebraska, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Software-Architect_R2121225) |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/M365-Architect---Modern-Workplace_R22483) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-03-31.
+This technical & solutions architect position at Nelnet was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

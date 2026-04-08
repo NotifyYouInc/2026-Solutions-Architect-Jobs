@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000116913330-senior-solution-architect-team-lead-fm) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000117604276-senior-solution-architect-team-lead-fm) |
 
 ## About This Role
 
-This technical & solutions architect position at Eurofins Scientific was posted on 2026-03-26.
+This technical & solutions architect position at Eurofins Scientific was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

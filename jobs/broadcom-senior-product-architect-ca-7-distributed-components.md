@@ -1,16 +1,16 @@
-# Software Architect at KBR
+# Senior Product Architect – CA 7 Distributed Components at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Software-Architect_R2121225) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Product-Architect---CA-7-Distributed-Components_R025525) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-03-31.
+This technical & solutions architect position at Broadcom was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

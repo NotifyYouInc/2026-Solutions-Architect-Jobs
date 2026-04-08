@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Solutions Architect at TRM Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8482406002) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/f637d8d6-54bd-4f24-8699-016980ddc09a) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-27.
+This technical & solutions architect position at TRM Labs was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

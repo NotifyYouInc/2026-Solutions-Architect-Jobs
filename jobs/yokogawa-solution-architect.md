@@ -1,16 +1,16 @@
-# Delivery Solutions Architect at Databricks
+# Solution Architect at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8482406002) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bedok/Solution-Architect_R-10763) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-27.
+This technical & solutions architect position at Yokogawa was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

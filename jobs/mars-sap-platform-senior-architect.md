@@ -1,16 +1,16 @@
-# Software Architect at KBR
+# SAP Platform Senior Architect at Mars
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Guararema, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Software-Architect_R2121225) |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/BRA-Sao-Paulo-Guararema/SAP-Platform-Senior-Architect_R150558) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-03-31.
+This technical & solutions architect position at Mars was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
