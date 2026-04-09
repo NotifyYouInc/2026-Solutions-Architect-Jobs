@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000115885692-principal-engineer-salesforce-architect-manufacturing) |
+| Location | Pennsylvania, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000118171127-principal-engineer-salesforce-architect-manufacturing) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-03-20.
+This technical & solutions architect position at Nagarro was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

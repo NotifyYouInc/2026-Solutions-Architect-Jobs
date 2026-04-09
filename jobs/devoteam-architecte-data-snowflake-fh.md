@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111112161-architecte-data-snowflake-fh) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000118141284-architecte-data-snowflake-fh) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-02-24.
+This technical & solutions architect position at Devoteam was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

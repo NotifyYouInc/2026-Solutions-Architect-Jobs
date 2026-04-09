@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 12 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7664680) |
+| Location | Pune, Maharashtra, India |
+| Category | Customer Success |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7771666) |
 
 ## About This Role
 
-This technical & solutions architect position at Fastly was posted on 2026-02-27.
+This customer success position at Fastly was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

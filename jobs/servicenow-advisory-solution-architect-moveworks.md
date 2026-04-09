@@ -1,16 +1,16 @@
-# Advisory Solution Architect- Moveworks at ServiceNow
+# Advisory Solution Architect - Moveworks  at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Issy-les-Moulineaux, Île-de-France, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109654415-advisory-solution-architect-moveworks) |
+| Location | London, England, United Kingdom |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118102147-advisory-solution-architect-moveworks) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-02-17.
+This technology / it consulting position at ServiceNow was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

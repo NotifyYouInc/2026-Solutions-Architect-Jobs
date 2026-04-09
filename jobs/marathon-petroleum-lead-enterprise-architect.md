@@ -5,12 +5,12 @@
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Lead-Enterprise-Architect_00020631) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Lead-Enterprise-Architect_00021267) |
 
 ## About This Role
 
-This technical & solutions architect position at Marathon Petroleum was posted on 2026-02-24.
+This technical & solutions architect position at Marathon Petroleum was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

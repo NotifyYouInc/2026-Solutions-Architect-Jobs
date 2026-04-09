@@ -1,16 +1,16 @@
-# Architecte Système (F/H) at Thales
+# Architecte système - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Élancourt, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rennes/Architecte-Systme--F-H-_R0322681-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/Architecte-systme---F-H_R0323668) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-03-24.
+This technical & solutions architect position at Thales was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

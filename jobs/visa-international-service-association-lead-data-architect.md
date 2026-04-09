@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117346572-lead-data-architect) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117753657-lead-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Visa International Service Association was posted on 2026-03-27.
+This technical & solutions architect position at Visa International Service Association was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

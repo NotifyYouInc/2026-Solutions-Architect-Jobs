@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117352202-data-architect) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117678758-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Utility Warehouse was posted on 2026-03-27.
+This technical & solutions architect position at Utility Warehouse was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

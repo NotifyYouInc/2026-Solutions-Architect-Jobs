@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Enterprise-Architect_R0135264-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Enterprise-Architect_R0135901) |
 
 ## About This Role
 
-This technical & solutions architect position at PayPal was posted on 2026-03-05.
+This technical & solutions architect position at PayPal was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
