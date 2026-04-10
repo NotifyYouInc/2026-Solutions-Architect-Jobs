@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 6 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Solution-Architect_ATCI-5478040-S1998225) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Solution-Architect_ATCI-5302738-S1935851-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-03-30.
+This technology / it consulting position at Accenture was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

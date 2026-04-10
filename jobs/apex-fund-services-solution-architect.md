@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Solution-Architect_JR-0019494) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Solution-Architect_JR-0020336) |
 
 ## About This Role
 
-This technical & solutions architect position at Apex Fund Services was posted on 2026-03-02.
+This technical & solutions architect position at Apex Fund Services was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

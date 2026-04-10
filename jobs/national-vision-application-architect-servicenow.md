@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Duluth, Minnesota, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000116951844-application-architect-servicenow) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000118408347-application-architect-servicenow) |
 
 ## About This Role
 
-This technical & solutions architect position at National Vision was posted on 2026-03-26.
+This technical & solutions architect position at National Vision was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

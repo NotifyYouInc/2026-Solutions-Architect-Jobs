@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000107492385-platform-architect-procurement-mfd) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000118382007-platform-architect-procurement-mfd) |
 
 ## About This Role
 
-This operations position at METRO/MAKRO was posted on 2026-02-05.
+This technical & solutions architect position at METRO/MAKRO was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

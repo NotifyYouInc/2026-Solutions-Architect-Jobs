@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma/Infrastructure-Architect_14262304) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Infrastructure-Architect_ATCI-5397064-S2010504-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-03-30.
+This technical & solutions architect position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

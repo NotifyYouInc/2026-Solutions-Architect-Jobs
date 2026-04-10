@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Enterprise-Solution-Architect_ATCI-5425337-S1976910-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Enterprise-Solution-Architect_ATCI-5425336-S1976903-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-03-30.
+This technology / it consulting position at Accenture was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

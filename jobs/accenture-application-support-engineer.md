@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5348764-S1970661) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5492246-S2003844-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-02-14.
+This technical support engineer position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
