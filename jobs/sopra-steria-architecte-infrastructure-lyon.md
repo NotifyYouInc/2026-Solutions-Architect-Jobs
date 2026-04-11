@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114344928-architecte-infrastructure-lyon) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118557867-architecte-infrastructure-lyon) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-03-12.
+This technical & solutions architect position at Sopra Steria was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

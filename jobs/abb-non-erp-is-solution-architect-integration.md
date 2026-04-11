@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cary, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/NON-ERP---IS-Solution-Architect--Integration_JR00029215) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/NON-ERP---IS-Solution-Architect--Integration-JR_JR00030667-1) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-03-31.
+This technical & solutions architect position at ABB was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

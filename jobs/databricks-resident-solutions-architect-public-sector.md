@@ -1,16 +1,16 @@
-# Resident Solutions Architect-Public Sector at Databricks
+# Resident Solutions Architect - Public Sector at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8457167002) |
+| Location | Maryland, US |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8494107002) |
 
 ## About This Role
 
-This customer success position at Databricks was posted on 2026-03-12.
+This technology / it consulting position at Databricks was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

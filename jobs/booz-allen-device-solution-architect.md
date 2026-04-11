@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fayetteville, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Device-Solution-Architect_R0235270) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Device-Solution-Architect_R0237090) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-06.
+This technology / it consulting position at Booz Allen was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

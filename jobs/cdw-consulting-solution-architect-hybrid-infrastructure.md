@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Georgia, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Georgia/Consulting-Solution-Architect---Hybrid-Infrastructure_R26_00001297) |
+| Location | United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Consulting-Solution-Architect---Hybrid-Infrastructure_R26_00001382) |
 
 ## About This Role
 
-This technical & solutions architect position at CDW was posted on 2026-03-25.
+This technology / it consulting position at CDW was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

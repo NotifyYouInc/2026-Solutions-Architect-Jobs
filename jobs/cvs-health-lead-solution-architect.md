@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | North Carolina, US |
+| Location | Hartford, Connecticut, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Work-from-home/Lead-Solution-Architect_R0869081) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Lead-Solution-Architect_R0865168) |
 
 ## About This Role
 
-This technical & solutions architect position at CVS Health was posted on 2026-03-31.
+This technical & solutions architect position at CVS Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

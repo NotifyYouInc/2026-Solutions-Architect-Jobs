@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iron Mountain](https://scoutify.ai/companies/ironmountain?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sonora, MX |
+| Location | Florida, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/MEX--Sonora--Prolongacion-Blvd-Colonial-300/Solutions-Delivery-Architect_J0100229) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--TX--Remote/Solutions-Delivery-Architect_J0100230) |
 
 ## About This Role
 
-This technical & solutions architect position at Iron Mountain was posted on 2026-03-31.
+This technical & solutions architect position at Iron Mountain was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

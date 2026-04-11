@@ -5,12 +5,12 @@
 | Company | [Archer](https://scoutify.ai/companies/archer56?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/archer56/jobs/7664549003) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/archer56/jobs/7684508003) |
 
 ## About This Role
 
-This technical & solutions architect position at Archer was posted on 2026-03-13.
+This technical & solutions architect position at Archer was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
