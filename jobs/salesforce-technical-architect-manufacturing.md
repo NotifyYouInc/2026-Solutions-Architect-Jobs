@@ -1,16 +1,16 @@
-# Solutions Architect at Meta
+# Technical Architect (Manufacturing) at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/24951891621155289) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Architect--Manufacturing-_JR326277) |
 
 ## About This Role
 
-This technical & solutions architect position at Meta was posted on 2026-04-04.
+This technical & solutions architect position at Salesforce was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 
