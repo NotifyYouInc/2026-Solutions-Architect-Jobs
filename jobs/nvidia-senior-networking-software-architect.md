@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Networking-Software-Architect_JR2011446) |
+| Location | Israel |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Networking-Software-Architect_JR2001640) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-03.
+This technical & solutions architect position at Nvidia was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

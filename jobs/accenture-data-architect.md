@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Location | 9 locations |
+| Category | Engineering Manager |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Architect_ATCI-4926769-S1852303-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Data-Architect_ATCI-5102498-S1889377-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-01.
+This engineering manager position at Accenture was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

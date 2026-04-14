@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Salesforce-Senior-Developer_R-00177000) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Salesforce-Senior-Developer_R-00180009) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-02-25.
+This technical & solutions architect position at Leidos was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

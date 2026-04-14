@@ -6,7 +6,7 @@
 | Location | Zagreb, Zagreb, Croatia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000118119151-executive-director-architecture) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000118121367-executive-director-architecture) |
 
 ## About This Role
 

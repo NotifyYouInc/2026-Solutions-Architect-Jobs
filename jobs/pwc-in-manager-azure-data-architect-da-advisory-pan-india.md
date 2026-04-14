@@ -1,4 +1,4 @@
-# IN-Manager_ Azure Data Architect_D&A_Advisory_PAN India at PwC
+# IN_Manager_ Azure Data Architect_D&A_Advisory_PAN India at PwC
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Kolkata, West Bengal, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Manager--Azure-Data-Architect-D-A-Advisory-PAN-India_718031WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Manager--Azure-Data-Architect-D-A-Advisory-PAN-India_717769WD-1) |
 
 ## About This Role
 

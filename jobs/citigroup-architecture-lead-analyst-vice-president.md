@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Architecture-Lead-Analyst---Vice-President_26948486) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Architecture-Lead-Analyst---Vice-President_26950743-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-03-20.
+This technical & solutions architect position at Citigroup was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

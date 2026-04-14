@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 8 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-System-Engineer_R-98656) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-System-Engineer_R-100740) |
 
 ## About This Role
 
-This technical & solutions architect position at AT&T was posted on 2026-02-12.
+This technical & solutions architect position at AT&T was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

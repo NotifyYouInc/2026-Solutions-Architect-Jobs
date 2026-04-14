@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Database-Administrator_ATCI-4240652-S1668091) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Platform-Architect_ATCI-5075859-S1880463-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-03-31.
+This technical & solutions architect position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
