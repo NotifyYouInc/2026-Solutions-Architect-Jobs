@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Ljubljana, Ljubljana, Slovenia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-Delhi-India/Solutions-Engineer_2004190) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ljubljana-Slovenia/Solutions-Engineer_2010352-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-02-19.
+This technical & solutions architect position at Cisco was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

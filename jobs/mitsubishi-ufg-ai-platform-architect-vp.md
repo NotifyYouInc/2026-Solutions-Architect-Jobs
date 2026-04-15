@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/AI-Platform-Architect--VP_10075667-WD) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/AI-Platform-Architect--VP_10075958-WD) |
 
 ## About This Role
 
-This technical & solutions architect position at Mitsubishi UFG was posted on 2026-03-18.
+This technical & solutions architect position at Mitsubishi UFG was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

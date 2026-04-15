@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bridgewater, New Jersey, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000118189588-enterprise-architect-point-of-view-pov-development-biopharma-life-sciences-industry) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000119155667-enterprise-architect-point-of-view-pov-development-biopharma-life-sciences-industry) |
 
 ## About This Role
 
-This technology / it consulting position at VTekis Consulting LLP was posted on 2026-04-01.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

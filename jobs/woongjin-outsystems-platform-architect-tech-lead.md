@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
+| Location | Ramsey, Minnesota, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118205676-outsystems-platform-architect-tech-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118277186-outsystems-platform-architect-tech-lead) |
 
 ## About This Role
 

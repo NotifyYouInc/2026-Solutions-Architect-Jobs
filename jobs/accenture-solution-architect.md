@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Solution-Architect_ATCI-5421388-S1973172-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Solution-Architect_ATCI-5496542-S2009778-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-01.
+This technology / it consulting position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

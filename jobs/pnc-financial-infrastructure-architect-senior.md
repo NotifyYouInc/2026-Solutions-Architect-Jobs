@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Denver---12345-W-Colfax-CO147/Infrastructure-Architect-Senior_R216849-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Colfax-and-Wadsworth-CO145/Infrastructure-Architect-Senior_R217809-1) |
 
 ## About This Role
 
-This technical & solutions architect position at PNC Financial was posted on 2026-03-30.
+This technical & solutions architect position at PNC Financial was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
