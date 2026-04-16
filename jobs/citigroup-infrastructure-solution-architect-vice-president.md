@@ -1,16 +1,16 @@
-# Infrastructure Solution Architect (Vice President) at Citigroup
+# Infrastructure Solution Architect - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Infrastructure-Solution-Architect--Vice-President-_26944261-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Infrastructure-Solution-Architect---Vice-President_26951497) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-03-13.
+This technical & solutions architect position at Citigroup was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

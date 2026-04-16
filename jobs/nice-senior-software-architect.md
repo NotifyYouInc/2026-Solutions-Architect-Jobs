@@ -1,16 +1,16 @@
-# Senior Software Architect at NiCE
+# Senior Software Architect  at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sandy, Utah, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4821187101?gh_jid=4821187101) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4835649101?gh_jid=4835649101) |
 
 ## About This Role
 
-This technical & solutions architect position at NiCE was posted on 2026-03-26.
+This technical & solutions architect position at NiCE was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Enterprise Architect at Workday
+# Sr Enterprise Architect at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Remote/Sr-Enterprise-Architect_JR-0105122) |
+| Location | 3 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Enterprise-Architect_JR-0106075) |
 
 ## About This Role
 
-This technology / it consulting position at Workday was posted on 2026-03-12.
+This technical & solutions architect position at Workday was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

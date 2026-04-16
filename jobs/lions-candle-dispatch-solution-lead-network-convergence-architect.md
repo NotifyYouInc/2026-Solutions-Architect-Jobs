@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000118391748-lead-network-convergence-architect) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000119116627-lead-network-convergence-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-02.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

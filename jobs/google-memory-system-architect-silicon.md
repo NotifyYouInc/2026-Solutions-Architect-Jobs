@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/133169955112657606-memory-system-architect-silicon?sort_by=date&page=1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXYf2hzlqBAw3ppCJamNeRu81Xt-fgj5Fin_5lYRkcxlEjsACxwdTPIHrb84j163rfm7v-_hSuNGh9HWh0Vi29NkHHxFrO7rI6BECP2YGNh6E6mQaz-enWhM_Z5XYw%3D%3D_V2&loc=US&title=Memory+System+Architect) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-24.
+This semiconductor / chip design position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

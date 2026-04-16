@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Custom-Application-Architect_ATCI-5505317-S2010101-1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Architect_ATCI-4803447-S1848492-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-02.
+This technical & solutions architect position at Accenture was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
