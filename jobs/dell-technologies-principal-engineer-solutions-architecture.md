@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Remote---North-Carolina-United-States/Principal-Engineer--Solutions-Architecture_R286325) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Principal-Engineer--Solutions-Architecture_R290056) |
 
 ## About This Role
 
-This technical & solutions architect position at Dell Technologies was posted on 2026-04-01.
+This technical & solutions architect position at Dell Technologies was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

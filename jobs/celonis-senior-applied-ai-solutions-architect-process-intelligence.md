@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7661398003?gh_jid=7661398003) |
+| Location | Copenhagen, Capital Region, Denmark |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7695040003?gh_jid=7695040003) |
 
 ## About This Role
 
-This ai / llm engineer position at Celonis was posted on 2026-03-11.
+This technical & solutions architect position at Celonis was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

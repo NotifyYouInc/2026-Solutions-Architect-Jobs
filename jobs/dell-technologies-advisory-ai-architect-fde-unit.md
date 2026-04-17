@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Illinois, US |
 | Category | AI / ML Research |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Advisory-AI-Architect--FDE-Unit-_R287597-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Illinois-United-States/Advisory-AI-Architect--FDE-Unit-_R287596-1) |
 
 ## About This Role
 
-This ai / ml research position at Dell Technologies was posted on 2026-04-08.
+This ai / ml research position at Dell Technologies was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
