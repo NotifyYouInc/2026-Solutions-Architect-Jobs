@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7757867) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7807249) |
 
 ## About This Role
 
-This technical & solutions architect position at Toast was posted on 2026-03-27.
+This technical & solutions architect position at Toast was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

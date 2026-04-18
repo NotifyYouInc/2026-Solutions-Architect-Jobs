@@ -1,12 +1,12 @@
-# Solution Architect at BlackApple Solutions Ltd
+# "solution Architect" at BlackApple Solutions Ltd
 
 | Field | Details |
 |-------|---------|
 | Company | [BlackApple Solutions Ltd](https://scoutify.ai/companies/blackapple-solutions-ltd?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Crawley, England, United Kingdom |
+| Location | Reading, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2016-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blackapplesolutionsltd1/89850818-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blackapplesolutionsltd1/89848301-solution-architect) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000118614961-architecte-applicatif) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000119985524-architecte-applicatif) |
 
 ## About This Role
 
-This technical & solutions architect position at Renaud-Bray was posted on 2026-04-03.
+This technical & solutions architect position at Renaud-Bray was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

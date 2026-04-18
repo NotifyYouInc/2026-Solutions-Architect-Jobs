@@ -1,16 +1,16 @@
-# GenAI Solutions Architect Lead Engineer -  Vice President at Citigroup
+# GenAI Solutions Architect Lead Engineer Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/GenAI-Solutions-Architect-Lead-Engineer----Vice-President_26935984) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/GenAI-Solutions-Architect-Lead-Engineer-Vice-President_26953775) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-02-20.
+This technical & solutions architect position at Citigroup was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

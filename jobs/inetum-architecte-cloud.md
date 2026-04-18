@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Saint-Ouen, Île-de-France, France |
+| Location | France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115712059-architecte-cloud) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000119991192-architecte-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-03-19.
+This technical & solutions architect position at Inetum was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

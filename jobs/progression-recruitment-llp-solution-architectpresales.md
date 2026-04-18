@@ -5,12 +5,12 @@
 | Company | [Progression Recruitment LLP](https://scoutify.ai/companies/progression-recruitment-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2014-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/progressionrecruitmentllp/77610238-solution-architectpresales) |
+| Posted | 2013-10-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/progressionrecruitmentllp/74002635-solution-architectpresales) |
 
 ## About This Role
 
-This technical & solutions architect position at Progression Recruitment LLP was posted on 2014-06-20.
+This technical & solutions architect position at Progression Recruitment LLP was posted on 2013-10-22.
 
 ## Get Real-Time Alerts
 

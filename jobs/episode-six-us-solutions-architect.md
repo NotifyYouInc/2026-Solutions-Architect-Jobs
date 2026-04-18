@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Episode Six US ](https://scoutify.ai/companies/episode-six-us-?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2025-10-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5661678004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5661676004) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/0b9ab4a7-43a4-4ced-83d2-1ca42c8418c0) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/bfd255c6-f9b7-441b-a10c-943a71ad8848) |
 
 ## About This Role
 
-This technical & solutions architect position at Astronomer was posted on 2026-03-23.
+This technical & solutions architect position at Astronomer was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

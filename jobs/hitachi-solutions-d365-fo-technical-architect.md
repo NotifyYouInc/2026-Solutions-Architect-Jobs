@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000112868857-d365-fo-technical-architect) |
+| Posted | 2025-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000071067621-d365-fo-technical-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi Solutions was posted on 2026-03-05.
+This technical & solutions architect position at Hitachi Solutions was posted on 2025-07-16.
 
 ## Get Real-Time Alerts
 
