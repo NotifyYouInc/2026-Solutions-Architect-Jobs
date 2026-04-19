@@ -1,12 +1,12 @@
-# Tencent Cloud- Big Data Migration Architect (Indonesia) at Tencent
+# Tencent Cloud- Big Data Migration Architect (Malaysia) at Tencent
 
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Thailand-Bangkok/Tencent-Cloud--Big-Data-Migration-Architect--Indonesia-_R107241) |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Tencent-Cloud--Big-Data-Migration-Architect--Malaysia-_R107242) |
 
 ## About This Role
 
