@@ -1,16 +1,16 @@
-# Resident Solutions Architect at Databricks
+# Solutions Architect at KBR
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 6 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Canberra-Australian-Capital-Territory-Australia/Solutions-Architect_R2121547-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-13.
+This technical & solutions architect position at KBR was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

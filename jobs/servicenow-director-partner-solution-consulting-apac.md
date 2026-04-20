@@ -1,16 +1,16 @@
-# Resident Solutions Architect at Databricks
+# Director, Partner Solution Consulting - APAC at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120303177-director-partner-solution-consulting-apac) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-13.
+This technical & solutions architect position at ServiceNow was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

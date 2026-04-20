@@ -1,16 +1,16 @@
-# Resident Solutions Architect at Databricks
+# Copilot Strategic Solution Engineer (Enterprise Commercial) at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858541) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-13.
+This technical & solutions architect position at Microsoft was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

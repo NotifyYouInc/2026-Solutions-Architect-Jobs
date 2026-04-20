@@ -1,16 +1,16 @@
-# Resident Solutions Architect at Databricks
+# IT Applications & Solutions Architect at O-I Glass
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Poland |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000120314507-it-applications-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-13.
+This technical & solutions architect position at O-I Glass was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

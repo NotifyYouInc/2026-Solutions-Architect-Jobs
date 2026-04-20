@@ -1,16 +1,16 @@
-# Resident Solutions Architect at Databricks
+# Senior Cloud Architect, ML/AI at DoiT
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Estonia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7693782003) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-13.
+This technical & solutions architect position at DoiT was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

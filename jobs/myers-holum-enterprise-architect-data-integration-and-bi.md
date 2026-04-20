@@ -5,12 +5,12 @@
 | Company | [Myers-Holum](https://scoutify.ai/companies/myers-holum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-11-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mhi/jobs/6571212003) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mhi/jobs/7572694003) |
 
 ## About This Role
 
-This technical & solutions architect position at Myers-Holum was posted on 2025-11-05.
+This technical & solutions architect position at Myers-Holum was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

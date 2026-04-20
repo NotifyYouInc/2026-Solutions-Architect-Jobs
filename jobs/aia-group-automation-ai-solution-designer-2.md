@@ -1,16 +1,16 @@
-# Resident Solutions Architect at Databricks
+# Automation & AI Solution Designer-2 at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Philippines |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-AIA-Philippines/Automation---AI-Solution-Designer-2_JR-65687) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-13.
+This technical & solutions architect position at AIA Group was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

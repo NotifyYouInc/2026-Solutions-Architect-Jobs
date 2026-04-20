@@ -1,16 +1,16 @@
-# SharePoint Associate Architect at IQ-EQ
+# Senior Software Architect at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Reẖovot, Central District, Israel |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000120267337-sharepoint-associate-architect) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Architect_R2616336) |
 
 ## About This Role
 
-This technical & solutions architect position at IQ-EQ was posted on 2026-04-12.
+This technical & solutions architect position at Applied Materials was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 
