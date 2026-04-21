@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104695) |
+| Location | Shanghai, Shanghai, China |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109619) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-25.
+This technical & solutions architect position at IBM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

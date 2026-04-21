@@ -5,12 +5,12 @@
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Staff-Software-Architect_R54378) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Staff-Software-Architect_R55647) |
 
 ## About This Role
 
-This technical & solutions architect position at Trimble was posted on 2026-02-27.
+This technical & solutions architect position at Trimble was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

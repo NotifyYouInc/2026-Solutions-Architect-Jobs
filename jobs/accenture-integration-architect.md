@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Architect_ATCI-5329454-S1969686-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Integration-Architect_ATCI-5328519-S2013508-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-09.
+This technology / it consulting position at Accenture was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

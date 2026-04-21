@@ -5,12 +5,12 @@
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/e81203f0-b636-44e0-98ad-4bfd4db9c629) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/f2d02ca2-a915-434a-ace0-1a93d2111716) |
 
 ## About This Role
 
-This technical & solutions architect position at Writer was posted on 2026-03-31.
+This technical & solutions architect position at Writer was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

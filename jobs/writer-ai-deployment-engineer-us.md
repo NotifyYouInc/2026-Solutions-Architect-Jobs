@@ -5,12 +5,12 @@
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/d4ec9f7d-f68c-4844-a33a-919ce2e6811e) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/220bdc8d-54f1-428d-b7ac-e0dc5945e349) |
 
 ## About This Role
 
-This technical & solutions architect position at Writer was posted on 2026-03-31.
+This technical & solutions architect position at Writer was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Senior-Solution-Architect_R-052808-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MI/Senior-Solution-Architect_R-055482-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-03-19.
+This technical & solutions architect position at Red Hat was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

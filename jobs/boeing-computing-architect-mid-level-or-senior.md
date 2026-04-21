@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 10 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Senior-Computing-Architect_JR2026505161-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Computing-Architect--Mid-Level-or-Senior-_JR2026505424-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-04-09.
+This technical & solutions architect position at Boeing was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

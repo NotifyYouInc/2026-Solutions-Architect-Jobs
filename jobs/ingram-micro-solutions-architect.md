@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Solutions-Architect_R-111844) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Auckland-New-Zealand/Solutions-Architect_R-114518) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-03-23.
+This technical & solutions architect position at Ingram Micro was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

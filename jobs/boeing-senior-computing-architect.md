@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 7 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Computing-Architect_JR2026503908-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Computing-Architect_JR2026503342-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-04-01.
+This technical & solutions architect position at Boeing was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

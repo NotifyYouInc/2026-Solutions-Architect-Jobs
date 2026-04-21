@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/MDM-Architect_R307491) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Austin-Texas-USA/MDM-Architect_R315231) |
 
 ## About This Role
 
-This technical & solutions architect position at Cushman & Wakefield was posted on 2026-03-01.
+This technical & solutions architect position at Cushman & Wakefield was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

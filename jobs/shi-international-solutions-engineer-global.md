@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Florida, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Dallas/Solutions-Engineer---Global_JR2560) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---FL---Home-Office/Solutions-Engineer---Global_JR2919) |
 
 ## About This Role
 
-This technical & solutions architect position at SHI International was posted on 2026-02-11.
+This technical & solutions architect position at SHI International was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

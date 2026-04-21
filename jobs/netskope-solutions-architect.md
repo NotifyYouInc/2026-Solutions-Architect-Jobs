@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Santa Clara, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7457549) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7787875) |
 
 ## About This Role
 
-This technical & solutions architect position at Netskope was posted on 2026-04-03.
+This technical & solutions architect position at Netskope was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

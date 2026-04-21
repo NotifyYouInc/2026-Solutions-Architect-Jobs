@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000114695442-architecte-cloud-devops-azure-hf) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000120440992-architecte-cloud-devops-azure-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-13.
+This devops engineer position at Devoteam was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
