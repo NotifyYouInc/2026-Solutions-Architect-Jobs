@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000119996277-solution-architect-in-power-platform) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000120640474-solution-architect-in-power-platform) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Software was posted on 2026-04-10.
+This technical & solutions architect position at Sigma Software was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8437032002) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8500326002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-09.
+This technical & solutions architect position at Databricks was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000119979460-solution-architect-all-genders) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120447367-solution-architect-all-genders) |
 
 ## About This Role
 
-This technical & solutions architect position at About You was posted on 2026-04-10.
+This technical & solutions architect position at About You was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

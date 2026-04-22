@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000119283257-architecte-modern-endpoint-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000120638498-architecte-modern-endpoint-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Magellan Partners was posted on 2026-04-08.
+This technical & solutions architect position at Magellan Partners was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

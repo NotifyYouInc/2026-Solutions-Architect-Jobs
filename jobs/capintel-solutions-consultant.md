@@ -5,12 +5,12 @@
 | Company | [CapIntel](https://scoutify.ai/companies/capintel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capintel/jobs/5105048007) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capintel/jobs/5106139007) |
 
 ## About This Role
 
-This implementation / professional services position at CapIntel was posted on 2026-04-10.
+This implementation / professional services position at CapIntel was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

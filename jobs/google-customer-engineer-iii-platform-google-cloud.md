@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115265590444073670-customer-engineer-iii-platform-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYvl1Hc-rTtJBdYTRCu53jF1lRH1SyyVAHB4Ehqn9-uqEjsACxwdTKhk-Wyls3Dn5GLTMJp7W4lu5L-PfqC5-9z3bDqtIyMlWoSbmQQ3UpVGSxI4vLoOmCh5b9ASmA%3D%3D_V2&loc=US&title=Customer+Engineer+III) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-12.
+This technical & solutions architect position at Google was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

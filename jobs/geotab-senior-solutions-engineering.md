@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geotab](https://scoutify.ai/companies/geotab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/5099784008) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/4938523008) |
 
 ## About This Role
 
-This technical & solutions architect position at Geotab was posted on 2026-04-08.
+This technical & solutions architect position at Geotab was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114033646-solution-architect-specialist-security-operations) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000120656867-solution-architect-specialist-security-operations) |
 
 ## About This Role
 
-This security engineer position at Entain was posted on 2026-03-11.
+This security engineer position at Entain was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

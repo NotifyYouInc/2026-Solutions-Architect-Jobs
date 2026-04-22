@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/ServiceNow-Solution-Architect_REQ570914) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/ServiceNow-Solution-Architect_REQ572556) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-23.
+This technical & solutions architect position at Unisys was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

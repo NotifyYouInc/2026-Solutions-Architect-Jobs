@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103518) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101901) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-03-17.
+This technical & solutions architect position at IBM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
