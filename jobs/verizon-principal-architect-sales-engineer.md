@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Alpharetta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Sacramento-California/Principal-Architect---Sales-Engineer_R-1092547-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Principal-Architect---Sales-Engineer_R-1093550-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Verizon was posted on 2026-03-20.
+This technical & solutions architect position at Verizon was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

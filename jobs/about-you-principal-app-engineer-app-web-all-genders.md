@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Mobile Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120359817-principal-app-engineer-app-web-all-genders) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120622174-principal-app-engineer-app-web-all-genders) |
 
 ## About This Role
 
-This mobile engineer position at About You was posted on 2026-04-13.
+This mobile engineer position at About You was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

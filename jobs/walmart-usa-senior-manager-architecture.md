@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Senior-Manager--Architecture_R-2463611) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Architecture_R-2476954) |
 
 ## About This Role
 
-This technical & solutions architect position at Walmart was posted on 2026-04-08.
+This technical & solutions architect position at Walmart was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

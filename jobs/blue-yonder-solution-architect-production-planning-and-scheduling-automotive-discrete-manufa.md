@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Solution-Architect---Production-Planning-and-Scheduling--Automotive---Discrete-Manufacturing-_253895) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Solution-Architect---Production-Planning-and-Scheduling--Automotive---Discrete-Manufacturing-_254411) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-02-05.
+This technical & solutions architect position at Blue Yonder was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

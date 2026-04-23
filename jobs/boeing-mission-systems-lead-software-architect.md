@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Berkeley, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Mission-Systems-Lead-Software-Architect_JR2026494733-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Mission-Systems-Lead-Software-Architect_JR2026505692-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-03-02.
+This technical & solutions architect position at Boeing was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

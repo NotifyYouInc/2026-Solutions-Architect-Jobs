@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111817045-technical-solution-architect-dynamics-365-ce-stockholm) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120961048-technical-solution-architect-dynamics-365-ce-stockholm) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-27.
+This technical & solutions architect position at Sopra Steria was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

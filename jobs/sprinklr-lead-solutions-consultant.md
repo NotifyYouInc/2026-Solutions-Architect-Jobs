@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | New York, US |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Spain---Madrid/Lead-Solutions-Consultant_112893-JOB) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---New-York---Remote/Lead-Solutions-Consultant_112979-JOB-1) |
 
 ## About This Role
 
-This implementation / professional services position at Sprinklr was posted on 2026-04-08.
+This implementation / professional services position at Sprinklr was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

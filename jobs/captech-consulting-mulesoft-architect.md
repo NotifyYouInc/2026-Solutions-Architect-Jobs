@@ -1,16 +1,16 @@
-# MuleSoft Architect at CapTech Consulting
+# Mulesoft Architect at CapTech Consulting
 
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115220339-mulesoft-architect) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000120997967-mulesoft-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-03-17.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

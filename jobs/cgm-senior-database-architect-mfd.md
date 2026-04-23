@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Koblenz, Rheinland-Pfalz, Germany |
+| Location | 2 locations |
 | Category | Database Administration |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Koblenz/Database-Architect-and-Configuration-Expert--m-f-d-_JR105718) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Linz/Senior-Database-Architect--m-f-d-_JR109381) |
 
 ## About This Role
 
-This database administration position at Cgm was posted on 2026-04-08.
+This database administration position at Cgm was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

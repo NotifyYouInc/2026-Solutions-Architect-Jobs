@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Staff-Infrastructure-Architect_R5026660-2) |
+| Location | Schenectady, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Schenectady/Staff-Data---Information-Architect_R5038987-2) |
 
 ## About This Role
 
-This operations position at GE Vernova was posted on 2026-02-11.
+This technical & solutions architect position at GE Vernova was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

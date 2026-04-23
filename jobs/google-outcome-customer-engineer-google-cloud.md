@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/109307781462270662-outcome-customer-engineer-google-cloud?sort_by=date&page=1) |
+| Location | Singapore, Singapore |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTTHjIX8vPZBQTiet0KNq0M7cnfjv4rBs78LcmhyMLTYEjsACxwdTK4Aw-Dvyemv1k255QecgJEtkILceirlBbsuaPwKcwDhYLE-0RUSgr1r1ERKfLe_f8KWCeXrxg%3D%3D_V2&loc=SG&title=Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-02-02.
+This technical & solutions architect position at Google was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

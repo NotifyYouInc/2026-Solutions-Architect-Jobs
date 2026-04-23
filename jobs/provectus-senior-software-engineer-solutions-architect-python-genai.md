@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Armenia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/0d1f917d-9be1-4a1c-adea-967ea0fe5a30) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/73156c93-34ae-46ea-8b11-cbb81cb19094) |
 
 ## About This Role
 
-This technical & solutions architect position at Provectus was posted on 2026-03-30.
+This technical & solutions architect position at Provectus was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

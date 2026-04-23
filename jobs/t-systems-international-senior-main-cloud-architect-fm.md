@@ -5,12 +5,12 @@
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000116352129-senior-main-cloud-architect-fm) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000121014607-senior-main-cloud-architect-fm) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-03-24.
+This technical & solutions architect position at T-Systems International was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

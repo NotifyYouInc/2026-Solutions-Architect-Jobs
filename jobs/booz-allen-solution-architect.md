@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Solution-Architect_R0236865) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Solution-Architect_R0237836-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-03-25.
+This technical & solutions architect position at Booz Allen was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

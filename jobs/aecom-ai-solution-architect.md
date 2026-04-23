@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113567581-ai-solution-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120986935-ai-solution-architect) |
 
 ## About This Role
 
-This ai / llm engineer position at AECOM was posted on 2026-03-09.
+This technical & solutions architect position at AECOM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

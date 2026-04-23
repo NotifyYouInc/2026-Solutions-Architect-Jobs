@@ -5,12 +5,12 @@
 | Company | [540](https://scoutify.ai/companies/540?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7671020003) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7702074003) |
 
 ## About This Role
 
-This technical & solutions architect position at 540 was posted on 2026-03-18.
+This technical & solutions architect position at 540 was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

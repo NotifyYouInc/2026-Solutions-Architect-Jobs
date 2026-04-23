@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Irving, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Architecture-Lead-Analyst_26950744) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Architecture-Lead-Analyst_26955063) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-04-06.
+This technical & solutions architect position at Citigroup was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Manchester/Senior-Business-Solution-Architect_BF-REQ-4077) |
+| Location | Connecticut, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/New-York/Senior-Business-Solution-Architect_REQ-4540) |
 
 ## About This Role
 
-This technology / it consulting position at Clio was posted on 2026-03-13.
+This technical & solutions architect position at Clio was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

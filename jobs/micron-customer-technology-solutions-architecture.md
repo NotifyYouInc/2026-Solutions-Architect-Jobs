@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Customer-Technology---Solutions-Architecture_JR96647) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Customer-Technology---Solutions-Architecture_JR98062) |
 
 ## About This Role
 
-This technical & solutions architect position at Micron was posted on 2026-04-06.
+This technical & solutions architect position at Micron was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

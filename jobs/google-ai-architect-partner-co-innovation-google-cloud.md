@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 19 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb8JsRmg7e7g4hd9Lov6swhzIyKN44zU-gLe-CkY0Nb3EjsACxwdTGTt8PnFXDpuMUpgIXIsPyPMiRvP1xVOtbo48YRyOBz4awWtCOBQd9x0jGO3t6GxcwjF0PO-0w%3D%3D_V2&loc=US&title=AI+Architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVTBtqi4ItYMbTd4qQj_HZ9g4NQRgeI-aaJ5Y85eKRHQEjsACxwdTNnEI2X2uYBdHM5KgPBf8cjav66xc-fJzMqg92CUHvPK7l4A3XoBDF70KTovbcDERIM6kqLIwA%3D%3D_V2&loc=US&title=AI+Architect) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-14.
+This technical & solutions architect position at Google was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
