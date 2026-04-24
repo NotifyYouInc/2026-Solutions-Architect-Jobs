@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Oracle-Applications-Solutions-Architect_RQ217558-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Oracle-Applications-Solutions-Architect_RQ218499-2) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-04-05.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

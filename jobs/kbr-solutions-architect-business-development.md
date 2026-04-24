@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Leatherhead, England, United Kingdom |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Solutions-Architect--Business-Development-_R2121034) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Solutions-Architect--Business-Development-_R2122129) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at KBR was posted on 2026-03-27.
+This sales development (sdr / bdr) position at KBR was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

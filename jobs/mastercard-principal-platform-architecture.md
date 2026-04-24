@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Principal-Platform-Architecture_R-269441-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Platform-Architecture_R-270072) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-02-13.
+This technical & solutions architect position at Mastercard was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

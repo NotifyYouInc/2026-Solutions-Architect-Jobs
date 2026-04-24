@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York, US |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000119690957-sr-cyber-systems-architect-authentication) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000121263204-sr-cyber-systems-architect-authentication) |
 
 ## About This Role
 
-This security engineer position at NBCUniversal was posted on 2026-04-09.
+This technical & solutions architect position at NBCUniversal was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

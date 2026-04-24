@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cloud-Solution-Architect---AWS_REQ571325) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cloud-Solution-Architect---AWS_REQ572380) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-03-02.
+This technical & solutions architect position at Unisys was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

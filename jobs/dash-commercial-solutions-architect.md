@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dash](https://scoutify.ai/companies/dash?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-09-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/dash0/88dc8222-497c-4d58-ad5b-e862a6602c51) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dash0/7c385898-c877-4824-8004-b82d1eebac9b) |
 
 ## About This Role
 
-This technical & solutions architect position at Dash was posted on 2025-09-08.
+This technical & solutions architect position at Dash was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

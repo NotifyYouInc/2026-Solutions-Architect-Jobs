@@ -5,12 +5,12 @@
 | Company | [Deepgram](https://scoutify.ai/companies/deepgram?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/95b04eae-7d8c-40b6-8d33-0bbfa7f73877) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/be9609b4-b48d-4421-90e5-69049ad0d6ce) |
 
 ## About This Role
 
-This technical & solutions architect position at Deepgram was posted on 2026-04-15.
+This technical & solutions architect position at Deepgram was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

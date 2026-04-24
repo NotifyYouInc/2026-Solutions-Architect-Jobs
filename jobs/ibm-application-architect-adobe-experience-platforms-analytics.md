@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93414) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108969) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This technology / it consulting position at IBM was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

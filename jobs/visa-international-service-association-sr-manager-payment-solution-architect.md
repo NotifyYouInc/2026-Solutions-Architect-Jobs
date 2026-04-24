@@ -6,7 +6,7 @@
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120863917-sr-manager-payment-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121052612-sr-manager-payment-solution-architect) |
 
 ## About This Role
 

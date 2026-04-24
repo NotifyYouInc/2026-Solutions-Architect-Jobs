@@ -1,16 +1,16 @@
-# Architecture Lead Analyst - Vice President at Citigroup
+# Architecture Lead Analyst Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New York, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Architecture-Lead-Analyst---Vice-President_26950743-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Architecture-Lead-Analyst-Vice-President_26953647) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-04-06.
+This technical & solutions architect position at Citigroup was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

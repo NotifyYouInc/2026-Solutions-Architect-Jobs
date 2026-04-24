@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Seoul/Sr-Principal-Solution-Consultant_R7913) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Pune-EMR/Sr-Principal-Solution-Consultant_R8926) |
 
 ## About This Role
 
-This technical & solutions architect position at Aspentech was posted on 2026-03-10.
+This technical & solutions architect position at Aspentech was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

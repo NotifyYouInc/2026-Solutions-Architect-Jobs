@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Enterprise-Architect_R-520260) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Enterprise-Architect_R-536378) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-04-01.
+This technical & solutions architect position at Wells Fargo was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

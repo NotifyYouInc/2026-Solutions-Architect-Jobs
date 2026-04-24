@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | New York, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYO29ekEY3TeUrJ7zFuAcjmbIXAiRIXzGwg_oO5Kp-MfEjsACxwdTAvLHlOXH7IqxOL71gW3BjVF957Dy86sQ6Fh4nVRxVHvpoMmAoCS-5UnmGM1waLw1AB67t0C4A%3D%3D_V2&loc=MX&title=Principal+Architect+III) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb8-SP2IlZdsuN6XMNcjUbo9gO8Uehjxlg8PGWvBE8H3EjsACxwdTOmJjj-a-mI3928KpMkrzpR4oIcg3Sh_32mtj-_mULgcQGMoVANo3uuOvk0XG-uqgSwF1pv-jA%3D%3D_V2&loc=US&title=Principal+Architect+III) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-09.
+This technical & solutions architect position at Google was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

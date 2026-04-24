@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Infrastructure-Architect_13709046-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Infrastructure-Architect_ATCI-5378763-S1970708-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-04-14.
+This technical & solutions architect position at Accenture was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
