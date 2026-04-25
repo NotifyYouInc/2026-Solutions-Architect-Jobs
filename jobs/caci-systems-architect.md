@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hampton, Virginia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Hampton/Systems-Architect_323847) |
+| Location | Bethesda, Maryland, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Bethesda/Systems-Architect_325027) |
 
 ## About This Role
 
-This engineering manager position at CACI was posted on 2026-03-26.
+This technical & solutions architect position at CACI was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

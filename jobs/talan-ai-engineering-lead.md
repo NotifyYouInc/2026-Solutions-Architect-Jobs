@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120616438-ai-engineering-lead) |
+| Category | AI / ML Research |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000121447888-ai-engineering-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-04-14.
+This ai / ml research position at Talan was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

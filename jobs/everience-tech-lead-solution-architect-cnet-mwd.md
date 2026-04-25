@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Engineering Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112118237-tech-lead-solution-architect-cnet-mwd) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121415307-tech-lead-solution-architect-cnet-mwd) |
 
 ## About This Role
 
-This engineering manager position at Everience was posted on 2026-03-02.
+This technical & solutions architect position at Everience was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

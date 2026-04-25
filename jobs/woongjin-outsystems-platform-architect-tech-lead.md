@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Jersey, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000120488678-outsystems-platform-architect-tech-lead) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000121306957-outsystems-platform-architect-tech-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Woongjin was posted on 2026-04-13.
+This technical & solutions architect position at Woongjin was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

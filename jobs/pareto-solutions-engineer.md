@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pareto](https://scoutify.ai/companies/pareto?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pareto-ai/d1950c15-7f0f-4e2e-aeb4-cdc36f0065cf) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pareto-ai/311672f2-4619-4595-914c-7e2a287dcb15) |
 
 ## About This Role
 
-This technical & solutions architect position at Pareto was posted on 2026-03-23.
+This technical & solutions architect position at Pareto was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

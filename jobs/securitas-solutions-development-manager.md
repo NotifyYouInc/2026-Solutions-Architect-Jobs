@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Newcastle upon Tyne, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000120475888-solutions-development-manager) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000121367348-solutions-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Securitas was posted on 2026-04-13.
+This engineering manager position at Securitas was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

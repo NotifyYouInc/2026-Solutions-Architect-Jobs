@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=7685865&gh_jid=7685865) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=7809710&gh_jid=7809710) |
 
 ## About This Role
 
-This security engineer position at JFrog was posted on 2026-03-16.
+This security engineer position at JFrog was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

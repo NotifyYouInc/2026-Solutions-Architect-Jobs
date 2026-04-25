@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79756) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106762) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-26.
+This technical & solutions architect position at IBM was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

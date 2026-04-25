@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Pune-India/SFDC-Solution-Architect_JR-2026-19684) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Pune-India/SFDC-Solution-Architect_JR-2026-20162) |
 
 ## About This Role
 
-This technical & solutions architect position at Air Products was posted on 2026-04-01.
+This technical & solutions architect position at Air Products was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

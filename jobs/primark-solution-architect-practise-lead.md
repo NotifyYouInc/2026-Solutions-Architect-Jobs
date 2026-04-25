@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000120986883-solution-architect-practise-lead) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000121161862-solution-architect-practise-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Primark was posted on 2026-04-15.
+This technical & solutions architect position at Primark was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

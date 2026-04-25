@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849207) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556859564) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-19.
+This technical & solutions architect position at Microsoft was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

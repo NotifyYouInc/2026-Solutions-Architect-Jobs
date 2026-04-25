@@ -1,16 +1,16 @@
-# TIDS Applications Development Architect at WillowTree
+# TIDS Applications Development Architect  at WillowTree
 
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/a3f6427a-cca4-4605-8606-8e5ef89c4471) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/88889960-e366-415a-bfbf-21290dda3a5d) |
 
 ## About This Role
 
-This technical & solutions architect position at WillowTree was posted on 2026-04-15.
+This technical & solutions architect position at WillowTree was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Virginia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Quantico-VA/Information-Systems-Architect-Senior_R-00179572-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Quantico-VA/Information-Systems-Architect-Senior_R-00181172) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-03-30.
+This technical & solutions architect position at Leidos was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

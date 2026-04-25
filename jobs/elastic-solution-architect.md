@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7346237&gh_jid=7346237) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7811852&gh_jid=7811852) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-03-24.
+This technical & solutions architect position at Elastic was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

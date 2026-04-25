@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Woodlawn, Maryland, United States |
+| Location | United States |
 | Category | Database Administration |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Woodlawn-MD/Database-Architect_R-00177005-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Database-Architect_R-00181130-1) |
 
 ## About This Role
 
-This database administration position at Leidos was posted on 2026-02-26.
+This database administration position at Leidos was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

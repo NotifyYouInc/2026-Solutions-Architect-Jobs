@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Murray, Utah, United States |
+| Location | West Valley City, Utah, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/SelectHealth---Murray/Data-Architect-Senior_R163284) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Nevada-Central-Office/Data-Architect-Senior_R167725) |
 
 ## About This Role
 
-This technical & solutions architect position at Intermountain Health was posted on 2026-02-25.
+This technical & solutions architect position at Intermountain Health was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
