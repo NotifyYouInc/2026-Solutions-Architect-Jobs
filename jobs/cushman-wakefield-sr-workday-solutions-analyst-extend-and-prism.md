@@ -1,16 +1,16 @@
-# Senior Strategic Solutions Engineer, Bengaluru at Cloudflare
+# Sr. Workday Solutions Analyst - Extend and Prism at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
-| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7822857?gh_jid=7822857) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Sr-Workday-Solutions-Analyst---Extend-and-Prism_R314769) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudflare was posted on 2026-04-20.
+This technical & solutions architect position at Cushman & Wakefield was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

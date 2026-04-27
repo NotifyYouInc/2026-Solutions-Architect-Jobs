@@ -1,16 +1,16 @@
-# Senior Software Architect - Infotainment at Robert Bosch
+# Senior Software Architect at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plymouth, Minnesota, United States |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Karnataka, IN |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121675287-senior-software-architect-infotainment) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Software-Architect_JR00031659-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-04-20.
+This technical & solutions architect position at ABB was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

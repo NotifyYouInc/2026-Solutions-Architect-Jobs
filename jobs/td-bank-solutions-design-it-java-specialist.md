@@ -1,16 +1,16 @@
-# Senior Software Architect - Infotainment at Robert Bosch
+# Solutions Design IT Java Specialist at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plymouth, Minnesota, United States |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121675287-senior-software-architect-infotainment) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Solutions-Design-IT-Java-Specialist_R_1484518) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-04-20.
+This technical & solutions architect position at TD Bank was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

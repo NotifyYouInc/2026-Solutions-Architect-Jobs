@@ -1,16 +1,16 @@
-# Senior Software Architect - Infotainment at Robert Bosch
+# Senior Solutions Architect at Cloudflare
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plymouth, Minnesota, United States |
+| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121675287-senior-software-architect-infotainment) |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7820696?gh_jid=7820696) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-04-20.
+This technical & solutions architect position at Cloudflare was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
