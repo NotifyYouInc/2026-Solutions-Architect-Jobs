@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Turin, Piedmont, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/BEL---Mechelen/Lead-Enterprise-Architect_R0055073-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ITA---Turin-Via-Pianezza/Lead-Enterprise-Architect_R0055086) |
 
 ## About This Role
 
-This technical & solutions architect position at Wolters Kluwer was posted on 2026-03-09.
+This technical & solutions architect position at Wolters Kluwer was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

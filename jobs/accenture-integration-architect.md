@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Integration-Architect_ATCI-5328519-S2013508-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Integration-Architect_ATCP-1414750-S422276) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-13.
+This technical & solutions architect position at Accenture was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

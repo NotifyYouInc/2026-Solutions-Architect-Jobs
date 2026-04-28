@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neuralconcept](https://scoutify.ai/companies/neuralconcept?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lausanne, Vaud, Switzerland |
+| Location | Jersey City, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neuralconcept/78274a40-9e3c-48e3-b85c-9d24bf52eaa1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neuralconcept/b37daf93-77bf-4428-ad02-f39df3917035) |
 
 ## About This Role
 
-This technical & solutions architect position at Neuralconcept was posted on 2026-02-27.
+This technical & solutions architect position at Neuralconcept was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

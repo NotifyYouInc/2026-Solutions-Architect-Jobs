@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7686623?gh_jid=7686623) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7818456?gh_jid=7818456) |
 
 ## About This Role
 
-This technical & solutions architect position at Thoughtworks was posted on 2026-04-14.
+This technical & solutions architect position at Thoughtworks was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

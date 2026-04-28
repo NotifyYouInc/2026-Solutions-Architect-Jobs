@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---OK---ANY-CITY/Senior-TPF-Systems-Engineer---TPF-Platform-Architect_51577475) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---HI---ANY-CITY/Senior-TPF-Systems-Engineer---TPF-Platform-Architect_51578464) |
 
 ## About This Role
 
-This it & systems administration position at DXC Technology was posted on 2026-04-09.
+This it & systems administration position at DXC Technology was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

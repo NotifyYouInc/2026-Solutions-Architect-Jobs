@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93040585312477894-soc-vision-architect-silicon-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfYY3e8kiY8PwhjUFGzwAehmDOJnZy0OmtGuxpRDejy8EjsACxwdTGY59dDOAkzvH_Gu2nl8bIgL82g31saL8eodtFyJ7M9F1vMZsMR33T0wVx-EzbaX4ib-6GC7Kg%3D%3D_V2&loc=IL&title=SoC+Vision+Architect) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-03-02.
+This semiconductor / chip design position at Google was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
