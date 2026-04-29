@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | District of Columbia, US |
-| Category | Sales |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Home-Office/Enterprise-Architect_JR-0103869) |
+| Location | Colorado, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Remote/Enterprise-Architect_JR-0106457) |
 
 ## About This Role
 
-This sales position at Workday was posted on 2026-02-03.
+This technical & solutions architect position at Workday was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

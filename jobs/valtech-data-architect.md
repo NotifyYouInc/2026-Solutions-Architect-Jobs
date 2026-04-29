@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4780627101) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4836713101) |
 
 ## About This Role
 
-This technical & solutions architect position at Valtech was posted on 2026-02-11.
+This technical & solutions architect position at Valtech was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120732613-senior-architect) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122031057-senior-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-04-14.
+This technical & solutions architect position at AECOM was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

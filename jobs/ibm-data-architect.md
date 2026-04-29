@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92898) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110778) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-10.
+This technical & solutions architect position at IBM was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hangzhou/Cloud-Platform-Architect_14229979) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Cloud-Platform-Architect_ATCI-5270025-S1963245-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-15.
+This technical & solutions architect position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

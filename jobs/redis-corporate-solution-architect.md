@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redis](https://scoutify.ai/companies/redis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/redis/77b5dd2c-5165-4cd7-8ab7-68190ddb4b4b) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/redis/0586cf00-eef3-4c23-8d28-5a80814c32c3) |
 
 ## About This Role
 
-This technical & solutions architect position at Redis was posted on 2026-04-15.
+This technical & solutions architect position at Redis was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

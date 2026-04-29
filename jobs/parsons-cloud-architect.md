@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Reston/Cloud-Architect_R177131-2) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Reston/Cloud-Architect_R179886) |
 
 ## About This Role
 
-This solutions architect position at Parsons was posted on 2026-02-03.
+This technical & solutions architect position at Parsons was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

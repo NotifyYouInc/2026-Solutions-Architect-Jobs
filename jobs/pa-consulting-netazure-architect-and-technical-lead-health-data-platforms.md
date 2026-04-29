@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000114440279-netazure-architect-and-technical-lead-health-data-platforms) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000121989880-netazure-architect-and-technical-lead-health-data-platforms) |
 
 ## About This Role
 
-This technical & solutions architect position at PA Consulting was posted on 2026-03-12.
+This technical & solutions architect position at PA Consulting was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

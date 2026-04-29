@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reworld](https://scoutify.ai/companies/reworld?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
+| Location | Florham Park, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://reworld.wd5.myworkdayjobs.com/external/job/USA-NJ-Florham-Park/Senior-EPM-Solutions-Architect_JR12771) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://reworld.wd5.myworkdayjobs.com/external/job/USA-NJ-Florham-Park/Senior-EPM-Solutions-Architect_JR12966) |
 
 ## About This Role
 
-This technical & solutions architect position at Reworld was posted on 2026-04-02.
+This technical & solutions architect position at Reworld was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

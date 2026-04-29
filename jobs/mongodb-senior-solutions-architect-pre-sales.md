@@ -5,12 +5,12 @@
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7759585) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7837577) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-04-03.
+This technical & solutions architect position at MongoDB was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

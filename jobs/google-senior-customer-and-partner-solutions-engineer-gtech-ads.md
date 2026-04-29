@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York, US |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123929845150163654-senior-customer-and-partner-solutions-engineer-gtech-ads?sort_by=date&page=1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckboNqo7v045-HHHCAO3S5Wrz_E1x22bILFtnM-RXI96CEjsACxwdTOXubHqOplsp875gUTDyAj-XL4ee6WzkArXWbn71i2hWh8ubo9OE_ordZQ3_cSuuTfdvu-LfXw%3D%3D_V2&loc=US&title=Senior+Customer+and+Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-12.
+This technical & solutions architect position at Google was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

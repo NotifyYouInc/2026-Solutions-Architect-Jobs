@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000121453486-senior-data-security-databricks-architect) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000121837628-senior-data-security-databricks-architect) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-04-17.
+This security engineer position at VTekis Consulting LLP was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

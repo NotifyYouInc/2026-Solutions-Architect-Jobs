@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121356677-system-test-architect) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121681165-system-test-architect) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-04-17.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

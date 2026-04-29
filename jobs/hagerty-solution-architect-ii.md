@@ -5,12 +5,12 @@
 | Company | [Hagerty](https://scoutify.ai/companies/hagerty?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Solution-Architect-II_R5072) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Solution-Architect-II_R5200) |
 
 ## About This Role
 
-This technical & solutions architect position at Hagerty was posted on 2026-02-25.
+This technical & solutions architect position at Hagerty was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

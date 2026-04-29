@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hungary |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore-Remote/Principal-Solutions-Engineer---Artificial-Intelligence_260511) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary-Remote/Principal-Solutions-Engineer---Artificial-Intelligence_260513-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-04-16.
+This technical & solutions architect position at Cloudera was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

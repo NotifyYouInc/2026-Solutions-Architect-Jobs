@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQrvow23FEfliqC_SJ5wWPg8MBZLUM2X38vTltQPpwf6EjsACxwdTNE8V5oShs6meTXgF7PhRs-RNe48YGF0KUU9pG_Zt9pb8Dt2HhUNUmnLPmHlAmVAQc9zVXCVfA%3D%3D_V2&loc=IN&title=Senior+Technical+Solutions+Consultant) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQCP-9Gu-zJyBZSUxvtbqXvAXNJnlG-ijw0Mge0L8BUdEjsACxwdTNSENifMJo1OCwb2HVQsAKiRqD6p29ePAWFx8tp-sgnwdN2b5mFUNip7PjT9bqZA_zP9cwAM_A%3D%3D_V2&loc=US&title=Senior+Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-04-15.
+This implementation / professional services position at Google was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
