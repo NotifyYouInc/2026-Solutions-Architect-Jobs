@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ukrainka, Crimea, Ukraine |
+| Location | Odesa, Odessa, Ukraine |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000122029767-itsmitil-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000122077232-itsmitil-architect) |
 
 ## About This Role
 

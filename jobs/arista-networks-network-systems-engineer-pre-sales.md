@@ -6,7 +6,7 @@
 | Location | St. Louis, Missouri, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000122033136-network-systems-engineer-pre-sales) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000122038768-network-systems-engineer-pre-sales) |
 
 ## About This Role
 

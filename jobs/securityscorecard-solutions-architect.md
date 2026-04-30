@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SecurityScorecard](https://scoutify.ai/companies/securityscorecard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/7837678) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/7837718) |
 
 ## About This Role
 

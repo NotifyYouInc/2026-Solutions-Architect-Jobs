@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011562492-senior-cloud-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012771847-senior-cloud-architect) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-02-06.
+This technical & solutions architect position at AbbVie was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

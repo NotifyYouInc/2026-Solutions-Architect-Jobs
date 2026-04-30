@@ -5,12 +5,12 @@
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000120896316-software-architect-with-enterprise-architect-skills-all-genders) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000122267046-software-architect-with-enterprise-architect-skills-all-genders) |
 
 ## About This Role
 
-This technical & solutions architect position at Roland Berger was posted on 2026-04-15.
+This technical & solutions architect position at Roland Berger was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

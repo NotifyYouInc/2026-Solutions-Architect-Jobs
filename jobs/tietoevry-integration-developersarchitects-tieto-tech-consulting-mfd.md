@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Turku, Southwest Finland, Finland |
+| Location | Oulu, North Ostrobothnia, Finland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000121160487-integration-developersarchitects-tieto-tech-consulting-mfd) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122199204-integration-developersarchitects-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Tietoevry was posted on 2026-04-16.
+This technical & solutions architect position at Tietoevry was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

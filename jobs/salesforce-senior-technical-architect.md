@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Senior-Technical-Architect---Loyalty-Management-Revenue-Cloud-CGC-Heroku_JR299540) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Architect_JR334394) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-04-14.
+This technical & solutions architect position at Salesforce was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

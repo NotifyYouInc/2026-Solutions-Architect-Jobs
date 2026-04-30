@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/4071e415-36d6-4bc2-95e9-6196102f0ad5) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/49082e49-0755-4029-b1e9-6f389d9c3b64) |
 
 ## About This Role
 
-This technical & solutions architect position at OpenAI was posted on 2026-04-20.
+This technical & solutions architect position at OpenAI was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

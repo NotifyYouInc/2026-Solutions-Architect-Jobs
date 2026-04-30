@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | United States |
 | Category | Marketing Operations |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000118309037-ai-marketing-technology-solutions-architect) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000122324620-ai-marketing-technology-solutions-architect) |
 
 ## About This Role
 
-This marketing operations position at Flywire was posted on 2026-04-02.
+This marketing operations position at Flywire was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

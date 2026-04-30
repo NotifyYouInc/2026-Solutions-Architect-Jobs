@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neuralconcept](https://scoutify.ai/companies/neuralconcept?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neuralconcept/b37daf93-77bf-4428-ad02-f39df3917035) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neuralconcept/1db794ae-d1f9-4f32-8559-db42a81c6b89) |
 
 ## About This Role
 
-This technical & solutions architect position at Neuralconcept was posted on 2026-04-20.
+This technical & solutions architect position at Neuralconcept was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

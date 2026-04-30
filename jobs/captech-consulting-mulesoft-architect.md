@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000120997967-mulesoft-architect) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000122317779-mulesoft-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-04-15.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

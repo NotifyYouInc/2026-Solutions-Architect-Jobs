@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Solution-Architect--Airport-Operations-_R33423) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Solution-Architect--Airport-Operations-_R34898) |
 
 ## About This Role
 
-This technical & solutions architect position at Amadeus was posted on 2026-03-11.
+This technical & solutions architect position at Amadeus was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
