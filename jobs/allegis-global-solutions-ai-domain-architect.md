@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000122112379-ai-domain-architect) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000122453975-ai-domain-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Allegis Global Solutions was posted on 2026-04-21.
+This technical & solutions architect position at Allegis Global Solutions was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

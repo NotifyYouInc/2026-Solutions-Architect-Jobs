@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Manama, Manama, Bahrain |
-| Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376632/solutions-architect-iii-ags-menat-specialist-team) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10402215/solutions-architect-iii-ags-menat-specialist-team) |
 
 ## About This Role
 
-This technical writer position at Amazon was posted on 2026-03-26.
+This technical & solutions architect position at Amazon was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

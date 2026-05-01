@@ -1,16 +1,16 @@
-# Associate Principal Engineer (Solution Architect) at Nagarro
+# Associate Principal Engineer, Solution Architect at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | China |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000116869207-associate-principal-engineer-solution-architect) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000122385654-associate-principal-engineer-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-03-26.
+This technical & solutions architect position at Nagarro was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

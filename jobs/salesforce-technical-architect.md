@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Technical-Architect_JR334780) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Technical-Architect_JR333781) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-04-17.
+This technical & solutions architect position at Salesforce was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

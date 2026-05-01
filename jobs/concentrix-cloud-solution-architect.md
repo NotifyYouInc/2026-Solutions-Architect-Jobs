@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denmark |
+| Location | Finland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/FIN--Work-at-Home/Cloud-Solution-Architect_R1724323) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/FIN--Work-at-Home/Cloud-Solution-Architect_R1724460-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-21.
+This technical & solutions architect position at Concentrix was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

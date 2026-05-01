@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Infrastructure-Architect_R262341) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Infrastructure-Architect_R263359-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Uline was posted on 2026-03-19.
+This technical & solutions architect position at Uline was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

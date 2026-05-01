@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Associate-Principal_26003121-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Associate-Principal_26003746-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cigna was posted on 2026-04-14.
+This technical & solutions architect position at Cigna was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

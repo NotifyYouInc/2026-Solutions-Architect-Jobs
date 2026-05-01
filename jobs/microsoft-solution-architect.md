@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556744913) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556860509) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-04-06.
+This technical & solutions architect position at Microsoft was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

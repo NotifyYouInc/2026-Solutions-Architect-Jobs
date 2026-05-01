@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Devops Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Solutions-Engineer_321645) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Solutions-Engineer_325259) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-02-02.
+This technical & solutions architect position at CACI was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

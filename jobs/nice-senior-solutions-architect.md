@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4790678101?gh_jid=4790678101) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4790681101?gh_jid=4790681101) |
 
 ## About This Role
 
-This technical & solutions architect position at NiCE was posted on 2026-03-13.
+This technical & solutions architect position at NiCE was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

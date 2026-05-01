@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Älmhult, Kronoberg, Sweden |
+| Location | Malmö, Skåne, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000122036477-solution-architect-infor-m3-food-supply-chain-development) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000122451710-solution-architect-infor-m3-food-supply-chain-development) |
 
 ## About This Role
 
-This technical & solutions architect position at Inter Ikea Systems was posted on 2026-04-21.
+This technical & solutions architect position at Inter Ikea Systems was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

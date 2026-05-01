@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Ostrava, Moravskoslezský, Czechia |
 | Category | Mobile Engineer |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122261017-android-framework-architect-tieto-tech-consulting-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122283599-android-framework-architect-tieto-tech-consulting-mfd) |
 
 ## About This Role
 

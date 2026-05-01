@@ -1,0 +1,22 @@
+# Solutions Engineer at Moonpay
+
+| Field | Details |
+|-------|---------|
+| Company | [Moonpay](https://scoutify.ai/companies/moonpay?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Spain |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.lever.co/moonpay/68b92969-b011-41ea-814c-a16c837dd772) |
+
+## About This Role
+
+This technical & solutions architect position at Moonpay was posted on 2026-04-23.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

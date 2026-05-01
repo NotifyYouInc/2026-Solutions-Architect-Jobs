@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Slovakia |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000119896862-lead-architect-for-t-cloud-public) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000122383699-lead-architect-for-t-cloud-public) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-10.
+This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

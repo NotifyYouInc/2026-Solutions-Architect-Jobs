@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Madrid, ES |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Jakarta-Jakarta-Raya-Indonesia/Compute-Presales-Architect_1201515) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Las-Rozas-Madrid-Spain/Compute-Presales-Architect_1205687) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-05.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
