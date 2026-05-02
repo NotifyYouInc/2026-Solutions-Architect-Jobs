@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Database Administration |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012610496-senior-database-architect-and-administrator) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012804606-senior-database-architect-and-administrator) |
 
 ## About This Role
 
-This database administration position at City of New York was posted on 2026-04-15.
+This database administration position at City of New York was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brookhaven, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111212) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111694) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-04-22.
+This technical & solutions architect position at IBM was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

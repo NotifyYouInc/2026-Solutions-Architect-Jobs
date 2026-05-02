@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/8bd36e27-3007-4675-aa26-2de4ec51fd76) |
+| Location | Québec, Quebec, Canada |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/f1be0371-3200-46c9-a6a5-0e42bd645e81) |
 
 ## About This Role
 
-This engineering manager position at WillowTree was posted on 2026-03-30.
+This technical & solutions architect position at WillowTree was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

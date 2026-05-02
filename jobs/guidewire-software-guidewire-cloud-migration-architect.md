@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Guidewire-Cloud-Migration-Architect_JR_14412) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Guidewire-Cloud-Migration-Architect_JR_14528) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidewire Software was posted on 2026-02-26.
+This technical & solutions architect position at Guidewire Software was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

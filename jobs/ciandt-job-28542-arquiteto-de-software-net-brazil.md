@@ -1,16 +1,16 @@
-# [Job -  28542]  Arquiteto de Software .Net , Brazil at Ciandt
+# [Job - 28542]  Arquiteto de Software .Net , Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/5e048200-32fb-497f-8120-602168d2dbaa) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/940604b6-b19f-455c-85dd-87489d9c8e50) |
 
 ## About This Role
 
-This technical & solutions architect position at Ciandt was posted on 2026-04-01.
+This technical & solutions architect position at Ciandt was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

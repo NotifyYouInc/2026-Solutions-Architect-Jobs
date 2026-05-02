@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/b025264a-7170-4242-aff2-c771c08a5b91) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/4fc21919-d60d-4106-8c9a-4ecf1a5a2608) |
 
 ## About This Role
 
-This technical & solutions architect position at Airapps was posted on 2026-04-17.
+This technical & solutions architect position at Airapps was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

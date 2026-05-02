@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Warrington, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Bristol/Enterprise-Architect_R0158898) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-UK-Warrington/Enterprise-Architect_R0159965) |
 
 ## About This Role
 
-This technical & solutions architect position at Amentum was posted on 2026-04-10.
+This technical & solutions architect position at Amentum was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

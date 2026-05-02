@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113630157092070086-senior-customer-engineer-product-infrastructure-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd6O6B-qKq19v2u2pYGk2a09IoHYaWwo6cCqtPoHwf7pEjsACxwdTNvVdeaY5d-rcLQit0CdLip7yf-U20aFRbR_iSmHJlpL1sdke1ypc94NAaSufiTFwUMhbWPvXg%3D%3D_V2&loc=CN&title=Senior+Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-10.
+This technical & solutions architect position at Google was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Mannheim, Baden-Wurttemberg, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/IS-Solution-Architect--m-f-d-_JR00023729) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/IS-Solution-Architect--m-f-d-_JR00032590) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-04-03.
+This technical & solutions architect position at ABB was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

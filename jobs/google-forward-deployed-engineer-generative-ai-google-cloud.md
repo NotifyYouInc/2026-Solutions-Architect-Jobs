@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ7W2bbZ4gkrrvluTAjT0xkigWkVHlXzFyRmbDaa8sYAEjsACxwdTCedJ2HeHUV6cRKt6LXb61ukQYS413F7KkAlUPa-ZQanWJKxU2VQinwMxQQvr79MS_sDuE2rtQ%3D%3D_V2&loc=US&title=Forward+Deployed+Engineer) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka5nAHTxuoFZa_et8jLEJo8y-CGT-vADCcrXjJUYSo4GEjsACxwdTJF0Br1LEcgWrJ2rEUTodha6YOH6PdOAzH6KcDzlz-Lj4YLpgDePKVYo5oKLQuuEO98xDPTcyw%3D%3D_V2&loc=US&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-22.
+This technical & solutions architect position at Google was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

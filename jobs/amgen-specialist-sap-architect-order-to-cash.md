@@ -1,16 +1,16 @@
-#  Specialist SAP Architect, Order to Cash at Amgen
+# Specialist SAP Architect, Order to Cash at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Writer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/XMLNAME--Specialist-SAP-Architect--Order-to-Cash_R-237937) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-SAP-Architect--Order-to-Cash_R-231105) |
 
 ## About This Role
 
-This technical writer position at Amgen was posted on 2026-03-02.
+This technical & solutions architect position at Amgen was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

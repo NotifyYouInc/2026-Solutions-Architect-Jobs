@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/106922668011201222-cloud-platforms-and-infrastructure-engineer-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeTfS6o4p1vydMB9hu5M32Sao246OuwMyBmUq4x_Y1f7EjsACxwdTKmuPUeuzJVvGLBNT6VcnqijRIaFwYsKgmibrrBTarv7KqQpAdZM6WJEkEKLmdOGOKPKI8zw7w%3D%3D_V2&loc=US&title=Cloud+Platforms+and+Infrastructure+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-02-12.
+This devops engineer position at Google was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
