@@ -1,16 +1,16 @@
-# Full-Stack Architect at TD Bank
+# Presales Engineer Hyperstack  at NexGen Cloud
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [NexGen Cloud](https://scoutify.ai/companies/nexgen-cloud?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Architect_R_1485878) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nexgencloud/jobs/4770872101) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Bank was posted on 2026-04-26.
+This technical & solutions architect position at NexGen Cloud was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

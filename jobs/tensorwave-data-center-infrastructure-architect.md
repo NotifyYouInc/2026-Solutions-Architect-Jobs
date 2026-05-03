@@ -1,16 +1,16 @@
-# Full-Stack Architect at TD Bank
+# Data Center Infrastructure Architect at Tensorwave
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Tensorwave](https://scoutify.ai/companies/tensorwave?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Architect_R_1485878) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tensorwave/8507a871-57a2-4fcb-88f7-1da3a93dda69) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Bank was posted on 2026-04-26.
+This technical & solutions architect position at Tensorwave was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

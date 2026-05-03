@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000120612379-data-architect-mfd-tieto-tech-consulting) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122912709-data-architect-mfd-tieto-tech-consulting) |
 
 ## About This Role
 
-This technical & solutions architect position at Tietoevry was posted on 2026-04-14.
+This technical & solutions architect position at Tietoevry was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
