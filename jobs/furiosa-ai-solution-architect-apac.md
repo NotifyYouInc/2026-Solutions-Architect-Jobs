@@ -1,16 +1,16 @@
-# Senior IT Architect (Data & AI) at NCS
+# Solution Architect - APAC at Furiosa Ai
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Furiosa Ai](https://scoutify.ai/companies/furiosa-ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025523-senior-it-architect-data-ai) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/furiosa-ai/30a453fb-1631-4c6c-9639-1547de986332) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS was posted on 2026-04-27.
+This technical & solutions architect position at Furiosa Ai was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

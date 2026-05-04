@@ -1,16 +1,16 @@
-# Kubernetes Platform Architect at Broadcom
+# Software Architects Lead at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Reẖovot, Central District, Israel |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/United-Kingdom-Remote-Location/Kubernetes-Platform-Architect_R025880) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Architects-Lead_R2519037) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadcom was posted on 2026-04-26.
+This technical & solutions architect position at Applied Materials was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

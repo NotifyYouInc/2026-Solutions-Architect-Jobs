@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5345358-S1949189-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5514452-S2017720) |
 
 ## About This Role
 

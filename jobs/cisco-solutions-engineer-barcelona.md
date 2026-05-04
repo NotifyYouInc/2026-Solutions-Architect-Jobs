@@ -1,16 +1,16 @@
-# Kubernetes Platform Architect at Broadcom
+# Solutions Engineer - Barcelona at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/United-Kingdom-Remote-Location/Kubernetes-Platform-Architect_R025880) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Barcelona-Spain/Solutions-Engineer---Barcelona_2009836) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadcom was posted on 2026-04-26.
+This technical & solutions architect position at Cisco was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 
