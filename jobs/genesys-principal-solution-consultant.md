@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/New-Jersey-USA/Principal-Solution-Consultant_JR110655) |
+| Location | 6 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Colorado-USA/Principal-Solution-Consultant_JR110892) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-04-07.
+This technical & solutions architect position at Genesys was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

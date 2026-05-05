@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94007) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94009) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-18.
+This technical & solutions architect position at IBM was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

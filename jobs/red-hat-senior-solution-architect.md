@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Virginia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MI/Senior-Solution-Architect_R-055482-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/Senior-Solution-Architect_R-055791-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-13.
+This technical & solutions architect position at Red Hat was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

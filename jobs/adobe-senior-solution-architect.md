@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Jose, California, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Solution-Architect_R166915) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seoul/Senior-Solution-Architect_R167691) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-04-13.
+This technical & solutions architect position at Adobe was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

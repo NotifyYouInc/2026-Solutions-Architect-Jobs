@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93904521742164678-senior-integration-architect-professional-services-google-cloud?sort_by=date&page=1) |
+| Category | Customer Success |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfiCMklZHEnScuLiKsh2dHBU_XNwDZdqL09tJivy0oT-EjsACxwdTPS0w6D7YM5sTWCa83EnwkdGG1Zr-mYW1d-yeXijyZ7BKiNIljFd2QBrWPMTC5GPl6pVXpboOg%3D%3D_V2&loc=SG&title=Senior+Integration+Architect) |
 
 ## About This Role
 
-This technology / it consulting position at Google was posted on 2026-03-26.
+This customer success position at Google was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

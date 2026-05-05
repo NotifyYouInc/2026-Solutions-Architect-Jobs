@@ -6,7 +6,7 @@
 | Location | Philippines |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Philippines/Solution-Architect---Principal_JR-65817) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Philippines/Solution-Architect---Principal_JR-65819) |
 
 ## About This Role
 

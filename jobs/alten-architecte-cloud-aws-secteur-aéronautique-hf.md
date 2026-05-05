@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121952718-architecte-cloud-aws-secteur-aeronautique-hf) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123156230-architecte-cloud-aws-secteur-aeronautique-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN was posted on 2026-04-21.
+This technical & solutions architect position at ALTEN was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

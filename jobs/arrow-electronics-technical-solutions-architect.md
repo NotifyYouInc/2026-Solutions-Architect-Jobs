@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Clamart, Île-de-France, France |
+| Location | Georgia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-France---Remote/Technical-Solutions-Architect_R241027) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-GA-Georgia-Remote-Employees/Technical-Solutions-Architect_R243367-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Arrow Electronics was posted on 2026-03-18.
+This technical & solutions architect position at Arrow Electronics was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

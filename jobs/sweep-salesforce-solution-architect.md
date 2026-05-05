@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sweep](https://scoutify.ai/companies/sweep?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sweep/8c9324d6-aff9-4b61-89a0-8c192e8e2865) |
+| Posted | 2025-12-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sweep/0d43b12b-4ce2-432c-b422-7ba46ee12157) |
 
 ## About This Role
 
-This technical & solutions architect position at Sweep was posted on 2026-03-11.
+This technical & solutions architect position at Sweep was posted on 2025-12-18.
 
 ## Get Real-Time Alerts
 

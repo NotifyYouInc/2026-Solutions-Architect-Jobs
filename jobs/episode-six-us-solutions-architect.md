@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Episode Six US ](https://scoutify.ai/companies/episode-six-us-?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-10-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5661676004) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5983008004) |
 
 ## About This Role
 
-This technical & solutions architect position at Episode Six US  was posted on 2025-10-03.
+This technical & solutions architect position at Episode Six US  was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

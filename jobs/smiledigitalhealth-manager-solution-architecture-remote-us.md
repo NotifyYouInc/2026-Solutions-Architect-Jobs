@@ -1,16 +1,16 @@
-# Manager, Solution Architecture- Remote, US at Smiledigitalhealth
+# Manager, Solution Architecture- Remote US at Smiledigitalhealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Smiledigitalhealth](https://scoutify.ai/companies/smiledigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/smiledigitalhealth/73c97d3e-e3d0-4421-bcd5-6b51b131229e) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.lever.co/smiledigitalhealth/2a7013d5-e8cb-4066-ae03-04ace41e3595) |
 
 ## About This Role
 
-This technical & solutions architect position at Smiledigitalhealth was posted on 2026-04-14.
+This technical & solutions architect position at Smiledigitalhealth was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

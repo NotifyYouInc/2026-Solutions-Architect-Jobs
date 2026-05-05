@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120370467-principal-architect) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123180059-principal-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-04-13.
+This technical & solutions architect position at AECOM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

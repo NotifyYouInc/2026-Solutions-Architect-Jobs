@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7858259?gh_jid=7858259) |
 
 ## About This Role
 
-This implementation / professional services position at Braze was posted on 2026-04-20.
+This implementation / professional services position at Braze was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

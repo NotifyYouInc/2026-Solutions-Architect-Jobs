@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Italy---Work-at-Home/Dynamics-Finance-and-Operations-Solution-Architect--Technical-_R1721921) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Italy---Work-at-Home/Dynamics-Finance-and-Operations-Solution-Architect--Technical-_R1712342) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-24.
+This technical & solutions architect position at Concentrix was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
