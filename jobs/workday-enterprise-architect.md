@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Colorado, US |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Remote/Enterprise-Architect_JR-0106457) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Remote/Enterprise-Architect_JR-0106805-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Workday was posted on 2026-04-21.
+This technical & solutions architect position at Workday was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

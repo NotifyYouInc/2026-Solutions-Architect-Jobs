@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Success-Architect---B2C-Commerce_JR328264-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Customer Success |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Success-Architect---B2C-Commerce_JR340275) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-04-20.
+This customer success position at Salesforce was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Mobile Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/a8420854-8517-4047-8d13-817095337730) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/44b8e90a-6fde-49c8-8714-e6ed367d9ee5) |
 
 ## About This Role
 
-This mobile engineer position at Airapps was posted on 2026-04-24.
+This mobile engineer position at Airapps was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

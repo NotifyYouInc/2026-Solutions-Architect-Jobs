@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Romania |
+| Location | Iaşi, Iași County, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000117604276-senior-solution-architect-team-lead-fm) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000123362620-senior-solution-architect-team-lead-fm) |
 
 ## About This Role
 
-This technical & solutions architect position at Eurofins Scientific was posted on 2026-03-30.
+This technical & solutions architect position at Eurofins Scientific was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

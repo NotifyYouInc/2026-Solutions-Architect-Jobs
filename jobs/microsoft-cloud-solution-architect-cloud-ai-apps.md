@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556861340) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556861514) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-04-23.
+This technical & solutions architect position at Microsoft was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

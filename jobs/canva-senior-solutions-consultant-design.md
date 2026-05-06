@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001013640-senior-solutions-consultant-design) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001031936-senior-solutions-consultant-design) |
 
 ## About This Role
 
-This implementation / professional services position at Canva was posted on 2026-04-21.
+This implementation / professional services position at Canva was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

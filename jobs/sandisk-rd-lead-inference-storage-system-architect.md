@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kfar Saba, Central District, Israel |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000122472279-rd-lead-inference-storage-system-architect) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000123371779-rd-lead-inference-storage-system-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SanDisk was posted on 2026-04-23.
+This technical & solutions architect position at SanDisk was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

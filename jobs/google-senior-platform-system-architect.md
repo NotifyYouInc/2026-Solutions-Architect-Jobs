@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Taipei City, Taipei, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/108000608165733062-senior-platform-system-architect?sort_by=date&page=1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUl6qbxfqe_y_k_amDD2jlTCZXAK7FAbQ_YJRAV6SclHEjsACxwdTKlRu-tWGzKRx3iEPI-bX-qtIpzq-aoBVdQu8WOA94PjRVwZoaUJYtmIxv0EuZZHY98G4f6SQw%3D%3D_V2&loc=TW&title=Senior+Platform+System+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-05.
+This technical & solutions architect position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

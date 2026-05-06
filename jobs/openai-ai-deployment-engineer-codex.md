@@ -1,16 +1,16 @@
-# AI Deployment Engineer | Codex at OpenAI
+# AI Deployment Engineer- Codex at OpenAI
 
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e) |
+| Location | New York City, New York, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/179b998f-ae76-4de7-a4d0-c2c30d0b0bc8) |
 
 ## About This Role
 
-This technical & solutions architect position at OpenAI was posted on 2026-04-22.
+This ai / ml research position at OpenAI was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

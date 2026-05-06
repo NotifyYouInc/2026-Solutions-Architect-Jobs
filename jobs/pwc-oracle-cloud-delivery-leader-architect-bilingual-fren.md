@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto---18-York-Street/Oracle-Cloud-Project-Manager--Senior-Manager-_610681WD-2) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Oracle-Cloud-Delivery-Leader---Architect--Bilingual-FR-EN-_723927WD) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-02-18.
+This technology / it consulting position at PwC was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

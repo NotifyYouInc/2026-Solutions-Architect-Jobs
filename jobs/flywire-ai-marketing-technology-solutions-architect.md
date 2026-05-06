@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Marketing Operations |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000122324620-ai-marketing-technology-solutions-architect) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000123514541-ai-marketing-technology-solutions-architect) |
 
 ## About This Role
 
-This marketing operations position at Flywire was posted on 2026-04-22.
+This marketing operations position at Flywire was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

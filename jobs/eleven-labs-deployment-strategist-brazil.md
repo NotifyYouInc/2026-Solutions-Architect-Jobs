@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/25656a5a-06be-4d62-b529-00c52c48ee5e) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/a43b7e72-22e0-4d75-8f23-b477fb38eef6) |
 
 ## About This Role
 
-This technical & solutions architect position at Eleven Labs was posted on 2026-04-16.
+This technical & solutions architect position at Eleven Labs was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000120881527-architecte-infrastructure-it-kubernetes-cicd-linux-hf-rennes) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000123380305-architecte-infrastructure-it-kubernetes-cicd-linux-hf-rennes) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-04-15.
+This devops engineer position at Inetum was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

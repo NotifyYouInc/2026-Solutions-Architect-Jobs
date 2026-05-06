@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Gauteng, ZA |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Francisco-California-United-States-of-America/Senior-Presales--Systems-Engineer_1203171) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sandton-Gauteng-South-Africa/Senior-Presales--Systems-Engineer_1206054) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-13.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

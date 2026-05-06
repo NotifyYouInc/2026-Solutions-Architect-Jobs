@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000121960659-architecte-infrastructure-hf) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000123389939-architecte-infrastructure-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-04-21.
+This technical & solutions architect position at Devoteam was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
