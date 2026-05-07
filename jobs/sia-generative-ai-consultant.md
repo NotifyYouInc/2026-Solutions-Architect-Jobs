@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | San Francisco, California, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000122320549-generative-ai-consultant) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000123749345-generative-ai-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-04-22.
+This technology / it consulting position at SIA was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

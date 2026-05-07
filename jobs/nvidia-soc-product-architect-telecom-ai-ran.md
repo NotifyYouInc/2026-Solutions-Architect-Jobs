@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Product-Architect--Telecom-AI-RAN_JR2016910) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Product-Architect--Telecom-AI-RAN_JR2017206) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-27.
+This semiconductor / chip design position at Nvidia was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

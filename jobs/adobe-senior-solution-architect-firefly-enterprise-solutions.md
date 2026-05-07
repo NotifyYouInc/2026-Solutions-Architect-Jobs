@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
+| Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Germany/Senior-Solution-Architect-Firefly-Enterprise-Solutions_R167689-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Paris/Senior-Solution-Architect-Firefly-Enterprise-Solutions_R168333) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-04-14.
+This technical & solutions architect position at Adobe was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

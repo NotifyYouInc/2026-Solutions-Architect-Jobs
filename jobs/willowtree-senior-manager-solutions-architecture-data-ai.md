@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/0adb41bd-e952-458b-b383-a7360c169426) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/f3e6f666-984c-44b0-ae05-77c857046932) |
 
 ## About This Role
 
-This technical & solutions architect position at WillowTree was posted on 2026-04-24.
+This technical & solutions architect position at WillowTree was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

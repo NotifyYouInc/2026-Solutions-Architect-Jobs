@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/5d8fc79d-6cdd-4e40-8a38-b43a4dd681cf) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/ebd97901-59be-4655-ad13-fcfa8ca17987) |
 
 ## About This Role
 
-This technical & solutions architect position at Airapps was posted on 2026-04-27.
+This technical & solutions architect position at Airapps was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

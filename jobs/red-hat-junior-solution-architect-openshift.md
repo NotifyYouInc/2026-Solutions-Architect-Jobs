@@ -1,16 +1,16 @@
-# Junior Solution Architect - Openshift at Red Hat
+# Junior Solution Architect- Openshift at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sydney/Junior-Solution-Architect---Openshift_R-054530) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Singapore/Junior-Solution-Architect--Openshift_R-054546) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-02-16.
+This technical & solutions architect position at Red Hat was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/London/Enterprise-Architect--Manufacturing-Technology_JR-194265-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Amsterdam-North-Holland/Enterprise-Architect--Manufacturing-Technology_JR-194294-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Vantive was posted on 2026-04-27.
+This technical & solutions architect position at Vantive was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

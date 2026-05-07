@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Addison, Illinois, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123317009-senior-principal-solution-architect-platform-expert-services) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123782989-senior-principal-solution-architect-platform-expert-services) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-04-27.
+This technical & solutions architect position at ServiceNow was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

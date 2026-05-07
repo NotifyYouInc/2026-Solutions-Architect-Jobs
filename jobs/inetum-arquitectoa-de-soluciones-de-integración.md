@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112657747-arquitectoa-de-soluciones-de-integracion) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000123668009-arquitectoa-de-soluciones-de-integracion) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-03-04.
+This technical & solutions architect position at Inetum was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

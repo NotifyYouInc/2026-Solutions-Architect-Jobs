@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hangzhou-Weike-Park/AI-Infrastructure-Architect_14230051) |
+| Location | 5 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sofia/AI-Infrastructure-Architect_R00328067-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-27.
+This ai / llm engineer position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/New-Delhi-Delhi-India/Presales-Solution-Architect_R0126693) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/New-Delhi-Delhi-India/Presales-Solution-Architect_R0127216-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi was posted on 2026-04-22.
+This technical & solutions architect position at Hitachi was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

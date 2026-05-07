@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Technology-Strategy-Enterprise-Architect-Consultant---Banking-Sector_13985605) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Technology-Strategy-Enterprise-Architect-Consultant---Oil-Gas-Energy-Sector_13988552-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-03-30.
+This technology / it consulting position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

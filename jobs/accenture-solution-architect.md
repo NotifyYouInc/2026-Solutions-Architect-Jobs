@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Solution-Architect_ATCI-5479572-S1999862-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Solution-Architect_ATCI-4901825-S1850896-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-27.
+This technical & solutions architect position at Accenture was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

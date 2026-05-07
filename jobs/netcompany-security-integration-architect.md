@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000111326551-security-integration-architect) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000123683994-security-integration-architect) |
 
 ## About This Role
 
-This security engineer position at Netcompany was posted on 2026-02-25.
+This security engineer position at Netcompany was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

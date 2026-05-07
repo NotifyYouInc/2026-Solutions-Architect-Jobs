@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Prague, Prague, Czechia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000121720729-camunda-process-designer-flow-architect) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123670609-camunda-process-designer-flow-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-04-20.
+This technical & solutions architect position at Talan was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

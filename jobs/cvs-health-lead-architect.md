@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Texas, US |
+| Location | Virginia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Lead-Architect_R0865159) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Work-from-home/Lead-Architect_R0898439) |
 
 ## About This Role
 
-This technical & solutions architect position at CVS Health was posted on 2026-04-01.
+This technical & solutions architect position at CVS Health was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

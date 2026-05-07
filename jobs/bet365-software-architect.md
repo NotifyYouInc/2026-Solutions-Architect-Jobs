@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109196014-software-architect) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000123690292-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at bet365 was posted on 2026-02-13.
+This technical & solutions architect position at bet365 was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
