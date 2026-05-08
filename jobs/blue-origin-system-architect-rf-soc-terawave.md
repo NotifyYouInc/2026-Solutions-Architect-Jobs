@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Renton, Washington, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/System-Architect-RF-SoC---TeraWave_R61081-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/System-Architect-RF-SoC---TeraWave_R63783) |
 
 ## About This Role
 
-This semiconductor / chip design position at Blue Origin was posted on 2026-03-03.
+This electrical / hardware engineer position at Blue Origin was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

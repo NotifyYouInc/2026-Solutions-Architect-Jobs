@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cube](https://scoutify.ai/companies/cube?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cube/4d7e7c7f-c39e-4b1b-8d33-5a2c7d7becb8) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cube/eef34c16-73c1-4df8-ab11-42fcecf629a6) |
 
 ## About This Role
 
-This implementation / professional services position at Cube was posted on 2026-04-10.
+This implementation / professional services position at Cube was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

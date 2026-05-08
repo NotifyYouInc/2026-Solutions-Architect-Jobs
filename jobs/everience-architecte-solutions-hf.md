@@ -1,16 +1,16 @@
-# Architecte solutions H/F at Everience
+# Architecte Solutions H/F at Everience
 
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brest, Brittany, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000123214399-architecte-solutions-hf) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000123887022-architecte-solutions-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Everience was posted on 2026-04-27.
+This technical & solutions architect position at Everience was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

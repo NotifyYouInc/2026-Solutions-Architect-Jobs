@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7815447) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mongodb/jobs/7759201) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-04-20.
+This technical & solutions architect position at MongoDB was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Gunzenhausen, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115149612-software-architekt-wmdiv) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123868879-software-architekt-wmdiv) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-03-17.
+This technical & solutions architect position at Robert Bosch was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

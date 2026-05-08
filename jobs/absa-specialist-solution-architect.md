@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Randburg, Gauteng, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Specialist-Solution-Architect_R-15984777-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist-Solution-Architect_R-15986481-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Absa was posted on 2026-04-02.
+This technical & solutions architect position at Absa was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

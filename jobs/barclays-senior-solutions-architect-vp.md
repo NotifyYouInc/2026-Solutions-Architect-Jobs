@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
-| Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Senior-Solutions-Architect---VP_JR-0000088527-1) |
+| Location | Whippany, New Jersey, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Senior-Solutions-Architect---VP_JR-0000083644) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-11.
+This technical & solutions architect position at Barclays was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

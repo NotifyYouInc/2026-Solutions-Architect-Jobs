@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Lead-Architect---Infrastructure_R202674802-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Lead-Architect---Infrastructure_R202676518) |
 
 ## About This Role
 
-This technical & solutions architect position at Cox was posted on 2026-04-13.
+This technical & solutions architect position at Cox was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

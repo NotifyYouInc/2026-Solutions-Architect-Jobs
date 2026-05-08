@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Azure-Cloud-Infrastructure-Architect_R0238259) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Azure-Cloud-Infrastructure-Architect_R0239122) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-04-21.
+This technical & solutions architect position at Booz Allen was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

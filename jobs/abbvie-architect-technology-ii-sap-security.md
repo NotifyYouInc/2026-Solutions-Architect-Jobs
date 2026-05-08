@@ -1,16 +1,16 @@
-# Architect, Technology II (SAP Security)  at AbbVie
+# Architect, Technology II (SAP Security) at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012781346-architect-technology-ii-sap-security) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012923489-architect-technology-ii-sap-security) |
 
 ## About This Role
 
-This technical & solutions architect position at AbbVie was posted on 2026-04-22.
+This technical & solutions architect position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

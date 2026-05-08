@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7840695?gh_jid=7840695) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7871187?gh_jid=7871187) |
 
 ## About This Role
 
-This technical & solutions architect position at Thoughtworks was posted on 2026-04-22.
+This technical & solutions architect position at Thoughtworks was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

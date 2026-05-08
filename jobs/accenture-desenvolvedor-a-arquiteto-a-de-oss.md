@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Curitiba, Paraná, Brazil |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Paran---Curitiba/Desenvolvedor--a----Arquiteto--a--de-OSS_14259014) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Rio-de-Janeiro---Rio-de-Janeiro/Desenvolvedor--a----Arquiteto--a--de-OSS_14263494) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-28.
+This technical & solutions architect position at Accenture was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Software-Engineer-D365-F-O_R0000351552) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Software-Engineer-D365-F-O_R0000366597) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-02-25.
+This technical & solutions architect position at Caterpillar was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

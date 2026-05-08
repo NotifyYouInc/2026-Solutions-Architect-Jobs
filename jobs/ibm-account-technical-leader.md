@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110539) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=86554) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-04-17.
+This technical & solutions architect position at IBM was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
