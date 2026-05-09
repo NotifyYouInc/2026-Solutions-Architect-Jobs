@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Crawley, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Crawley/Electronic-Warfare-System-Architect_R0289800) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Crawley/Electronic-Counterneasures-Project-Design-Authority_R0289805) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-03-03.
+This technical & solutions architect position at Thales was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

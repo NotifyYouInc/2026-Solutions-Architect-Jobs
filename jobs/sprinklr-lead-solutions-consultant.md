@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York, US |
+| Location | Texas, US |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---New-York---Remote/Lead-Solutions-Consultant_112979-JOB-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Remote/Lead-Solutions-Consultant_113020-JOB) |
 
 ## About This Role
 
-This implementation / professional services position at Sprinklr was posted on 2026-04-15.
+This implementation / professional services position at Sprinklr was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Advisor, IT architecture at Desjardins
+# Senior Advisor, IT Architecture at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-architecture-de-solutions-applicative_R2603362-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-architecture-de-domaine-des-plateformes-d-intelligence-artificielle--IA-_R2605964) |
 
 ## About This Role
 
-This technical & solutions architect position at Desjardins was posted on 2026-03-17.
+This technical & solutions architect position at Desjardins was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

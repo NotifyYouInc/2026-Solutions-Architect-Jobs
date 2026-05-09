@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Connecticut, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Lead-Director---Cloud-Solution-Architecture_R0873256) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Lead-Director---Cloud-Solution-Architecture_R0894221) |
 
 ## About This Role
 
-This technical & solutions architect position at CVS Health was posted on 2026-04-06.
+This technical & solutions architect position at CVS Health was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

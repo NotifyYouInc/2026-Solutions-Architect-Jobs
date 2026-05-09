@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | North Carolina, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/United-Kingdom-Remote-Location/Kubernetes-Platform-Architect_R025880) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-WA-Remote-Location/Kubernetes-Platform-Architect_R025966) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadcom was posted on 2026-04-26.
+This technical & solutions architect position at Broadcom was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

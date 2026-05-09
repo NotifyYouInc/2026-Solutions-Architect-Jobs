@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Enviva](https://scoutify.ai/companies/enviva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7701132003) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7721715003) |
 
 ## About This Role
 
-This technical & solutions architect position at Enviva was posted on 2026-04-17.
+This technical & solutions architect position at Enviva was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
