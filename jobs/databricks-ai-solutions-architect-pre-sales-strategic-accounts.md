@@ -1,4 +1,4 @@
-# Solutions Architect (Pre-sales) at Databricks
+# AI Solutions Architect (Pre-sales) - Strategic Accounts at Databricks
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8455752002) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8501390002) |
 
 ## About This Role
 
