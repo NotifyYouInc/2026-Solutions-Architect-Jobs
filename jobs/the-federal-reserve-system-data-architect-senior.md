@@ -1,16 +1,16 @@
-# AI Solution Architect at Amazon
+# Data Architect Senior at The Federal Reserve System
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410800/ai-solution-architect) |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/Solution-Architect-Senior_R-0000032069-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-05.
+This technical & solutions architect position at The Federal Reserve System was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

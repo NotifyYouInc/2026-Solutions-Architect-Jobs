@@ -1,16 +1,16 @@
-# AI Solution Architect at Amazon
+# TechLead/Architect at PALO IT
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [PALO IT](https://scoutify.ai/companies/palo-it?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410800/ai-solution-architect) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/paloit/jobs/7890323) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-05.
+This technical & solutions architect position at PALO IT was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

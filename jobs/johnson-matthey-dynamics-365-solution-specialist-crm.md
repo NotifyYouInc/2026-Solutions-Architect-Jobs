@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Matthey](https://scoutify.ai/companies/johnson-matthey?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Skopje, Grad Skopje, North Macedonia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Skopje---MK/Dynamics-365-Solution-Specialist--CRM-_R-014766) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Vilnius---LT/Dynamics-365-Solution-Specialist--CRM-_R-014533-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Matthey was posted on 2026-04-29.
+This technical & solutions architect position at Johnson Matthey was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

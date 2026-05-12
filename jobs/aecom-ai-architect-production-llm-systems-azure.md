@@ -1,16 +1,16 @@
-# Principal Architect - Architecture (Data Centers) at AECOM
+# AI Architect – Production LLM Systems (Azure) at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Technical & Solutions Architect |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124473764-principal-architect-architecture-data-centers) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124486112-ai-architect-production-llm-systems-azure) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-04.
+This ai / llm engineer position at AECOM was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI Solution Architect at Amazon
+# Microsoft Azure Architect at NCS Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410800/ai-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001045515-microsoft-azure-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-05.
+This technical & solutions architect position at NCS Australia was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

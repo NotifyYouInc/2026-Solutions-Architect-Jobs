@@ -1,16 +1,16 @@
-# Senior Solutions Architect at GitLab
+# Director, Global Business Applications - Presales & Solutioning (Microsoft Dynamics / BizApps) at Quisitive
 
 | Field | Details |
 |-------|---------|
-| Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Quisitive](https://scoutify.ai/companies/quisitive?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8532929002) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quisitivejobs/jobs/7891093) |
 
 ## About This Role
 
-This technical & solutions architect position at GitLab was posted on 2026-05-01.
+This technical & solutions architect position at Quisitive was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

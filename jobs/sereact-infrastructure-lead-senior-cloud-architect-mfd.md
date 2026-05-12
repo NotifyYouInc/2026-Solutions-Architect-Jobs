@@ -1,16 +1,16 @@
-# Principal Architect - Architecture (Data Centers) at AECOM
+# Infrastructure Lead / Senior Cloud Architect (m/f/d) at Sereact
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Sereact](https://scoutify.ai/companies/sereact?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124473764-principal-architect-architecture-data-centers) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sereact/5da080ce-8d54-4ded-85c8-fe470b88d4ce) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-04.
+This technical & solutions architect position at Sereact was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

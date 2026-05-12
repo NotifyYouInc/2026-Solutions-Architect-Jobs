@@ -1,16 +1,16 @@
-# AI Solution Architect at Amazon
+# Lead Databricks Engineer at Bounteous
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Bounteous](https://scoutify.ai/companies/bounteous?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410800/ai-solution-architect) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.lever.co/bounteous/f3ade432-8509-40ce-bd42-7d42e70799aa) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-05.
+This technical & solutions architect position at Bounteous was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

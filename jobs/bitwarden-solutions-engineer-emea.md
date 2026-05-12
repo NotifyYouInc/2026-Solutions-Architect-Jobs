@@ -1,16 +1,16 @@
-# AI Solution Architect at Amazon
+# Solutions Engineer (EMEA) at Bitwarden
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Bitwarden](https://scoutify.ai/companies/bitwarden?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410800/ai-solution-architect) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://bitwarden.com/careers/7651363003/?gh_jid=7651363003) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-05.
+This technical & solutions architect position at Bitwarden was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

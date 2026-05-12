@@ -1,12 +1,12 @@
-# Principal Architect - Architecture (Data Centers) at AECOM
+# Senior Sensor Fusion & Data Architecture Lead at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mississauga, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124473764-principal-architect-architecture-data-centers) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124494461-senior-sensor-fusion-data-architecture-lead) |
 
 ## About This Role
 

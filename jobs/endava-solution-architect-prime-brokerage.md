@@ -1,16 +1,16 @@
-# Principal Architect - Architecture (Data Centers) at AECOM
+# Solution Architect (Prime Brokerage) at Endava
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124473764-principal-architect-architecture-data-centers) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124486099-solution-architect-prime-brokerage) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-04.
+This technical & solutions architect position at Endava was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 
