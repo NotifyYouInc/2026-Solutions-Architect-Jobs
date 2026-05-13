@@ -5,12 +5,12 @@
 | Company | [Cielo Projects](https://scoutify.ai/companies/cielo-projects?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mankato, Minnesota, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cieloprojects/744000116576028-sr-technical-lead-cpq) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cieloprojects/744000124658141-sr-technical-lead-cpq) |
 
 ## About This Role
 
-This technical & solutions architect position at Cielo Projects was posted on 2026-03-25.
+This technical & solutions architect position at Cielo Projects was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

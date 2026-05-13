@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000122591329-lead-cloud-solution-engineer-network) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000124812639-lead-cloud-solution-engineer-network) |
 
 ## About This Role
 
-This technical & solutions architect position at IFS was posted on 2026-04-24.
+This technical & solutions architect position at IFS was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

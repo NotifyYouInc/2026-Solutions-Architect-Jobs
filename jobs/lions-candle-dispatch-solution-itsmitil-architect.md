@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000123278554-itsmitil-architect) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000124644772-itsmitil-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-27.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

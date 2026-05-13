@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Memphis, Tennessee, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000113797117-wms-workflow-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124666359-wms-workflow-architect) |
 
 ## About This Role
 
-This engineering manager position at EVERSANA was posted on 2026-03-10.
+This technical & solutions architect position at EVERSANA was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

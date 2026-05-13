@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000122669209-principal-cloud-network-architect-part-time) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000124613629-principal-cloud-network-architect-part-time) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-24.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

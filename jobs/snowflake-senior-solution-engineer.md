@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Belgium |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4200495f-b180-4a5d-b529-e30b3251db0b) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/38ede053-28d2-46f4-b0bc-4484c0c0782e) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-04-15.
+This technical & solutions architect position at Snowflake was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

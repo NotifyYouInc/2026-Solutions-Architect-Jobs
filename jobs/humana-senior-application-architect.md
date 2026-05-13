@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Application-Architect_R-407341-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Dallas-TX/Senior-Application-Architect_R-409200) |
 
 ## About This Role
 
-This technical & solutions architect position at Humana was posted on 2026-03-12.
+This technical & solutions architect position at Humana was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

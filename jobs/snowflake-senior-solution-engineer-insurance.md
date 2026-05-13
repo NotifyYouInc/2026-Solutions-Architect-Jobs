@@ -5,12 +5,12 @@
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/2d8294cf-2a37-4b88-b00e-4db5c7a247a9) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/97ea00a1-1ba3-4182-a807-6c8dd65dd99b) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-04-22.
+This technical & solutions architect position at Snowflake was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

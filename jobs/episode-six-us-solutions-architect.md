@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Episode Six US ](https://scoutify.ai/companies/episode-six-us-?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5983008004) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5988971004) |
 
 ## About This Role
 
-This technical & solutions architect position at Episode Six US  was posted on 2026-04-27.
+This technical & solutions architect position at Episode Six US  was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012898439-directory-services-active-directory-and-entra-architect-remote) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012913796-directory-services-active-directory-and-entra-architect-remote) |
 
 ## About This Role
 

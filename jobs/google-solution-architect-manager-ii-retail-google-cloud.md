@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/104990204384682694-solution-architect-manager-ii-retail-google-cloud?sort_by=date&page=1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRq-lzIv-lxTTSXFkTHD7AyUllAcJI1xlHXLmvKmhf4EEjsACxwdTLK-In50NTgfpCNXsy0ChPr8bOmO6V04sKwlvKBqyHoFX28GzH2ohw-mx5Xc2LdYQ9rJUtcWXg%3D%3D_V2&loc=CA&title=Solution+Architect+Manager+II) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-03-05.
+This technical & solutions architect position at Google was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toshiba Global Commerce Solutions](https://scoutify.ai/companies/toshibaglobalcommercesolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Frisco, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5114978007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5126230007) |
 
 ## About This Role
 
-This technical & solutions architect position at Toshiba Global Commerce Solutions was posted on 2026-04-20.
+This technical & solutions architect position at Toshiba Global Commerce Solutions was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

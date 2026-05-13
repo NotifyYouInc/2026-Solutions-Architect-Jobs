@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4575919005?gh_jid=4575919005) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4692381005?gh_jid=4692381005) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Intuition was posted on 2026-04-23.
+This technical & solutions architect position at Applied Intuition was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

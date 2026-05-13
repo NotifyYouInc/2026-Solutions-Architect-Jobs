@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Texas, US |
+| Location | Houston, Texas, United States |
 | Category | Embedded / Firmware Engineer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124015568-embedded-systems-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124025114-embedded-systems-architect) |
 
 ## About This Role
 

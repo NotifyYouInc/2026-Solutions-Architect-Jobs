@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7788968) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7790438) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-04-13.
+This technical & solutions architect position at MongoDB was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

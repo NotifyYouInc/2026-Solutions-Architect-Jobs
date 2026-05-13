@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mongodb/jobs/7773483) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7866797) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-04-30.
+This technical & solutions architect position at MongoDB was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

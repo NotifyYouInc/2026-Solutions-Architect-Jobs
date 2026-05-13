@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Account Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Presales-Enterprise-Architect_R167135) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Presales-Enterprise-Architect_R168428) |
 
 ## About This Role
 
-This account manager position at Adobe was posted on 2026-03-27.
+This technical & solutions architect position at Adobe was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
