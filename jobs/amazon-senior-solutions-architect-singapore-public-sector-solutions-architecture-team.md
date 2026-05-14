@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204818/senior-solutions-architect-singapore-public-sector-solutions-architecture-team) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413137/senior-solutions-architect-singapore-public-sector-solutions-architecture-team) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-14.
+This technical & solutions architect position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

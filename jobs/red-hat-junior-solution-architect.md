@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sydney/Junior-Solution-Architect_R-054529) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dubai/Junior-Solution-Architect_R-054598) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-02-16.
+This technical & solutions architect position at Red Hat was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

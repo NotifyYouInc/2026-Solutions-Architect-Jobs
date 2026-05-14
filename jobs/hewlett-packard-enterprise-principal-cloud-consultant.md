@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Business Development |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Principal-Cloud-Consultant_1189642-2) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sydney-New-South-Wales-Australia/Principal-Cloud-Consultant_1206209) |
 
 ## About This Role
 
-This business development position at Hewlett Packard Enterprise was posted on 2026-02-03.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Implementation / Professional Services |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.brex.com/careers/8301919002?gh_jid=8301919002) |
+| Apply | [View on company site](https://www.brex.com/careers/8536524002?gh_jid=8536524002) |
 
 ## About This Role
 

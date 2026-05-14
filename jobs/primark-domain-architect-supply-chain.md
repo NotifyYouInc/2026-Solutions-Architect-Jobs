@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000120881686-domain-architect-supply-chain) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000124948049-domain-architect-supply-chain) |
 
 ## About This Role
 
-This technical & solutions architect position at Primark was posted on 2026-04-15.
+This technical & solutions architect position at Primark was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Architecte Logiciel F/H at Thales
+# Architecte Logiciel F.H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Massy, Île-de-France, France |
+| Location | Limours, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Massy/Architecte-Logiciel-F-H_R0320306-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/Architecte-Logiciel-FH_R0327629-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-03-13.
+This technical & solutions architect position at Thales was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

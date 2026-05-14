@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118465357-crm-architect) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000124859729-crm-architect) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-04-02.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

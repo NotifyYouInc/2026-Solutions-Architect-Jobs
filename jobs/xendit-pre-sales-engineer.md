@@ -1,16 +1,16 @@
-# Pre-sales Engineer  at Xendit
+#  Pre-sales Engineer at Xendit
 
 | Field | Details |
 |-------|---------|
 | Company | [Xendit](https://scoutify.ai/companies/xendit?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.xendit.co/en/careers/job-application/?gh_jid=7719174003) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.xendit.co/en/careers/job-application/?gh_jid=7724459003) |
 
 ## About This Role
 
-This technical & solutions architect position at Xendit was posted on 2026-04-29.
+This technical & solutions architect position at Xendit was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

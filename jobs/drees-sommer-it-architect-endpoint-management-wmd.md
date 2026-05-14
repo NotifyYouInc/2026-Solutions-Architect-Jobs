@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | IT & Systems Administration |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000124579088-it-architect-endpoint-management-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000124588885-it-architect-endpoint-management-wmd) |
 
 ## About This Role
 

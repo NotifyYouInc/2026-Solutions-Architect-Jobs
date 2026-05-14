@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10371022/senior-solutions-architect-aws-malaysia-solutions-architecture) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413211/senior-solutions-architect-aws-malaysia-solutions-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-19.
+This technical & solutions architect position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

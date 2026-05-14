@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012804471-code-development-architect) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012993966-code-development-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at City of New York was posted on 2026-04-24.
+This technical & solutions architect position at City of New York was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

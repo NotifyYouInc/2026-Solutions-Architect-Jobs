@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
-| Category | Technical Writer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Norway---Oslo/Principal-Data-and-AI-Architect_JR334177) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Principal-Data-and-AI-Architect_JR331484) |
 
 ## About This Role
 
-This technical writer position at Salesforce was posted on 2026-03-25.
+This technical & solutions architect position at Salesforce was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

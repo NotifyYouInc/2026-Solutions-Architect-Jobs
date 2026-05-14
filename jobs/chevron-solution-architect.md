@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Solution-Architect_R000069083) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Solution-Architect_R000071125) |
 
 ## About This Role
 
-This technical & solutions architect position at Chevron was posted on 2026-02-20.
+This technical & solutions architect position at Chevron was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

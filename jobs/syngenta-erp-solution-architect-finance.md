@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000122651545-erp-solution-architect-finance) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124824859-erp-solution-architect-finance) |
 
 ## About This Role
 
-This technical & solutions architect position at Syngenta was posted on 2026-04-24.
+This technical & solutions architect position at Syngenta was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

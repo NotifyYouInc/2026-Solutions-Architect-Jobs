@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000118584037-network-ops-observability-architect) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000124825399-network-ops-observability-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-03.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

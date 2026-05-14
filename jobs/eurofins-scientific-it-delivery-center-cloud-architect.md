@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000124562229-it-delivery-center-cloud-architect) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000124855932-it-delivery-center-cloud-architect) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-05-05.
+This devops engineer position at Eurofins Scientific was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
