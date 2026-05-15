@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Systems-Engineer_R60796-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Arkansas-Remote-Work/Systems-Engineer_R63667) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-02-10.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

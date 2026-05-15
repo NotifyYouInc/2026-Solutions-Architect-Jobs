@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Malmö, Skåne, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123643630-technical-solution-architect-dynamics-365-ce-malmo) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125043619-technical-solution-architect-dynamics-365-ce-malmo) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-04-29.
+This technical & solutions architect position at Sopra Steria was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

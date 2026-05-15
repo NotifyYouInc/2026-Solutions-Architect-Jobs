@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7609863) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7897113) |
 
 ## About This Role
 
-This technical & solutions architect position at Adyen was posted on 2026-02-12.
+This technical & solutions architect position at Adyen was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

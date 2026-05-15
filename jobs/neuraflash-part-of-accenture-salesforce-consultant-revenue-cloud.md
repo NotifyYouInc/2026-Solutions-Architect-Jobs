@@ -5,12 +5,12 @@
 | Company | [NeuraFlash, Part of Accenture](https://scoutify.ai/companies/neuraflash-part-of-accenture?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Alberta, CA |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/5836329004) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/5990847004) |
 
 ## About This Role
 
-This technology / it consulting position at NeuraFlash, Part of Accenture was posted on 2026-04-22.
+This technology / it consulting position at NeuraFlash, Part of Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dallas-Texas-US/Solutions-Engineer_2008567) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Riyadh-Saudi-Arabia/Solutions-Engineer_2010793-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-05-05.
+This technical & solutions architect position at Cisco was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

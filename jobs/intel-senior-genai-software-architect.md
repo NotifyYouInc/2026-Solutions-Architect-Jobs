@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Senior-GenAI-Software-Architect_JR0282144) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Senior-GenAI-Software-Architect_JR0279697-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Intel was posted on 2026-03-24.
+This ai / ml research position at Intel was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

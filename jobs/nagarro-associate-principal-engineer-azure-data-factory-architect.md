@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124233200-associate-principal-engineer-azure-data-factory-architect) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000125143809-associate-principal-engineer-azure-data-factory-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-05-02.
+This technical & solutions architect position at Nagarro was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

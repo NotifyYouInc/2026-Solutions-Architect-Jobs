@@ -1,16 +1,16 @@
-# Senior Presales, Systems Engineer at Hewlett Packard Enterprise
+# Senior Presales Systems Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gauteng, ZA |
+| Location | Virginia, Free State, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sandton-Gauteng-South-Africa/Senior-Presales--Systems-Engineer_1206054) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Senior-Presales-Systems-Engineer_1206608) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-28.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

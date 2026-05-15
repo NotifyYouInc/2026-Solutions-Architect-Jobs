@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000120822507-solutions-architect) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000125205305-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-04-14.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

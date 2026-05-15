@@ -1,16 +1,16 @@
-# Architecte système - F/H at Thales
+# Architecte système F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Élancourt, Île-de-France, France |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/Architecte-systme---F-H_R0323668) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Architecte-systme-F-H_R0327369-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-04-01.
+This technical & solutions architect position at Thales was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

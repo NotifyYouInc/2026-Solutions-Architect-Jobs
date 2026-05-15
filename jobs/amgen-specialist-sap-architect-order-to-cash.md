@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-SAP-Architect--Order-to-Cash_R-231105) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-SAP-Architect--Order-to-Cash_R-231108) |
 
 ## About This Role
 
-This technical & solutions architect position at Amgen was posted on 2026-04-24.
+This technical & solutions architect position at Amgen was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
