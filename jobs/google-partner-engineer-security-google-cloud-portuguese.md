@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRoRSEKQKNQVwGuk1dyjKl_MQI0P93ALDM7b1hq8tsszEjoACxwdTHxzAWXrqL8lFKhEt4Ct7XU6yz9ohrqFCGeq73NhiZhwfiojiCGyK0RLPZqASfCeQr_DqM0Q_V2&loc=BR&title=Partner+Engineer) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfEDe5mFIUL3hZjs5ac_pjdUCrULjQue16tRkWVfV4T7EjoACxwdTJ1rH0bU6RAswcc7DtgzaB7-hw1TWPZOSx5brpVRzTLcYGiroQk9xdG5GM4crXh-8wzD0B7J_V2&loc=BR&title=Partner+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-21.
+This technical & solutions architect position at Google was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

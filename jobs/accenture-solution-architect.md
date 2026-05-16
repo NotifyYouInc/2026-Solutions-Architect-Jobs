@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Solution-Architect_ATCI-5145182-S1897566-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Solution-Architect_ATCI-5496192-S2003937-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-06.
+This technical & solutions architect position at Accenture was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

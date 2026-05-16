@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Guidewire-Architect_JR_14642) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Guidewire-Architect_JR_14625) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidewire Software was posted on 2026-04-09.
+This technical & solutions architect position at Guidewire Software was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

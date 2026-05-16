@@ -5,12 +5,12 @@
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7077393) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7908501) |
 
 ## About This Role
 
-This technical & solutions architect position at Appian was posted on 2026-04-21.
+This technical & solutions architect position at Appian was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

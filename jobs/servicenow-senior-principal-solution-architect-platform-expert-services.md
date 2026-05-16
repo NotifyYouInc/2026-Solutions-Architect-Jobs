@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | West Palm Beach, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123782989-senior-principal-solution-architect-platform-expert-services) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125361314-senior-principal-solution-architect-platform-expert-services) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-04-29.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

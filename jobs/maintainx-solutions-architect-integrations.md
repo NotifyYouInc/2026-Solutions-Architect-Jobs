@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [MaintainX](https://scoutify.ai/companies/maintainx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Miami, Florida, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/maintainx/jobs/5129615007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/maintainx/jobs/5129618007) |
 
 ## About This Role
 

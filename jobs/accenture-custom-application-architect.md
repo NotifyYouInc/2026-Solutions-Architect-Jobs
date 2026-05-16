@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Application-Architect_ATCI-5464810-S1994900) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Application-Architect_ATCI-5520406-S2020899-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-06.
+This technical & solutions architect position at Accenture was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

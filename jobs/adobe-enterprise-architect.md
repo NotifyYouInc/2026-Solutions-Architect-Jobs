@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Washington, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Enterprise-Architect_R167698) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Washington/Enterprise-Architect_R167529) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-04-22.
+This technical & solutions architect position at Adobe was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
