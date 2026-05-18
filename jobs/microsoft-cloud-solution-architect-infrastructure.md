@@ -1,16 +1,16 @@
-# Cloud Solution Architect -Infrastructure at Microsoft
+# Cloud Solution Architect - Infrastructure at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826704) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556864516) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-03-24.
+This technical & solutions architect position at Microsoft was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

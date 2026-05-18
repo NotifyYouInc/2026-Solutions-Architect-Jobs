@@ -1,16 +1,16 @@
-# Director, GTM Architecture at Sigma Computing
+# Solution Architect (AI/LLM Inference) at Baseten
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Baseten](https://scoutify.ai/companies/baseten?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729885003) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/baseten/54c83823-574e-40ad-9cff-a57acff0ffe6) |
 
 ## About This Role
 
-This product marketing position at Sigma Computing was posted on 2026-05-11.
+This technical & solutions architect position at Baseten was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

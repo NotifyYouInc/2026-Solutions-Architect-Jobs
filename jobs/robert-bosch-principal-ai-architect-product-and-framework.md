@@ -1,16 +1,16 @@
-# Enterprise AI with SAP (BTP) Solutions Architect at Robert Bosch
+# Principal AI Architect - Product and Framework at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
+| Category | AI / ML Research |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125718627-enterprise-ai-with-sap-btp-solutions-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125718812-principal-ai-architect-product-and-framework) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-05-11.
+This ai / ml research position at Robert Bosch was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

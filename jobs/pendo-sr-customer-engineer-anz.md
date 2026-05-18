@@ -1,16 +1,16 @@
-# Solution Architect at IBM
+# Sr Customer Engineer - ANZ  at Pendo
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Technical & Solutions Architect |
+| Company | [Pendo](https://scoutify.ai/companies/pendo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Customer Success |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113579) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pendo/jobs/8525012002) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-05-11.
+This customer success position at Pendo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

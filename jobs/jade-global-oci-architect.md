@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# OCI Architect at Jade Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Architect_ATCI-5554902-S2021270) |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/OCI-Architect_R-105289) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-11.
+This technical & solutions architect position at Jade Global was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

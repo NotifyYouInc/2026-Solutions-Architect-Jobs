@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney/Solution-Designer--Australian-Citizen-with-Security-Clearance-_14181473) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne/Solution-Designer--AU-Citizen-with-Security-Clearance-_14148044) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-01.
+This technical & solutions architect position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Architect at AIA Group
+# Intern - Solutions Engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-AIA-Philippines/Solutions-Architect_JR-66276) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Solutions-Engineer_JR98556) |
 
 ## About This Role
 
-This technical & solutions architect position at AIA Group was posted on 2026-05-10.
+This technical & solutions architect position at Micron was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

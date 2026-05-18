@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Principal Solutions Architect at Veracode
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Veracode](https://scoutify.ai/companies/veracode?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Architect_ATCI-5554902-S2021270) |
+| Apply | [View on company site](https://www.veracode.com/career/job?gh_jid=8536392002) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-11.
+This technical & solutions architect position at Veracode was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

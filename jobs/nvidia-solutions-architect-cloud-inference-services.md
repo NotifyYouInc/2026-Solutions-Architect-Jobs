@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Solutions Architect, Cloud Inference Services at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Architect_ATCI-5554902-S2021270) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Solutions-Architect--Cloud-Inference-Services_JR2017694) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-11.
+This technical & solutions architect position at Nvidia was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

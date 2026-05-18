@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Data and AI Architect , Professional Services - Taiwan at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Architect_ATCI-5554902-S2021270) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415600/data-and-ai-architect-professional-services-taiwan) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-11.
+This technical & solutions architect position at Amazon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altruist](https://scoutify.ai/companies/altruist?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://altruist.com/join-altruist/5990231004?gh_jid=5990231004) |
+| Apply | [View on company site](https://altruist.com/join-altruist/5990235004?gh_jid=5990235004) |
 
 ## About This Role
 
