@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000125130568-network-services-architect-voicesip) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000125276005-network-services-architect-voicesip) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-05-07.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Architect-I_31465) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/South-Africa-Remote/Architect-I_31899) |
 
 ## About This Role
 
-This technical & solutions architect position at CSG Systems International was posted on 2026-03-04.
+This technical & solutions architect position at CSG Systems International was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

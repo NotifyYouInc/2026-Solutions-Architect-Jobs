@@ -5,12 +5,12 @@
 | Company | [Boskalis](https://scoutify.ai/companies/boskalis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Papendrecht, South Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000121128597-azure-solution-architect-data-ai) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000125808659-azure-solution-architect-data-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Boskalis was posted on 2026-04-16.
+This technical & solutions architect position at Boskalis was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

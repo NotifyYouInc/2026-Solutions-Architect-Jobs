@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/b71eb884-113e-4a3c-9160-56e1708cc812) |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731) |
 
 ## About This Role
 
-This ai / llm engineer position at OpenAI was posted on 2026-04-29.
+This ai / ml research position at OpenAI was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

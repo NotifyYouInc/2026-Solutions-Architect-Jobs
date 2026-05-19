@@ -5,12 +5,12 @@
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Architect-Prin_R14535-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Architect-Prin_R15341-1) |
 
 ## About This Role
 
-This technical & solutions architect position at American Electric Power was posted on 2026-03-26.
+This technical & solutions architect position at American Electric Power was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

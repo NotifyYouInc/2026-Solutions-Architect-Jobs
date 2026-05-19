@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rome, Georgia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Lead-Architect_323482) |
+| Location | United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Lead-Architect_325931) |
 
 ## About This Role
 
-This engineering manager position at CACI was posted on 2026-03-18.
+This technical & solutions architect position at CACI was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

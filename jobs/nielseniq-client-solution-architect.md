@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bezons, Île-de-France, France |
+| Location | Denmark |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121943142-client-solution-architect) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125812076-client-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at NielsenIQ was posted on 2026-04-21.
+This technical & solutions architect position at NielsenIQ was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7462261) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7827184) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-04-27.
+This technical & solutions architect position at Stripe was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

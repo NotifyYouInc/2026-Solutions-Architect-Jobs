@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000124859729-crm-architect) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125792401-crm-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-06.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

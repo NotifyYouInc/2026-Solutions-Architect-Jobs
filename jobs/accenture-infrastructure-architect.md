@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Infrastructure-Architect_ATCI-5378756-S1970715-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Infrastructure-Architect_ATCI-5556290-S2021422-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-06.
+This technical & solutions architect position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

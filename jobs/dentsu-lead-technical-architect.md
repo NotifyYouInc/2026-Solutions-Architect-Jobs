@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Lead-Technical-Architect_R1114852-7) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/London/Lead-Technical-Architect_R1120475) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-04-21.
+This technical & solutions architect position at Dentsu was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

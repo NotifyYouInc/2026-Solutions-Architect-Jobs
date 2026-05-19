@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Technical-Solutions-Architect_326787-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Technical-Solutions-Architect_326783-1) |
 
 ## About This Role
 
-This technical & solutions architect position at S&P Global was posted on 2026-05-07.
+This technical & solutions architect position at S&P Global was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

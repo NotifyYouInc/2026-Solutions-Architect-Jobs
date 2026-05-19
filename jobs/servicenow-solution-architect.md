@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Seattle, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000124156634-solution-architect) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125931139-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-01.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

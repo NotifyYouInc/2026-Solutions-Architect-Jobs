@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124079769-senior-architect) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125878015-senior-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-01.
+This technical & solutions architect position at AECOM was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

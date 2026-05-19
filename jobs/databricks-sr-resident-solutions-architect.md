@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8373617002) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8501125002) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-04-01.
+This technical & solutions architect position at Databricks was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

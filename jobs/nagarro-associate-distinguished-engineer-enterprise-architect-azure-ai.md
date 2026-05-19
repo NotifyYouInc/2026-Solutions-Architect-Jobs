@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113194177-associate-distinguished-engineer-enterprise-architect-azure-ai) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000125876559-associate-distinguished-engineer-enterprise-architect-azure-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-03-06.
+This technical & solutions architect position at Nagarro was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

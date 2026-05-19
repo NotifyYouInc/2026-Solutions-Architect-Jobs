@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000119135594-advisory-systems-engineer) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000125879923-advisory-systems-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-04-07.
+This technical & solutions architect position at Arista Networks was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

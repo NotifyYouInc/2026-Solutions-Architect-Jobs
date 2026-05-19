@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Solution-Architect---SC_R00322387) |
+| Location | Gurugram, Haryana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Solution-Architect-Manager_14273555) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-02.
+This technical & solutions architect position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

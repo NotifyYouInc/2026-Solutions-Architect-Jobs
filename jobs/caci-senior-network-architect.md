@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | High Point, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-High-Point/Senior-Network-Architect_323322) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-High-Point/Senior-Network-Architect_325970) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-03-16.
+This technical & solutions architect position at CACI was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

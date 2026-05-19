@@ -5,12 +5,12 @@
 | Company | [Lavendo](https://scoutify.ai/companies/lavendo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lavendo/f0374fa5-f8b8-4f42-b6fb-898721ef6a10) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lavendo/e5cf20c8-5beb-4ef8-82d7-d7c053454010) |
 
 ## About This Role
 
-This technical & solutions architect position at Lavendo was posted on 2026-03-18.
+This technical & solutions architect position at Lavendo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

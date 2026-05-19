@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Solution-Architect-Senior-Manager_14273019) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Solution-Architect-Senior-Manager_14273257-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-13.
+This technical & solutions architect position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

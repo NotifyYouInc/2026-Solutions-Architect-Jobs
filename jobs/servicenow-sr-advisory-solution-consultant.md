@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125155964-sr-advisory-solution-consultant) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125890851-sr-advisory-solution-consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-07.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

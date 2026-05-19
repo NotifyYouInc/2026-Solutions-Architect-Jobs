@@ -1,12 +1,12 @@
-# Solution Architect - Data Platforms at IBM
+# Solution Architect-Data Platforms at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113587) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102350) |
 
 ## About This Role
 

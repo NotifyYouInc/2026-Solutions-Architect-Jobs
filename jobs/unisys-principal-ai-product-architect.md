@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Principal-AI-Product-Architect_REQ572482) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Principal-AI-Product-Architect_REQ572389) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-04-14.
+This ai / ml research position at Unisys was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
