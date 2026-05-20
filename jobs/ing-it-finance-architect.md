@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Domain-Architect_REQ-10094319) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/IT-Finance---Architect_REQ-10114547) |
 
 ## About This Role
 
-This technical & solutions architect position at ING was posted on 2026-03-06.
+This technical & solutions architect position at ING was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

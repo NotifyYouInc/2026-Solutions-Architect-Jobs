@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Windhoek, Khomas Region, Namibia |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000119981618-architect-solutions) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000126044949-architect-solutions) |
 
 ## About This Role
 
-This technical & solutions architect position at Standard Bank was posted on 2026-04-10.
+This technical & solutions architect position at Standard Bank was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

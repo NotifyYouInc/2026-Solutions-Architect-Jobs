@@ -1,16 +1,16 @@
-#  Principal Specialist Sales Engineer  at Zscaler
+# Principal Specialist Sales Engineer at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5124279007) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5124270007) |
 
 ## About This Role
 
-This technical & solutions architect position at Zscaler was posted on 2026-05-11.
+This technical & solutions architect position at Zscaler was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

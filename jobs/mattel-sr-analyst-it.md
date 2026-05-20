@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000122593639-sr-analyst-it) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126010329-sr-analyst-it) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-04-24.
+This technical & solutions architect position at Mattel was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

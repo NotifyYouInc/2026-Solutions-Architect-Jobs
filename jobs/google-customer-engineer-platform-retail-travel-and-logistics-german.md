@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWuJKHhWzqV7RkIJ0YB1ZMPaJlYvfOBKPymzITux3Vv1EjsACxwdTDQ_060SXSjdw92rHv-kbN21suoah3v1Wb7Z8af82MomYHkTV3e8miwO1fAtWLgix6Ll6jO65w%3D%3D_V2&loc=DE&title=Customer+Engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbcWLRBpaKpkOWEF72p85H9z2nH-d32BKF3BNfwyTunzEjsACxwdTKRZmN9wFeUd2rTGxyEzyXVtuUGDkf0fvruFM8mbiIC_DBqbTictXFVM8Wd4_Y2mMkA7E223WQ%3D%3D_V2&loc=CH&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-17.
+This technical & solutions architect position at Google was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

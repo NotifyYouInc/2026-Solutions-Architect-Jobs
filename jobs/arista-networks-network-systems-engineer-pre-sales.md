@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000122038768-network-systems-engineer-pre-sales) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000126158259-network-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-04-21.
+This technical & solutions architect position at Arista Networks was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sitetracker](https://scoutify.ai/companies/sitetracker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Montclair, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/sitetracker/7b35fca1-d496-4adb-9fb0-a4df7dd04061) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.lever.co/sitetracker/65563b48-777b-4166-b8e8-21ab78ee5f79) |
 
 ## About This Role
 
-This technical & solutions architect position at Sitetracker was posted on 2026-04-27.
+This technical & solutions architect position at Sitetracker was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Solution-Architect_R0118031) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Singapore/Solution-Architect_R0122256) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi was posted on 2026-04-07.
+This technical & solutions architect position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

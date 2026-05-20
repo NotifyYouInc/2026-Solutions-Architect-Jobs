@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7710202003) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7732233003) |
 
 ## About This Role
 
-This technical & solutions architect position at Klaviyo was posted on 2026-04-23.
+This technical & solutions architect position at Klaviyo was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

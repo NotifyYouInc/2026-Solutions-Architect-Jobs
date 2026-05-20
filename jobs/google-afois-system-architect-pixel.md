@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQWf86SJ5ySBzXBgJZSltNfZzw3zmJq6_cjSxwEW12AFEjsACxwdTC9AmyfnfgW2ouaJjNyXBxegbxBq3QEkp-tzbGCC7OFBC72HK4X8V2gHpukcWg4Hqlv34OAmiw%3D%3D_V2&loc=US&title=AF/OIS+System+Architect) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZgApJXphr0Ye6mWMsTfM_bkOk4ueeaEDEXB1_2Sa-0pEjsACxwdTBixOqwc8nanqXRXdClrCUtGN2TMJaByze39T6HFZQWnxFA7WVcbUujkEL8Sb8NjBH8ekVsl_w%3D%3D_V2&loc=US&title=AF/OIS+System+Architect) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Google was posted on 2026-04-10.
+This embedded / firmware engineer position at Google was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

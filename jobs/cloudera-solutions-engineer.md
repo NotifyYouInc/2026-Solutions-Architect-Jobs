@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Georgia-Remote/Sales-Engineer_260616-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Solutions-Engineer_260659) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-04-27.
+This technical & solutions architect position at Cloudera was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

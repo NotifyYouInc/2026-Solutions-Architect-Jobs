@@ -5,12 +5,12 @@
 | Company | [Anglian Water](https://scoutify.ai/companies/awg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/IIoT-Solution-Architect_DC188-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/IIoT-Solution-Architect_R37292) |
 
 ## About This Role
 
-This technical & solutions architect position at Anglian Water was posted on 2026-02-11.
+This technical & solutions architect position at Anglian Water was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

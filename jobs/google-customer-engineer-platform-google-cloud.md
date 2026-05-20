@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQOFiYxsPpHIjtnPbOZ2mfImrLUMO3w2uqpBO9gctKFyEjsACxwdTBAWmW9OpSrvXXT5XVnTnWClLcB19UsysLGzEKm7mw0TBMRkKy7RgKfvYHMSmjmpYpPXdShOCw%3D%3D_V2&loc=TH&title=Customer+Engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbZpyx7JUgWbx2D1DcZtwUJvXmbnfLVcW1wC6yMD5xWqEjsACxwdTAbTuo0po-Z7zXCTzN3kGnV7qd_DYZ6NitHdh_9O9vetZi9BiLIk3HYf7HnRro4wURH5r7a3Rw%3D%3D_V2&loc=AU&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-28.
+This technical & solutions architect position at Google was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
