@@ -1,16 +1,16 @@
-# Application Architect - Asset Management at IBM
+# Application Architect-Asset Management at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
+| Location | Not specified |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105886) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113775) |
 
 ## About This Role
 
-This asset management / portfolio management position at IBM was posted on 2026-04-23.
+This asset management / portfolio management position at IBM was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

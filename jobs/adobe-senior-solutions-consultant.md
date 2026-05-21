@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chile |
+| Location | Paris, Île-de-France, France |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Chile/Senior-Solutions-Consultant_R167534) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Paris/Senior-Solutions-Consultant_R168351) |
 
 ## About This Role
 
-This implementation / professional services position at Adobe was posted on 2026-04-26.
+This implementation / professional services position at Adobe was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

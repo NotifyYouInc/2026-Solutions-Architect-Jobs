@@ -1,16 +1,16 @@
-# Service Now-Architect at Johnson Controls
+# Service Now Architect at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Service-Now-Architect_WD30259581) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Service-Now-Architect_WD30268981) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Controls was posted on 2026-02-19.
+This technical & solutions architect position at Johnson Controls was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

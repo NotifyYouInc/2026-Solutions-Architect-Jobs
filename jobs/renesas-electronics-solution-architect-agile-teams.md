@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Frisco, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118662660-solution-architect-agile-teams) |
+| Location | Munich, Bavaria, Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126315459-solution-architect-agile-teams) |
 
 ## About This Role
 
-This customer success position at Renesas Electronics was posted on 2026-04-03.
+This technical & solutions architect position at Renesas Electronics was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Principal-Architect_R-518933) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Principal-Architect_R-540952) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-03-24.
+This technical & solutions architect position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

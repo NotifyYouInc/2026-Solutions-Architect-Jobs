@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NeuraFlash, Part of Accenture](https://scoutify.ai/companies/neuraflash-part-of-accenture?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Alberta, CA |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/5993680004) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/5994325004) |
 
 ## About This Role
 
-This technical & solutions architect position at NeuraFlash, Part of Accenture was posted on 2026-05-11.
+This technical & solutions architect position at NeuraFlash, Part of Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

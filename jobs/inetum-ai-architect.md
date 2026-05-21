@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126053809-ai-architect) |
+| Category | AI / ML Research |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126295549-ai-architect) |
 
 ## About This Role
 
-This ai / llm engineer position at Inetum was posted on 2026-05-12.
+This ai / ml research position at Inetum was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud Architect T-Cloud Public (m/f/d) at T-Systems International
+# Cloud Architect - T Cloud Public (m/f/d) at T-Systems International
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Granada, Andalusia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000124617585-cloud-architect-t-cloud-public-mfd) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000126248234-cloud-architect-t-cloud-public-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-05-05.
+This technical & solutions architect position at T-Systems International was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

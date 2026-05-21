@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Berkeley Heights, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/BA-Functional-Solution-Architect_R-10393004) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/BA-Functional-Solution-Architect_R-10393241) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-05-06.
+This technical & solutions architect position at Fiserv was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

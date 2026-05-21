@@ -5,12 +5,12 @@
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000124962175-architect-iv) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000126326698-architect-iv) |
 
 ## About This Role
 
-This technical & solutions architect position at CRB was posted on 2026-05-06.
+This technical & solutions architect position at CRB was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

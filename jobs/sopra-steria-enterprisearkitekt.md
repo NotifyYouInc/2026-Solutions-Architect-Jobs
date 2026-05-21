@@ -1,16 +1,16 @@
-# Enterprisearkitekt  at Sopra Steria
+# Enterprisearkitekt at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Göteborg, Västra Götaland, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111593345-enterprisearkitekt) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126249486-enterprisearkitekt) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-26.
+This technical & solutions architect position at Sopra Steria was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Diego, California, United States |
+| Location | 9 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI---Automation-Solution-Architect_JR4477) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI---Automation-Solution-Architect_JR4729) |
 
 ## About This Role
 
-This technical & solutions architect position at Axos Bank was posted on 2026-05-01.
+This technical & solutions architect position at Axos Bank was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

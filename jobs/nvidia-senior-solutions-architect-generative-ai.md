@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Generative-AI_JR2017709) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Solutions-Architect--Generative-AI_JR2017964-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-05-11.
+This technical & solutions architect position at Nvidia was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

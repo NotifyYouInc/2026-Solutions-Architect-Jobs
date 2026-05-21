@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | AI / ML Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121785828-product-excellence-ai-architect) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126400279-product-excellence-ai-architect) |
 
 ## About This Role
 
-This ai / ml research position at ServiceNow was posted on 2026-04-20.
+This ai / ml research position at ServiceNow was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

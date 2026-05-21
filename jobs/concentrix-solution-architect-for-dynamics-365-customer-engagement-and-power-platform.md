@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MAR---Work-At-Home/Solution-Architect-for-Dynamics-365-Customer-Engagement-and-Power-Platform_R1718290-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/DEU-Work-at-Home/Solution-Architect-for-Dynamics-365-Customer-Engagement-and-Power-Platform_R1717784) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-05-07.
+This technical & solutions architect position at Concentrix was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407525/ai-specialist-sa) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418198/ai-specialist-sa) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-04-30.
+This technical & solutions architect position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

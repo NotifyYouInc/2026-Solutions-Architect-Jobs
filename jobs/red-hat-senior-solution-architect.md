@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Virginia, US |
+| Location | Brasília, Federal District, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/Senior-Solution-Architect_R-055791-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Brasilia---MSO/Senior-Solution-Architect_R-056430-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-27.
+This technical & solutions architect position at Red Hat was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

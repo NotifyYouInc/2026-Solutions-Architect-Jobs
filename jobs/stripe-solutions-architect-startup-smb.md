@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7653060) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7903814) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-02-25.
+This technical & solutions architect position at Stripe was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Architect---Senior_R-00182140) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/System-Architect---Senior_R-00183197) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-04-30.
+This technical & solutions architect position at Leidos was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

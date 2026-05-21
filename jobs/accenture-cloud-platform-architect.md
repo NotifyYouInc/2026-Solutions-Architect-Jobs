@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Cloud-Platform-Architect_ATCI-5327191-S1963259-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Cloud-Platform-Architect_ATCI-5269888-S1963244-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-06.
+This technical & solutions architect position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
