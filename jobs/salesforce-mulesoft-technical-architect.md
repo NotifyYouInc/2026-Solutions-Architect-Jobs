@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Mulesoft-Technical-Architect_JR332593) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Mulesoft-Technical-Architect_JR342624) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-06.
+This technical & solutions architect position at Salesforce was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

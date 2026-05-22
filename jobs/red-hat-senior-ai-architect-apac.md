@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangkok---MSO---Gaysorn/Senior-AI-Architect--APAC_R-056542-1) |
+| Location | Singapore, Singapore |
+| Category | AI / ML Research |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Singapore/Senior-AI-Architect--APAC_R-056987-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-20.
+This ai / ml research position at Red Hat was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiado](https://scoutify.ai/companies/axiado?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000107175910-system-architect) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000126411424-system-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Axiado was posted on 2026-02-04.
+This semiconductor / chip design position at Axiado was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

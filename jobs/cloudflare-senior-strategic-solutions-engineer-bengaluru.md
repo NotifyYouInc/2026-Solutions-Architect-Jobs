@@ -5,12 +5,12 @@
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7822857?gh_jid=7822857) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7916601?gh_jid=7916601) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudflare was posted on 2026-04-20.
+This technical & solutions architect position at Cloudflare was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

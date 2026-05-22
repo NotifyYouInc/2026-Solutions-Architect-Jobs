@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8527655002) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8537180002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-30.
+This technical & solutions architect position at Databricks was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

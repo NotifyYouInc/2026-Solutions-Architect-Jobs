@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87372747826438854-cloud-customer-engineer-google-cloud-platform?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcI0TzayvgZNBLO76flurbXyCQ88NFgxL4Cg-KDlJFQ1EjsACxwdTP2drmBrt9xJSs7fYUALMV4tjdgeqZ-WZ4ATXQSKTCq08F74NJdtJP6Notw93zS_Zv_ajgN1CQ%3D%3D_V2&loc=US&title=Cloud+Customer+Engineer) |
 
 ## About This Role
 
-This solutions architect position at Google was posted on 2026-02-03.
+This technical & solutions architect position at Google was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

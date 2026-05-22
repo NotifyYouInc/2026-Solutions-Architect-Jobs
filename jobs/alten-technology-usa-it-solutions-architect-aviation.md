@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Technology USA](https://scoutify.ai/companies/alten-technology-usa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Grand Prairie, Texas, United States |
+| Location | Mobile, Alabama, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5090125007) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5081991007) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN Technology USA was posted on 2026-04-24.
+This technical & solutions architect position at ALTEN Technology USA was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

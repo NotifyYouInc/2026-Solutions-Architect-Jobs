@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Schaumburg, Illinois, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116479114-identity-governance-administration-solutions-architect-remote) |
+| Location | United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126563409-identity-governance-administration-solutions-architect-remote) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-03-24.
+This technical & solutions architect position at Experian was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

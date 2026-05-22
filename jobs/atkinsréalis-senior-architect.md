@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Swords, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Senior-Architect_R-154088-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/IEDublinSwords/Senior-Architect_R-155648-1) |
 
 ## About This Role
 
-This technical & solutions architect position at AtkinsRéalis was posted on 2026-04-29.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

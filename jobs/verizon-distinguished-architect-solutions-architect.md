@@ -1,16 +1,16 @@
-# Distinguished Architect-Solutions Architect at Verizon
+# Distinguished Architect - Solutions Architect at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Distinguished-Architect-Solutions-Architect_R-1091399) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Distinguished-Architect---Solutions-Architect_R-1095118-1) |
 
 ## About This Role
 
-This engineering manager position at Verizon was posted on 2026-02-23.
+This technical & solutions architect position at Verizon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

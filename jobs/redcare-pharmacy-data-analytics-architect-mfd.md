@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000122433820-data-analytics-architect-mfd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126478160-data-analytics-architect-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Redcare Pharmacy was posted on 2026-04-23.
+This technical & solutions architect position at Redcare Pharmacy was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

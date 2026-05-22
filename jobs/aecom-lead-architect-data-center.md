@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125336779-lead-architect-data-center) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126501869-lead-architect-data-center) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-08.
+This technical & solutions architect position at AECOM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

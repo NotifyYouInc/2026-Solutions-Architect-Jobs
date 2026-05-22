@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Palantir-Lead_R-105152) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Palantir-Lead_R-105156) |
 
 ## About This Role
 
-This technical & solutions architect position at Jade Global was posted on 2026-04-02.
+This technical & solutions architect position at Jade Global was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

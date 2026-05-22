@@ -1,16 +1,16 @@
-# Principal Architect-Solutions  Architect at Verizon
+# Principal Architect - Solutions Architect at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Ashburn, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Rolling-Meadows-Illinois/Principal-Architect-Solutions--Architect_R-1091924) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Principal-Architect---Solutions-Architect_R-1095133-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Verizon was posted on 2026-03-18.
+This technical & solutions architect position at Verizon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

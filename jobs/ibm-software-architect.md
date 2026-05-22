@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94838) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113644) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-24.
+This technical & solutions architect position at IBM was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
