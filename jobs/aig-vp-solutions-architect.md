@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/Solution-Architect_JR2504517) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/VP--Solutions-Architect_JR2601483) |
 
 ## About This Role
 
-This technical & solutions architect position at AIG was posted on 2026-02-09.
+This technical & solutions architect position at AIG was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

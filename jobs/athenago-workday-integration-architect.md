@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athenago](https://scoutify.ai/companies/athenago?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://athenago.wd108.myworkdayjobs.com/athena/job/Los-Angeles/Workday-Integration-Architect_R-00327) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://athenago.wd108.myworkdayjobs.com/athena/job/Quezon-City/Workday-Integration-Architect_R-00361) |
 
 ## About This Role
 
-This technical & solutions architect position at Athenago was posted on 2026-03-31.
+This technical & solutions architect position at Athenago was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

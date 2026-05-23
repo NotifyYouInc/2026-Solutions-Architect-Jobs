@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney/Integration-Architect_14342184) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Integration-Architect_ATCI-5066598-S1924115-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-12.
+This technology / it consulting position at Accenture was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

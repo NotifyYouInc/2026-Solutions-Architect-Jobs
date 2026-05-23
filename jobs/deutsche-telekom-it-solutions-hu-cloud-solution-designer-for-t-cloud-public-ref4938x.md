@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000119087497-cloud-solution-designer-for-t-cloud-public-ref4938x) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000126703559-cloud-solution-designer-for-t-cloud-public-ref4938x) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-04-07.
+This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

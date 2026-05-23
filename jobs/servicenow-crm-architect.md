@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Staines, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126346697-crm-architect) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126672899-crm-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-13.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

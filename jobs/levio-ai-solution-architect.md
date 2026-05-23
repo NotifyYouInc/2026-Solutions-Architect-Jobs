@@ -5,12 +5,12 @@
 | Company | [Levio](https://scoutify.ai/companies/levio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8539332002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8551795002) |
 
 ## About This Role
 
-This technical & solutions architect position at Levio was posted on 2026-05-07.
+This technical & solutions architect position at Levio was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

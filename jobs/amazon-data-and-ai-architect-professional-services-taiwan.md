@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415600/data-and-ai-architect-professional-services-taiwan) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420778/data-and-ai-architect-professional-services-taiwan) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-11.
+This technical & solutions architect position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

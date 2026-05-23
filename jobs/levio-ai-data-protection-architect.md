@@ -5,12 +5,12 @@
 | Company | [Levio](https://scoutify.ai/companies/levio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Privacy & Data Protection |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8538289002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8551631002) |
 
 ## About This Role
 
-This privacy & data protection position at Levio was posted on 2026-05-07.
+This privacy & data protection position at Levio was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

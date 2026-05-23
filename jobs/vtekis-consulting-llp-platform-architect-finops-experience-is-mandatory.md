@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Jersey, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126355473-platform-architect-finops-experience-is-mandatory) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126534223-platform-architect-finops-experience-is-mandatory) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-13.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

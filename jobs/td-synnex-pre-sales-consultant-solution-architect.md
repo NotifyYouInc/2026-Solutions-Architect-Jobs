@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Melbourne-Australia/Pre-Sales-Consultant--Solution-Architect_R47412) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Sydney-Australia/Pre-Sales-Consultant--Solution-Architect_R51443) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-04-16.
+This technical & solutions architect position at TD Synnex was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

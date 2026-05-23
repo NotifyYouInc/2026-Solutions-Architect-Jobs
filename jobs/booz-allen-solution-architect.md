@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lorton, Virginia, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Solution-Architect_R0239154) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Solution-Architect_R0240198) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-05-01.
+This technical & solutions architect position at Booz Allen was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

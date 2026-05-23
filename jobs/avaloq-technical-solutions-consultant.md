@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Switzerland |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000126397899-technical-solutions-consultant) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000126542385-technical-solutions-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Avaloq was posted on 2026-05-13.
+This implementation / professional services position at Avaloq was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pennsylvania, US |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Sr-Principal-Presales-Solution-Architect_REQ570960) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Home-Based-Singapore/Sr-Principal-Presales-Solution-Architect_REQ572800) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-13.
+This technical & solutions architect position at Unisys was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

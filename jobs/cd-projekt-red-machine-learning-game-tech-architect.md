@@ -5,12 +5,12 @@
 | Company | [CD PROJEKT RED](https://scoutify.ai/companies/cd-projekt-red?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000122465098-machine-learning-game-tech-architect) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000126662869-machine-learning-game-tech-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CD PROJEKT RED was posted on 2026-04-23.
+This technical & solutions architect position at CD PROJEKT RED was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
