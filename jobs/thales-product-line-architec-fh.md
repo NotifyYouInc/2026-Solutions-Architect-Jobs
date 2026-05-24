@@ -1,16 +1,16 @@
-# Application Architect-Microsoft Business Applications at IBM
+# Product Line Architec - F/H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | La Ferté-Saint-Aubin, Centre-Val de Loire, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114488) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Fert-Saint-Aubin/Product-Line-Architec---F-H_R0326065-1) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-05-16.
+This technical & solutions architect position at Thales was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

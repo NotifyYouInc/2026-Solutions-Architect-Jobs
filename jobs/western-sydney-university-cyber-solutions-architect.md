@@ -6,7 +6,7 @@
 | Location | Parramatta, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001070433-cyber-solutions-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001070700-cyber-solutions-architect) |
 
 ## About This Role
 

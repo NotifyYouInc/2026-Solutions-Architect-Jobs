@@ -1,16 +1,16 @@
-# Application Architect-Microsoft Business Applications at IBM
+# Senior Staff Engineer, Salesforce Health Cloud at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114488) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806269-senior-staff-engineer-salesforce-health-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-05-16.
+This technical & solutions architect position at Nagarro was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 
