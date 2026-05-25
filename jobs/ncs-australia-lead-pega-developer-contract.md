@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Lead Pega Developer (Contract)  at NCS Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001080950-lead-pega-developer-contract) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at NCS Australia was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

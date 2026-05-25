@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Senior Customer Engineer, Novus — Emerging Business at Pendo
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Pendo](https://scoutify.ai/companies/pendo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Raleigh, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pendo/jobs/8547786002) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at Pendo was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

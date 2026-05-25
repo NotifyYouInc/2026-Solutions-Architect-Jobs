@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Senior Cloud Solutions Architect at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Cloud-Solutions-Architect_JR2026509008-1) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at Boeing was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Lead Software Application – Architect at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Lead-Software-Application---Architect_JR2026510453) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at Boeing was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

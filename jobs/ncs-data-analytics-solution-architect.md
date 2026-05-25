@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Data Analytics Solution Architect  at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001079698-data-analytics-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at NCS was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

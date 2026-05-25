@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125032409-ai-platform-architect) |
+| Category | AI / ML Research |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903369-ai-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Grab was posted on 2026-05-07.
+This ai / ml research position at Grab was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

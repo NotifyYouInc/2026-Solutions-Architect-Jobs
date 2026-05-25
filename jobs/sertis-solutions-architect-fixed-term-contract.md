@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Solutions Architect (Fixed-Term Contract) at Sertis
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8554338002) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at Sertis was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

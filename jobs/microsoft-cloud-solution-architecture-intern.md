@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Cloud Solution Architecture Intern at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Sepang, Selangor, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866893) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at Microsoft was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director - Dgtl. Trnf. at WNS
+# Principal Software Engineer at Rac WA
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Rac WA](https://scoutify.ai/companies/rac-wa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | West Perth, Western Australia, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126918628-director-dgtl-trnf) |
+| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/West-Perth/Principal-Software-Engineer_JR105983) |
 
 ## About This Role
 
-This technical & solutions architect position at WNS was posted on 2026-05-18.
+This technical & solutions architect position at Rac WA was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

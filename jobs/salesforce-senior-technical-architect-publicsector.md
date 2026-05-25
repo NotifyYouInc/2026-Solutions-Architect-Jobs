@@ -1,12 +1,12 @@
-# Senior Technical Architect at Salesforce
+# Senior Technical Architect  - Public.Sector at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea---Remote/Senior-Technical-Architect_JR342640) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Melbourne/Senior-Technical-Architect----PublicSector_JR342608) |
 
 ## About This Role
 
