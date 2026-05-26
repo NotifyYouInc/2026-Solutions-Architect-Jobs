@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
+| Location | Oregon, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8550331002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8555913002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-05-14.
+This technical & solutions architect position at Databricks was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

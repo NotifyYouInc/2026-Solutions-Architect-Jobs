@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7686550) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7924584) |
 
 ## About This Role
 
-This technical & solutions architect position at Backbase was posted on 2026-03-10.
+This technical & solutions architect position at Backbase was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

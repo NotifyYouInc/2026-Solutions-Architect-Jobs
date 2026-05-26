@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126581379-enterprise-application-architect-architectural-decision-records-adrs-architecture-review-boards) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000127026520-enterprise-application-architect-architectural-decision-records-adrs-architecture-review-boards) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-14.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

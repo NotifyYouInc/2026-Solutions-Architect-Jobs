@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Swords, Leinster, Ireland |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/IEDublinSwords/Senior-Architect_R-155648-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/SARiyadhHamad-Tower-Atkins/Senior-Architect_R-155575) |
 
 ## About This Role
 
-This technical & solutions architect position at AtkinsRéalis was posted on 2026-05-14.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

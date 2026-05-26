@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124906439-senior-architect-interior-design-architecture) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126941931-senior-architect-interior-design-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-06.
+This technical & solutions architect position at AECOM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

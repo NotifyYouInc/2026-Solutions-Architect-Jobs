@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | North Carolina, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Architect_2012396-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Solutions-Architect_2013777-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-04-20.
+This technical & solutions architect position at Cisco was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

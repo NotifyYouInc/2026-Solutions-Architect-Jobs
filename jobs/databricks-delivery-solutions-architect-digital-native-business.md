@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | California, US |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8385230002) |
+| Location | New York, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8548984002) |
 
 ## About This Role
 
-This customer success position at Databricks was posted on 2026-02-05.
+This technical & solutions architect position at Databricks was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

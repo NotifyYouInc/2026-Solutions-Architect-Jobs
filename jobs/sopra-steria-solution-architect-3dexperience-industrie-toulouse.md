@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120881149-solution-architect-3dexperience-industrie-toulouse) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126957159-solution-architect-3dexperience-industrie-toulouse) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-04-15.
+This technical & solutions architect position at Sopra Steria was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

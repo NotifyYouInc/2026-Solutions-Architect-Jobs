@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123616615-senior-consultant-cloud-aws-mwd) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127016761-senior-consultant-cloud-aws-mwd) |
 
 ## About This Role
 
-This strategy / management consulting position at Sopra Steria was posted on 2026-04-29.
+This strategy / management consulting position at Sopra Steria was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

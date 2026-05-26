@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Myriad360](https://scoutify.ai/companies/myriad360?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/myriad360/jobs/8407008002?gh_jid=8407008002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/myriad360/jobs/8555863002?gh_jid=8555863002) |
 
 ## About This Role
 
-This technical & solutions architect position at Myriad360 was posted on 2026-02-06.
+This technical & solutions architect position at Myriad360 was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

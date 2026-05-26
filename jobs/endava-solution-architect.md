@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126634704-solution-architect) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126971979-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-05-15.
+This technical & solutions architect position at Endava was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

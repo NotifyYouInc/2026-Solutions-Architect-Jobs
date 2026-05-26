@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122308360-senior-it-enterprise-architect-hybrid) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126987520-senior-it-enterprise-architect-hybrid) |
 
 ## About This Role
 
-This technical & solutions architect position at Eurofins Scientific was posted on 2026-04-22.
+This technical & solutions architect position at Eurofins Scientific was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

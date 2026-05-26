@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Nepal |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8463864002?gh_jid=8463864002) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8554858002?gh_jid=8554858002) |
 
 ## About This Role
 
-This technical & solutions architect position at Abacus Insights was posted on 2026-03-16.
+This technical & solutions architect position at Abacus Insights was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

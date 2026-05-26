@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64448) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64047) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-05-11.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

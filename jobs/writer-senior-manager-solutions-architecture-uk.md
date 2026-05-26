@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/24ad21fb-b351-4fd6-a86e-1f0b62e1ccde) |
+| Category | Engineering Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/860817e9-6433-40d4-80da-96b98a9910f5) |
 
 ## About This Role
 
-This technical & solutions architect position at Writer was posted on 2026-03-18.
+This engineering manager position at Writer was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

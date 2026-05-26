@@ -1,0 +1,22 @@
+# Senior Scientific Solutions Consultant at Causaly
+
+| Field | Details |
+|-------|---------|
+| Company | [Causaly](https://scoutify.ai/companies/causaly?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Implementation / Professional Services |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/causaly/92010ad4-817c-40d4-ac68-bc5dbcb657f7) |
+
+## About This Role
+
+This implementation / professional services position at Causaly was posted on 2026-05-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

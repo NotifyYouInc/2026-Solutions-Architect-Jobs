@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Colorado, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Santiago-Chile/Senior-Solution-Consultant_JR110712-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Colorado-USA/Senior-Solution-Consultant_JR111090) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-04-15.
+This technical & solutions architect position at Genesys was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

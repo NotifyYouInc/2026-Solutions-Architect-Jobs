@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000124876969-senior-solution-product-specialist-sap-pp-qm) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000126984379-senior-solution-product-specialist-sap-pp-qm) |
 
 ## About This Role
 
-This technical & solutions architect position at Louis Dreyfus was posted on 2026-05-06.
+This technical & solutions architect position at Louis Dreyfus was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [T-Rex Solutions](https://scoutify.ai/companies/t-rex-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Illinois, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8521774002) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8554810002) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Rex Solutions was posted on 2026-04-23.
+This technical & solutions architect position at T-Rex Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

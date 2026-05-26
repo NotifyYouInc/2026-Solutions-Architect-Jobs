@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000122666749-architecte-fonctionnel-data-environnement-plm) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000126981704-architecte-fonctionnel-data-environnement-plm) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN was posted on 2026-04-24.
+This technical & solutions architect position at ALTEN was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

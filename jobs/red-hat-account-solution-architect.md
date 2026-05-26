@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brasília, Federal District, Brazil |
+| Location | Florida, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Brasilia---MSO/Account-Solution-Architect_R-056156) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-FL/Account-Solution-Architect_R-057147) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-17.
+This technical & solutions architect position at Red Hat was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
