@@ -5,12 +5,12 @@
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Principal-Agentic-AI-Solutions-Architect_JR110357-2) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Principal-Agentic-AI-Solutions-Architect_JR110820) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-03-23.
+This technical & solutions architect position at Genesys was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Odaseva](https://scoutify.ai/companies/odaseva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.lever.co/odaseva/2affb0e8-e482-4835-8ba3-0f738cf0281a) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.lever.co/odaseva/695eb889-5bcc-458b-a335-beb0a38c9902) |
 
 ## About This Role
 
-This technical & solutions architect position at Odaseva was posted on 2026-05-15.
+This technical & solutions architect position at Odaseva was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

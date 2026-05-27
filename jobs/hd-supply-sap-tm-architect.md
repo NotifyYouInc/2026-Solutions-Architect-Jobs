@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/SAP-TM-Architect_R25005825) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/SAP-TM-Architect_R26002721) |
 
 ## About This Role
 
-This technical & solutions architect position at HD Supply was posted on 2026-03-02.
+This technical & solutions architect position at HD Supply was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

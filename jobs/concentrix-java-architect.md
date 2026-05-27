@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/India-Hyderabad-Telangana/Java-Architect_R1717100) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/India-Hyderabad-Telangana/Java-Architect_R1717139) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-15.
+This technical & solutions architect position at Concentrix was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

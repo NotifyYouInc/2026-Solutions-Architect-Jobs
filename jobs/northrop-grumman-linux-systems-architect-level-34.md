@@ -1,16 +1,16 @@
-# Linux Systems Architect (Level 3/4) at Northrop Grumman
+# Linux Systems Architect - Level 3/4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Redondo Beach, California, United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Linux-Systems-Architect--Level-3-4-_R10221378-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Linux-Systems-Architect---Level-3-4_R10233593) |
 
 ## About This Role
 
-This solutions architect position at Northrop Grumman was posted on 2026-02-02.
+This devops engineer position at Northrop Grumman was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

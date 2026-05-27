@@ -5,12 +5,12 @@
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8123299002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8550528002) |
 
 ## About This Role
 
-This technical & solutions architect position at Workato was posted on 2026-02-12.
+This technical & solutions architect position at Workato was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

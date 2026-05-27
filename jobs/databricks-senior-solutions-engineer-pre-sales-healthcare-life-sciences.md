@@ -5,12 +5,12 @@
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8509693002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8554468002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-05-02.
+This technical & solutions architect position at Databricks was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

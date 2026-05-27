@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Configuration-Analyst_R64708) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Configuration-Analyst_R64234) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-05-06.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

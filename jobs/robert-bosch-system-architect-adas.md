@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126962679-system-architect-adas) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126965239-system-architect-adas) |
 
 ## About This Role
 

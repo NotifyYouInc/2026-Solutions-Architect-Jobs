@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000125798054-architecte-securite-avant-vente-hf) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000127138469-architecte-securite-avant-vente-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Magellan Partners was posted on 2026-05-11.
+This technical & solutions architect position at Magellan Partners was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

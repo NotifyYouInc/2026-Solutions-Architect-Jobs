@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Accounting |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7929078) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7946015) |
 
 ## About This Role
 
-This accounting position at Coupang was posted on 2026-05-15.
+This accounting position at Coupang was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

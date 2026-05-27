@@ -1,16 +1,16 @@
-# HRIT Systems Architect at Wabtec
+#  HRIT Systems Architect at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012632822-hrit-systems-architect) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013212581-hrit-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-04-16.
+This technical & solutions architect position at Wabtec was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Solution Architect - (Digital / Banking) at Bank of Montreal
+# Sr Solution architect - (Digital/ Banking) at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Naperville, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Naperville-IL-USA/Sr-Solution-Architect----Digital---Banking-_R260010993) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Naperville-IL-USA/Sr-Solution-architect----Digital--Banking-_R260012428) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of Montreal was posted on 2026-04-16.
+This technical & solutions architect position at Bank of Montreal was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

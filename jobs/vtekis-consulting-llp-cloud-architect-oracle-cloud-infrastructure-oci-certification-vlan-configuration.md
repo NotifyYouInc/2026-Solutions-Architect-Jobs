@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126720829-cloud-architect-oracle-cloud-infrastructure-oci-certification-vlan-configuration) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000127026340-cloud-architect-oracle-cloud-infrastructure-oci-certification-vlan-configuration) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-15.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Northwich, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bangalore-India/Solutions-Architect_R-113166) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Northwich-Cheshire-United-Kingdom/Solutions-Architect_R-115209) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-04-27.
+This technical & solutions architect position at Ingram Micro was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

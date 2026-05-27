@@ -1,16 +1,16 @@
-# Principal Engineer / SAP Cloud Solution Architect at Nagarro
+# Principal Engineer - SAP Cloud Solution Architect at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000122697267-principal-engineer-sap-cloud-solution-architect) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000127301859-principal-engineer-sap-cloud-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-04-24.
+This technical & solutions architect position at Nagarro was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
