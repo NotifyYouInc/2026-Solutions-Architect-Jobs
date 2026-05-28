@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Southampton, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4769492101?gh_jid=4769492101) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4871469101?gh_jid=4871469101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-02-03.
+This technical & solutions architect position at NiCE was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

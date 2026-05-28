@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWpwYx2IEC_Gvroc-W2hKG0L3gZcL3vIlbFPDjDAIHYpEjsACxwdTArohyllPpVy4nj3eYDqdj4RH6a3oabicCmOxIQ-f7aMO4cgLT_8Cyqebd9cSMX3uj0_3h4g9w%3D%3D_V2&loc=IL&title=Staff+Architect) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV0lsxD-eH9M7fHJnnL_nUUl9fZiQehmbJLFUIh0EtuuEjsACxwdTPvAh-AMoQik2Vvh1HbW20_rD2t-enFbCDm6KYcpghHP03pBHV4ufgJtsddK83bNNxXWUc2UXg%3D%3D_V2&loc=US&title=Staff+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-20.
+This technical & solutions architect position at Google was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

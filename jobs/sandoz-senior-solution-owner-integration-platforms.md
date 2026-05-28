@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Prague, Prague, Czechia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Senior-Solution-Owner-Integration-Platforms_REQ-10026870) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Prague-Sandoz/Senior-Solution-Owner-Integration-Platforms_REQ-10029069) |
 
 ## About This Role
 
-This technical & solutions architect position at Sandoz was posted on 2026-05-15.
+This technical & solutions architect position at Sandoz was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ThreatLocker](https://scoutify.ai/companies/threatlocker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
+| Location | Orlando, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-12-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/threatlocker/jobs/5126619004) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/threatlocker/jobs/4145008004) |
 
 ## About This Role
 
-This technical & solutions architect position at ThreatLocker was posted on 2025-12-12.
+This technical & solutions architect position at ThreatLocker was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

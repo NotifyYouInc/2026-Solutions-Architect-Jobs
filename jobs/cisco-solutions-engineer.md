@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | North Carolina, US |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Solutions-Engineer_2012592) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Solutions-Engineer_2014816) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-05-18.
+This technical & solutions architect position at Cisco was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

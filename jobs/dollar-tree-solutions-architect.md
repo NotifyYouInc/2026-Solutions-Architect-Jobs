@@ -5,12 +5,12 @@
 | Company | [Dollar Tree](https://scoutify.ai/companies/dollar-tree?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Solutions-Architect_R-256814) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Solutions-Architect_R-262425) |
 
 ## About This Role
 
-This technical & solutions architect position at Dollar Tree was posted on 2026-05-11.
+This technical & solutions architect position at Dollar Tree was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ComplyAdvantage](https://scoutify.ai/companies/complyadvantage?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://complyadvantage.com/careers/jobs/8557920002?gh_jid=8557920002) |
 
 ## About This Role
 
-This implementation / professional services position at ComplyAdvantage was posted on 2026-05-06.
+This implementation / professional services position at ComplyAdvantage was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

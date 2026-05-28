@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Global-Data-Science-Architect_R0000349431) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Global-Data-Science-Architect_R0000371588) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar was posted on 2026-05-06.
+This technical & solutions architect position at Caterpillar was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

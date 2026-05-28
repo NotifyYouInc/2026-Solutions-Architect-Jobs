@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
-| Category | Engineering Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000117270439-solution-architect) |
+| Location | Florianópolis, Santa Catarina, Brazil |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000122662030-solution-architect) |
 
 ## About This Role
 
-This engineering manager position at McFadyen Digital was posted on 2026-03-27.
+This technical & solutions architect position at McFadyen Digital was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

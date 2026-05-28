@@ -5,12 +5,12 @@
 | Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vienna, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000120803590-solutions-architect) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000127230769-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at McFadyen Digital was posted on 2026-04-14.
+This technical & solutions architect position at McFadyen Digital was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

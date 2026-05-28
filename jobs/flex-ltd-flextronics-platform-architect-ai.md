@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Platform-Architect---AI_WD220820) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Platform-Architect---AI_WD221577) |
 
 ## About This Role
 
-This technical & solutions architect position at FLEX LTD. Flextronics was posted on 2026-05-11.
+This technical & solutions architect position at FLEX LTD. Flextronics was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

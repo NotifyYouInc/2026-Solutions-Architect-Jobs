@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hải Châu, Da Nang City, Vietnam |
+| Location | Cầu Giấy, Hanoi, Vietnam |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000123398949-solution-architect) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000127569909-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SmartDev was posted on 2026-04-28.
+This technical & solutions architect position at SmartDev was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

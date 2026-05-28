@@ -5,12 +5,12 @@
 | Company | [Austintexas](https://scoutify.ai/companies/austintexas?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Energy-Headquarters/IT-Solutions-Architect--Software-Developer-_JR103800) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Energy-Headquarters/IT-Solutions-Architect--Software-Developer-_JR103818) |
 
 ## About This Role
 
-This technical & solutions architect position at Austintexas was posted on 2026-05-08.
+This technical & solutions architect position at Austintexas was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

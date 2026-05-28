@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Rio---MSO---Pass/Senior-Account-Solution-Architect_R-056434-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-UK/Senior-Account-Solution-Architect_R-056471-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-29.
+This technical & solutions architect position at Red Hat was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

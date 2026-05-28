@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000118849189-solution-architect) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000127577739-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at H&M Group was posted on 2026-04-06.
+This technical & solutions architect position at H&M Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

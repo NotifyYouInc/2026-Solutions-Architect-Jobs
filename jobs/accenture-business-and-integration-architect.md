@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5557090-S2023337-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5489991-S2006989-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-05-13.
+This technology / it consulting position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

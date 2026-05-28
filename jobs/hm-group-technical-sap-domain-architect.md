@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000126004158-technical-sap-domain-architect) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000127399545-technical-sap-domain-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at H&M Group was posted on 2026-05-12.
+This technical & solutions architect position at H&M Group was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

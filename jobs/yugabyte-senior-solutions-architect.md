@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [YugaByte](https://scoutify.ai/companies/yugabyte?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yugabyte/jobs/4651770006) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yugabyte/jobs/4668541006) |
 
 ## About This Role
 
-This technical & solutions architect position at YugaByte was posted on 2026-02-09.
+This technical & solutions architect position at YugaByte was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/ServiceNow-Solution-Architect_R0404552) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-10-Upper-Bank-Street/ServiceNow-Solution-Architect_R0435116-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Bank was posted on 2026-05-13.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupa](https://scoutify.ai/companies/coupa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.lever.co/coupa/7c156ae2-a916-44f6-95e0-e072f672e8b2) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.lever.co/coupa/9b09c884-64f6-4509-8cec-25960eb713ca) |
 
 ## About This Role
 
-This technical & solutions architect position at Coupa was posted on 2026-04-03.
+This technical & solutions architect position at Coupa was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
