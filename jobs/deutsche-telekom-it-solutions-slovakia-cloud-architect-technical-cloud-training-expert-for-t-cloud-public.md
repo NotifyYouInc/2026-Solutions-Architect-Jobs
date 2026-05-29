@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000126518004-cloud-architect-technical-cloud-training-expert-for-t-cloud-public) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000127584449-cloud-architect-technical-cloud-training-expert-for-t-cloud-public) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-05-14.
+This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

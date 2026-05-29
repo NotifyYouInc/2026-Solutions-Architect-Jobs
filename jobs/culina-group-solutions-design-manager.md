@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warrington, England, United Kingdom |
+| Location | Lutterworth, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000124095715-solutions-design-manager) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000127809467-solutions-design-manager) |
 
 ## About This Role
 
-This technical & solutions architect position at Culina Group was posted on 2026-05-01.
+This technical & solutions architect position at Culina Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419593/security-solution-architect-security-sa-apj) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Security Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427561/security-solution-architect-security-sa-apj) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-14.
+This security engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

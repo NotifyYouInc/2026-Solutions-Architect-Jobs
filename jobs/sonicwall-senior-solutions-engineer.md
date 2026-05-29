@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SonicWall](https://scoutify.ai/companies/sonicwall?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | New Hampshire, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/7710304) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/7941865) |
 
 ## About This Role
 
-This technical & solutions architect position at SonicWall was posted on 2026-03-30.
+This technical & solutions architect position at SonicWall was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

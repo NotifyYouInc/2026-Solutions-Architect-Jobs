@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8437074002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8559342002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-05-14.
+This technical & solutions architect position at Databricks was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

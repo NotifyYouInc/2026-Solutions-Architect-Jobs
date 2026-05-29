@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7790) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7840) |
 
 ## About This Role
 
-This technical & solutions architect position at CTBC Financial Holding was posted on 2026-05-19.
+This technical & solutions architect position at CTBC Financial Holding was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

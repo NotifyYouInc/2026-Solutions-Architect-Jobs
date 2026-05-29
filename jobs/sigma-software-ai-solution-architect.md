@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000124946650-ai-solution-architect) |
+| Category | AI / ML Research |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000127676469-ai-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Software was posted on 2026-05-06.
+This ai / ml research position at Sigma Software was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

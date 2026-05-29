@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397594/sr-solutions-architect-rrcpg) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427624/sr-solutions-architect-rrcpg) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-04-21.
+This technical & solutions architect position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

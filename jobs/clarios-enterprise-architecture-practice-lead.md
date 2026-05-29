@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarios](https://scoutify.ai/companies/clarios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Pedro Garza García, Nuevo León, Mexico |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Enterprise-Architecture-Practice-Lead_WD46333) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Slovakia-Bratislava/Enterprise-Architecture-Practice-Lead_WD48383) |
 
 ## About This Role
 
-This technical & solutions architect position at Clarios was posted on 2026-02-12.
+This technical & solutions architect position at Clarios was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4674867006?gh_jid=4674867006) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4683539006?gh_jid=4683539006) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture Federal Services was posted on 2026-05-08.
+This technical & solutions architect position at Accenture Federal Services was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

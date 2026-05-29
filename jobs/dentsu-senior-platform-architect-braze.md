@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colorado, US |
 | Category | Marketing Operations |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Colorado/Senior-Platform-Architect--Braze-_R1120192) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Colorado/Senior-Platform-Architect--Braze-_R1121396) |
 
 ## About This Role
 
-This marketing operations position at Dentsu was posted on 2026-05-11.
+This marketing operations position at Dentsu was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

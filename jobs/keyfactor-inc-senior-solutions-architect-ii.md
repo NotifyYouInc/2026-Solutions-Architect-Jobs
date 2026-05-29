@@ -5,12 +5,12 @@
 | Company | [Keyfactor, Inc.](https://scoutify.ai/companies/keyfactor-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/keyfactorinc/jobs/5989375004) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/keyfactorinc/jobs/6002420004) |
 
 ## About This Role
 
-This technical & solutions architect position at Keyfactor, Inc. was posted on 2026-05-06.
+This technical & solutions architect position at Keyfactor, Inc. was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
