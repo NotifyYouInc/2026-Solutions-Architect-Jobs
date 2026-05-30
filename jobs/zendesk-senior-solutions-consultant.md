@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-New-York-United-States-of-America/Senior-Solutions-Consultant_R34918) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/Senior-Solutions-Consultant_R33412) |
 
 ## About This Role
 
-This customer success position at Zendesk was posted on 2026-05-18.
+This customer success position at Zendesk was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

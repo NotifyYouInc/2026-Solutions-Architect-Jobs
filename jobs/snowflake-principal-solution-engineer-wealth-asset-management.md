@@ -5,12 +5,12 @@
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/aef2336b-1975-430f-a518-20892a87fb25) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/c7726fbb-9557-4d6d-b7d2-e1d0ed9509c2) |
 
 ## About This Role
 
-This asset management / portfolio management position at Snowflake was posted on 2026-05-05.
+This asset management / portfolio management position at Snowflake was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

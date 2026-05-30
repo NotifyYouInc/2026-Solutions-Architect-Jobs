@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ashville, Ohio, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5026223007?gh_jid=5026223007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5143321007?gh_jid=5143321007) |
 
 ## About This Role
 

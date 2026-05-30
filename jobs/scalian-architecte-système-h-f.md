@@ -1,4 +1,4 @@
-# Architecte système - (H-F) at Scalian
+# Architecte système (H-F) at Scalian
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Neuilly-sur-Seine, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000127445199-architecte-systeme-h-f) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000127471927-architecte-systeme-h-f) |
 
 ## About This Role
 

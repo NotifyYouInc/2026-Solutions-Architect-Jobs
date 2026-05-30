@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Odenton, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/Enterprise-Architect_R-00180164) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Enterprise-Architect_R-00183787) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-04-14.
+This technical & solutions architect position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

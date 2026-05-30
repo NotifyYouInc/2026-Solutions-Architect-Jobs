@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Colorado, US |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Colorado-USA/Senior-AI-Architect_JR111034) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Quebec-Canada/Senior-AI-Architect_JR111124) |
 
 ## About This Role
 
-This ai / ml research position at Genesys was posted on 2026-05-15.
+This ai / ml research position at Genesys was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

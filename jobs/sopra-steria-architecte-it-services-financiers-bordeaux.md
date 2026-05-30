@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mérignac, Nouvelle-Aquitaine, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127390219-architecte-it-services-financiers-bordeaux) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127673319-architecte-it-services-financiers-bordeaux) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-05-20.
+This technical & solutions architect position at Sopra Steria was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yuno](https://scoutify.ai/companies/yuno?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.lever.co/yuno/321e6301-13f4-4fd7-b055-0db6e0039516) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.lever.co/yuno/b59c97c4-b4ca-4e03-a4b7-8d3442208b9f) |
 
 ## About This Role
 
-This technical & solutions architect position at Yuno was posted on 2026-04-21.
+This technical & solutions architect position at Yuno was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

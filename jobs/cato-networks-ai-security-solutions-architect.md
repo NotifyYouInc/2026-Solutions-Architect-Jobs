@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4872205101?gh_jid=4872205101) |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4872222101?gh_jid=4872222101) |
 
 ## About This Role
 

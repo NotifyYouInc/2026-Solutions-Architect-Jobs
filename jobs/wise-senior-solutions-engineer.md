@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124626809-senior-solutions-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127931759-senior-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at WISE was posted on 2026-05-05.
+This technical & solutions architect position at WISE was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

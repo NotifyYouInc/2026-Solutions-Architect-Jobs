@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dublin-Dublin-Ireland/Design-Standardization-Architect-I_WD30269916) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Design-Standardization-Architect-I_WD30269884) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Controls was posted on 2026-05-19.
+This technical & solutions architect position at Johnson Controls was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
