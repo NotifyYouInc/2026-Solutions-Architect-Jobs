@@ -1,4 +1,4 @@
-# Cloud Software Architect (Node.js and React.js) - Remote at General Dynamics Information Technology
+# Service Desk and Contact Center Modernization Architect at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cloud-Software-Architect--Nodejs-and-Reactjs----Remote_RQ220623-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Service-Desk-and-Contact-Center-Modernization-Architect_RQ220374-2) |
 
 ## About This Role
 
