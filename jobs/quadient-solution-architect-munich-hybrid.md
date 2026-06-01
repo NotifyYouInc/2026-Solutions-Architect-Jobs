@@ -1,16 +1,16 @@
-# Advisory Solution Architect at ServiceNow
+# Solution Architect - Munich - Hybrid at Quadient
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128189379-advisory-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000128190029-solution-architect-munich-hybrid) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-25.
+This technical & solutions architect position at Quadient was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

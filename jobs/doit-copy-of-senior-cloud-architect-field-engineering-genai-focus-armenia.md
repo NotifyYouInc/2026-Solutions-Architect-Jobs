@@ -1,16 +1,16 @@
-# Senior Solutions Engineer (Enterprise and Banking) at IBM
+# Copy of Senior Cloud Architect, Field Engineering (GenAI Focus) - Armenia at DoiT
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Estonia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116054) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7747508003) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-05-25.
+This technical & solutions architect position at DoiT was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

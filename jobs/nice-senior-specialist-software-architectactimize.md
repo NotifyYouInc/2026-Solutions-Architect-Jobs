@@ -1,16 +1,16 @@
-# Advisory Solution Architect at ServiceNow
+# Senior Specialist Software Architect,Actimize at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128189379-advisory-solution-architect) |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4874365101?gh_jid=4874365101) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-25.
+This technical & solutions architect position at NiCE was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

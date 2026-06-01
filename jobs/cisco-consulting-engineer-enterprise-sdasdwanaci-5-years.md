@@ -1,16 +1,16 @@
-# Advisory Solution Architect at ServiceNow
+# Consulting Engineer | Enterprise (SDA/SDWAN/ACI) | 5+ Years at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128189379-advisory-solution-architect) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer---Enterprise--SDA-SDWAN-ACI----5--Years_2014765) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-25.
+This technical & solutions architect position at Cisco was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

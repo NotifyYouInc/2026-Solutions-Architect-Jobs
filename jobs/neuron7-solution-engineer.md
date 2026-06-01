@@ -1,16 +1,16 @@
-# Responsible AI Tech Lead at Accenture
+# Solution Engineer at Neuron7
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Neuron7](https://scoutify.ai/companies/neuron7?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5310525-S1940387-1) |
+| Apply | [View on company site](https://jobs.lever.co/neuron7/334c2ee0-2d8a-4c35-a65b-31b7f1c74fc4) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-25.
+This technical & solutions architect position at Neuron7 was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

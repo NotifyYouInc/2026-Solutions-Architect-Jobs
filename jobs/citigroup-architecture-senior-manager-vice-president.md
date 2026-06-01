@@ -1,16 +1,16 @@
-# Advisory Solution Architect at ServiceNow
+# Architecture Senior Manager – Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128189379-advisory-solution-architect) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Architecture-Senior-Manager---Vice-President_26964086) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-25.
+This technical & solutions architect position at Citigroup was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

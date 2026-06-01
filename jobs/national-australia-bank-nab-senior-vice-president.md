@@ -1,16 +1,16 @@
-# Advisory Solution Architect at ServiceNow
+# Senior Vice President at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128189379-advisory-solution-architect) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Senior-Vice-President_JR118092) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-25.
+This technical & solutions architect position at National Australia Bank (NAB) was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

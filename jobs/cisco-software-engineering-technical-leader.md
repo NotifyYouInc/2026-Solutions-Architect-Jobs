@@ -1,16 +1,16 @@
-# Responsible AI Tech Lead at Accenture
+# Software Engineering Technical Leader at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5310525-S1940387-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineering-Technical-Leader_2010516) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-25.
+This technical & solutions architect position at Cisco was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

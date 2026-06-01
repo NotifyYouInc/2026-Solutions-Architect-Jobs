@@ -1,16 +1,16 @@
-# Senior Solutions Engineer (Enterprise and Banking) at IBM
+# Solutions Engineer at AirTrunk
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Company | [AirTrunk](https://scoutify.ai/companies/airtrunk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | North Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116054) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/airtrunk/jobs/7742371003) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-05-25.
+This technical & solutions architect position at AirTrunk was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
