@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5423816-S1971182-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Packaged-SaaS-Application-Engineer_ATCI-5562446-S2025690-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-21.
+This technical & solutions architect position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

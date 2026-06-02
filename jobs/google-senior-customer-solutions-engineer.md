@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeFFsyKWM4FCI9Y_PQv6E7LI5_k7802MqaWYeZ2jgrDOEjoACxwdTJWUEtwNFltEhx4LekYBumFt_mWw8Hdgu3Wc9Mrf60EDbaZ6yGRRxieZAw1yj36pTevTmQdi_V2&loc=IN&title=Senior+Customer+Solutions+Engineer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZh3NGIJBhS6Dg5Aa5JqkVFaYfvUO16N1oyCPyh6LolfEjsACxwdTPnmrNhYxE81JVj5ryf34UZJtk5tYElOSZw-jRKB9jvMfhAQLRXgD3r7LVUKuo13lKfvAGPtTg%3D%3D_V2&loc=US&title=Senior+Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-30.
+This technical & solutions architect position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

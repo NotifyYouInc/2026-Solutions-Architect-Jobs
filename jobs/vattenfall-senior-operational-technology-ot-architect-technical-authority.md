@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Kolding, South Denmark, Denmark |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000127720489-senior-operational-technology-ot-architect-technical-authority) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000127866079-senior-operational-technology-ot-architect-technical-authority) |
 
 ## About This Role
 
-This technical & solutions architect position at Vattenfall was posted on 2026-05-21.
+This technical & solutions architect position at Vattenfall was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

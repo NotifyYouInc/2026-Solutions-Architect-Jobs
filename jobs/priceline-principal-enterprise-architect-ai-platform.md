@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Principal-Enterprise-Architect--AI-Platform_R5430) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Principal-Enterprise-Architect--AI-Platform_R5671) |
 
 ## About This Role
 
-This technical & solutions architect position at Priceline was posted on 2026-03-11.
+This technical & solutions architect position at Priceline was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

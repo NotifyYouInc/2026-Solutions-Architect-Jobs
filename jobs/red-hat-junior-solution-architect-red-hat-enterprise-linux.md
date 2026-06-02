@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Singapore/Junior-Solution-Architect--Red-Hat-Enterprise-Linux_R-054545) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mumbai/Junior-Solution-Architect--Red-Hat-Enterprise-Linux_R-054562-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-05-05.
+This technical & solutions architect position at Red Hat was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

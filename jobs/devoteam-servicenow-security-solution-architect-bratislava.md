@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect - Bratislava at Devoteam
+# ServiceNow Security Solution Architect (Bratislava) at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000114006577-servicenow-security-solution-architect-bratislava) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000128186622-servicenow-security-solution-architect-bratislava) |
 
 ## About This Role
 
-This technology / it consulting position at Devoteam was posted on 2026-03-11.
+This technology / it consulting position at Devoteam was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000122210629-c3t-corporate-data-architect) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000128213500-c3t-corporate-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Software Mind was posted on 2026-04-22.
+This technical & solutions architect position at Software Mind was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

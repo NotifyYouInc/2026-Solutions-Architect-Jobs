@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SonicWall](https://scoutify.ai/companies/sonicwall?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Hampshire, US |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/7941865) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/7833941) |
 
 ## About This Role
 
-This technical & solutions architect position at SonicWall was posted on 2026-05-21.
+This technical & solutions architect position at SonicWall was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

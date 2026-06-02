@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8425626002?gh_jid=8425626002) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8549406002?gh_jid=8549406002) |
 
 ## About This Role
 
-This technical & solutions architect position at VML was posted on 2026-05-07.
+This technical & solutions architect position at VML was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

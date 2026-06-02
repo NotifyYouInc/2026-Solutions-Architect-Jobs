@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Braga, Braga, Portugal |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/PTBRAGARemote/Software-Architect_31440) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Software-Architect_32028) |
 
 ## About This Role
 
-This technical & solutions architect position at CSG Systems International was posted on 2026-03-25.
+This technical & solutions architect position at CSG Systems International was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

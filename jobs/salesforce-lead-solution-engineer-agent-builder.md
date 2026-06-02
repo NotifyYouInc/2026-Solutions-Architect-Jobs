@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Melbourne/Lead-Solution-Engineer---Agent-Builder_JR342268) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Lead-Solution-Engineer---Agent-Builder_JR343259) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-05-20.
+This ai / llm engineer position at Salesforce was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

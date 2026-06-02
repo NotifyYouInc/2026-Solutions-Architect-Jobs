@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brasil/Pre-Sales-Engineer_R50551) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Pre-Sales-Engineer_R51566) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-05-05.
+This technical & solutions architect position at TD Synnex was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

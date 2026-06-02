@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Bhartiya-City-Block-1/Technical-Architect_R1114820-2) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Technical-Architect_R1123394-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-02-19.
+This technical & solutions architect position at Dentsu was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
