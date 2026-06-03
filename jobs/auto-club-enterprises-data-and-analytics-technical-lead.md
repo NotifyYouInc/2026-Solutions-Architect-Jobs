@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Coppell, Texas, United States |
+| Location | Independence, Missouri, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell---0760/Data-and-Analytics-Technical-Lead_JR202636508) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH---6112/Data-and-Analytics-Technical-Lead_JR202636859) |
 
 ## About This Role
 
-This technical & solutions architect position at Auto Club Enterprises was posted on 2026-05-11.
+This technical & solutions architect position at Auto Club Enterprises was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

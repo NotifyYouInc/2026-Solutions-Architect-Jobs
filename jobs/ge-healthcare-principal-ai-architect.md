@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Principal-AI-Architect_R4039071-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Principal-AI-Architect_R4041583) |
 
 ## About This Role
 
-This ai / ml research position at GE HealthCare was posted on 2026-04-06.
+This technical & solutions architect position at GE HealthCare was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206173/senior-solutions-architect-aws-ph) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431168/senior-solutions-architect-aws-ph) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-17.
+This technical & solutions architect position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

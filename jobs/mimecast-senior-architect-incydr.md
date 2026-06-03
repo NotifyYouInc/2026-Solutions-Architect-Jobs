@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Senior-Architect---Incydr_R6434-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Senior-Architect---Incydr_R6439-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Mimecast was posted on 2026-05-22.
+This technical & solutions architect position at Mimecast was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

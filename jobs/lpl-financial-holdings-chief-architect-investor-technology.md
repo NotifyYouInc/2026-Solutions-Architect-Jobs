@@ -5,12 +5,12 @@
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Chief-Architect--Investor-Technology_R-050660) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/Chief-Architect--Investor-Technology_R-049483) |
 
 ## About This Role
 
-This technical & solutions architect position at LPL Financial Holdings was posted on 2026-05-19.
+This technical & solutions architect position at LPL Financial Holdings was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

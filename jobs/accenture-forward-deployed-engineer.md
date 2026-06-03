@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Forward-Deployed-Engineer_R00326442) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Forward-Deployed-Engineer_R00328682) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-22.
+This ai / llm engineer position at Accenture was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

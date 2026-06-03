@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Spain |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000107239245-solution-architect-cybersecurity-european-regulations-ot-critical-infrastructure-customer-facing-sales-enablement-focus) |
+| Location | Málaga, Andalusia, Spain |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000128438069-solution-architect-cybersecurity-european-regulations-ot-critical-infrastructure-customer-facing-sales-enablement-focus) |
 
 ## About This Role
 
-This solutions architect position at Drees & Sommer was posted on 2026-02-04.
+This revenue / sales operations position at Drees & Sommer was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
