@@ -5,12 +5,12 @@
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7939711&gh_jid=7939711) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7960974&gh_jid=7960974) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-05-18.
+This technical & solutions architect position at Elastic was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

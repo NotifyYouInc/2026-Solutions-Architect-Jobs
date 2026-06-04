@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127707950-principal-platform-architect-french-speaking) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128770299-principal-platform-architect-french-speaking) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-05-21.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

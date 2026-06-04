@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Minato, Wakayama, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Solutions-Engineer_2014816) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Solutions-Engineer_2015624) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-05-20.
+This technical & solutions architect position at Cisco was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

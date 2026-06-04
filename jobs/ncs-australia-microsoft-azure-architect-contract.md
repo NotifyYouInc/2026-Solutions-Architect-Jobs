@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001044448-microsoft-azure-architect-contract) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001108603-microsoft-azure-architect-contract) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS Australia was posted on 2026-05-04.
+This technical & solutions architect position at NCS Australia was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

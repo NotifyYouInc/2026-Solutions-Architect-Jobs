@@ -6,7 +6,7 @@
 | Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Torre-Chamartin/Tech-Architect_14413233) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid/Tech-Architect_14413251) |
 
 ## About This Role
 

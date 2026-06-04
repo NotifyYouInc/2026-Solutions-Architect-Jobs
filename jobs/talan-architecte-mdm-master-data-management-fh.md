@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000127218383-architecte-mdm-master-data-management-fh) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000128680539-architecte-mdm-master-data-management-fh) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-05-19.
+This technical & solutions architect position at Talan was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

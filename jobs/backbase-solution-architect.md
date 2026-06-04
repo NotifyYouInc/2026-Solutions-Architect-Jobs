@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Lebanon |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7938254) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7938208) |
 
 ## About This Role
 
-This technical & solutions architect position at Backbase was posted on 2026-05-25.
+This technical & solutions architect position at Backbase was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

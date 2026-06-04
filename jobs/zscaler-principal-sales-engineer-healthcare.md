@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5100430007) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5100440007) |
 
 ## About This Role
 
-This technical & solutions architect position at Zscaler was posted on 2026-04-28.
+This technical & solutions architect position at Zscaler was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

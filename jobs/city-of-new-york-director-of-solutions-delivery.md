@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013148892-director-of-solutions-delivery) |
+| Category | Engineering Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013321616-director-of-solutions-delivery) |
 
 ## About This Role
 
-This technical & solutions architect position at City of New York was posted on 2026-05-15.
+This engineering manager position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Leader-de-pratique--Architecture-de-solutions_R2606056) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-architecture-de-solutions-de-plateforme_R2606929) |
 
 ## About This Role
 
-This technical & solutions architect position at Desjardins was posted on 2026-05-06.
+This technical & solutions architect position at Desjardins was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

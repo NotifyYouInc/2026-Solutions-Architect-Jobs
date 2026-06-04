@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012868032-senior-architect-genetec-security-administrator) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013315561-senior-architect-genetec-security-administrator) |
 
 ## About This Role
 
-This security engineer position at City of New York was posted on 2026-04-29.
+This security engineer position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
