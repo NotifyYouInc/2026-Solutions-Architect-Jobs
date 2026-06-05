@@ -5,12 +5,12 @@
 | Company | [NeuraFlash, Part of Accenture](https://scoutify.ai/companies/neuraflash-part-of-accenture?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/5994855004) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/6008602004) |
 
 ## About This Role
 
-This technical & solutions architect position at NeuraFlash, Part of Accenture was posted on 2026-05-12.
+This technical & solutions architect position at NeuraFlash, Part of Accenture was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

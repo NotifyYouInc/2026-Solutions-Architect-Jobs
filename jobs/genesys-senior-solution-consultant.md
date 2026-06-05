@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Riyadh-Flexible/Senior-Solution-Consultant_JR111108) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Dubai-Flexible/Senior-Solution-Consultant_JR111161-1) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-05-19.
+This customer success position at Genesys was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

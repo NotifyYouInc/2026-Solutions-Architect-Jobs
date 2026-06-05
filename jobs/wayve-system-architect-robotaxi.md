@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8556913002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8569903002) |
 
 ## About This Role
 
-This technical & solutions architect position at Wayve was posted on 2026-05-21.
+This technical & solutions architect position at Wayve was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

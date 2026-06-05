@@ -6,7 +6,7 @@
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7959551?gh_jid=7959551) |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7893065?gh_jid=7893065) |
 
 ## About This Role
 

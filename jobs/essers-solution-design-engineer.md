@@ -5,12 +5,12 @@
 | Company | [Essers](https://scoutify.ai/companies/essers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://essers.wd103.myworkdayjobs.com/careersite_external/job/City/Solution-Design-Engineer_JR-031774-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://essers.wd103.myworkdayjobs.com/careersite_external/job/City/Solution-Design-Engineer_JR-032118) |
 
 ## About This Role
 
-This technical & solutions architect position at Essers was posted on 2026-04-24.
+This technical & solutions architect position at Essers was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

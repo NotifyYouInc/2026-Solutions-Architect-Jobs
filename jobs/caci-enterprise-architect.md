@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Lebanon, Tennessee, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Enterprise-Architect_326051) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Enterprise-Architect_327065) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-05-14.
+This technical & solutions architect position at CACI was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

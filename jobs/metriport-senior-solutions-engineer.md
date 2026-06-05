@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/aabe27f5-ef2f-45f0-a626-4c35e6c52113) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/0f623a1d-15b3-48eb-8205-d84d7060fad2) |
 
 ## About This Role
 
-This technical & solutions architect position at Metriport was posted on 2026-05-02.
+This technical & solutions architect position at Metriport was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

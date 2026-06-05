@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Eagan, Minnesota, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Lead-AI-Forward-Engineer_JREQ197282) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-AI-Forward-Engineer_JREQ201044) |
 
 ## About This Role
 
-This ai / llm engineer position at Thomson Reuters was posted on 2026-05-20.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
