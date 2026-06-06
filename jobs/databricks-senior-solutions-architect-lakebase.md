@@ -1,16 +1,16 @@
-#  Senior Solutions Architect - Lakebase at Databricks
+# Senior Solutions Architect - Lakebase at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8453652002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8570587002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-09.
+This technical & solutions architect position at Databricks was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

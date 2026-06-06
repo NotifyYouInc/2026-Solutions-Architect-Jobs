@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Paris/Senior-Solution-Architect---Content-Supply-Chain---AI-Transformation_R168630) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Munich/Senior-Solution-Architect---Content-Supply-Chain---AI-Transformation_R169243) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-05-22.
+This technical & solutions architect position at Adobe was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

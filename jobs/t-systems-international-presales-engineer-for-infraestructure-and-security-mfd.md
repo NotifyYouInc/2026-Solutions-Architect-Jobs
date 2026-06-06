@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000128673340-presales-engineer-for-infraestructure-and-security-mfd) |
+| Category | Security Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000129138154-presales-engineer-for-infraestructure-and-security-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-05-27.
+This security engineer position at T-Systems International was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

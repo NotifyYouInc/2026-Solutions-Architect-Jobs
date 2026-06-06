@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | Tukwila, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Data-Solutions-Architect_JR2026496638-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Senior-Data-Solutions-Architect_JR2026512300-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-02-23.
+This technical & solutions architect position at Boeing was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

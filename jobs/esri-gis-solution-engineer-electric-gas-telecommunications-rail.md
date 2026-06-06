@@ -5,12 +5,12 @@
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.esri.com/careers/5124605007?gh_jid=5124605007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.esri.com/careers/5139347007?gh_jid=5139347007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-05-08.
+This technical & solutions architect position at Esri was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

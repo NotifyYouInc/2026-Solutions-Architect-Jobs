@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Neuilly-sur-Seine, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000120483470-architecte-technique-hf) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000129174230-architecte-technique-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Scalian was posted on 2026-04-13.
+This technical & solutions architect position at Scalian was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

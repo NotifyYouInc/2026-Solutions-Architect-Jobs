@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Solution-Architect---VP_JR-0000107953-3) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Solution-Architect---VP_JR-0000093636-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-05-12.
+This technical & solutions architect position at Barclays was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
