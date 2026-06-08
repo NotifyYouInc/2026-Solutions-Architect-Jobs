@@ -1,16 +1,16 @@
-# Pre-Sales Solutions Architect at MongoDB
+# Technical Architect at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7951322) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/457fe8d9-39fb-4b8a-a4d2-f7e054c66310) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-05-31.
+This technical & solutions architect position at Snowflake was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

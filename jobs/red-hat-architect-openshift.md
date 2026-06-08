@@ -1,16 +1,16 @@
-# Pre-Sales Solutions Architect at MongoDB
+# Architect - OpenShift at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7951322) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Doha---MSO/Architect---OpenShift_R-052608) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-05-31.
+This technical & solutions architect position at Red Hat was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

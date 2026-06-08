@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AppsFlyer](https://scoutify.ai/companies/appsflyer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8520167002?gh_jid=8520167002) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8572381002?gh_jid=8572381002) |
 
 ## About This Role
 
-This technical & solutions architect position at AppsFlyer was posted on 2026-04-23.
+This technical & solutions architect position at AppsFlyer was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

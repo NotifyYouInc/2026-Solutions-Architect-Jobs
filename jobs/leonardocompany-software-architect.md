@@ -1,16 +1,16 @@
-# Associate Director, Enterprise Information Architecture at BeOne
+# Software Architect at Leonardocompany
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Lazio, IT |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Enterprise-Information-Architecture_R34883) |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Tiburtina-965/Software-Architect_R0027704-1) |
 
 ## About This Role
 
-This technical & solutions architect position at BeOne was posted on 2026-05-31.
+This technical & solutions architect position at Leonardocompany was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

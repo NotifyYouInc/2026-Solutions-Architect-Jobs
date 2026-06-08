@@ -1,16 +1,16 @@
-# Pre-Sales Solutions Architect at MongoDB
+# Blue Planet Data Management Lead at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7951322) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/London/Blue-Planet-Data-Management-Lead_R031020-1) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-05-31.
+This technical & solutions architect position at Ciena was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

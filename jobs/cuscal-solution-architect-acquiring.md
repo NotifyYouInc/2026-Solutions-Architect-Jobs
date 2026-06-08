@@ -1,16 +1,16 @@
-# Associate Director, Enterprise Information Architecture at BeOne
+# Solution Architect - Acquiring at Cuscal
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Enterprise-Information-Architecture_R34883) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000129345929-solution-architect-acquiring) |
 
 ## About This Role
 
-This technical & solutions architect position at BeOne was posted on 2026-05-31.
+This technical & solutions architect position at Cuscal was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | China |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117703) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117704) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-05-27.
+This customer success position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

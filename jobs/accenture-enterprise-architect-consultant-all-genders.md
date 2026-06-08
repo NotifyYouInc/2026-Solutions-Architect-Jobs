@@ -1,16 +1,16 @@
-# Technology Architect at Accenture
+# Enterprise Architect Consultant (all genders) at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bhubaneswar, Odisha, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Technology-Architect_ATCI-5398542-S1986968-1) |
+| Location | 5 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/Enterprise-Architect-Consultant--all-genders-_R00294021) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-28.
+This technology / it consulting position at Accenture was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

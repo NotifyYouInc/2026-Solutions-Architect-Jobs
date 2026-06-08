@@ -1,16 +1,16 @@
-# Associate Director, Enterprise Information Architecture at BeOne
+# Solutions Engineer at Runlayer
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Runlayer](https://scoutify.ai/companies/runlayer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Enterprise-Information-Architecture_R34883) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/runlayer/9689abb9-07ac-455c-beb7-1d41ad2ce84d) |
 
 ## About This Role
 
-This technical & solutions architect position at BeOne was posted on 2026-05-31.
+This technical & solutions architect position at Runlayer was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

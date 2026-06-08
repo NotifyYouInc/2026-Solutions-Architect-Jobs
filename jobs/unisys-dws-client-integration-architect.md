@@ -1,16 +1,16 @@
-# Sr Solution Architect at Blue Yonder
+# DWS Client Integration Architect at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Solution-Architect_261460) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/DWS-Client-Integration-Architect_REQ573279) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-06-01.
+This technical & solutions architect position at Unisys was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

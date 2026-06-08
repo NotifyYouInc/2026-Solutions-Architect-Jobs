@@ -1,4 +1,4 @@
-# Application Architect, Professional Services at Amazon
+# Cloud Architect, Professional Services at Amazon
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Seoul, Seoul, South Korea |
 | Category | Customer Success |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435223/application-architect-professional-services) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435224/cloud-architect-professional-services) |
 
 ## About This Role
 

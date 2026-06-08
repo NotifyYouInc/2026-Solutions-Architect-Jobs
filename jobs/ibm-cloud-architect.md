@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118042) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118041) |
 
 ## About This Role
 

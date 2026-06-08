@@ -1,16 +1,16 @@
-# Solutions Consultant at Adobe
+# Software Development Engineer 5 (Architect) at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Solutions-Consultant_R169266) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-5--Architect-_R169280-1) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-05-29.
+This technical & solutions architect position at Adobe was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
