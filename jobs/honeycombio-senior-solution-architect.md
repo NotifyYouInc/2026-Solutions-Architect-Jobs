@@ -5,12 +5,12 @@
 | Company | [Honeycomb.io](https://scoutify.ai/companies/honeycomb-io?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/honeycomb/jobs/5215886008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/honeycomb/jobs/5237621008) |
 
 ## About This Role
 
-This technical & solutions architect position at Honeycomb.io was posted on 2026-05-21.
+This technical & solutions architect position at Honeycomb.io was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

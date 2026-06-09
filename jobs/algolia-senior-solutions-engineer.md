@@ -1,16 +1,16 @@
-# Senior Solutions Engineer  at Algolia
+# Senior Solutions Engineer at Algolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Algolia](https://scoutify.ai/companies/algolia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/5994386004) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/6010162004) |
 
 ## About This Role
 
-This technical & solutions architect position at Algolia was posted on 2026-05-18.
+This technical & solutions architect position at Algolia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

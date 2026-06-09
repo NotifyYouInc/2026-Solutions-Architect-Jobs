@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Mumbai/Sr-Solutions-Consultant_R168844) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Mexico-City/Sr-Solutions-Consultant_R167537-1) |
 
 ## About This Role
 
-This implementation / professional services position at Adobe was posted on 2026-05-19.
+This implementation / professional services position at Adobe was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

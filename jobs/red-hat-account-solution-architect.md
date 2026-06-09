@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | New Delhi, Delhi, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-FL/Account-Solution-Architect_R-057147) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/New-Delhi/Account-Solution-Architect_R-053762-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-05-18.
+This technical & solutions architect position at Red Hat was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

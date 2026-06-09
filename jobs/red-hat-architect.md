@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Architect_R-056856-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-UK/Architect_R-057427-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-05-20.
+This technical & solutions architect position at Red Hat was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

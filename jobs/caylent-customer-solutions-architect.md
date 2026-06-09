@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caylent](https://scoutify.ai/companies/caylent?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Argentina |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/5755252004) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/6010596004) |
 
 ## About This Role
 
-This technical & solutions architect position at Caylent was posted on 2026-04-20.
+This technical & solutions architect position at Caylent was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

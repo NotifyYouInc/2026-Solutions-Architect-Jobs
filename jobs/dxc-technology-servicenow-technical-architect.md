@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---QUEZON-CITY/ServiceNow-Technical-Architect_51581360) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---QUEZON-CITY/ServiceNow-Technical-Architect_51581361) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-05-28.
+This technical & solutions architect position at DXC Technology was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

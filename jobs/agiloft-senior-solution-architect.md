@@ -1,0 +1,22 @@
+# Senior Solution Architect at Agiloft
+
+| Field | Details |
+|-------|---------|
+| Company | [Agiloft](https://scoutify.ai/companies/agiloft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.lever.co/agiloft/09cbf600-7b11-4ff5-8c36-00edc17fb0ac) |
+
+## About This Role
+
+This technical & solutions architect position at Agiloft was posted on 2026-06-01.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

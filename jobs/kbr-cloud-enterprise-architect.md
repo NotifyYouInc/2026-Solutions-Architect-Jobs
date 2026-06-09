@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Cloud-Enterprise-Architect_R2124108) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Cloud-Enterprise-Architect_R2124468) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-05-22.
+This technical & solutions architect position at KBR was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

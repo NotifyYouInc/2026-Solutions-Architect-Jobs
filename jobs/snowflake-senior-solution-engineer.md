@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/baa83163-842e-4c9b-8452-0ac8f8b968f5) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e9269d2e-f5c1-48e1-bfbb-1214ef18e318) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-05-28.
+This technical & solutions architect position at Snowflake was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Costa Rica |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Work-at-Home/Cloud-Solution-Architect--D365-F-O--Supply-Chain---Operations--Bilingual--Spanish-English-_R1734169) |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CRI-Work-at-Home/Cloud-Solution-Architect--D365-F-O--Supply-Chain---Operations--Bilingual--Spanish-English-_R1734799) |
 
 ## About This Role
 
