@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Technical Writer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4789296101) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4880591101) |
 
 ## About This Role
 
-This technical writer position at Veeam Software was posted on 2026-02-25.
+This technical & solutions architect position at Veeam Software was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

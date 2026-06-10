@@ -1,16 +1,16 @@
-# Senior Solutions Architect - Gen AI at Nvidia
+# Senior Solutions Architect, Gen AI at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Solutions-Architect---Gen-AI_JR2018112) |
+| Location | California, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Solutions-Architect--Gen-AI_JR2019035) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-05-20.
+This technical & solutions architect position at Nvidia was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

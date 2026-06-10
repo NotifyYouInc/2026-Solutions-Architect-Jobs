@@ -1,12 +1,12 @@
-# Technical Account Manager  at Camunda
+# Technical Account Manager at Camunda
 
 | Field | Details |
 |-------|---------|
 | Company | [Camunda](https://scoutify.ai/companies/camunda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
+| Location | Not specified |
 | Category | Customer Success |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/camunda/1398a476-4160-48df-8b19-ee7977f2eaa2) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/camunda/b2bb1534-950c-4e71-a351-7a64c4c0ac2d) |
 
 ## About This Role
 

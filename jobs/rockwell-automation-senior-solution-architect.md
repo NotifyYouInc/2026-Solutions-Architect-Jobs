@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Perth-Western-Australia-Australia/Senior-Solution-Architect_R25-9821) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Santiago-Chile/Senior-Solution-Architect_R26-4412) |
 
 ## About This Role
 
-This business development position at Rockwell Automation was posted on 2026-02-06.
+This technical & solutions architect position at Rockwell Automation was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Erie, Pennsylvania, United States |
+| Location | Contagem, Minas Gerais, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013026376-director-enterprise-architecture) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013419066-director-enterprise-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-05-07.
+This technical & solutions architect position at Wabtec was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

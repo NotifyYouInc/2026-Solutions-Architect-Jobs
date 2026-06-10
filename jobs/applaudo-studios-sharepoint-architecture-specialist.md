@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000127702300-sharepoint-architecture-specialist) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000129824062-sharepoint-architecture-specialist) |
 
 ## About This Role
 
-This technical & solutions architect position at Applaudo Studios was posted on 2026-05-21.
+This technical & solutions architect position at Applaudo Studios was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

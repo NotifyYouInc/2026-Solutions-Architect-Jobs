@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Product-Architect_098430) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Product-Architect_098400-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Nationwide was posted on 2026-05-30.
+This technical & solutions architect position at Nationwide was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

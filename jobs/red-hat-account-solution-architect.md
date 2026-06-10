@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Puteaux, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/New-Delhi/Account-Solution-Architect_R-053762-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Puteaux/Account-Solution-Architect_R-057166-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-01.
+This technical & solutions architect position at Red Hat was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556768555) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867923) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-04-27.
+This technical & solutions architect position at Microsoft was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

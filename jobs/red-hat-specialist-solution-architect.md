@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Virginia, US |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/Specialist-Solution-Architect_R-055510-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Specialist-Solution-Architect_R-051518-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-28.
+This technical & solutions architect position at Red Hat was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

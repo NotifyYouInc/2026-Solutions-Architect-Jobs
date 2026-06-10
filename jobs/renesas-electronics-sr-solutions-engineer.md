@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127692829-sr-solutions-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000129790430-sr-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Renesas Electronics was posted on 2026-05-21.
+This technical & solutions architect position at Renesas Electronics was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

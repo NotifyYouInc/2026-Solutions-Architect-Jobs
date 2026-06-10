@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Principal-Lead-Enterprise-Architect---Cloud_JR-2600348) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Principal-Lead-Enterprise-Architect---Cloud_JR-2602190) |
 
 ## About This Role
 
-This solutions architect position at GlobalFoundries was posted on 2026-02-04.
+This technical & solutions architect position at GlobalFoundries was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

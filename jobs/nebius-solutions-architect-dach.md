@@ -1,16 +1,16 @@
-# Solutions Architect - DACH  at Nebius
+# Solutions Architect DACH  at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Austria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4774435101) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4869835101) |
 
 ## About This Role
 
-This technical & solutions architect position at Nebius was posted on 2026-02-05.
+This technical & solutions architect position at Nebius was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

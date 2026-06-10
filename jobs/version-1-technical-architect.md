@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000112346207-technical-architect) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000129734487-technical-architect) |
 
 ## About This Role
 
-This technology / it consulting position at Version 1 was posted on 2026-03-03.
+This technical & solutions architect position at Version 1 was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

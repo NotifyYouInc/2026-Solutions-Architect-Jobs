@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cursor](https://scoutify.ai/companies/cursor?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cursor/cda9256f-e820-4f0a-9e77-e44c61295e1d) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cursor/9879627d-b996-4213-bbdf-82a18884015f) |
 
 ## About This Role
 
-This technical & solutions architect position at Cursor was posted on 2026-05-28.
+This technical & solutions architect position at Cursor was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

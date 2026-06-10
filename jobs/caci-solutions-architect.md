@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Charleston, South Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Solutions-Architect_326565) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Charleston-SC-US/Solutions-Architect_327191) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-05-19.
+This technical & solutions architect position at CACI was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

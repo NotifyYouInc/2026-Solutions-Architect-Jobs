@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Chantilly, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Brisbane/Solution-Architect_R0161433) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Solution-Architect_R0162596) |
 
 ## About This Role
 
-This technical & solutions architect position at Amentum was posted on 2026-05-18.
+This technical & solutions architect position at Amentum was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

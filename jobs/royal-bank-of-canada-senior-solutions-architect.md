@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Solutions-Architect_R-0000149618-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Solutions-Architect_R-0000173697-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Royal Bank of Canada was posted on 2026-03-11.
+This technical & solutions architect position at Royal Bank of Canada was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

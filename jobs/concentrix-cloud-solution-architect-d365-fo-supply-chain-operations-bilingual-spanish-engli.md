@@ -1,16 +1,16 @@
-# Cloud Solution Architect- D365 F&O (Supply Chain & Operations) Bilingual (Spanish-English) at Concentrix
+# Cloud Solution Architect- D365 F&O (Supply Chain & Operations) Bilingual (Spanish-English)  at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Costa Rica |
+| Location | Ohio, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CRI-Work-at-Home/Cloud-Solution-Architect--D365-F-O--Supply-Chain---Operations--Bilingual--Spanish-English-_R1734799) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-OH-Work-at-Home/Cloud-Solution-Architect--D365-F-O--Supply-Chain---Operations--Bilingual--Spanish-English--_R1735822) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-05-28.
+This technical & solutions architect position at Concentrix was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

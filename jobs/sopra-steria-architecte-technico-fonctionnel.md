@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116399717-architecte-technico-fonctionnel) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129718813-architecte-technico-fonctionnel) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-03-24.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

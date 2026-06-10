@@ -1,16 +1,16 @@
-# Senior Solutions Architect - Generative AI at Nvidia
+# Senior Solutions Architect, Generative AI at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Solutions-Architect---Generative-AI_JR2018210) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Solutions-Architect--Generative-AI_JR2018786) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-05-28.
+This ai / llm engineer position at Nvidia was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

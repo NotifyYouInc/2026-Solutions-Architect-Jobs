@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Solutions-Engineer---Senior_R-00184328) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Solutions-Engineer---Senior_R-00184505) |
 
 ## About This Role
 

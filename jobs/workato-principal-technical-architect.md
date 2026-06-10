@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8484719002) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8574549002#open-roles) |
 
 ## About This Role
 
-This technical & solutions architect position at Workato was posted on 2026-03-30.
+This ai / llm engineer position at Workato was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

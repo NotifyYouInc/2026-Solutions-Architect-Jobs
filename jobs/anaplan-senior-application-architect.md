@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8518557002) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8574763002) |
 
 ## About This Role
 
-This technical & solutions architect position at Anaplan was posted on 2026-05-11.
+This technical & solutions architect position at Anaplan was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

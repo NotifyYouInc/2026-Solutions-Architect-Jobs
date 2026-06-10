@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/106222698937361094-soc-input-output-architect-silicon-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdDWKVaXP6SHQ1_oondP8yUFiWvNaf9qV0RTV6RD1vbcEjsACxwdTGFrJhNka3SSkoVym3LIHJj1LVJiOqtDryNrzlCt6u74jRO4YQATfV74pmdbDUyZZi1EMxCzTg%3D%3D_V2&loc=IL&title=SoC+Input+Output+Architect) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-03-02.
+This semiconductor / chip design position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

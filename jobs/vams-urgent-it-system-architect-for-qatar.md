@@ -1,16 +1,16 @@
-# Urgent : IT System Architect for Qatar at VAMS
+# Urgent : IT System Architect  for Qatar at VAMS
 
 | Field | Details |
 |-------|---------|
 | Company | [VAMS](https://scoutify.ai/companies/vams?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Technical & Solutions Architect |
-| Posted | 2017-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vams/743999656245627-urgent-it-system-architect-for-qatar) |
+| Posted | 2017-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vams/743999658410333-urgent-it-system-architect-for-qatar) |
 
 ## About This Role
 
-This technical & solutions architect position at VAMS was posted on 2017-07-24.
+This technical & solutions architect position at VAMS was posted on 2017-08-23.
 
 ## Get Real-Time Alerts
 

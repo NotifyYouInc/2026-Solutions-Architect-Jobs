@@ -5,12 +5,12 @@
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5193973008) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5228931008) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-04-21.
+This technical & solutions architect position at Anthropic was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
