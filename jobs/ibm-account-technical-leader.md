@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118567) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118532) |
 
 ## About This Role
 

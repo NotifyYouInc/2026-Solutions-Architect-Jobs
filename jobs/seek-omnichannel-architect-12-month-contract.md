@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000124762394-omnichannel-architect-12-month-contract) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000130140549-omnichannel-architect-12-month-contract) |
 
 ## About This Role
 
-This technical & solutions architect position at SEEK was posted on 2026-05-06.
+This technical & solutions architect position at SEEK was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kansas, US |
+| Location | Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-KS-Work-at-Home/Cloud-Solution-Architect---Functional--Dynamics-365-Finance---Operations-_R1723802) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MEX-Work-at-Home/Cloud-Solution-Architect---Functional--Dynamics-365-Finance---Operations-_R1734410) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-20.
+This technical & solutions architect position at Concentrix was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8507014002) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8105504002) |
 
 ## About This Role
 
-This customer success position at Databricks was posted on 2026-05-19.
+This technical & solutions architect position at Databricks was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

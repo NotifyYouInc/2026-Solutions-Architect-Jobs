@@ -1,16 +1,16 @@
-# Manager Solution Architecture at Red Hat
+# Manager - Solution Architecture at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Sales Leadership |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Santiago/Manager-Solution-Architecture_R-057364-1) |
+| Location | Israel |
+| Category | Engineering Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raanana/Manager---Solution-Architecture_R-056799-2) |
 
 ## About This Role
 
-This sales leadership position at Red Hat was posted on 2026-06-01.
+This engineering manager position at Red Hat was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/119800047800853190-principal-architect-iv-national-security?sort_by=date&page=1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbYoRIiI3UcyJZyEkTiO0E5QJ5ikRDvcp6EcMA0F_-xhEjsACxwdTBNPaKpKAh7LaDa8YPLLc2pybzhoJnr98zh43QnHo2OcXY-eZQFpNiC15tUSW37I-xSEhgq-gg%3D%3D_V2&loc=US&title=Principal+Architect+IV) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-03-24.
+This technical & solutions architect position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

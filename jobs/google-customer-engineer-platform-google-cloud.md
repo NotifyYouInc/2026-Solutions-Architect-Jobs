@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRrT8DTipQ4Pf591DJB2pdkc7dtlmTYZFy4F1mjjnd87EjsACxwdTCRSAV2Z6x7UPPFH87NTxIIuqZkNkpkXUa_XIf5QH2NpJYOU9TQcPBlU0gLk_qfnsZDUi69Fwg%3D%3D_V2&loc=IN&title=Customer+Engineer) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckexydAVgFuPManHOxpKKyTP0c9CRFTrJBW8831VzAjPREjsACxwdTORQJxj45RUuQ_-RJoSKIQE_a9QIVGjGf3ralBhdzGKO_Wy_nv_f-n_tc74rvjccEuRwCAis7Q%3D%3D_V2&loc=US&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-13.
+This technical & solutions architect position at Google was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Prosidian Consulting](https://scoutify.ai/companies/prosidianconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/prosidianconsulting/744000118853607-integration-architect) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/prosidianconsulting/744000119090487-integration-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Prosidian Consulting was posted on 2026-04-06.
+This technical & solutions architect position at Prosidian Consulting was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

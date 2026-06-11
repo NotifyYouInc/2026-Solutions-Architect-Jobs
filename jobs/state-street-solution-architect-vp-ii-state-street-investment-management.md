@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Solution-Architect--VP-II---State-Street-Investment-Management_R-788810) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Solution-Architect--VP-II---State-Street-Investment-Management_R-788814) |
 
 ## About This Role
 
-This asset management / portfolio management position at State Street was posted on 2026-04-20.
+This asset management / portfolio management position at State Street was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

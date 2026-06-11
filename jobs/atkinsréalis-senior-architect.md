@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Miami, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/SARiyadhHamad-Tower-Atkins/Senior-Architect_R-155575) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLMiami800-Waterford-Way/Senior-Architect_R-156900-1) |
 
 ## About This Role
 
-This technical & solutions architect position at AtkinsRéalis was posted on 2026-05-16.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

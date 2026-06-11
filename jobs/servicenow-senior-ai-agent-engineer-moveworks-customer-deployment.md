@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125411840-senior-ai-agent-engineer-moveworks-customer-deployment) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129994898-senior-ai-agent-engineer-moveworks-customer-deployment) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-05-08.
+This ai / llm engineer position at ServiceNow was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

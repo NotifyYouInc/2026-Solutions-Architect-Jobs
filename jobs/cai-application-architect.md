@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Tallahassee, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/VA-CLIENT-STATE/Application-Architect_R7457) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Application-Architect_R7840) |
 
 ## About This Role
 
-This technical & solutions architect position at CAI was posted on 2026-04-06.
+This technical & solutions architect position at CAI was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

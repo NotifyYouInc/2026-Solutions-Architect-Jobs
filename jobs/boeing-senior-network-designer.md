@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
+| Location | 7 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Network-Designer_JR2026504256-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Network-Designer_JR2026513041-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Boeing was posted on 2026-04-14.
+This technical & solutions architect position at Boeing was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

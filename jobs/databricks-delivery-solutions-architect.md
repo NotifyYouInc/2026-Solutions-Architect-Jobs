@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8549044002) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8575044002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-06-02.
+This technical & solutions architect position at Databricks was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

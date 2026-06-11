@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
 | Category | Accounting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Senior-System-Architect---Client-Lifecycle-Management--CLM--100---f-m-d-----Contract-through-our-external-payroll-partner-for-12-months-with-possible-extension-_r-17785-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Senior-System-Architect---Client-Lifecycle-Management--CLM--100---f-m-d-----Contract-through-our-external-payroll-partner-for-12-months-with-possible-extension-_r-18792-1) |
 
 ## About This Role
 
-This accounting position at Julius Baer was posted on 2026-02-19.
+This accounting position at Julius Baer was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

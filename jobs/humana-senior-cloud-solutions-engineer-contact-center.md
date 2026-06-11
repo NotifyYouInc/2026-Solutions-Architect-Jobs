@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Louisville, Kentucky, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Cloud-Solutions-Engineer---Contact-Center_R-412074) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Cloud-Solutions-Engineer---Contact-Center_R-417781) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-04-16.
+This devops engineer position at Humana was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

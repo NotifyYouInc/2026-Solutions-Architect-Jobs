@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Melbourne-VIC-Australia/Data-Center-Network-Architect_REQ572867) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Melbourne-VIC-Australia/Data-Center-Network-Architect_REQ572959) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-06-01.
+This technical & solutions architect position at Unisys was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

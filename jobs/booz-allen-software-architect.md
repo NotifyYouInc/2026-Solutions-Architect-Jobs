@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Worth-TX/Software-Architect_R0240345) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Software-Architect_R0234006) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-05-19.
+This technical & solutions architect position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

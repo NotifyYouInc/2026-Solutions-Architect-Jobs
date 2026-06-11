@@ -1,16 +1,16 @@
-# Enterprise Architect  at T-Systems ICT India Pvt. Ltd.
+# Enterprise Architect at T-Systems ICT India Pvt. Ltd.
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems ICT India Pvt. Ltd.](https://scoutify.ai/companies/t-systems-ict-india-pvt-ltd?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000122447635-enterprise-architect) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000129962146-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems ICT India Pvt. Ltd. was posted on 2026-04-23.
+This technical & solutions architect position at T-Systems ICT India Pvt. Ltd. was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

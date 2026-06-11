@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [krg technology inc](https://scoutify.ai/companies/krg-technology-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2017-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/743999650546346-azure-architect) |
+| Posted | 2017-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/113622499-azure-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at krg technology inc was posted on 2017-05-18.
+This technical & solutions architect position at krg technology inc was posted on 2017-04-17.
 
 ## Get Real-Time Alerts
 

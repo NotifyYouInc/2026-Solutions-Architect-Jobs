@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Plano, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-System-Engineering_R-101540) |
+| Location | Bothell, Washington, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Lead-System-Engineering_R-108763) |
 
 ## About This Role
 
-This devops engineer position at AT&T was posted on 2026-05-21.
+This technical & solutions architect position at AT&T was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

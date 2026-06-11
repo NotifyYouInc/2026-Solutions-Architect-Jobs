@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [krg technology inc](https://scoutify.ai/companies/krg-technology-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
+| Location | Topeka, Kansas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2017-05-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/116459563-java-architect) |
+| Posted | 2017-08-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/743999657027027-java-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at krg technology inc was posted on 2017-05-17.
+This technical & solutions architect position at krg technology inc was posted on 2017-08-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ness Ziona, Central District, Israel |
+| Location | Spring, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Ness-Ziona-Center-District-Israel/Principal-Data-Architect_3159927-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Principal-Data-Architect_3158696-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-03-11.
+This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8578167002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-04-07.
+This technical & solutions architect position at Databricks was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

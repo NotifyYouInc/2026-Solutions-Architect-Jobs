@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000120451217-technical-lead-ai) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130148060-technical-lead-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Version 1 was posted on 2026-04-13.
+This ai / llm engineer position at Version 1 was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
