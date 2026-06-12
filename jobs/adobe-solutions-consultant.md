@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Solutions-Consultant_R169266) |
+| Location | Madrid, Madrid, Spain |
+| Category | Implementation / Professional Services |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Madrid/Solutions-Consultant_R168803-1) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-05-29.
+This implementation / professional services position at Adobe was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

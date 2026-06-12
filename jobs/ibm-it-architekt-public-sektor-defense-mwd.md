@@ -1,16 +1,16 @@
-# IT Architekt – Public Sektor / Defense (m/w/d) at IBM
+# IT Architekt - Public Sektor/ Defense (m/w/d) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=83927) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=83906) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-04-23.
+This technical & solutions architect position at IBM was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

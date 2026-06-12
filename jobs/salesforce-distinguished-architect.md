@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Distinguished-Architect_JR341986) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York-City-Metro---Remote/Distinguished-Architect_JR344163) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-18.
+This technical & solutions architect position at Salesforce was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

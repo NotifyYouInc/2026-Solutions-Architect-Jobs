@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forrester](https://scoutify.ai/companies/forrester?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://forrester.wd501.myworkdayjobs.com/careers/job/Cambridge-MA/Principal-Analyst--Enterprise-Architecture_R-101480) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://forrester.wd501.myworkdayjobs.com/careers/job/United-Kingdom/Principal-Analyst--Enterprise-Architecture_R-101534) |
 
 ## About This Role
 
-This technical & solutions architect position at Forrester was posted on 2026-04-14.
+This technical & solutions architect position at Forrester was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

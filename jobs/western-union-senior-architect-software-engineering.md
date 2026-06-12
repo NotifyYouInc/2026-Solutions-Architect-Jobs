@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA---CO---Denver/Senior-Architect--Software-Engineering_JR0129885) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA-TX---Austin---11902-Burnet-Rd/Senior-Architect--Software-Engineering_JR0128923) |
 
 ## About This Role
 
-This technical & solutions architect position at Western Union was posted on 2026-03-11.
+This technical & solutions architect position at Western Union was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Engineer- Mid at Leidos
+# Solutions Engineer - Mid at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Solutions-Engineer--Mid_R-00183179) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Solutions-Engineer---Mid_R-00184771) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-05-13.
+This technical & solutions architect position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

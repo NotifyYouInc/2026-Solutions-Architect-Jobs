@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Chief-Systems-Architect_R-00178709) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Chief-Systems-Architect_R-00184818) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-03-18.
+This technical & solutions architect position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

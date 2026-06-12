@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bergen, Vestland, Norway |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117698217-cloud-engineerarchitect) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130164929-cloud-engineerarchitect) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-03-30.
+This devops engineer position at Sopra Steria was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

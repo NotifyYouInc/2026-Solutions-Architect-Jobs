@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Services-Sales-Solutions-Architect_JR337043) |
+| Location | McLean, Virginia, United States |
+| Category | Customer Success |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Services-Sales-Solutions-Architect_JR345067) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-06.
+This customer success position at Salesforce was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

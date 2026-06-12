@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | Limours, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/Architecte-Software-Digital-Radar-FH_R0324211-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/Architecte-Software-Digital-Radar-FH_R0328350-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-04-10.
+This technical & solutions architect position at Thales was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

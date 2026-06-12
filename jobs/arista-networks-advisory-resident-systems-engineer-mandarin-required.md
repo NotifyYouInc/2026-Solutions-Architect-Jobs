@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Jose, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129846269-advisory-resident-systems-engineer-mandarin-required) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130221863-advisory-resident-systems-engineer-mandarin-required) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-06-02.
+This technical & solutions architect position at Arista Networks was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

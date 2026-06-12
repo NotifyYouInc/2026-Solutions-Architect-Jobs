@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Salesforce-System-Solution-Architect_R-28857-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YHZ-GR/Salesforce-System-Solution-Architect_R-29023-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Varian was posted on 2026-06-01.
+This technical & solutions architect position at Varian was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

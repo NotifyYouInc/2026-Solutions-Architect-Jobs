@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128632769-senior-manager-solution-consulting-platform-ai-data-melbourne-or-sydney-based) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130154300-senior-manager-solution-consulting-platform-ai-data-melbourne-or-sydney-based) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-27.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

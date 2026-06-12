@@ -5,12 +5,12 @@
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000128712767-sap-enterprise-deal-architect) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000130192629-sap-enterprise-deal-architect) |
 
 ## About This Role
 
-This technology / it consulting position at KPMG Nederland was posted on 2026-05-27.
+This technology / it consulting position at KPMG Nederland was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Architect--------Need GC and USC at USM
+# Application Architect----------------Need GC and USC at USM
 
 | Field | Details |
 |-------|---------|
 | Company | [USM](https://scoutify.ai/companies/usm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Owings Mills, Maryland, United States |
+| Location | Iowa City, Iowa, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2016-11-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/101592556-application-architect-need-gc-and-usc) |
+| Posted | 2016-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/98092622-application-architect-need-gc-and-usc) |
 
 ## About This Role
 
-This technical & solutions architect position at USM was posted on 2016-11-03.
+This technical & solutions architect position at USM was posted on 2016-09-06.
 
 ## Get Real-Time Alerts
 

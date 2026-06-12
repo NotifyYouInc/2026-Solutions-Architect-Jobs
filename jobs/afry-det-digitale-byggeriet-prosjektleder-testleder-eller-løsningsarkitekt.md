@@ -6,7 +6,7 @@
 | Location | Oslo, Oslo, Norway |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000130000735-det-digitale-byggeriet-prosjektleder-testleder-eller-lsningsarkitekt) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000130006919-det-digitale-byggeriet-prosjektleder-testleder-eller-lsningsarkitekt) |
 
 ## About This Role
 
