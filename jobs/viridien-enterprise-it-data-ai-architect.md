@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Massy, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Enterprise-IT--Data---AI-Architect_JR101298-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Enterprise-IT--Data---AI-Architect_JR101186) |
 
 ## About This Role
 
-This technical & solutions architect position at Viridien was posted on 2026-06-03.
+This technical & solutions architect position at Viridien was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

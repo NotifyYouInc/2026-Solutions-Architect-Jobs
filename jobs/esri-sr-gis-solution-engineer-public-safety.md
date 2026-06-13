@@ -1,16 +1,16 @@
-# Sr. GIS Solution Engineer - Public Safety  at Esri
+# Sr. GIS Solution Engineer - Public Safety at Esri
 
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vienna, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.esri.com/careers/5114567007?gh_jid=5114567007) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.esri.com/careers/5150134007?gh_jid=5150134007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-04-24.
+This technical & solutions architect position at Esri was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

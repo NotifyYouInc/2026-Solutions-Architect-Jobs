@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Redlands, California, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.esri.com/careers/5096387007?gh_jid=5096387007) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.esri.com/careers/5156825007?gh_jid=5156825007) |
 
 ## About This Role
 
-This technology / it consulting position at Esri was posted on 2026-04-01.
+This technical & solutions architect position at Esri was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111416595-sr-platform-architect) |
+| Location | Munich, Bavaria, Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130553454-sr-platform-architect) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-25.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

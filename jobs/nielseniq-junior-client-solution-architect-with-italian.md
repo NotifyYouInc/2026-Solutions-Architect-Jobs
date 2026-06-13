@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129972609-junior-client-solution-architect-with-italian) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130494659-junior-client-solution-architect-with-italian) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-06-03.
+This customer success position at NielsenIQ was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

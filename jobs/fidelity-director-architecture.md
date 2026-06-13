@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Durham, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Director--Architecture_2126626-2) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Director--Architecture_2129879) |
 
 ## About This Role
 
-This technical & solutions architect position at Fidelity was posted on 2026-05-29.
+This technical & solutions architect position at Fidelity was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000129133679-lead-solution-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000130397725-lead-solution-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-05-29.
+This technical & solutions architect position at Freshworks CRM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

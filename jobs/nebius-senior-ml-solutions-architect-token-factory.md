@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4846524101) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4648728101) |
 
 ## About This Role
 
-This technical & solutions architect position at Nebius was posted on 2026-04-30.
+This technical & solutions architect position at Nebius was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

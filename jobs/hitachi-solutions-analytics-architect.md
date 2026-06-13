@@ -5,12 +5,12 @@
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-12-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000098096140-analytics-architect) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000130412891-analytics-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi Solutions was posted on 2025-12-10.
+This technical & solutions architect position at Hitachi Solutions was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

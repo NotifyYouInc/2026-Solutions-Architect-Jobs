@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vietnam |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYm4DOydFnewPkenUzIfZ8kB669QX7Oz3VOMTBv5OwWZEjsACxwdTHQQsqP2s4mcgEfi8RTh0Dom6uKUGHCS-YPd34M921XZgIf4A-_tFpz-RykS1PoxJobP82XQZg%3D%3D_V2&loc=VN&title=C%E1%BB%91+v%E1%BA%A5n+v%E1%BB%81+gi%E1%BA%A3i+ph%C3%A1p+kh%C3%A1ch+h%C3%A0ng) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ0D4tgxf0vfOu5AjO1lq9YMG7qL6lg_pbDhW-YliQWqEjsACxwdTMPm5l1TWDqtw655LpDhvK2qTlwkN58VcQmcCWhwISYGYl6U2hByd4MY-3YctjVKYdbQxBqVIQ%3D%3D_V2&loc=VN&title=C%E1%BB%91+v%E1%BA%A5n+v%E1%BB%81+gi%E1%BA%A3i+ph%C3%A1p+kh%C3%A1ch+h%C3%A0ng) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-24.
+This technical & solutions architect position at Google was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

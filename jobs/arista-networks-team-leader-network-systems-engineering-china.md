@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000128936069-team-leader-network-systems-engineering-china) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130423699-team-leader-network-systems-engineering-china) |
 
 ## About This Role
 
-This engineering manager position at Arista Networks was posted on 2026-05-28.
+This engineering manager position at Arista Networks was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

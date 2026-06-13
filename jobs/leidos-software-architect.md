@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Diego, California, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Architect_R-00184124) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Architect_R-00184800-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-05-27.
+This technical & solutions architect position at Leidos was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Lead-ServiceNow-Solution-Architect_51575811) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/ServiceNow-Solution-Architect_51574983) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-04-14.
+This technical & solutions architect position at DXC Technology was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
