@@ -1,16 +1,16 @@
-# Senior Domain Engineering Specialist- Vault & Cloud at Veeam Software
+# Senior Data Migration Architect - Oracle Health at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bucharest, București, Romania |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4871546101) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#336024) |
 
 ## About This Role
 
-This technical & solutions architect position at Veeam Software was posted on 2026-06-05.
+This technical & solutions architect position at Oracle was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

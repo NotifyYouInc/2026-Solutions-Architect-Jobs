@@ -1,16 +1,16 @@
-# Forward Deploy Engineer at IBM
+# PLM Architect (Teamcenter) at Swarm Aero
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Swarm Aero](https://scoutify.ai/companies/swarm-aero?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Oxnard, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118808) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/swarmaero/4501379d-f13f-406d-8818-01be68724504) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-03.
+This technical & solutions architect position at Swarm Aero was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Richmond, Virginia, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000130085849-java-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000130090279-java-architect) |
 
 ## About This Role
 

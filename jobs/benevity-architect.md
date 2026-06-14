@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benevity](https://scoutify.ai/companies/benevity?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://benevity.com/job-posting?gh_jid=5817165004) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benevity/ef6981c8-f1fd-48eb-8c94-ca608665cb07) |
 
 ## About This Role
 
-This technical & solutions architect position at Benevity was posted on 2026-04-17.
+This technical & solutions architect position at Benevity was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

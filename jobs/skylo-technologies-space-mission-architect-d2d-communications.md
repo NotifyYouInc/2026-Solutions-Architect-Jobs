@@ -5,12 +5,12 @@
 | Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skylotechnologies/jobs/7622607003) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/2d4bb188-df03-4164-b528-b21847c7690b) |
 
 ## About This Role
 
-This technical & solutions architect position at Skylo Technologies was posted on 2026-04-08.
+This technical & solutions architect position at Skylo Technologies was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
