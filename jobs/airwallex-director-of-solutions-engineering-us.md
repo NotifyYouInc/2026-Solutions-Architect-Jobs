@@ -1,16 +1,16 @@
-# Business and Integration Architect at Accenture
+# Director of Solutions Engineering - US at Airwallex
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5592537-S2027841-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/657e6088-c9a8-4a2a-8d7b-32af07b03327) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-08.
+This technical & solutions architect position at Airwallex was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business and Integration Architect at Accenture
+# Senior Siebel Functional Architect at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5592537-S2027841-1) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Senior-Siebel-Functional-Architect_WD30271482) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-08.
+This technical & solutions architect position at Johnson Controls was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Architect - ServiceNow at National Vision
+# Solution Engineer, Korean Market (US-based) at applied
 
 | Field | Details |
 |-------|---------|
-| Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Company | [applied](https://scoutify.ai/companies/applied?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000130659349-application-architect-servicenow) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/553deb3c-ebe2-484b-9f42-9b488911ccac) |
 
 ## About This Role
 
-This technical & solutions architect position at National Vision was posted on 2026-06-07.
+This technical & solutions architect position at applied was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

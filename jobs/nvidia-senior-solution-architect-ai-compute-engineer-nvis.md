@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Senior-Solution-Architect--AI-Compute-Engineer---NVIS_JR2014367) |
+| Location | Singapore, Singapore |
+| Category | AI / ML Research |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Senior-Solution-Architect--AI-Compute-Engineer---NVIS_JR2019262) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-03-11.
+This ai / ml research position at Nvidia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

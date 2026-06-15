@@ -1,16 +1,16 @@
-# Application Architect - ServiceNow at National Vision
+# Architect at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000130659349-application-architect-servicenow) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/QAT---DA---DOHA/Architect_51582018) |
 
 ## About This Role
 
-This technical & solutions architect position at National Vision was posted on 2026-06-07.
+This technical & solutions architect position at DXC Technology was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

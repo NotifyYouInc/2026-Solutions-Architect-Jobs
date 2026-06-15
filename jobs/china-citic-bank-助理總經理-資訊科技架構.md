@@ -1,16 +1,16 @@
-# Business and Integration Architect at Accenture
+# 助理總經理, 資訊科技架構 at China CITIC Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [China CITIC Bank](https://scoutify.ai/companies/china-citic-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | China |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5592537-S2027841-1) |
+| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/--_JR2391) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-08.
+This technical & solutions architect position at China CITIC Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

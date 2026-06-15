@@ -1,16 +1,16 @@
-# Business and Integration Architect at Accenture
+# Consumer Credit Digital Architect at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5592537-S2027841-1) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Consumer-Credit-Digital-Architect_JR00008454) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-08.
+This technical & solutions architect position at OCBC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Deep Learning Solution Architect at Nvidia
+# GPU System Architect at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
+| Location | Bengaluru, Karnataka, India |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2019150) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/GPU-System-Architect_JR2019269) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-06-08.
+This electrical / hardware engineer position at Nvidia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business and Integration Architect at Accenture
+# Senior AppDev / Middleware Consultant at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5592537-S2027841-1) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-AppDev---Middleware-Consultant_R-055855-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-08.
+This technical & solutions architect position at Red Hat was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

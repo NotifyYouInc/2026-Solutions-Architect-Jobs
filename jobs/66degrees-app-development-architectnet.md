@@ -1,16 +1,16 @@
-# Senior Deep Learning Solution Architect at Nvidia
+# App Development Architect(.Net) at 66degrees
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2019150) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/6015958004) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-06-08.
+This technical & solutions architect position at 66degrees was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

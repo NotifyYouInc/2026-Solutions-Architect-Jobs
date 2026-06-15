@@ -1,16 +1,16 @@
-# Senior Deep Learning Solution Architect at Nvidia
+# AI Senior Rollout and Support Manager at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | AI / ML Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2019150) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130698459-ai-senior-rollout-and-support-manager) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-06-08.
+This ai / ml research position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

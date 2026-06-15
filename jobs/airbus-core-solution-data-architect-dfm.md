@@ -1,16 +1,16 @@
-# Business and Integration Architect at Accenture
+# #CORE Solution & Data Architect (d/f/m) at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Donauwörth, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-and-Integration-Architect_ATCI-5592537-S2027841-1) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10404789-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-08.
+This technical & solutions architect position at Airbus was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

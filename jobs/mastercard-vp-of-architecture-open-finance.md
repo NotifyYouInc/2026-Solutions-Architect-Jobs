@@ -1,16 +1,16 @@
-# Application Architect - ServiceNow at National Vision
+# VP of Architecture, Open Finance at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000130659349-application-architect-servicenow) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/VP-of-Architecture--Open-Finance_R-278434) |
 
 ## About This Role
 
-This technical & solutions architect position at National Vision was posted on 2026-06-07.
+This technical & solutions architect position at Mastercard was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

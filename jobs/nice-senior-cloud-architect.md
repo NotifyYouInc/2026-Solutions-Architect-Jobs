@@ -1,16 +1,16 @@
-# Application Architect - ServiceNow at National Vision
+# Senior Cloud Architect at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Israel |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000130659349-application-architect-servicenow) |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4883675101?gh_jid=4883675101) |
 
 ## About This Role
 
-This technical & solutions architect position at National Vision was posted on 2026-06-07.
+This technical & solutions architect position at NiCE was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

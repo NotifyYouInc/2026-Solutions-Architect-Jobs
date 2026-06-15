@@ -1,16 +1,16 @@
-# Application Architect - ServiceNow at National Vision
+# Senior Account Solution Architect - Enterprise at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Philippines |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000130659349-application-architect-servicenow) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Makati---MSO/Senior-Account-Solution-Architect---Enterprise_R-050502) |
 
 ## About This Role
 
-This technical & solutions architect position at National Vision was posted on 2026-06-07.
+This technical & solutions architect position at Red Hat was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 
