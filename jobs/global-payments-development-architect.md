@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Belfast-United-Kingdom/Development-Architect_R0069988) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/BELFAST--UNITED-KINGDOM/Development-Architect_R0069989) |
 
 ## About This Role
 
-This technical & solutions architect position at Global Payments was posted on 2026-02-27.
+This technical & solutions architect position at Global Payments was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

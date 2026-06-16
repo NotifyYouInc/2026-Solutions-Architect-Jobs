@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomreach](https://scoutify.ai/companies/bloomreach?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Slovakia |
+| Location | Czechia |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bloomreach/jobs/7959866) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bloomreach/jobs/7959867) |
 
 ## About This Role
 
-This implementation / professional services position at Bloomreach was posted on 2026-05-27.
+This implementation / professional services position at Bloomreach was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130401434-architecte-infrastructure-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130407749-architecte-infrastructure-hf) |
 
 ## About This Role
 

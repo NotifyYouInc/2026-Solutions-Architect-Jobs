@@ -5,12 +5,12 @@
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000121201002-power-platform-solutions-lead) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000130767479-power-platform-solutions-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at EDF UK was posted on 2026-04-16.
+This technical & solutions architect position at EDF UK was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

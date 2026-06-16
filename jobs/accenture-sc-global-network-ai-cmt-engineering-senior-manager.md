@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/S-C-Global-Network---AI---CMT-Engineering---Senior-Manager_R00318670-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/S-C-Global-Network---AI---CMT-Engineering---Senior-Manager_R00318755-1) |
 
 ## About This Role
 

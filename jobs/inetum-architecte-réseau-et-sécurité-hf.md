@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130401013-architecte-reseau-et-securite-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130407258-architecte-reseau-et-securite-hf) |
 
 ## About This Role
 

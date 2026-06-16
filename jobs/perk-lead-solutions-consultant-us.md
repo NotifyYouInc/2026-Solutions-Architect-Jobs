@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Perk](https://scoutify.ai/companies/perk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/perk/b13c3b8c-8f6b-402a-bddf-ff3fe570f015) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perk/cbdc07f0-ee67-4b2c-b1e6-9d4f6c6b53fa) |
 
 ## About This Role
 
-This implementation / professional services position at Perk was posted on 2026-06-03.
+This implementation / professional services position at Perk was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQcufrvworkqasSkwMDbja2cf2eQepnO8q_YpSDVIVC9EjsACxwdTP0laUQajKHIhiEgBQ8gxqmCJGtpNLjSE_WM8jqPaB29BoHF3fXk9igH6gq7x4K-og43lAvGtw%3D%3D_V2&loc=AU&title=Customer+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckesZ8elskBj9H6vpLXVq-4X8Mj6GGMQ8NEnH-OuiWlmrEjsACxwdTN7TXGPe_aP3OeLpABGqAAMnpXxFt40KO38X1hqEts4FfA93BifO4vN1Sl5ady6GwVCYMsnwHg%3D%3D_V2&loc=IN&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-14.
+This technical & solutions architect position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

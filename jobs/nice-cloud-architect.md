@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Israel |
-| Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4855504101?gh_jid=4855504101) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4888525101?gh_jid=4888525101) |
 
 ## About This Role
 
-This devops engineer position at NiCE was posted on 2026-05-05.
+This technical & solutions architect position at NiCE was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

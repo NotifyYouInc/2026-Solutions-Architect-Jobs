@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | 10 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Architecture_ATCP-1296992-S408297) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5104564-S1889368-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-22.
+This technical & solutions architect position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

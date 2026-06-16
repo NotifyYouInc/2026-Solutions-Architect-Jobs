@@ -1,16 +1,16 @@
-# Architecte de services (F/H) at Thales
+# Architecte de Services - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brest, Brittany, France |
+| Location | Élancourt, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brest/Architecte-de-services--F-H-_R0319264-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/Architecte-de-Services---F-H_R0329859-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-03-20.
+This technical & solutions architect position at Thales was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

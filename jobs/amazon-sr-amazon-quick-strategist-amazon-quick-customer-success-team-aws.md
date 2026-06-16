@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435106/sr-amazon-quick-strategist-amazon-quick-customer-success-team-aws) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395158/sr-amazon-quick-strategist-amazon-quick-customer-success-team-aws) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-05-30.
+This customer success position at Amazon was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

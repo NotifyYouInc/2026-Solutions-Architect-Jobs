@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000122501239-solution-architect-teamcenter-hf) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000130749014-solution-architect-teamcenter-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Assystem was posted on 2026-04-23.
+This technical & solutions architect position at Assystem was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

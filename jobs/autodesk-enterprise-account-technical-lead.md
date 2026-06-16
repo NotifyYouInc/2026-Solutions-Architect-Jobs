@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Germany---Remote/Enterprise-Account-Technical-Lead_26WD98232-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Tokyo-JPN/Enterprise-Account-Technical-Lead_26WD98628-1) |
 
 ## About This Role
 
-This customer success position at Autodesk was posted on 2026-05-20.
+This customer success position at Autodesk was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bulgaria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/5995205004) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6015959004) |
 
 ## About This Role
 
-This technical & solutions architect position at Exadel Inc (Website) was posted on 2026-05-13.
+This technical & solutions architect position at Exadel Inc (Website) was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
