@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Product-AI-Data-Engineer---Architect_JREQ135588) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Product-AI-Data-Engineer---Architect_JREQ135720-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Clarivate was posted on 2026-06-04.
+This technical & solutions architect position at Clarivate was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | Île-de-France, FR |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/SAP-Solution-Architect_51572136) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/FRA---IDF---PARIS-LA-DFENSE-CEDEX/SAP-Solution-Architect_51582321) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-02-09.
+This technical & solutions architect position at DXC Technology was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

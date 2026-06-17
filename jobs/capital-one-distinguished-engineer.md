@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Engineer_R242320-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Distinguished-Engineer_R242865-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Capital One was posted on 2026-05-13.
+This technical & solutions architect position at Capital One was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dubai/Junior-Solution-Architect_R-054598) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Junior-Solution-Architect_R-057636) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-05-06.
+This technical & solutions architect position at Red Hat was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Software-Solutions-Architect_JR10026721) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Software-Solutions-Architect_JR10026726) |
 
 ## About This Role
 
-This technical & solutions architect position at Industrial Alliance was posted on 2026-06-05.
+This technical & solutions architect position at Industrial Alliance was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

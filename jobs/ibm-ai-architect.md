@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Romania |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118052) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92662) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-05.
+This ai / llm engineer position at IBM was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

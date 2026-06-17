@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gradignan, Nouvelle-Aquitaine, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000130752310-architecte-technique-socles-data-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000130785779-architecte-technique-socles-data-hf) |
 
 ## About This Role
 

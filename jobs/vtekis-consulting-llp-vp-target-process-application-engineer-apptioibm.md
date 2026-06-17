@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lake Mary, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000128240654-vp-target-process-application-engineer-apptioibm) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000131174655-vp-target-process-application-engineer-apptioibm) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-05-25.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

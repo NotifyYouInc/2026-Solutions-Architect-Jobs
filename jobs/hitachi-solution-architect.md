@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Singapore/Solution-Architect_R0122256) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Solution-Architect_R0120882-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi was posted on 2026-05-13.
+This technical & solutions architect position at Hitachi was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

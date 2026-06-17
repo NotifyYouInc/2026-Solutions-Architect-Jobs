@@ -1,16 +1,16 @@
-# SAP Solution Architect at Coupang
+# SAP Solution Architect  at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7760420) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7946264) |
 
 ## About This Role
 
-This technical & solutions architect position at Coupang was posted on 2026-04-10.
+This technical & solutions architect position at Coupang was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWckOI4MDAom8-IhHLiMaNWcxSjTpWKg8bpQCmD_aEONEjsACxwdTIfafO5ZYESAxN7M4Tv6hSabggo5vt56qYNMP3MQwgJ58KwCqvJwQzEXj1bYzeM92zDhg7xGRg%3D%3D_V2&loc=US&title=Staff+Datacloud+Blackbelt+Engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdwtk1OB8w914gfj2Fda2H3hXhY8kUUAYIGcl-mOed6SEjsACxwdTAthqRFtj0kxQjgU-Z39XQLzyEDi3bnOVcU8Qj2LsPcpLiv5FwN4ElfrhHVkz5oyu7ckvkThjA%3D%3D_V2&loc=US&title=Staff+Datacloud+Blackbelt+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-08.
+This technical & solutions architect position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

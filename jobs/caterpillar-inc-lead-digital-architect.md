@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Digital-Architect_R0000343179) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Digital-Architect_R0000375457) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar Inc. was posted on 2026-06-05.
+This technical & solutions architect position at Caterpillar Inc. was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

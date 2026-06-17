@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000130105989-principal-workday-solutions-architect) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000131239719-principal-workday-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Western Digital was posted on 2026-06-04.
+This technical & solutions architect position at Western Digital was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

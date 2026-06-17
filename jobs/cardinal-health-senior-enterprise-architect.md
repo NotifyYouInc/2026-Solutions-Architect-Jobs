@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ohio, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Enterprise-Architect_20176554) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Enterprise-Architect_20181610) |
 
 ## About This Role
 
-This technical & solutions architect position at Cardinal Health was posted on 2026-03-10.
+This technical & solutions architect position at Cardinal Health was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

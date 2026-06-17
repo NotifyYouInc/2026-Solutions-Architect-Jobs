@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Colombia |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/133960861529055942-customer-engineer-i-platform-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYJ1KIDTY5PMYwUcUQPBTSUz5BrNhF19pkvt3PXlBUfZEjsACxwdTK23hQ0Hy23Sii3AImye4iW7WAJ0zWyT2bCXcVMXN3_MdY1lzEgI_4rOWkpN5R92Y9Ly1k201Q%3D%3D_V2&loc=BR&title=Customer+Engineer+I) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-12.
+This technical & solutions architect position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

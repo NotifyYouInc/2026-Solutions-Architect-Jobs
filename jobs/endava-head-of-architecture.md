@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000128186809-head-of-architecture) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000131363224-head-of-architecture) |
 
 ## About This Role
 
-This technology / it consulting position at Endava was posted on 2026-05-25.
+This technical & solutions architect position at Endava was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

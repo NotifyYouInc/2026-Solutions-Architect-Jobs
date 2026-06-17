@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeXon0C9knR5n_esZ4lX3XRssDu55-xCLhFLYpF64WoWEjsACxwdTFTagkOSxfjdb3O6rW-YW_IzYsVREIWWEZ7B08FnJzgvH-3YmKK21_dDkC_-FgD8HkYnuWVYTQ%3D%3D_V2&loc=IN&title=Solutions+Consultant) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd4IGsaRPxg7YjgLcQBpm1fsOWdr6x4IpeAKCmQEYikmEjsACxwdTDvcCmkgNiB3bYYuj_G-TB4HYSmH7-NzzVR2T59DxCeBMJZvm2lFwCs_itoHqLUZmwK1PGcuvg%3D%3D_V2&loc=IN&title=Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-04-23.
+This implementation / professional services position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

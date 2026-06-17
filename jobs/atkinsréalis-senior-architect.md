@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLMiami800-Waterford-Way/Senior-Architect_R-156900-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AEAbu-DhabiSite-Office/Senior-Architect_R-157308) |
 
 ## About This Role
 
-This technical & solutions architect position at AtkinsRéalis was posted on 2026-06-03.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

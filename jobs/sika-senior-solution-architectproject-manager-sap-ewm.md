@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000111580667-senior-solution-architectproject-manager-sap-ewm) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131078189-senior-solution-architectproject-manager-sap-ewm) |
 
 ## About This Role
 
-This technical & solutions architect position at Sika was posted on 2026-02-26.
+This technical & solutions architect position at Sika was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

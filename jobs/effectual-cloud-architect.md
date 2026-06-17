@@ -5,12 +5,12 @@
 | Company | [Effectual](https://scoutify.ai/companies/effectual?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/effectual/jobs/7512275003) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/effectual/jobs/7766026003) |
 
 ## About This Role
 
-This technical & solutions architect position at Effectual was posted on 2026-04-17.
+This technical & solutions architect position at Effectual was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

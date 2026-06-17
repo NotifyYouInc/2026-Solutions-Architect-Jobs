@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tokyo-Flexible/AI-Architect_JR111198) |
+| Location | New York City, New York, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/New-York-USA/AI-Architect_JR111298) |
 
 ## About This Role
 
-This ai / ml research position at Genesys was posted on 2026-06-03.
+This ai / llm engineer position at Genesys was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

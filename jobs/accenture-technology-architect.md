@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Architect_ATCI-4960440-S1857867-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Technology-Architect_ATCI-5194035-S1904744-1) |
 
 ## About This Role
 
