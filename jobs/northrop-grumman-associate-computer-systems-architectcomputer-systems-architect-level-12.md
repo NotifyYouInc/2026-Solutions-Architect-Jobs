@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Manhattan Beach, California, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Associate-Computer-Systems-Architect-Computer-Systems-Architect--Level-1-2-_R10227970) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Associate-Computer-Systems-Architect-Computer-Systems-Architect--Level-1-2-_R10235862) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-04-03.
+This it & systems administration position at Northrop Grumman was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000127314718-cloud-architect-gcp) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131503238-cloud-architect-gcp) |
 
 ## About This Role
 
-This devops engineer position at Applaudo Studios was posted on 2026-05-19.
+This devops engineer position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

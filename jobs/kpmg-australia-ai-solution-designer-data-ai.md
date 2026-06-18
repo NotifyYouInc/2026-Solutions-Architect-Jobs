@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001064229-ai-solution-designer-data-ai) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001145687-ai-solution-designer-data-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at KPMG Australia was posted on 2026-05-12.
+This ai / llm engineer position at KPMG Australia was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

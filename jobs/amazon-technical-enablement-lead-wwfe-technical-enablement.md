@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Learning & Development |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411021/technical-enablement-lead-wwfe-technical-enablement) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417677/technical-enablement-lead-wwfe-technical-enablement) |
 
 ## About This Role
 
-This learning & development position at Amazon was posted on 2026-05-05.
+This learning & development position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

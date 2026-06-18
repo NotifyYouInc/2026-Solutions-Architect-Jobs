@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Algolia](https://scoutify.ai/companies/algolia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/6010162004) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/6008443004) |
 
 ## About This Role
 
-This technical & solutions architect position at Algolia was posted on 2026-06-01.
+This technical & solutions architect position at Algolia was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

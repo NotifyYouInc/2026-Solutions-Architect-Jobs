@@ -6,7 +6,7 @@
 | Location | Courbevoie, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404931/hpc-specialist-architect-energy-industry) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404978/hpc-specialist-architect-energy-industry) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Denmark |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129811869-senior-platform-architect) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131462479-senior-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-06-02.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

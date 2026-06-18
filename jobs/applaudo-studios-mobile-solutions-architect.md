@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Guatemala City, Guatemala, Guatemala |
+| Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Mobile Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000130569243-mobile-solutions-architect) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131502465-mobile-solutions-architect) |
 
 ## About This Role
 
-This mobile engineer position at Applaudo Studios was posted on 2026-06-05.
+This mobile engineer position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

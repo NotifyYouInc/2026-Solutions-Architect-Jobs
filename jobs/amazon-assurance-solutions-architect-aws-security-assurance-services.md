@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Houston, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416679/assurance-solutions-architect-aws-security-assurance-services) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417747/assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 

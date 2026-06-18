@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125944261-forward-deployed-solution-architect-applied-ai-fde) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131533810-forward-deployed-solution-architect-applied-ai-fde) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-11.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

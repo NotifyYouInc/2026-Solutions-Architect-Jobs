@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acxiomllc](https://scoutify.ai/companies/acxiomllc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Conway, Arkansas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Senior-Solution-Architect_JR014114) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Solution-Architect_JR014087) |
 
 ## About This Role
 
-This technical & solutions architect position at Acxiomllc was posted on 2026-04-23.
+This technical & solutions architect position at Acxiomllc was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

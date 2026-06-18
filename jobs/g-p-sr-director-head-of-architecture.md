@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7762378003) |
+| Location | United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7762376003) |
 
 ## About This Role
 
-This technical & solutions architect position at G-P was posted on 2026-06-08.
+This engineering manager position at G-P was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

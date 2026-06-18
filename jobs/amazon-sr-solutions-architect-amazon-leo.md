@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Colorado, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186498/sr-solutions-architect-amazon-leo) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444824/sr-solutions-architect-amazon-leo) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-02-22.
+This technical & solutions architect position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

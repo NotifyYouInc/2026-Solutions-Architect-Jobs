@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Reston/Software-Architect_R179786-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Reston/Software-Architect_R181819) |
 
 ## About This Role
 
-This technical & solutions architect position at Parsons was posted on 2026-04-17.
+This technical & solutions architect position at Parsons was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

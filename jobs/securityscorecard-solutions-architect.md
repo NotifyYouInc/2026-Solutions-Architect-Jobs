@@ -5,12 +5,12 @@
 | Company | [SecurityScorecard](https://scoutify.ai/companies/securityscorecard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/7837718) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/7997663) |
 
 ## About This Role
 
-This technical & solutions architect position at SecurityScorecard was posted on 2026-04-21.
+This technical & solutions architect position at SecurityScorecard was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

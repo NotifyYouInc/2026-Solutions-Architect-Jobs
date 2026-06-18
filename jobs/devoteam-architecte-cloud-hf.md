@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126011199-architecte-cloud-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000131398435-architecte-cloud-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-05-12.
+This devops engineer position at Devoteam was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

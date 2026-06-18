@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/IT-Solutions-Management_R2616587) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/IT-Solutions-Management_R2620792) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Materials was posted on 2026-04-20.
+This ai / ml research position at Applied Materials was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

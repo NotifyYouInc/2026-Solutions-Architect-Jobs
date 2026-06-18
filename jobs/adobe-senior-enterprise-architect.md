@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Basel, Basel-City, Switzerland |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/Senior-Enterprise-Architect_R169441) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Senior-Enterprise-Architect_R168822-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-06-03.
+This technical & solutions architect position at Adobe was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

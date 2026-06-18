@@ -6,7 +6,7 @@
 | Location | Le Plessis-Robinson, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131078194-architecte-systeme-defense-securite-le-plessis-robinson) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131184469-architecte-systeme-defense-securite-le-plessis-robinson) |
 
 ## About This Role
 

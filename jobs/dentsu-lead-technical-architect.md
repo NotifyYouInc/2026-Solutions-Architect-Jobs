@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/London/Lead-Technical-Architect_R1120475) |
+| Location | 3 locations |
+| Category | Engineering Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Lead-Technical-Architect_R1124648) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-05-11.
+This engineering manager position at Dentsu was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

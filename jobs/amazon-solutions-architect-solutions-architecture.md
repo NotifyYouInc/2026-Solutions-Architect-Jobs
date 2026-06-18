@@ -6,7 +6,7 @@
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429590/solutions-architect-solutions-architecture) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430474/solutions-architect-solutions-architecture) |
 
 ## About This Role
 

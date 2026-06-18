@@ -5,12 +5,12 @@
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5982348004) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/6018453004) |
 
 ## About This Role
 
-This technical & solutions architect position at 66degrees was posted on 2026-04-27.
+This technical & solutions architect position at 66degrees was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

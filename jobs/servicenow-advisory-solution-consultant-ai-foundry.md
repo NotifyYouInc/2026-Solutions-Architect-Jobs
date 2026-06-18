@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127289891-advisory-solution-consultant-ai-foundry) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131546919-advisory-solution-consultant-ai-foundry) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-19.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

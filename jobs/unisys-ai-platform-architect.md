@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bogota-DC-Colombia/AI-Platform-Architect_REQ572467) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Platform-Architect_REQ573232) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-05-29.
+This technical & solutions architect position at Unisys was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

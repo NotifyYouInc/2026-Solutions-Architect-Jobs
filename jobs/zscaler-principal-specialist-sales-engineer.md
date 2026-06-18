@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5132560007) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5157855007) |
 
 ## About This Role
 
-This technical & solutions architect position at Zscaler was posted on 2026-05-14.
+This technical & solutions architect position at Zscaler was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

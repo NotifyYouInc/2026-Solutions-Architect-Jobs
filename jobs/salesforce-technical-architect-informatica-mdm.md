@@ -1,16 +1,16 @@
-# Technical Architect (Informatica MDM) at Salesforce
+# Technical Architect - Informatica MDM at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Architect_JR331086) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Technical-Architect---Informatica-MDM_JR345876) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-12.
+This technical & solutions architect position at Salesforce was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
