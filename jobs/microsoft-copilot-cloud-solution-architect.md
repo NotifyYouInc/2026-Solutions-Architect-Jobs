@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denmark |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856348) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874922) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-04-14.
+This technical & solutions architect position at Microsoft was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

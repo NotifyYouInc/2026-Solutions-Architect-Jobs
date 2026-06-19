@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Belgium |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118362297-enterprise-architect) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000131714979-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-04-02.
+This technical & solutions architect position at Inetum was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

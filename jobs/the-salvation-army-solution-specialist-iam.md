@@ -5,12 +5,12 @@
 | Company | [The Salvation Army](https://scoutify.ai/companies/the-salvation-army?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Toronto-ON/Solution-Specialist--IAM_JR110203) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Toronto-ON/Solution-Specialist--IAM_JR111849) |
 
 ## About This Role
 
-This technical & solutions architect position at The Salvation Army was posted on 2026-05-06.
+This technical & solutions architect position at The Salvation Army was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

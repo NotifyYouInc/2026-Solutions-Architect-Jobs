@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000129969819-senior-staff-engineer-teamcenter) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000131822430-senior-staff-engineer-teamcenter) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-03.
+This technical & solutions architect position at Nagarro was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

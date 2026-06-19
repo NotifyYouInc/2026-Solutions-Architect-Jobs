@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000123910629-it-architect-energy-business) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000131606369-it-architect-energy-business) |
 
 ## About This Role
 
-This technical & solutions architect position at Vattenfall was posted on 2026-04-30.
+This technical & solutions architect position at Vattenfall was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

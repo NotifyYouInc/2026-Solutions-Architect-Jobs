@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Senior-Technical-Staff-Engineer---Architect--SoC-_R2448-26-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Bangalore/Senior-Technical-Staff-Engineer---Architect--SoC-_R2532-26-7) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-06-05.
+This embedded / firmware engineer position at Microchip Technology was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

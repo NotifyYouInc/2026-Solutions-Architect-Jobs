@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Brisbane, Queensland, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/Solution-Architect_51578227) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---QLD---BRISBANE/Solution-Architect_51581980) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-04-15.
+This technical & solutions architect position at DXC Technology was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

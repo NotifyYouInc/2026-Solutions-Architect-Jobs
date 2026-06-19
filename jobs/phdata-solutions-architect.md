@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=6983933) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7925289) |
 
 ## About This Role
 
-This technical & solutions architect position at phData was posted on 2026-05-18.
+This technical & solutions architect position at phData was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422064/solution-architect-startups) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418605/solution-architect-startups) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-18.
+This technical & solutions architect position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

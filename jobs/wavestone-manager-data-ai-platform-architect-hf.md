@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000130233929-manager-data-ai-platform-architect-hf) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000131633548-manager-data-ai-platform-architect-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-06-04.
+This technical & solutions architect position at Wavestone was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

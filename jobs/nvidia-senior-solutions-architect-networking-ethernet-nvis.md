@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Senior-Solutions-Architect-Networking-Ethernet---NVIS_JR2014366) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Senior-Solutions-Architect-Networking-Ethernet---NVIS_JR2019263) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-03-11.
+This technical & solutions architect position at Nvidia was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

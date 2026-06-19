@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bergen, Vestland, Norway |
+| Location | Oslo, Oslo, Norway |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130163809-nettverksarkitekt) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131651189-nettverksarkitekt) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-06-04.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

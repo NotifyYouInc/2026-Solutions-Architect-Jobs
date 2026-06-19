@@ -5,12 +5,12 @@
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Junior-Solution-Architect_R-057636) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Junior-Solution-Architect_R-057637) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-09.
+This technical & solutions architect position at Red Hat was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

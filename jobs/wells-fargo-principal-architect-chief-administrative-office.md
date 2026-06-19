@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Principal-Architect---Chief-Administrative-Office_R-523472) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Principal-Architect---Chief-Administrative-Office_R-552238) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-03-24.
+This technical & solutions architect position at Wells Fargo was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

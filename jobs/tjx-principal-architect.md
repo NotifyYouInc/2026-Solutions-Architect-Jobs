@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Watford, England, United Kingdom |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Principal-Architect_REQ91134-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/Principal-Architect_REQ126992) |
 
 ## About This Role
 
-This technical & solutions architect position at TJX was posted on 2026-02-17.
+This technical & solutions architect position at TJX was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429993/senior-solutions-architect-govtech-isvs) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419146/senior-solutions-architect-govtech-isvs) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-26.
+This technical & solutions architect position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

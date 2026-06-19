@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Massachusetts, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Massachusetts-United-States-of-America/SASE---Security-Presales-Specialist_1207102) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Massachusetts-United-States-of-America/SASE---Security-Presales-Specialist_1208095) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-05-29.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

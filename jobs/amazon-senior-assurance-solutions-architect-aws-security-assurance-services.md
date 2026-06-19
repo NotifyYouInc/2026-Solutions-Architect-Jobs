@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442935/senior-assurance-solutions-architect-aws-security-assurance-services) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432156/senior-assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-06-08.
+This compliance & risk management position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131063208-architecte-data-servivces-financiers-nantes) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131617910-architecte-data-servivces-financiers-nantes) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-06-09.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

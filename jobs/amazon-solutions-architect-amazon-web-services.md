@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Nebraska, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443464/solutions-architect-amazon-web-services) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419145/solutions-architect-amazon-web-services) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-09.
+This technical & solutions architect position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
