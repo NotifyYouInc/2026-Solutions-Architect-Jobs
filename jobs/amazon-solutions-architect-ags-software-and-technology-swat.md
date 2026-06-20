@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442701/solutions-architect-ags-software-and-technology-swat) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447909/solutions-architect-ags-software-and-technology-swat) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-08.
+This technical & solutions architect position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

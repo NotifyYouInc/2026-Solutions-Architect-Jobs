@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lenexa, Kansas, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=38f34fb5-b157-4d22-a1b4-dec6c7860382) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=3c5de827-e0bf-416c-a130-9ddb5ec41cb4) |
 
 ## About This Role
 
-This technical & solutions architect position at Convergint Technologies was posted on 2026-05-27.
+This technical & solutions architect position at Convergint Technologies was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

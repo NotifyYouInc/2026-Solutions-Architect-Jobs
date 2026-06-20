@@ -6,7 +6,7 @@
 | Location | Manchester, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131635514-principal-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131706526-principal-architect) |
 
 ## About This Role
 

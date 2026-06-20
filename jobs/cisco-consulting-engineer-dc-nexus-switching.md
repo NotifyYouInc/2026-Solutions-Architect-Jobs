@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Customer Success |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer---DC--Nexus-Switching_2014725) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer---DC--Nexus-Switching_2014728) |
 
 ## About This Role
 

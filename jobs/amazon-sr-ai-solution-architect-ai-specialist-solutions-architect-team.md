@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445643/sr-ai-solution-architect-ai-specialist-solutions-architect-team) |
+| Location | Sydney, New South Wales, Australia |
+| Category | AI / ML Research |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447370/sr-ai-solution-architect-ai-specialist-solutions-architect-team) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-11.
+This ai / ml research position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

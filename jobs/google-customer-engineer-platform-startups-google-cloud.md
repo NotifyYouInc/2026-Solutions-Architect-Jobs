@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT-v56u_SirZ7AG1h6aZEw2ML_Ee5x86sKb4B5jxHP8cEjsACxwdTIEVKjfwupoZ2nW7soEuz7796y_p1KKuSdRZpJ2wsVm2lGwc1p4JXIivorKRJUZI2f42_n2NOQ%3D%3D_V2&loc=US&title=Customer+Engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTKC8GPuhaUgEJsYnlTGZZikhBw_zLs2gu0WAHCkqRSrEjsACxwdTBiInJTXyewrKv-T3Ljlg7dqoUbuOk5zXKdN78JKgxaFfkPIvYIQIgKdBz2PUURh3nFOVSLNmQ%3D%3D_V2&loc=US&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-10.
+This technical & solutions architect position at Google was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

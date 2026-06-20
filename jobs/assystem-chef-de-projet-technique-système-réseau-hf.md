@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000131486255-chef-de-projet-technique-systeme-reseau-hf) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000131918794-chef-de-projet-technique-systeme-reseau-hf) |
 
 ## About This Role
 
-This it & systems administration position at Assystem was posted on 2026-06-10.
+This it & systems administration position at Assystem was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

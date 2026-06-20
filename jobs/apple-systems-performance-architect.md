@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646945/systems-performance-architect) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667941/systems-performance-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-02-14.
+This electrical / hardware engineer position at Apple was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

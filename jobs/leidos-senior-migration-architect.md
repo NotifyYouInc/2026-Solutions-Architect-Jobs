@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Migration-Architect_R-00183698) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Migration-Architect_R-00185332) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-05-22.
+This technical & solutions architect position at Leidos was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

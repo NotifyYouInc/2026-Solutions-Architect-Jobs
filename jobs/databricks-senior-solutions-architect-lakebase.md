@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8568011002) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8567991002) |
 
 ## About This Role
 

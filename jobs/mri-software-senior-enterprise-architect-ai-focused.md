@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/London-UK-Office/Senior-Enterprise-Architect--AI-Focused-_R-107660) |
+| Location | Cape Town, Western Cape, South Africa |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cape-Town-South-Africa-Office/Senior-Enterprise-Architect--AI-Focused-_R-108379) |
 
 ## About This Role
 
-This technical & solutions architect position at MRI Software was posted on 2026-05-05.
+This ai / llm engineer position at MRI Software was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

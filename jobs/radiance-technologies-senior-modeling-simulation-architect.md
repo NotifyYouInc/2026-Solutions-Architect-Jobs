@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Beavercreek, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Senior-Modeling---Simulation-Architect_HR102163) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Senior-Modeling---Simulation-Architect_HR102244) |
 
 ## About This Role
 
-This technical & solutions architect position at Radiance Technologies was posted on 2026-05-01.
+This technical & solutions architect position at Radiance Technologies was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Monterrey/Sr-Technical-Architect_253680) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Monterrey/Technical-Architect---Cloud_261734) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-03-19.
+This technical & solutions architect position at Blue Yonder was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
