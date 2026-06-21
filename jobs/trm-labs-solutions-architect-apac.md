@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Solutions Architect (APAC) at TRM Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/f2837b1f-2916-49b1-9dfe-787bf4f3730c) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This technical & solutions architect position at TRM Labs was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

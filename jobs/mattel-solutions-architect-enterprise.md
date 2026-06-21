@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Solutions Architect - Enterprise at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132028899-solutions-architect-enterprise) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This technical & solutions architect position at Mattel was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
