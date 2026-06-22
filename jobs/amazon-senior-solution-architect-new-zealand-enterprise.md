@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204028/senior-solution-architect-new-zealand-enterprise) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448539/senior-solution-architect-new-zealand-enterprise) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-03-13.
+This technical & solutions architect position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

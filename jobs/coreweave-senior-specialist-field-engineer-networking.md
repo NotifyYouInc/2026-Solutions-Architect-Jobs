@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://coreweave.com/careers/job?4688572006&board=coreweave&gh_jid=4688572006) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://coreweave.com/careers/job?4688579006&board=coreweave&gh_jid=4688579006) |
 
 ## About This Role
 
-This technical & solutions architect position at CoreWeave was posted on 2026-06-11.
+This technical & solutions architect position at CoreWeave was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

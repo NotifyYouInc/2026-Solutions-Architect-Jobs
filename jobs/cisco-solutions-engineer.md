@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dhaka, Dhaka Division, Bangladesh |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dhaka-Bangladesh/Solutions-Engineer_2016644) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Solutions-Engineer_2016133) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-06-11.
+This technical & solutions architect position at Cisco was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

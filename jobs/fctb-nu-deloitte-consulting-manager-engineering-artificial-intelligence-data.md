@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000131669649-manager-engineering-artificial-intelligence-data) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000131827105-manager-engineering-artificial-intelligence-data) |
 
 ## About This Role
 
-This engineering manager position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-11.
+This engineering manager position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

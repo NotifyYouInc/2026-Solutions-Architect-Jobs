@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Manager-Solution-Architecture_51577732) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Engineering Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Manager-Solution-Architecture_51582934) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-05-11.
+This engineering manager position at DXC Technology was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

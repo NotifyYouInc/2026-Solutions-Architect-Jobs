@@ -1,16 +1,16 @@
-# Architect at Egis
+# Architect  at Egis
 
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000126457277-architect) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000132103899-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Egis was posted on 2026-05-14.
+This technical & solutions architect position at Egis was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

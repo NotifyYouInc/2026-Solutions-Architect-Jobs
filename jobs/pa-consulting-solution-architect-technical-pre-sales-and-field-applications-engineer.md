@@ -1,4 +1,4 @@
-# Solution Architect (Technical Pre Sales and Field Applications Engineer) at PA Consulting
+# Solution Architect (Technical Pre-Sales and Field Applications Engineer) at PA Consulting
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Melbourn, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000131665444-solution-architect-technical-pre-sales-and-field-applications-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000131683399-solution-architect-technical-pre-sales-and-field-applications-engineer) |
 
 ## About This Role
 

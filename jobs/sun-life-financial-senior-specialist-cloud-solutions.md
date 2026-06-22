@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Senior-Specialist---Cloud-Solutions_JR00124836-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Senior-Specialist---Cloud-Solutions_JR00125032) |
 
 ## About This Role
 
-This technical & solutions architect position at Sun Life Financial was posted on 2026-06-10.
+This technical & solutions architect position at Sun Life Financial was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

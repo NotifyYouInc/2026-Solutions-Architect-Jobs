@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Perth, Western Australia, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/IND---Chennai/Solution-Architect_JR108318) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/Remote-Working---AUS---Perth/Solution-Architect_JR108552) |
 
 ## About This Role
 
-This technical & solutions architect position at Dedalus CandG was posted on 2026-04-16.
+This technical & solutions architect position at Dedalus CandG was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

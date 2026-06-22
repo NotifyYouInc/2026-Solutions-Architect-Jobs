@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Sydney-Australia/Consulting-Engineering-Technical-Leader_2015012-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Sydney-Australia/Consulting-Engineering-Technical-Leader_2015009) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-05-27.
+This technical & solutions architect position at Cisco was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

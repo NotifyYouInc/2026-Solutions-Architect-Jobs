@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | California, US |
+| Location | Virginia, Free State, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-California-United-States-of-America/Sales-Engineer--SSR-Specialist---Central-Region_1192061) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Pre-Sales-Engineer--Cybersecurity_1208115-3) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-02-10.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

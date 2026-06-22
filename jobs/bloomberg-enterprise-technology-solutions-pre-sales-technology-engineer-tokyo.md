@@ -5,12 +5,12 @@
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Technology-Solutions-Pre-Sales-Technology-Engineer-Tokyo/18879) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Technology-Solutions-Pre-Sales-Technology-Engineer-Tokyo/20251) |
 
 ## About This Role
 
-This technical & solutions architect position at Bloomberg was posted on 2026-05-24.
+This technical & solutions architect position at Bloomberg was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
