@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000130528149-principal-cloud-architect) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132166792-principal-cloud-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-06-05.
+This technical & solutions architect position at Devoteam was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

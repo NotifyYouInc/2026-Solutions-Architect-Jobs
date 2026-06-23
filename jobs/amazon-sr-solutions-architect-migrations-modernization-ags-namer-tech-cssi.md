@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Seattle, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444151/sr-solutions-architect-migrations-modernization-ags-namer-tech-cssi) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448989/sr-solutions-architect-migrations-modernization-ags-namer-tech-cssi) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-09.
+This technical & solutions architect position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

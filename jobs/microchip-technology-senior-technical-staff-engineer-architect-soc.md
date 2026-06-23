@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Embedded / Firmware Engineer |
+| Location | 2 locations |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Bangalore/Senior-Technical-Staff-Engineer---Architect--SoC-_R2532-26-7) |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/United-Kingdom---Cambridge/Senior-Technical-Staff-Engineer---Architect--SoC-_R2548-26-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microchip Technology was posted on 2026-06-12.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

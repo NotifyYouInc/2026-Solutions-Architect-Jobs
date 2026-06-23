@@ -1,0 +1,22 @@
+# Director, Industry Solutions at Snowflake
+
+| Field | Details |
+|-------|---------|
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | New York City, New York, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3aae943c-08d0-46e6-aa70-1aea9090e4cd) |
+
+## About This Role
+
+This engineering manager position at Snowflake was posted on 2026-06-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

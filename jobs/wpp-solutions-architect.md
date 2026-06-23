@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8570472002) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8579601002) |
 
 ## About This Role
 
-This technical & solutions architect position at WPP was posted on 2026-06-03.
+This technical & solutions architect position at WPP was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

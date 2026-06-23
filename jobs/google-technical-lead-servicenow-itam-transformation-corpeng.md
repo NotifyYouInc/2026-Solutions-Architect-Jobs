@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcv0MVdcosSG7ahDYOf8nujg3HhHOebX3KL5axA9S5a2EjsACxwdTKvN2Q_Mf3Vdim5xeHn6ui9ie-HfN63cpGMKRKJtqznkYljKlyMbxTbV7ilNe9MzpSgX4ovcdw%3D%3D_V2&loc=IN&title=Technical+Lead) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXX5_C3eFQ808u2IbexWtzEyzRxyi4lSbS7Xp0vR8O_VEjsA1Ny_i3UurPrIorFqnUNVOgPVI-s6GtystLx808tZff0kXVYUJiAaOzosfH14AesOb1ra-Rs1jkvdjA%3D%3D_V2&loc=IN&title=Technical+Lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-30.
+This technical & solutions architect position at Google was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

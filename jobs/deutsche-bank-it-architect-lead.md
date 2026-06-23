@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bucharest, București, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Lead-Technology-Manager_R0332171) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/IT-Architect-Lead_R0430020) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Bank was posted on 2026-03-01.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

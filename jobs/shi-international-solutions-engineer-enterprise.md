@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Louisiana, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---PA---Home-Office/Solutions-Engineer---Enterprise_JR3048) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---LA---Home-Office/Solutions-Engineer---Enterprise_JR3277-1) |
 
 ## About This Role
 
-This technical & solutions architect position at SHI International was posted on 2026-05-12.
+This technical & solutions architect position at SHI International was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

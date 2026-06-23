@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Peachtree Corners, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000131749440-varicent-solution-architect) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132259288-varicent-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Intuitive Surgical was posted on 2026-06-11.
+This technical & solutions architect position at Intuitive Surgical was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000126087519-architecte-systeme-en-navigation-par-satellites-hf) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132148279-architecte-systeme-en-navigation-par-satellites-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN was posted on 2026-05-12.
+This technical & solutions architect position at ALTEN was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/Principal-Commercial-Data-Architect_274773-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-TX/Principal-Commercial-Data-Architect_276362) |
 
 ## About This Role
 
-This technical & solutions architect position at MGM Resorts International was posted on 2026-04-28.
+This technical & solutions architect position at MGM Resorts International was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

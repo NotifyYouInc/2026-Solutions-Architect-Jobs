@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSagUh36A5d-OjHXUpOHWOCwUcVWovrk0cXnw16ddfaNEjsACxwdTCyflNoBbvuDuyfOfKiBDb6ictUcz8cCXbubTii3s2N70r7mGhDARTuS3pEw1CJZEzK8rq2gYg%3D%3D_V2&loc=US&title=AI+Solution+Architect) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZi2CXHSM_ttvtDB5hYEpAC0Uk2qNJ6oLfq9frz8VQKkEjsA1Ny_i52g2TS_3cCGWT1lSWKjBkWwwZhjY7Y4bR7rjZNzZqT-_RQVchHancNitxo-515mLNWjeoFoGw%3D%3D_V2&loc=US&title=AI+Solution+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-15.
+This digital / performance marketing position at Google was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

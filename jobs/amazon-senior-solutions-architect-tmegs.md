@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415652/senior-solutions-architect-tmegs) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449708/senior-solutions-architect-tmegs) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-11.
+This technical & solutions architect position at Amazon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

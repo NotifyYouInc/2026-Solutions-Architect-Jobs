@@ -1,16 +1,16 @@
-# Consulting engineer at Cisco
+# Consulting Engineer at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-engineer_2016809) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer_2016814) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-06-12.
+This technical & solutions architect position at Cisco was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

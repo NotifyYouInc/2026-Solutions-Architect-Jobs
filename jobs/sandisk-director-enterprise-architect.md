@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000121830653-director-enterprise-architect) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000132263249-director-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SanDisk was posted on 2026-04-20.
+This technical & solutions architect position at SanDisk was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Solutions Architect, Healthcare &Life Sciences at Amazon
+# Sr. Solutions Architect , Healthcare & Life Sciences at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444459/sr-solutions-architect-healthcare-life-sciences) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449715/sr-solutions-architect-healthcare-life-sciences) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-10.
+This technical & solutions architect position at Amazon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

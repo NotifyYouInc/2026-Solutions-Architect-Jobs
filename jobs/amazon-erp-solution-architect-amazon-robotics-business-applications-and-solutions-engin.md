@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430654/erp-solution-architect-amazon-robotics-business-applications-and-solutions-engineering) |
+| Location | North Reading, Massachusetts, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436289/erp-solution-architect-amazon-robotics-business-applications-and-solutions-engineering) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-05-26.
+This technical & solutions architect position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

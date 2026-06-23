@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Ottawa, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418801/assurance-solutions-architect-aws-security-assurance-services) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433661/assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-13.
+This technical & solutions architect position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

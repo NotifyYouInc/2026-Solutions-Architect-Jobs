@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/885487337878828) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1653098246445395) |
 
 ## About This Role
 
-This technical & solutions architect position at Meta was posted on 2026-04-13.
+This technical & solutions architect position at Meta was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

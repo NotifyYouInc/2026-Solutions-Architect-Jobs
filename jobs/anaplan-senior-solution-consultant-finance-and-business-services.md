@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8568191002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8589729002) |
 
 ## About This Role
 

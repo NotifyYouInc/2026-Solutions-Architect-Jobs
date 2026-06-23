@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7732233003) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7773419003) |
 
 ## About This Role
 
-This technical & solutions architect position at Klaviyo was posted on 2026-05-12.
+This technical & solutions architect position at Klaviyo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

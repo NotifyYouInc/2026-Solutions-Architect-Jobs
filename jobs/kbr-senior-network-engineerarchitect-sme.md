@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lorton, Virginia, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lorton-Virginia/Senior-Network-Engineer-Architect--SME-_R2122517) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC-Metro-Area/Senior-Network-Engineer-Architect--SME-_R2125087) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-04-23.
+This technical & solutions architect position at KBR was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

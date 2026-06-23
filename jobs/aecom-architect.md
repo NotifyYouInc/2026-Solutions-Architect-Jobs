@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126460799-architect) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132336714-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-14.
+This technical & solutions architect position at AECOM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

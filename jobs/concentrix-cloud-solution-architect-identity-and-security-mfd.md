@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/DEU-Work-at-Home/Cloud-Solution-Architect-Identity-and-Security--M-F-D-_R1722616) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/DEU-Work-at-Home/Cloud-Solution-Architect-Identity-and-Security--M-F-D-_R1738664-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-17.
+This technical & solutions architect position at Concentrix was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

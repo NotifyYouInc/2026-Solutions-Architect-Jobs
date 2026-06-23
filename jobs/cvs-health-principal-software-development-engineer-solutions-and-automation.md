@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Richardson, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Principal-Software-Development-Engineer--Solutions-and-Automation-_R0887781-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Principal-Software-Development-Engineer--Solutions-and-Automation-_R0937960) |
 
 ## About This Role
 
-This technical & solutions architect position at CVS Health was posted on 2026-05-27.
+This technical & solutions architect position at CVS Health was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
