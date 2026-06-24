@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer_2016814) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Consulting-Engineer_2016762) |
 
 ## About This Role
 

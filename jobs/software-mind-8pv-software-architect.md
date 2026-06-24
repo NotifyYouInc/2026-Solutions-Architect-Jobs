@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000129023682-8pv-software-architect) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000132497304-8pv-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Software Mind was posted on 2026-05-28.
+This technical & solutions architect position at Software Mind was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

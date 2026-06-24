@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Vienna, Vienna, Austria |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436743/senior-sap-solution-architect-wwps-global-isv-partners) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436765/senior-sap-solution-architect-wwps-global-isv-partners) |
 
 ## About This Role
 

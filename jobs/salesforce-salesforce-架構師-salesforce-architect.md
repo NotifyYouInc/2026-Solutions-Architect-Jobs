@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR333502) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Taiwan---Remote/Technical-Architect_JR333498) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-17.
+This technical & solutions architect position at Salesforce was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

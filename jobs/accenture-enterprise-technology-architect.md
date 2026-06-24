@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 7 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Enterprise-Technology-Architect_ATCI-5623486-S2029607-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Enterprise-Technology-Architect_ATCI-5218671-S1937741-1) |
 
 ## About This Role
 

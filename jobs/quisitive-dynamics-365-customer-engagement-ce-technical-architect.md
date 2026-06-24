@@ -5,12 +5,12 @@
 | Company | [Quisitive](https://scoutify.ai/companies/quisitive?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quisitivejobs/jobs/7848430) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quisitivejobs/jobs/8008631) |
 
 ## About This Role
 
-This technical & solutions architect position at Quisitive was posted on 2026-04-23.
+This technical & solutions architect position at Quisitive was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

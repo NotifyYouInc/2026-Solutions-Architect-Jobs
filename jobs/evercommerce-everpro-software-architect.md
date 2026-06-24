@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Software-Architect_R-106149) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Software-Architect_R-106276) |
 
 ## About This Role
 
-This technical & solutions architect position at EverCommerce was posted on 2026-04-10.
+This technical & solutions architect position at EverCommerce was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

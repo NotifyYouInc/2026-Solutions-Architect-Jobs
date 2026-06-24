@@ -1,16 +1,16 @@
-# Architecture Sr Lead Analyst, Senior Vice President at Citigroup
+# Architecture Sr Lead Analyst - Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Tampa, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Architecture-Sr-Lead-Analyst--Senior-Vice-President_26971674) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Architecture-Sr-Lead-Analyst---Senior-Vice-President_26970031) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-06-11.
+This technical & solutions architect position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

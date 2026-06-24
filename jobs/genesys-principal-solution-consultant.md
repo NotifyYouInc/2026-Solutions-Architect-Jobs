@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Indiana, Pennsylvania, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Indiana-USA/Principal-Solution-Consultant_JR111291) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tel-Aviv-Flexible/Principal-Solution-Consultant_JR111385) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-06-04.
+This customer success position at Genesys was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZjXSBPTehqxiCNAlti-38v91NsXZPdkpLmRlk1ID69WEjsACxwdTBHSm2GG0Thsy13H0t7ZKQUeBeXGg6gEScG4yeHpabfmJesn1gG1l4i8b8ToXdlb9MZGpIlipA%3D%3D_V2&loc=TW&title=Senior+Customer+Solutions+Engineer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUmmJcD_KL_Xs958CszPKs5TmlabJ1ZxkiM57CgtZM6JEjoA1Ny_i42R6n2syJRkUw63Uvp6UJ892FHF0zdoPf2nzYfjOh1bJ9Qf8fcG3z7iU7epmp6t5NGYXBjY_V2&loc=IN&title=Senior+Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-08.
+This technical & solutions architect position at Google was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Attio](https://scoutify.ai/companies/attio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2025-12-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6) |
+| Location | San Francisco, California, United States |
+| Category | Customer Success |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/attio/4649d1da-9672-4e04-bb7a-a71fb816615c) |
 
 ## About This Role
 
-This technical & solutions architect position at Attio was posted on 2025-12-15.
+This customer success position at Attio was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
