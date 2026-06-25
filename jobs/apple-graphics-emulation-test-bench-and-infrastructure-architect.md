@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645738/graphics-emulation-test-bench-and-infrastructure-architect) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657659/graphics-emulation-test-bench-and-infrastructure-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-02-13.
+This semiconductor / chip design position at Apple was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

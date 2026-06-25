@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2025-10-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200626292/touch-force-motion-hardware-sensing-system-architect) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657842/touch-force-motion-hardware-sensing-system-architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2025-10-15.
+This electrical / hardware engineer position at Apple was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

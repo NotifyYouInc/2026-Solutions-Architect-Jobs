@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Connecticut, US |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/New-York/Senior-Business-Solution-Architect_REQ-4540) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/London/Senior-Business-Solution-Architect_BF-REQ-3532) |
 
 ## About This Role
 
-This technical & solutions architect position at Clio was posted on 2026-04-15.
+This technical & solutions architect position at Clio was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

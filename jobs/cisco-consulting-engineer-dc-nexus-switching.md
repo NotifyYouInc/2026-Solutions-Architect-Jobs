@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer---DC--Nexus-Switching_2014728) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer---DC--Nexus-Switching_2014730) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-06-11.
+This customer success position at Cisco was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

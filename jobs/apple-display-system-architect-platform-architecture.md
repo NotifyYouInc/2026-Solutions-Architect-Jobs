@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
-| Posted | 2025-08-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200614939/display-system-architect-platform-architecture) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660008/display-system-architect-platform-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2025-08-04.
+This semiconductor / chip design position at Apple was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

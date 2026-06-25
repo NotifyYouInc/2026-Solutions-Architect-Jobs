@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413252/delivery-consultant-cloud-infrastructure-architect-wwps-proserve) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412448/delivery-consultant-cloud-infrastructure-architect-wwps-proserve) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-07.
+This technical & solutions architect position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

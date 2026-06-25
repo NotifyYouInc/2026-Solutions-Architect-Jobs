@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Nevada, Missouri, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/California-USA/Sr-Solution-Consultant_JR110714-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Nevada-USA/Sr-Solution-Consultant_JR111371-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-04-22.
+This technical & solutions architect position at Genesys was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

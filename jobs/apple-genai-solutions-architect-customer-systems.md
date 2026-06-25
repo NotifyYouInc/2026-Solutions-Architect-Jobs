@@ -1,16 +1,16 @@
-# GenAI Solutions Architect, Customer Systems at Apple
+# GenAI Solutions Architect, Customer Systems  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200642040-3956/genai-solutions-architect-customer-systems?team=SFTWR) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200650607/genai-solutions-architect-customer-systems) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-02-11.
+This technical & solutions architect position at Apple was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

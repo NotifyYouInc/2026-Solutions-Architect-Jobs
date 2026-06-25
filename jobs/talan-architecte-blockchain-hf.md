@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000122218763-architecte-blockchain-hf) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132572899-architecte-blockchain-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-04-22.
+This technical & solutions architect position at Talan was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

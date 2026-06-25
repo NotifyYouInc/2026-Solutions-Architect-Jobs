@@ -5,12 +5,12 @@
 | Company | [Protective](https://scoutify.ai/companies/protective?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Birmingham, Alabama, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-12-11 |
-| Apply | [View on company site](https://jobs.lever.co/protective/280f87dc-bbad-4f4f-a5e1-cd14995a5d9d) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.lever.co/protective/b65a7782-e2aa-4234-ad8e-3008ce7a8716) |
 
 ## About This Role
 
-This technical & solutions architect position at Protective was posted on 2025-12-11.
+This technical & solutions architect position at Protective was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

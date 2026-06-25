@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130003035-principal-platform-architect) |
+| Location | Madrid, Madrid, Spain |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132576805-principal-platform-architect) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-06-03.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

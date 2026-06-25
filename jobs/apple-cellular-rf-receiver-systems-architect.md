@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-01-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200641982/cellular-rf-receiver-systems-architect) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660402/cellular-rf-receiver-systems-architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-01-15.
+This electrical / hardware engineer position at Apple was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

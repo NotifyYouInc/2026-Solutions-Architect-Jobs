@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-10-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200617985/wireless-systems-architect) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662883/wireless-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2025-10-02.
+This technical & solutions architect position at Apple was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Infrastructure-Architect_R00319793-2) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Solution-Architect_ATCP-1444289-S425104) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-12.
+This technical & solutions architect position at Accenture was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

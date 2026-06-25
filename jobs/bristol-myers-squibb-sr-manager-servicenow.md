@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Princeton, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Sr-Manager--ServiceNow_R1600506) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Sr-Manager--ServiceNow_R1603654) |
 
 ## About This Role
 
-This technical & solutions architect position at Bristol-Myers Squibb was posted on 2026-03-30.
+This technical & solutions architect position at Bristol-Myers Squibb was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

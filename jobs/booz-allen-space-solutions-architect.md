@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | California, US |
+| Location | Ramstein-Miesenbach, Rheinland-Pfalz, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Vandenberg-AFB-CA/Space-Solutions-Architect_R0242219) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ramstein-Miesenbach-Rhineland-Palatinate/Space-Solutions-Architect_R0242428) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-06-15.
+This technical & solutions architect position at Booz Allen was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

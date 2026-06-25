@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiom](https://scoutify.ai/companies/axiom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8526737002&gh_jid=8526737002) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8596462002&gh_jid=8596462002) |
 
 ## About This Role
 
-This technical & solutions architect position at Axiom was posted on 2026-05-21.
+This technical & solutions architect position at Axiom was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

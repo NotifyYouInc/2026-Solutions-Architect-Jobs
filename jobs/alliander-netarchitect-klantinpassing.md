@@ -5,12 +5,12 @@
 | Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/AMSTERDAM/Netarchitect-klantinpassing_JR16367) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/AMSTERDAM/Netarchitect-klantinpassing_JR18928) |
 
 ## About This Role
 
-This technical & solutions architect position at Alliander was posted on 2026-06-02.
+This technical & solutions architect position at Alliander was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

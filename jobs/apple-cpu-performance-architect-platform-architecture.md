@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647714/cpu-performance-architect-platform-architecture) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660050/cpu-performance-architect-platform-architecture) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-02-19.
+This semiconductor / chip design position at Apple was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

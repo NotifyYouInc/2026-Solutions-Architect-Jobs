@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435759/sr-security-services-sa-aws-industries-customer-acceleration-team-security-specialists) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437272/sr-security-services-sa-aws-industries-customer-acceleration-team-security-specialists) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-01.
+This technical & solutions architect position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

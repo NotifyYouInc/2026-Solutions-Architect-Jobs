@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Technical Writer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3189934/builder-solution-architect-aws-product-marketing-demo-engineering) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452323/builder-solution-architect-aws-product-marketing-demo-engineering) |
 
 ## About This Role
 
-This technical writer position at Amazon was posted on 2026-02-26.
+This technical & solutions architect position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

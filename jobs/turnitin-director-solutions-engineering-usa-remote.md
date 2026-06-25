@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000122527621-director-solutions-engineering-usa-remote) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000132569639-director-solutions-engineering-usa-remote) |
 
 ## About This Role
 
-This technical & solutions architect position at Turnitin was posted on 2026-04-23.
+This technical & solutions architect position at Turnitin was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

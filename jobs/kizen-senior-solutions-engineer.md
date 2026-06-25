@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kizen](https://scoutify.ai/companies/kizen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://kizen.com/jobs?gh_jid=5263262008) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://kizen.com/jobs?gh_jid=5262663008) |
 
 ## About This Role
 
-This customer success position at Kizen was posted on 2026-06-15.
+This technical & solutions architect position at Kizen was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

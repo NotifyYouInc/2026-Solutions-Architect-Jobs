@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | Solna, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Solna/Solutions-Architect_61607-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Solna/Solutions-Architect_61986-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Teliacompany was posted on 2026-06-04.
+This technical & solutions architect position at Teliacompany was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

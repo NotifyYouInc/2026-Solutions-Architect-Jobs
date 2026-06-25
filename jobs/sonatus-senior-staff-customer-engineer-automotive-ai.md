@@ -1,16 +1,16 @@
-# Senior Staff Customer Engineer – Automotive AI  at Sonatus
+# Senior Staff Customer Engineer – Automotive AI at Sonatus
 
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5118796007) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5125669007) |
 
 ## About This Role
 
-This technical & solutions architect position at Sonatus was posted on 2026-04-23.
+This technical & solutions architect position at Sonatus was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
