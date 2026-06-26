@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Virginia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447845/senior-solutions-architect-wwps-global-defense-partners) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452685/senior-solutions-architect-wwps-global-defense-partners) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-12.
+This technical & solutions architect position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

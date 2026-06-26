@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Business Development |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Ecosystem-Solution-Architect_R-054299) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Kuala-Lumpur/Ecosystem-Solution-Architect_R-057124-1) |
 
 ## About This Role
 
-This business development position at Red Hat was posted on 2026-03-27.
+This technical & solutions architect position at Red Hat was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4853380101) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4875445101) |
 
 ## About This Role
 
-This technical & solutions architect position at Veeam Software was posted on 2026-05-21.
+This technical & solutions architect position at Veeam Software was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

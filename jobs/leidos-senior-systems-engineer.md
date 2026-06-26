@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Maryland, US |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Senior-Systems-Engineer_R-00175808) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Systems-Engineer_R-00185728) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-02-11.
+This technical & solutions architect position at Leidos was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Arlington, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435690/senior-solutions-architect-automotive-manufacturing) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453446/senior-solutions-architect-automotive-manufacturing) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-01.
+This technical & solutions architect position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reẖovot, Central District, Israel |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Architect_R2616749) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Architect_R2520303) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Materials was posted on 2026-04-23.
+This technical & solutions architect position at Applied Materials was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129604868-staff-ai-architect-remote) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132934654-staff-ai-architect-remote) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-06-01.
+This technical & solutions architect position at Experian was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

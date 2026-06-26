@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Jersey City, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Development-Tech-Lead-Analyst_26963763) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Applications-Development-Tech-Lead-Analyst_26967980) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-05-19.
+This technical & solutions architect position at Citigroup was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

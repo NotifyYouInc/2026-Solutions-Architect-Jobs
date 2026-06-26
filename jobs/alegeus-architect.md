@@ -5,12 +5,12 @@
 | Company | [Alegeus](https://scoutify.ai/companies/alegeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Bangalore---India/Architect_R-101170) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Bangalore---India/Architect_R-101181) |
 
 ## About This Role
 
-This technical & solutions architect position at Alegeus was posted on 2026-04-22.
+This technical & solutions architect position at Alegeus was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

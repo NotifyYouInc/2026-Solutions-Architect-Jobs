@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000132084857-senior-architect) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000132902529-senior-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Egis was posted on 2026-06-15.
+This technical & solutions architect position at Egis was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

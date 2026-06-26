@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437657/solutions-architect-travel-hospitality) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423974/solutions-architect-travel-hospitality) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-02.
+This technical & solutions architect position at Amazon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

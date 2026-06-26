@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427565/principal-sales-specialist-analytics-fsi) |
+| Category | Sales Leadership |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453170/principal-sales-specialist-analytics-fsi) |
 
 ## About This Role
 
-This account executive position at Amazon was posted on 2026-05-22.
+This sales leadership position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

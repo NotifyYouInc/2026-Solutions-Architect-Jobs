@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka3pGbujIxsdunjZJd1dfcQGIantxh69RB8mkF4hCtSwEjsACxwdTKttDv-WYqQKGzL596WBvsIfJ34GdQpTwT_IC-KY1qLzYcWFbWXitBiWvgy7fGddafCgtVqzAw%3D%3D_V2&loc=US&title=Wireless+Systems+Technology+Architect) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZg3uMFiv6Gv0bq5rpPhDUKiXRaWDVWuhBsZYYotM6RFEjsA1Ny_i5w_L4Hm1jVysEKW3E4G05i2aYiu0FpJ_uu8TwbADeOYJvz72k4_H2ZwVPrMgU7lpe36WyK5cw%3D%3D_V2&loc=US&title=Wireless+Systems+Technology+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-04-23.
+This technical & solutions architect position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001122205-education-solutions-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001165387-education-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Canva was posted on 2026-06-01.
+This technical & solutions architect position at Canva was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

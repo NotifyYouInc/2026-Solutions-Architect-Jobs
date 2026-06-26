@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Digital-Transformation-Architect_R0240408-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Digital-Transformation-Architect_R0242554) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-05-18.
+This technical & solutions architect position at Booz Allen was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

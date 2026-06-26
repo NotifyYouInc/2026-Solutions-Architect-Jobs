@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000123955211-vms-integration-architect) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000132938409-vms-integration-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Allegis Global Solutions was posted on 2026-04-30.
+This technical & solutions architect position at Allegis Global Solutions was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

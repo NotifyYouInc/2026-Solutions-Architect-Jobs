@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8589624002) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8531153002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-06-14.
+This technical & solutions architect position at Databricks was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Italy---Work-at-Home/Cloud-Solution-Architect--CSA----Identity---Microsoft-Entra-ID_R1717013) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SWE-Work-at-Home/Cloud-Solution-Architect--CSA----Identity---Microsoft-Entra-ID_R1739720) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-28.
+This technical & solutions architect position at Concentrix was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

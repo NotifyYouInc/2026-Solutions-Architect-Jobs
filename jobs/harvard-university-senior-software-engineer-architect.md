@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013646876-senior-software-engineer-architect) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013692526-senior-software-engineer-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Harvard University was posted on 2026-06-16.
+This technical & solutions architect position at Harvard University was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Architect  at Eurofins Scientific
+# Software Architect at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132399924-software-architect) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132825202-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Eurofins Scientific was posted on 2026-06-16.
+This technical & solutions architect position at Eurofins Scientific was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

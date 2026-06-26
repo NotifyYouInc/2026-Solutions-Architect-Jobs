@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#336171) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#336337) |
 
 ## About This Role
 

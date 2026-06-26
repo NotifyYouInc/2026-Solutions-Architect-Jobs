@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416002/sr-startup-solution-architect-genai-san-francisco-genai-startups) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412966/sr-startup-solution-architect-genai-san-francisco-genai-startups) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-11.
+This technical & solutions architect position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

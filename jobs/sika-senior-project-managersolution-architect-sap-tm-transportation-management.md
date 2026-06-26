@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Lyndhurst, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000125062885-senior-project-managersolution-architect-sap-tm-transportation-management) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132912719-senior-project-managersolution-architect-sap-tm-transportation-management) |
 
 ## About This Role
 
-This technical & solutions architect position at Sika was posted on 2026-05-07.
+This technical & solutions architect position at Sika was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

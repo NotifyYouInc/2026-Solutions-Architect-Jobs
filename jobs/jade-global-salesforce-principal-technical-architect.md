@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Salesforce-Principal-Technical-Architect_R-105562) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Salesforce-Principal-Technical-Architect_R-105583) |
 
 ## About This Role
 
-This technical & solutions architect position at Jade Global was posted on 2026-06-17.
+This technical & solutions architect position at Jade Global was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

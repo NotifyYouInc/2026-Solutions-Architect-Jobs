@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | South Plainfield, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/10305-South-Plainfield-NJ-Home-Office/Network-Solutions-Architect---ADMS_R-00184099) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/South-Plainfield-NJ/Network-Solutions-Architect---ADMS_R-00185763-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-05-27.
+This technical & solutions architect position at Leidos was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
