@@ -5,12 +5,12 @@
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000130770899-kpmgi-senior-manager-enterprise-architect-application-technology-domains) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000133074886-kpmgi-senior-manager-enterprise-architect-application-technology-domains) |
 
 ## About This Role
 
-This technical & solutions architect position at KPMG Nederland was posted on 2026-06-08.
+This technical & solutions architect position at KPMG Nederland was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

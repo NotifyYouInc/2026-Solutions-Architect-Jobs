@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cube](https://scoutify.ai/companies/cube?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cube/eef34c16-73c1-4df8-ab11-42fcecf629a6) |
+| Location | Toronto, Ontario, Canada |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cube/01cda7c5-0b3d-48f4-a695-6fe0454164fc) |
 
 ## About This Role
 
-This implementation / professional services position at Cube was posted on 2026-04-30.
+This technical & solutions architect position at Cube was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

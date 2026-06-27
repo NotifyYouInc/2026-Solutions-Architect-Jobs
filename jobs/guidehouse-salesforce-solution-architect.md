@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Architect_40075) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Salesforce-Solution-Architect_40766) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-06-15.
+This technical & solutions architect position at Guidehouse was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

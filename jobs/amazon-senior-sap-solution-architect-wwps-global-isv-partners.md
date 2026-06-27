@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452752/senior-sap-solution-architect-wwps-global-isv-partners) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426688/senior-sap-solution-architect-wwps-global-isv-partners) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-18.
+This technical & solutions architect position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

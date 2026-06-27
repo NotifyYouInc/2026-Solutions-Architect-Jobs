@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iron Mountain](https://scoutify.ai/companies/ironmountain?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | Georgia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--MA--Remote/Senior-Solutions-Architect_J0099599) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--GA--Remote/Senior-Solutions-Architect_J0104270) |
 
 ## About This Role
 
-This technical & solutions architect position at Iron Mountain was posted on 2026-03-11.
+This technical & solutions architect position at Iron Mountain was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

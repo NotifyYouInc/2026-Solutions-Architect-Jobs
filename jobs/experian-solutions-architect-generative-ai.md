@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127209849-solutions-architect-generative-ai) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133019467-solutions-architect-generative-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-05-19.
+This technical & solutions architect position at Experian was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

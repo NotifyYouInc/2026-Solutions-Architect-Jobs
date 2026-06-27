@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126957240-solution-architect-3dexperience-industrie-aix-en-provence) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133058539-solution-architect-3dexperience-industrie-aix-en-provence) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-05-18.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

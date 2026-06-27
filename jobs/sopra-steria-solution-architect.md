@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Katowice, Silesia, Poland |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115251374-solution-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133056891-solution-architect) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-03-17.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

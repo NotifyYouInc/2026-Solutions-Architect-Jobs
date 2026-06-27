@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | East Palo Alto, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421434/worldwide-specialist-solutions-architect-sql-analytics-data-ai-gtm) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453783/worldwide-specialist-solutions-architect-sql-analytics-data-ai-gtm) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-15.
+This technical & solutions architect position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

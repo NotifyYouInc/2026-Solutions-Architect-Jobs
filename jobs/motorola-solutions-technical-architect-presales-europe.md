@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Glostrup, Capital Region, Denmark |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glostrup-Denmark-ZDK02/Technical-Architect-PreSales-Europe_R64838) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Berlin-Germany-ZWG172/Technical-Architect-PreSales-Europe_R66049) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-05-27.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

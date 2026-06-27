@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pau, Nouvelle-Aquitaine, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126962980-architecte-ia-industrie-pau) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133062119-architecte-ia-industrie-pau) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-05-18.
+This ai / llm engineer position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

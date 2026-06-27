@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRqbY6qNbzzj3kdiLYFhVSnCYJzdImL_cqYoFi2wtdA1EjsACxwdTD8QDzM85zy7hfU_EuXA0TNu4-zZUti9T22s9bQWCMxs0we_lgCbiF-AYXLi97s3X04XQTiuDQ%3D%3D_V2&loc=GB&title=Live+Solutions+Consultant) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ0cTiwxUWf5SBvymYRadR4vW6nfL7_JKrAqXt5n9WXOEjsA1Ny_ixYnMCzISska-PdKcWPUU5ARwvsUouqPfHkIK-hQM21RKarEGDIWl2DvRPgcgSHRcsUFK9MDuw%3D%3D_V2&loc=GB&title=Live+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-05-29.
+This technical & solutions architect position at Google was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
