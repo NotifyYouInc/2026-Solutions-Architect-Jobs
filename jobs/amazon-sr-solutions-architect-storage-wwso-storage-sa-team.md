@@ -1,12 +1,12 @@
-# Senior Partner Solution Architect, SAP at Amazon
+# Sr. Solutions Architect, Storage, WWSO Storage SA Team at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Arlington, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441265/senior-partner-solution-architect-sap) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441231/sr-solutions-architect-storage-wwso-storage-sa-team) |
 
 ## About This Role
 

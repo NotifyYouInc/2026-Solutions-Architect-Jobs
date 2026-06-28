@@ -1,16 +1,16 @@
-# Senior Partner Solution Architect, SAP at Amazon
+# Senior Deep Learning Architect, AWS Gen AI Innovation Center at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441265/senior-partner-solution-architect-sap) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | AI / ML Research |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454402/senior-deep-learning-architect-aws-gen-ai-innovation-center) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-05.
+This ai / ml research position at Amazon was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

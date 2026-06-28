@@ -1,16 +1,16 @@
-# Senior Partner Solution Architect, SAP at Amazon
+# Sr. SQL Analytics Specialist Solutions Architect, WWSO Data & AI, AWS at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441265/senior-partner-solution-architect-sap) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428621/sr-sql-analytics-specialist-solutions-architect-wwso-data-ai-aws) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-05.
+This technical & solutions architect position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

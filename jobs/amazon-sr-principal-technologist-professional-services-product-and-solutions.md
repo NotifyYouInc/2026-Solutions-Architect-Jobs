@@ -1,16 +1,16 @@
-# Senior Partner Solution Architect, SAP at Amazon
+# Sr. Principal Technologist, Professional Services, Product and Solutions at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441265/senior-partner-solution-architect-sap) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454401/sr-principal-technologist-professional-services-product-and-solutions) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-05.
+This technical & solutions architect position at Amazon was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

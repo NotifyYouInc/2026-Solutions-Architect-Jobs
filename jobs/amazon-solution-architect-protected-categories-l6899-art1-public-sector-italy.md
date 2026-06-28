@@ -1,16 +1,16 @@
-# Senior Partner Solution Architect, SAP at Amazon
+# Solution Architect - Protected Categories (L.68/99 Art.1), Public Sector Italy at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Rome, Lazio, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441265/senior-partner-solution-architect-sap) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441613/solution-architect-protected-categories-l-68-99-art-1-public-sector-italy) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-05.
+This technical & solutions architect position at Amazon was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

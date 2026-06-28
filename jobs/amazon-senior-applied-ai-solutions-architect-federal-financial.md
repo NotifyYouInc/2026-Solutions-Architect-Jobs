@@ -1,16 +1,16 @@
-# Senior Partner Solution Architect, SAP at Amazon
+# Senior Applied AI Solutions Architect, Federal Financial at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Arlington, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441265/senior-partner-solution-architect-sap) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10401999/senior-applied-ai-solutions-architect-federal-financial) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-05.
+This technical & solutions architect position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
