@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000133021119-tech-lead-sap-btp-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Assystem was posted on 2026-06-19.
+This software engineer position at Assystem was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8531153002) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8595160002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-06-18.
+This technical & solutions architect position at Databricks was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

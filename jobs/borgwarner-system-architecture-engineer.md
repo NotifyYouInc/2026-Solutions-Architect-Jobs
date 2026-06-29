@@ -5,12 +5,12 @@
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Suzhou---China/System-Architecture-Engineer_R2026-1961) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Suzhou---China/System-Architecture-Engineer_R2026-2435) |
 
 ## About This Role
 
-This technical & solutions architect position at BorgWarner was posted on 2026-05-20.
+This technical & solutions architect position at BorgWarner was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

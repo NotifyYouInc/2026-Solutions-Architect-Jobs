@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/LTA-HSO-B3-02/XMLNAME--LTA-IDE--SENIOR---EXECUTIVE-ARCHITECT_JR-10000041423) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/LTA-HSO-B3-02/XMLNAME--LTA-IDE--SENIOR---EXECUTIVE-ARCHITECT_JR-10000027760) |
 
 ## About This Role
 
-This technical & solutions architect position at Economic Development Board was posted on 2026-06-04.
+This technical & solutions architect position at Economic Development Board was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

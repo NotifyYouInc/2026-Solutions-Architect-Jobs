@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Tech-lead-Salesforce_R2608070) |
 
 ## About This Role
 
-This technical & solutions architect position at Desjardins was posted on 2026-06-19.
+This software engineer position at Desjardins was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

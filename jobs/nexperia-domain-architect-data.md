@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-06-18 |
 | Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Domain-Architect---Data_R-20014164) |
 
 ## About This Role
 
-This technical & solutions architect position at Nexperia was posted on 2026-06-18.
+This data engineer position at Nexperia was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Forward-Deployed-Engineer_ATCI-5632685-S2030614-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Forward-Deployed-Engineer_ATCI-5632860-S2030463-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-18.
+This software engineer position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

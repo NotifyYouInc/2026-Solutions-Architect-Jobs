@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Data-Architect-Senior-Manager_14492103) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-19.
+This data engineer position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

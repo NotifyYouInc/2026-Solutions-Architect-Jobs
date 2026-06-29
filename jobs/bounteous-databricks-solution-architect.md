@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bounteous](https://scoutify.ai/companies/bounteous?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Canada |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-06-20 |
 | Apply | [View on company site](https://jobs.lever.co/bounteous/730b398b-f830-47ab-acc4-cc86a1394361) |
 
 ## About This Role
 
-This technical & solutions architect position at Bounteous was posted on 2026-06-20.
+This data engineer position at Bounteous was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

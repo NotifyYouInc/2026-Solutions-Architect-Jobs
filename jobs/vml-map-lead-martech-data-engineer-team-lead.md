@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VML MAP](https://scoutify.ai/companies/vml-map?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-06-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/map/jobs/8598784002) |
 
 ## About This Role
 
-This technical & solutions architect position at VML MAP was posted on 2026-06-18.
+This data engineer position at VML MAP was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

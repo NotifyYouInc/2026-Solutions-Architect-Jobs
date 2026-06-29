@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-06-18 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Principal-Data-Platform-Architect_545047-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Haleon was posted on 2026-06-18.
+This data engineer position at Haleon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

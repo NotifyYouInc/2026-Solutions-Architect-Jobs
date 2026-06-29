@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Springdale, Arkansas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate-412-West---Springdale-Arkansas/Senior-Manager-Data-Analytics-Logistics---Procurement_R0468436) |
 
 ## About This Role
 
-This technical & solutions architect position at Tyson Foods was posted on 2026-06-19.
+This data engineer position at Tyson Foods was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

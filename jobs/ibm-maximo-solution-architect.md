@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119728) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121938) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-09.
+This technical & solutions architect position at IBM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
