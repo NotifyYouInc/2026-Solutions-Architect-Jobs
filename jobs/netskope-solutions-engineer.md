@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=7861713) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8015290) |
 
 ## About This Role
 
-This technical & solutions architect position at Netskope was posted on 2026-04-30.
+This technical & solutions architect position at Netskope was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

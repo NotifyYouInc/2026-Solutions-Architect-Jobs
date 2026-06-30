@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sydney, New South Wales, Australia |
 | Category | Developer Relations |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452452/specialist-sa-developer-transformation) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454852/specialist-sa-developer-transformation) |
 
 ## About This Role
 
-This developer relations position at Amazon was posted on 2026-06-18.
+This developer relations position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

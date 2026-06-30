@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452321/sr-partner-solutions-architect-partners) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454738/sr-partner-solutions-architect-partners) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-18.
+This technical & solutions architect position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

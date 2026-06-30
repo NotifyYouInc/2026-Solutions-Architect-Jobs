@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cloud-Architect_R0241774) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cloud-Architect_R0242639) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-06-12.
+This technical & solutions architect position at Booz Allen was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

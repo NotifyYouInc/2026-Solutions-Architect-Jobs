@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Principal-Solutions-Architect_REQ572564-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Principal-Solutions-Architect_REQ573646) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-04-15.
+This technical & solutions architect position at Unisys was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Akron, Ohio, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-OH-Akron-Corp-Hdqtrs/Application-Development-Architect_JR-40106584) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/IN-Hyderabad/Application-Development-Architect_JR-40109486) |
 
 ## About This Role
 
-This technical & solutions architect position at Goodyear was posted on 2026-03-06.
+This technical & solutions architect position at Goodyear was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

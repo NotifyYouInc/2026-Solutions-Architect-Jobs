@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Turin, Piedmont, Italy |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ITA---Turin-Via-Pianezza/Lead-Enterprise-Architect_R0055086) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Enterprise-Architect_R0057925-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Wolters Kluwer was posted on 2026-04-20.
+This technical & solutions architect position at Wolters Kluwer was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Consulting-Engineer_2016803) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer_2018168) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-06-17.
+This technical & solutions architect position at Cisco was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

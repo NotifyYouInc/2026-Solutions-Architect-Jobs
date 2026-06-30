@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Falls Church, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Solution-Architect_RQ220282) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Solution-Architect_RQ222843) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-05-16.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

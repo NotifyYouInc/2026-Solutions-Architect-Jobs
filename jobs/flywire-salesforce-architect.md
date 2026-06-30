@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000131752968-salesforce-architect) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000133429199-salesforce-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Flywire was posted on 2026-06-11.
+This technical & solutions architect position at Flywire was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

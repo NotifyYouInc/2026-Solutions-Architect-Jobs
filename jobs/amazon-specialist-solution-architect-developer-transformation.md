@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Developer Relations |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448579/specialist-solution-architect-developer-transformation) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456210/specialist-solution-architect-developer-transformation) |
 
 ## About This Role
 
-This developer relations position at Amazon was posted on 2026-06-15.
+This technical & solutions architect position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

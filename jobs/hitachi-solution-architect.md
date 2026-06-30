@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Solution-Architect_R0120882-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Karnataka-India/Solution-Architect_R0130310) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi was posted on 2026-06-09.
+This technical & solutions architect position at Hitachi was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

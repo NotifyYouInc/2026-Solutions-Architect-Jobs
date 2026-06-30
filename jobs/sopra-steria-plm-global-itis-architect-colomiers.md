@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129474314-plm-global-itis-architect-colomiers) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133369381-plm-global-itis-architect-colomiers) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-06-01.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

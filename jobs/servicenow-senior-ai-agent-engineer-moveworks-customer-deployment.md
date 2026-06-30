@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129994898-senior-ai-agent-engineer-moveworks-customer-deployment) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133503739-senior-ai-agent-engineer-moveworks-customer-deployment) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-03.
+This ai / llm engineer position at ServiceNow was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

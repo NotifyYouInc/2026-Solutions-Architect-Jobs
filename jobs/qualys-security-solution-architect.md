@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Netherlands/Security-Solution-Architect_R0004515) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Security-Solution-Architect_R0004601) |
 
 ## About This Role
 
-This security engineer position at Qualys was posted on 2026-03-09.
+This technical & solutions architect position at Qualys was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

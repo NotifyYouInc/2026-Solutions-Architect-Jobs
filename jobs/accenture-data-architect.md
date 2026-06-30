@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Data-Architect_R00279204) |
+| Location | Italy |
+| Category | Data Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Torino/Data-Architect_14396635) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-10.
+This data engineer position at Accenture was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

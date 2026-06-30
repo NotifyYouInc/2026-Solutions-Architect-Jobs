@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128871311-senior-solution-consultant-transportation-real-estate) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133482184-senior-solution-consultant-transportation-real-estate) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-28.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

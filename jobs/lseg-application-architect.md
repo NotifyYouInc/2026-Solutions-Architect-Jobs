@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Location | Nottingham, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Application-Architect_R0118138-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Application-Feature-Architect_R0114491-1) |
 
 ## About This Role
 
-This technical & solutions architect position at LSEG was posted on 2026-04-15.
+This technical & solutions architect position at LSEG was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

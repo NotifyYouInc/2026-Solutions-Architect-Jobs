@@ -1,16 +1,16 @@
-# AI Solution Architect  at Version 1
+# AI Solution Architect at Version 1
 
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 6 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000109051725-ai-solution-architect) |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133377271-ai-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Version 1 was posted on 2026-02-12.
+This ai / ml research position at Version 1 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

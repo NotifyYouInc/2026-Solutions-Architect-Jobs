@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Maharashtra, IN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Middle-Office-Automation-Solution-Architect--Automation---Data----Assistant-Vice-President_R-786579) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Middle-Office-Automation-Solution-Architect--Automation---Data----Assistant-Vice-President_R-792804) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-03-26.
+This technical & solutions architect position at State Street was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
