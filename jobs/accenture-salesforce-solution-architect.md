@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Auckland/Salesforce-Functional-Consultant_R00282248) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Salesforce-Solution-Architect_14499385) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-12.
+This technical & solutions architect position at Accenture was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

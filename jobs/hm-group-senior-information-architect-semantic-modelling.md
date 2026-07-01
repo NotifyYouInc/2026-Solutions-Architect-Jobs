@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000133332515-senior-information-architect-semantic-modelling) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000133533700-senior-information-architect-semantic-modelling) |
 
 ## About This Role
 
-This technical & solutions architect position at H&M Group was posted on 2026-06-22.
+This technical & solutions architect position at H&M Group was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

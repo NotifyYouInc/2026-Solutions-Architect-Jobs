@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hemel Hempstead, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000126035894-senior-solution-consultant-battery-recycling) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133574959-senior-solution-consultant-battery-recycling) |
 
 ## About This Role
 
-This technical & solutions architect position at Smiths Group was posted on 2026-05-12.
+This technical & solutions architect position at Smiths Group was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

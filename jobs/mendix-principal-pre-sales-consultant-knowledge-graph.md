@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mendix](https://scoutify.ai/companies/mendix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.lever.co/mendix/02d8fa50-7bac-4128-a64f-937667421ea4) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.lever.co/mendix/b52be753-a60d-400f-9a5b-e19159742423) |
 
 ## About This Role
 
-This technical & solutions architect position at Mendix was posted on 2026-06-16.
+This technical & solutions architect position at Mendix was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

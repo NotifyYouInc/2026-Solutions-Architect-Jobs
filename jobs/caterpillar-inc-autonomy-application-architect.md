@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Illinois, US |
-| Category | Robotics Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-Application-Architect_R0000368842-1) |
+| Location | Irving, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Autonomy-Application-Architect_R0000374936) |
 
 ## About This Role
 
-This robotics engineer position at Caterpillar Inc. was posted on 2026-05-22.
+This software engineer position at Caterpillar Inc. was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

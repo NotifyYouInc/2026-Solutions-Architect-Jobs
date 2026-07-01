@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Raleigh-NC/Senior-Solutions-Architect--RapidScale-_R202676523) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/Senior-Solutions-Architect--RapidScale-_R202679161) |
 
 ## About This Role
 
-This technical & solutions architect position at Cox was posted on 2026-05-06.
+This technical & solutions architect position at Cox was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

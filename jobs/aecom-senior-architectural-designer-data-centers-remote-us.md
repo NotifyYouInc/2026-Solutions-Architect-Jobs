@@ -1,16 +1,16 @@
-# Senior Architectural Designer, Data Centers - Remote (U.S.) at AECOM
+#  Senior Architectural Designer, Data Centers - Remote (U.S.) at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131446789-senior-architectural-designer-data-centers-remote-us) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133668296-senior-architectural-designer-data-centers-remote-us) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-06-10.
+This technical & solutions architect position at AECOM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

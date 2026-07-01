@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Salt-Lake-City/Technical-Leader_R5035489-3) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Technical-Leader_R5045386-2) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-03-27.
+This technical & solutions architect position at GE Vernova was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

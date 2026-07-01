@@ -1,16 +1,16 @@
-# #121411 - Zuora Billing & Revenue Solutions Architect at Lifted, an Upwork Company™
+#  #121411 - Zuora Billing & Revenue Solutions Architect at Lifted, an Upwork Company™
 
 | Field | Details |
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | California City, California, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990013553405-121411-zuora-billing-revenue-solutions-architect) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990013740671-121411-zuora-billing-revenue-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lifted, an Upwork Company™ was posted on 2026-06-10.
+This technical & solutions architect position at Lifted, an Upwork Company™ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

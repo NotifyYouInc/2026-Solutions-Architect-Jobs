@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | AI / ML Research |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454402/senior-deep-learning-architect-aws-gen-ai-innovation-center) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456370/senior-deep-learning-architect-aws-gen-ai-innovation-center) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-20.
+This ai / ml research position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

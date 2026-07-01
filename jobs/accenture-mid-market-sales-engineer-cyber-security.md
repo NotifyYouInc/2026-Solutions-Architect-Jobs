@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Mid-Market-Sales-Engineer---Cyber-Security_R00336768) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma-Palazzo-Marignoli/Mid-Market-Sales-Engineer---Cyber-Security_R00338002) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-16.
+This technical & solutions architect position at Accenture was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

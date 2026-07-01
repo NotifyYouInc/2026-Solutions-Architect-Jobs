@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Malaysia/Senior-Architect_R-057075-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Canberra/Senior-Architect_R-057990-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-05-26.
+This technical & solutions architect position at Red Hat was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

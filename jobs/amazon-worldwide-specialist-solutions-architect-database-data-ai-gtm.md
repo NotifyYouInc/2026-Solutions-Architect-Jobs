@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434534/worldwide-specialist-solutions-architect-database-data-ai-gtm) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456992/worldwide-specialist-solutions-architect-database-data-ai-gtm) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-29.
+This technical & solutions architect position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132290659-principal-solution-architect-operations-technology-management-otm) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133700164-principal-solution-architect-operations-technology-management-otm) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-06-15.
+This technical & solutions architect position at ServiceNow was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

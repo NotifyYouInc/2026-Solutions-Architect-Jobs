@@ -5,12 +5,12 @@
 | Company | [Tabs](https://scoutify.ai/companies/tabs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tabs/a78fd917-c117-44d9-9486-43bf9f36b186) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tabs/1fb4b015-ddb0-4d8e-abde-ebfcaaee4f71) |
 
 ## About This Role
 
-This customer success position at Tabs was posted on 2026-05-08.
+This customer success position at Tabs was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

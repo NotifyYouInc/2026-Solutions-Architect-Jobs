@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cupertino, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447669/sr-customer-solutions-manager-strategic-accounts) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456481/sr-customer-solutions-manager-strategic-accounts) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-06-12.
+This customer success position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

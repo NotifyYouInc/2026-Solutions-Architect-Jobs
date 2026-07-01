@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Salesforce-Technical-Architect_39510) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Technical-Architect_40071) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-05-14.
+This technical & solutions architect position at Guidehouse was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

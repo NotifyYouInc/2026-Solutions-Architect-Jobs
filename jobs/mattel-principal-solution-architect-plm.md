@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000119459086-principal-solution-architect-plm) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000133660880-principal-solution-architect-plm) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-04-08.
+This technical & solutions architect position at Mattel was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Machelen, Flanders, Belgium |
 | Category | Security Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000133322889-digital-identity-cybersecurity-strategist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000133383229-digital-identity-cybersecurity-strategist) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeMsbxpwzlzp8rK7Dk0D4YopfPSzV-5XqZUThnLwzgmAEjsACxwdTGjVp72dfZA2q984uDVeS_MYoQe66JKh7cThpNeMdGM3Ux6oc_tRrGrTcOEgcPKQV-kOhreTIA%3D%3D_V2&loc=GB&title=Cloud+Enterprise+Architect) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaPDImTfwQ-PFliObqfE8eSOyPFjraaKM-ygT5CgW3dOEjsA1Ny_i59l4ZeFo6BgjGeAFiws3GLgsw7HB9V_BII0nj9S4Ydb7PLizEjC-3W0eElvAEPHFiN1N1iOaw%3D%3D_V2&loc=GB&title=Cloud+Enterprise+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-11.
+This technical & solutions architect position at Google was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

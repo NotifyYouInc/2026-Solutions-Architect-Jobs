@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000117497788-manager-ii-service-management-solution) |
+| Category | Engineering Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133775029-manager-ii-service-management-solution) |
 
 ## About This Role
 
-This technical & solutions architect position at Grab was posted on 2026-03-29.
+This engineering manager position at Grab was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

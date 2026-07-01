@@ -1,16 +1,16 @@
-# Architect  - IT Architect (Domein Architect/Solution Architect) at Rabobank
+# Architect - IT Architect (Domein Architect/Solution Architect) at Rabobank
 
 | Field | Details |
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Architect----IT-Architect--Domein-Architect-Solution-Architect-_JR_00139961) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Architect---IT-Architect--Domein-Architect-Solution-Architect-_JR_00142339) |
 
 ## About This Role
 
-This technical & solutions architect position at Rabobank was posted on 2026-04-22.
+This technical & solutions architect position at Rabobank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

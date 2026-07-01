@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Belgium |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Diegem-Flemish-Brabant-Belgium/Presales-Architect_1205167-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dubai-Dubai-United-Arab-Emirates/Presales-Architect_1205268) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-04-20.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

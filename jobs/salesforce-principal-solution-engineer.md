@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Milan, Lombardy, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Africa---Johannesburg/Principal-Solution-Engineer_JR347020) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Italy---Milan/Principal-Solution-Engineer_JR347059) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-06-18.
+This technical & solutions architect position at Salesforce was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
