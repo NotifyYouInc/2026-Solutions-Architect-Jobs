@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456173/solutions-architect) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456379/solutions-architect) |
 
 ## About This Role
 

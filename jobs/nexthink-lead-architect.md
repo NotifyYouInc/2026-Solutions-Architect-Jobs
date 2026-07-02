@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000132133739-lead-architect) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000133899399-lead-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Nexthink was posted on 2026-06-15.
+This technical & solutions architect position at Nexthink was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

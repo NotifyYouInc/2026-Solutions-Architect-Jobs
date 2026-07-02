@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Specialist-Adoption-Architect-3_R-055413-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-TX/Specialist-Adoption-Architect-3_R-057642-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-08.
+This technical & solutions architect position at Red Hat was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

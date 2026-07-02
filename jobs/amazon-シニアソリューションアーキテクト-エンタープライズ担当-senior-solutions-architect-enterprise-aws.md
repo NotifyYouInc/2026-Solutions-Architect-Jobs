@@ -6,7 +6,7 @@
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456459/senior-solutions-architect-enterprise-aws) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456458/senior-solutions-architect-enterprise-aws) |
 
 ## About This Role
 

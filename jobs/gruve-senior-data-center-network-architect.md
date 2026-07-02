@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Redwood City, California, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5184113008) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5278517008) |
 
 ## About This Role
 
-This technical & solutions architect position at Gruve was posted on 2026-04-10.
+This technical & solutions architect position at Gruve was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

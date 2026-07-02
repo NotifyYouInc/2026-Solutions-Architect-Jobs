@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013212581-hrit-systems-architect) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013761447-hrit-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-05-19.
+This technical & solutions architect position at Wabtec was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

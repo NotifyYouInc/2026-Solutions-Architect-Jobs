@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127716114-senior-principal-platform-architect) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133968110-senior-principal-platform-architect) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-05-21.
+This technology / it consulting position at ServiceNow was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

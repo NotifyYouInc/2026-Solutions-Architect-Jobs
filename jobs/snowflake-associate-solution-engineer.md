@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/ed94cba6-2a71-4488-b2d8-901bb3154a68) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/a56a28f9-5584-47b4-be71-6bdebdbdd16c) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-06-12.
+This technical & solutions architect position at Snowflake was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

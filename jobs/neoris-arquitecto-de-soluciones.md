@@ -5,12 +5,12 @@
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Quito, Pichincha, Ecuador |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4863747101) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4907532101) |
 
 ## About This Role
 
-This technical & solutions architect position at Neoris was posted on 2026-05-11.
+This technical & solutions architect position at Neoris was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Solutions Engineer at Johnson Controls
+# Sr. Solutions Engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Burlington, Ontario, Canada |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Sr-Solutions-Engineer_WD30267449) |
+| Location | Orangeburg, South Carolina, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Orangeburg-New-York-United-States-of-America/Sr-Solutions-Engineer_WD30272814) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Controls was posted on 2026-04-17.
+This security engineer position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

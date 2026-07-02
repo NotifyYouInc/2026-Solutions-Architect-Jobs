@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 6 locations |
 | Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133377271-ai-solution-architect) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133884305-ai-solution-architect) |
 
 ## About This Role
 
-This ai / ml research position at Version 1 was posted on 2026-06-22.
+This ai / ml research position at Version 1 was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

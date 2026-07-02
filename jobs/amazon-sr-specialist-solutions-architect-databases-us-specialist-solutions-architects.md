@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451642/sr-specialist-solutions-architect-databases-us-specialist-solutions-architects) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458374/sr-specialist-solutions-architect-databases-us-specialist-solutions-architects) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-17.
+This technical & solutions architect position at Amazon was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

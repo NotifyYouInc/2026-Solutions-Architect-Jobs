@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-Architect_JR338249) |
+| Category | Software Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect_JR347319) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-06-15.
+This software engineer position at Salesforce was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000131653659-lead-solution-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000133900554-lead-solution-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-06-11.
+This technical & solutions architect position at Freshworks CRM was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
