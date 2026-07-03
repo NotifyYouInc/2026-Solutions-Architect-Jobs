@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Hawaii, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cloud-Architect_RQ218794-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Cloud-Architect_RQ223013-1) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-04-24.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

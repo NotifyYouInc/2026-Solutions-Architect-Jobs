@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vitry-sur-Seine, Île-de-France, France |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000110203425-senior-solutions-consultant) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000134291509-senior-solutions-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Smiths Group was posted on 2026-02-19.
+This technical & solutions architect position at Smiths Group was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

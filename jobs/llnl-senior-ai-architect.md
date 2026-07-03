@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Livermore, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013529076-senior-ai-architect) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013795351-senior-ai-architect) |
 
 ## About This Role
 
-This ai / llm engineer position at LLNL was posted on 2026-06-09.
+This ai / llm engineer position at LLNL was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

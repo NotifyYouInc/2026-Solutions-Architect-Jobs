@@ -5,12 +5,12 @@
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7386888?gh_jid=7386888) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8000380?gh_jid=8000380) |
 
 ## About This Role
 
-This technical & solutions architect position at Zuora was posted on 2026-04-22.
+This technical & solutions architect position at Zuora was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

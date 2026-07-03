@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000127211399-senior-it-infrastructure-architect-fmd) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000134245606-senior-it-infrastructure-architect-fmd) |
 
 ## About This Role
 
-This technical & solutions architect position at Ignitis Grupe was posted on 2026-05-19.
+This technical & solutions architect position at Ignitis Grupe was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

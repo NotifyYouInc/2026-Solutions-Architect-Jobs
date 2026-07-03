@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7595234) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8026393) |
 
 ## About This Role
 
-This technical & solutions architect position at Collibra was posted on 2026-04-01.
+This technical & solutions architect position at Collibra was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

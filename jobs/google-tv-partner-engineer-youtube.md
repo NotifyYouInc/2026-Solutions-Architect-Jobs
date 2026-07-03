@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSloXFMH3GA3ylhLt2L2uQTVLy9p7viJydj_LimbLrWPEjsA1Ny_i58OUyCCm79xv9Y_Nt9HeqPZEV6eQm037SmsJATG5fLzZdSJlVyRKs8EDIVod6clrBihKTLwqg%3D%3D_V2&loc=IN&title=TV+Partner+Engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfzvOfAg1oVFz9_rDmZbN1gDRwcouoryP2q42c-ptQp9EjsA1Ny_i3pDHnI7-JNmm_nLcULR8vUZizmJ7Ow5JC1tMoxrE9lPzifLYBGH18Fwf-bK1edC_ilnWNxPgg%3D%3D_V2&loc=US&title=TV+Partner+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-19.
+This technical & solutions architect position at Google was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

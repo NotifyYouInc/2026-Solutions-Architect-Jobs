@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---QLD---BRISBANE/Solution-Architect_51581980) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/Solution-Architect_51543081) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-06-12.
+This technical & solutions architect position at DXC Technology was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

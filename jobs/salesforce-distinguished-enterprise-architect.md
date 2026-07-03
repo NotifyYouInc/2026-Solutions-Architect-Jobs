@@ -1,16 +1,16 @@
-# Distinguished Enterprise Architect at Salesforce
+# Distinguished, Enterprise Architect at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | New Jersey, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Connecticut---New-York-City-Metro---Remote/Distinguished-Enterprise-Architect_JR334994) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-Jersey---Remote/Distinguished--Enterprise-Architect_JR348004) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-04-24.
+This technical & solutions architect position at Salesforce was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

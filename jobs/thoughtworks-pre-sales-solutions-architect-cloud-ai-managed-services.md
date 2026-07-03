@@ -5,12 +5,12 @@
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7907665?gh_jid=7907665) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8027905?gh_jid=8027905) |
 
 ## About This Role
 
-This technical & solutions architect position at Thoughtworks was posted on 2026-05-13.
+This technical & solutions architect position at Thoughtworks was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Warsaw-Poland/Solutions-Architect_R47903) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Solutions-Architect_R51858-1) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-02-17.
+This technical & solutions architect position at TD Synnex was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

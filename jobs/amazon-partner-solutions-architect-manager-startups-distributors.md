@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447491/partner-solutions-architect-manager-startups-distributors) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459476/partner-solutions-architect-manager-startups-distributors) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-06-12.
+This engineering manager position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

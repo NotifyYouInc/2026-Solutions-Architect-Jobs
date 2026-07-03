@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pierrelatte, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000129953231-architecte-infrastructure) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000134202991-architecte-infrastructure) |
 
 ## About This Role
 
-This technical & solutions architect position at Scalian was posted on 2026-06-03.
+This technical & solutions architect position at Scalian was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

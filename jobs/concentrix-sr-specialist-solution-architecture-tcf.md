@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SLV-San-Salvador---Getcom---Bulevar-de-Los-Prceres-Colonia-Palermo-No-350/Sr-Specialist--Solution-Architecture--TCF-_R1730311) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SLV-San-Salvador---Blvr-Sta-Elena/Sr-Specialist--Solution-Architecture--TCF-_R1739571) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-06-02.
+This technical & solutions architect position at Concentrix was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

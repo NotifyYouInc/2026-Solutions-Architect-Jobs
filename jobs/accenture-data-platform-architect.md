@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Data-Platform-Architect_ATCI-5426310-S2030848) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Platform-Architect_ATCI-5470674-S2002037-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-19.
+This data engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

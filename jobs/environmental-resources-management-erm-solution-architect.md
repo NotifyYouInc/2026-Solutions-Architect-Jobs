@@ -5,12 +5,12 @@
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Adelaide-Australia/Solution-Architect_R00030183-2) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Adelaide-Australia/Solution-Architect_R00030896) |
 
 ## About This Role
 
-This technical & solutions architect position at Environmental Resources Management (ERM) was posted on 2026-05-05.
+This technical & solutions architect position at Environmental Resources Management (ERM) was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
