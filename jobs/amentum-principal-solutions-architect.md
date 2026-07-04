@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Manchester/Principal-Solutions-Architect_R0157889) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Glasgow/Principal-Solutions-Architect_R0164620-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amentum was posted on 2026-04-01.
+This technical & solutions architect position at Amentum was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

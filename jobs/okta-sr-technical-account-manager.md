@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7991335?gh_jid=7991335) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8031891?gh_jid=8031891) |
 
 ## About This Role
 
-This technical & solutions architect position at Okta was posted on 2026-06-08.
+This technical & solutions architect position at Okta was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

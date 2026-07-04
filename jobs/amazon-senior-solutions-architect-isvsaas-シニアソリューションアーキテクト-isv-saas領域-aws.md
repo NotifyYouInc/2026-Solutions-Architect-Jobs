@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439625/senior-solutions-architect-isv-saas-isv-saas-aws) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459899/senior-solutions-architect-isv-saas-isv-saas-aws) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-04.
+This technical & solutions architect position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

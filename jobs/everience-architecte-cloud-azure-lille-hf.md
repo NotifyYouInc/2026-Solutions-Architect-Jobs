@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Marcq-en-Barœul, Hauts-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000133360504-architecte-cloud-azure-lille-hf) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000134494108-architecte-cloud-azure-lille-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Everience was posted on 2026-06-22.
+This technical & solutions architect position at Everience was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

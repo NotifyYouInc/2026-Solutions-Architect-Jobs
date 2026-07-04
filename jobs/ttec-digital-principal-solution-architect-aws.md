@@ -1,16 +1,16 @@
-# Principal Solution Architect  - AWS at TTEC Digital
+# Principal Solution Architect - AWS at TTEC Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [TTEC Digital](https://scoutify.ai/companies/ttec-digital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Writer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.lever.co/ttecdigital/92e718d9-532f-4b9a-9eac-d042f51ecbfb) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/ttecdigital/0f413199-2e41-4325-92f3-902a577d039c) |
 
 ## About This Role
 
-This technical writer position at TTEC Digital was posted on 2026-02-25.
+This technical & solutions architect position at TTEC Digital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

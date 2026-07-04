@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5633035-S2031779-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5218723-S1919006-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-24.
+This technical & solutions architect position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
