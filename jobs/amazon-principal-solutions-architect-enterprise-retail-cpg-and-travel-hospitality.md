@@ -1,12 +1,12 @@
-# Senior AI Solution Architect at Amazon
+# Principal Solutions Architect, Enterprise - Retail, CPG and Travel & Hospitality at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460500/senior-ai-solution-architect) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460499/principal-solutions-architect-enterprise-retail-cpg-and-travel-hospitality) |
 
 ## About This Role
 

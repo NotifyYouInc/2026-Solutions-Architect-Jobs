@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Solution Engineer (Post-sales) at Hevodata
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Hevodata](https://scoutify.ai/companies/hevodata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460500/senior-ai-solution-architect) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jobs.lever.co/hevodata/86fd190d-754d-45b6-9f04-59585dc6d15b) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-27.
+This technical & solutions architect position at Hevodata was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Technical & Solutions Architect |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Customer Success |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYy8ehVi9AubDNMFmuUZGU2tiKpATrRCX4ogfZnq2lXPEjsA1Ny_i6LXoWkw9voGZYfTIheASbVqYbtlQF9V5ArpmoraErE6-59VeqAj3GH2A-swMwKo3yzxih7BIQ%3D%3D_V2&loc=NL&title=Partner+Solution+Architect) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckav07-ZtGu50OWGLcdbaoMXjUdH6QH3Vnkt1jstX72sbEjsA1Ny_iybQc_8fw_tOkmDpayLjelekquyMjbd_f-B3xYF36VhkM4ciWqfuPbXz1Xpxs6tsaMdZGXQCfw%3D%3D_V2&loc=AE&title=Partner+Solution+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-24.
+This customer success position at Google was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
