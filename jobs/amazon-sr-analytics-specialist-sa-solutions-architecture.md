@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Solution Architect at Nagarro
+# Sr. Analytics Specialist SA, Solutions Architecture at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134738369-associate-principal-engineer-solution-architect) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460636/sr-analytics-specialist-sa-solutions-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-29.
+This technical & solutions architect position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

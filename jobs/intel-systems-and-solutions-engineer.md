@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hillsboro, Oregon, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Systems-and-Solutions-Engineer_JR0282993) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Systems-and-Solutions-Engineer_JR0285173) |
 
 ## About This Role
 
-This technical & solutions architect position at Intel was posted on 2026-04-17.
+This technical & solutions architect position at Intel was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

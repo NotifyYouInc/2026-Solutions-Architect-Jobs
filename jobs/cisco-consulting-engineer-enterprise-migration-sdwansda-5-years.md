@@ -1,16 +1,16 @@
-# Principal Application Engineer at Cadence Design Systems
+# Consulting Engineer | Enterprise Migration (SDWAN/SDA) | 5+ Years at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Application-Engineer_R52626) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer---Enterprise-Migration--SDWAN-SDA----5--Years_2016816) |
 
 ## About This Role
 
-This technical & solutions architect position at Cadence Design Systems was posted on 2026-06-29.
+This technical & solutions architect position at Cisco was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# HRIT Systems Architect at Wabtec
+# Information Security Architect at Meijer
 
 | Field | Details |
 |-------|---------|
-| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Michigan, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013765877-hrit-systems-architect) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Michigan/Information-Security-Architect_R000674164-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-06-24.
+This technical & solutions architect position at Meijer was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

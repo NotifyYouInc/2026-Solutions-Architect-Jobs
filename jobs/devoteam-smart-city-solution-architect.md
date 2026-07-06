@@ -1,16 +1,16 @@
-# Senior Solution Architect at Red Hat
+# Smart City Solution Architect at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Solution-Architect_R-056715-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000134649039-smart-city-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-28.
+This technical & solutions architect position at Devoteam was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

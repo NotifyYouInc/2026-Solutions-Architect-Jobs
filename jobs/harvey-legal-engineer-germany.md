@@ -1,16 +1,16 @@
-# HRIT Systems Architect at Wabtec
+# Legal Engineer - Germany at Harvey
 
 | Field | Details |
 |-------|---------|
-| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013765877-hrit-systems-architect) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/099c04d5-4e8e-4bd2-9e39-2a8c4aaffce0) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-06-24.
+This technical & solutions architect position at Harvey was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

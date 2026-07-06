@@ -1,16 +1,16 @@
-# Senior Solution Architect at Red Hat
+# AWS Data Architect at Ingram Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Solution-Architect_R-056715-1) |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bengaluru/AWS-Data-Architect_R-111880) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-28.
+This technical & solutions architect position at Ingram Micro was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

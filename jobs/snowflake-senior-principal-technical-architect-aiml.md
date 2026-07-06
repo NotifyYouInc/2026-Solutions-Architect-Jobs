@@ -1,16 +1,16 @@
-# HRIT Systems Architect at Wabtec
+# Senior / Principal Technical Architect, AI/ML at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013765877-hrit-systems-architect) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/85aac7c7-aa87-46ba-9800-29d005cc5508) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-06-24.
+This technical & solutions architect position at Snowflake was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

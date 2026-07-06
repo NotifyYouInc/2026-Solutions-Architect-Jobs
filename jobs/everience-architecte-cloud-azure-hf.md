@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Solution Architect at Nagarro
+# Architecte Cloud Azure H/F at Everience
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Marcq-en-Barœul, Hauts-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134738369-associate-principal-engineer-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000134722458-architecte-cloud-azure-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-29.
+This technical & solutions architect position at Everience was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Solution Architect at Nagarro
+# Cloud Solution Architect – Presales & Advisory (Azure) at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134738369-associate-principal-engineer-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000134733259-cloud-solution-architect-presales-advisory-azure) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-29.
+This technical & solutions architect position at Devoteam was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

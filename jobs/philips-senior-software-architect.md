@@ -1,16 +1,16 @@
-# HRIT Systems Architect at Wabtec
+# Senior Software Architect at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Suzhou, Jiangsu, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013765877-hrit-systems-architect) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Senior-Software-Architect_586940) |
 
 ## About This Role
 
-This technical & solutions architect position at Wabtec was posted on 2026-06-24.
+This technical & solutions architect position at Philips was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

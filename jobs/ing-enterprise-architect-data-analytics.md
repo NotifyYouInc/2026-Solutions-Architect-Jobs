@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Solution Architect at Nagarro
+# Enterprise Architect - Data & Analytics at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134738369-associate-principal-engineer-solution-architect) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Enterprise-Architect---Data---Analytics_REQ-10114475-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-29.
+This technical & solutions architect position at ING was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

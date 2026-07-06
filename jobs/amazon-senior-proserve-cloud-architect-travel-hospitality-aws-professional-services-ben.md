@@ -1,16 +1,16 @@
-# Solutions Architect at Amazon
+# Senior ProServe Cloud Architect – Travel & Hospitality, AWS Professional Services - Benelux at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458542/solutions-architect) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10396330/senior-proserve-cloud-architect-travel-hospitality-aws-professional-services-benelux) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-25.
+This technical & solutions architect position at Amazon was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

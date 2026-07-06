@@ -1,16 +1,16 @@
-# Senior Solution Architect at Red Hat
+# Senior Field Applications Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Solution-Architect_R-056715-1) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Field-Applications-Engineer_JR2020204-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-28.
+This technical & solutions architect position at Nvidia was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Solution Architect at Nagarro
+# Sr. Solutions Architect - Oil, Gas, and Energy at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134738369-associate-principal-engineer-solution-architect) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8522046002) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-29.
+This technical & solutions architect position at Databricks was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Technology Architect at Accenture
+# AI Infrastructure Lead Architect at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5264402-S1929087) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Infrastructure-Lead-Architect_R00339281) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Solution Architect at Nagarro
+# Solutions Manager, Logistic Systems at BEUMER Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Company | [BEUMER Group](https://scoutify.ai/companies/beumergroup1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | New Jersey, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134738369-associate-principal-engineer-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BEUMERGroup1/744000134665108-solutions-manager-logistic-systems) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-29.
+This technical & solutions architect position at BEUMER Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
