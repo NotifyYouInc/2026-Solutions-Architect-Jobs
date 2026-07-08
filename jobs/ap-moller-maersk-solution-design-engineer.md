@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Location | Santa Fe Springs, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/France-Marseille-13002/Solution-Design-Engineer_R177229-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Santa-Fe-Springs-90670/Solution-Design-Engineer_R186219) |
 
 ## About This Role
 
-This technical & solutions architect position at A.P. Moller - Maersk was posted on 2026-06-09.
+This technical & solutions architect position at A.P. Moller - Maersk was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

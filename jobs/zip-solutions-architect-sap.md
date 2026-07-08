@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/8f064b8b-e95c-4e63-9f49-1ca46b3a57d9) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/b4e91377-9377-4dd5-80a4-a8e4fa6f58e2) |
 
 ## About This Role
 
-This technical & solutions architect position at Zip was posted on 2026-06-24.
+This technical & solutions architect position at Zip was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

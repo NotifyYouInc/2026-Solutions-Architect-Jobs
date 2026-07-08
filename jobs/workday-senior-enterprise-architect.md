@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Pleasanton, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Senior-Enterprise-Architect_JR-0104010) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Remote/Senior-Enterprise-Architect_JR-0108365) |
 
 ## About This Role
 
-This technical & solutions architect position at Workday was posted on 2026-02-12.
+This technical & solutions architect position at Workday was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

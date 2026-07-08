@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Junior-Solutions-Architect_R317103) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Junior-Solutions-Architect_R318550) |
 
 ## About This Role
 
-This technical & solutions architect position at Cushman & Wakefield was posted on 2026-04-24.
+This technical & solutions architect position at Cushman & Wakefield was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
+| Location | Quebec, CA |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000130266879-architecte-conseillerere-technique-oaq-technorm-une-filiale-de-js-held) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000135031387-architecte-conseillerere-technique-oaq-technorm-une-filiale-de-js-held) |
 
 ## About This Role
 
-This technical & solutions architect position at J.S. Held was posted on 2026-06-04.
+This technical & solutions architect position at J.S. Held was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

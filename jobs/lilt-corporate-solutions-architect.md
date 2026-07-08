@@ -1,0 +1,22 @@
+# Solutions Architect  at Lilt Corporate
+
+| Field | Details |
+|-------|---------|
+| Company | [Lilt Corporate](https://scoutify.ai/companies/lilt-corporate?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lilt-corporate/179ef1bd-3deb-49a6-ba8f-6426540cb2e1) |
+
+## About This Role
+
+This technical & solutions architect position at Lilt Corporate was posted on 2026-05-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

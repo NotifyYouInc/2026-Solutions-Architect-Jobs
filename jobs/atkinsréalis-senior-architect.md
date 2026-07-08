@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AEAbu-DhabiSite-Office/Senior-Architect_R-157308) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/SARiyadh/Senior-Architect_R-158810) |
 
 ## About This Role
 
-This technical & solutions architect position at AtkinsRéalis was posted on 2026-06-09.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

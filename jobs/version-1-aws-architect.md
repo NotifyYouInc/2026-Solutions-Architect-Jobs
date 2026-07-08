@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 6 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000122275731-aws-architect) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000135253310-aws-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Version 1 was posted on 2026-04-22.
+This technical & solutions architect position at Version 1 was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

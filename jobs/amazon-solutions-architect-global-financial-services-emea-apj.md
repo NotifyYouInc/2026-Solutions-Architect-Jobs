@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443634/solutions-architect-global-financial-services-emea-apj) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10461448/solutions-architect-global-financial-services-emea-apj) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-09.
+This technical & solutions architect position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

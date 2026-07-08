@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444166/senior-security-solutions-architect-aws-security-networking-north-america) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10461937/senior-security-solutions-architect-aws-security-networking-north-america) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-09.
+This technical & solutions architect position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

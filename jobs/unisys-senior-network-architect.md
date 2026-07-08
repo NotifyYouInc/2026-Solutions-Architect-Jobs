@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/USA-Remote/Senior-Network-Architect_REQ571236) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Network-Architect_REQ574180) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-02-26.
+This technical & solutions architect position at Unisys was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

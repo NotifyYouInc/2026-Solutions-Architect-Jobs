@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000120865417-lead-architect) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000134935499-lead-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Assystem was posted on 2026-04-15.
+This technical & solutions architect position at Assystem was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

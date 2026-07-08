@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8594230002) |
+| Location | Edinburgh, Scotland, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8611101002) |
 
 ## About This Role
 
-This customer success position at Addepar was posted on 2026-06-17.
+This technical & solutions architect position at Addepar was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

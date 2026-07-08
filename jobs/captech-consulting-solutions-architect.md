@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000125205305-solutions-architect) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000135324507-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-05-07.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

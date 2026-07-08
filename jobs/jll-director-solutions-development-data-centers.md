@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Director--Solutions-Development-Data-Centers_REQ495667-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Director--Solutions-Development-Data-Centers_REQ517392-1) |
 
 ## About This Role
 
-This technical & solutions architect position at JLL was posted on 2026-04-15.
+This technical & solutions architect position at JLL was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

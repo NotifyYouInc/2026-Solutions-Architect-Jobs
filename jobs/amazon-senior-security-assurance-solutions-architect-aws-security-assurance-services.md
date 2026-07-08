@@ -1,16 +1,16 @@
-# Senior Security Assurance Solutions Architect, AWS Security Assurance Services at Amazon
+# Senior Security Assurance Solutions Architect , AWS Security Assurance Services at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Courbevoie, Île-de-France, France |
-| Category | Compliance & Risk Management |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456622/senior-security-assurance-solutions-architect-aws-security-assurance-services) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464183/senior-security-assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-06-23.
+This technical & solutions architect position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

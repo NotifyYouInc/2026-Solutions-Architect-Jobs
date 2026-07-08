@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013433246-geospatial-solutions-architect) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013838386-geospatial-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SOSi was posted on 2026-06-02.
+This technical & solutions architect position at SOSi was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

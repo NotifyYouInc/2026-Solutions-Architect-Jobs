@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Solution-Architect-Sr---Strategy--Innovation-and-Delivery_R217406-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Solution-Architect-Sr---Strategy--Innovation-and-Delivery_R217136-1) |
 
 ## About This Role
 
-This technical & solutions architect position at PNC Financial was posted on 2026-04-13.
+This technical & solutions architect position at PNC Financial was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

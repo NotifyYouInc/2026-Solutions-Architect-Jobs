@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 7 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417406/assurance-solutions-architect-aws-security-assurance-services) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462263/assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-14.
+This technical & solutions architect position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

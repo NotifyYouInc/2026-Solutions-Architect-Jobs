@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8551474002) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8611767002) |
 
 ## About This Role
 
-This technical & solutions architect position at GitLab was posted on 2026-05-21.
+This technical & solutions architect position at GitLab was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

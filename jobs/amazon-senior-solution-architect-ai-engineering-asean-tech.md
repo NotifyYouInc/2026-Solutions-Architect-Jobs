@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454703/senior-solution-architect-ai-engineering-asean-tech) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462041/senior-solution-architect-ai-engineering-asean-tech) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This technical & solutions architect position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

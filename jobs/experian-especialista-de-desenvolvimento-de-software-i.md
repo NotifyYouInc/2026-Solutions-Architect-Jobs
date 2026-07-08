@@ -1,16 +1,16 @@
-# Especialista de Desenvolvimento de Software I at Experian
+# Especialista de Desenvolvimento de Software I  at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133935234-especialista-de-desenvolvimento-de-software-i) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135007039-especialista-de-desenvolvimento-de-software-i) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-06-24.
+This technical & solutions architect position at Experian was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130266799-arquitecto-de-soluciones) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135314169-arquitecto-de-soluciones) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-06-04.
+This technical & solutions architect position at Inetum was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

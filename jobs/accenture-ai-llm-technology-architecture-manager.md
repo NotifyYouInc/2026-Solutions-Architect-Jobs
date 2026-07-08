@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-LLM-Technology-Architecture-Manager_AIOC-S01613594-1) |
+| Location | London, England, United Kingdom |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-LLM-Technology-Architecture-Manager_R00338396) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-13.
+This ai / llm engineer position at Accenture was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

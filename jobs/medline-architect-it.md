@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Northbrook, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Architect-IT_R2608633) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Architect-IT_R2608184) |
 
 ## About This Role
 
-This technical & solutions architect position at Medline was posted on 2026-05-28.
+This technical & solutions architect position at Medline was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Technical Architect at Conga
+# Sr. Technical Architect at Conga
 
 | Field | Details |
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5142389007) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5177096007) |
 
 ## About This Role
 
-This technical & solutions architect position at Conga was posted on 2026-05-19.
+This technical & solutions architect position at Conga was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

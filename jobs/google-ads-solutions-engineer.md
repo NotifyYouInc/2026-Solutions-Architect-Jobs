@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaUdd2NypIVeE7-CutiSDf__TLrIK2n3e-E9n-M0QFvVEjsACxwdTI6b11l2Z0Jnxr7jjZvQHAV-Oz38qCn3vBrPqx3bWOHEvMPFx8hY8CP6mba84JNNpYs4Ki9KLw%3D%3D_V2&loc=PL&title=Ads+Solutions+Engineer) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYWAoCIMt_wNTZfHqzQY_ZBvsrTyWRorzNAQAuuGA306EjsA1Ny_iyAzrpbUcVqbO79mBVhHhkSF1BFiut6vf-Jc5hYEs0FqPVjB9ESMr2D9M4-0QC3Xh_xw7v6VKQ%3D%3D_V2&loc=US&title=Ads+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-18.
+This technical & solutions architect position at Google was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

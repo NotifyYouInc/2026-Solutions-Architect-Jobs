@@ -5,12 +5,12 @@
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000130090279-java-architect) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000135324992-java-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-06-03.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

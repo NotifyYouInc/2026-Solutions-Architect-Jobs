@@ -1,16 +1,16 @@
-# Manager Enterprise Architecture at Adobe
+# Manager, Enterprise Architecture at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Jose, California, United States |
+| Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Manager-Enterprise-Architecture_R168299) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Manager--Enterprise-Architecture_R167331) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-05-01.
+This technical & solutions architect position at Adobe was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Kolkata-West-Bengal-India/Enterprise-Architect_1204186) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Enterprise-Architect_1193130) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-03-25.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

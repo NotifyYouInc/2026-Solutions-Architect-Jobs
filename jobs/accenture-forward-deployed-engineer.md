@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Forward-Deployed-Engineer_ATCI-5632860-S2030463-1) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Forward-Deployed-Engineer_ATCI-5613009-S2055554-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-18.
+This ai / llm engineer position at Accenture was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

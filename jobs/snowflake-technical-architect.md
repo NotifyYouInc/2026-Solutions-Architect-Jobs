@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | South Korea |
+| Location | Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/457fe8d9-39fb-4b8a-a4d2-f7e054c66310) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/c1dd953d-2e44-4b6e-b657-2c616a1f6bad) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-06-01.
+This technical & solutions architect position at Snowflake was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

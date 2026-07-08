@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Maryland, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/M365-Power-Platform-Architect_R-00181462) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/M365-Power-Platform-Architect_R-00185868) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-04-22.
+This technical & solutions architect position at Leidos was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

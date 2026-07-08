@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Basel, Basel-City, Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Associate-Director--Solution-Architect-Innovation---Delivery_REQ-10080418-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Associate-Director--Solution-Architect-Innovation---Delivery_REQ-10081010-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Novartis was posted on 2026-06-11.
+This technical & solutions architect position at Novartis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

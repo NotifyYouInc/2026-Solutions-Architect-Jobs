@@ -5,12 +5,12 @@
 | Company | [Enviva](https://scoutify.ai/companies/enviva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7721715003) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7790893003) |
 
 ## About This Role
 
-This technical & solutions architect position at Enviva was posted on 2026-05-01.
+This technical & solutions architect position at Enviva was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

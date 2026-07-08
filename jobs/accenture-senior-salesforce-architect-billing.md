@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Senior-Salesforce-Architect--Billing-_R00332017-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Senior-Salesforce-Architect--Billing-_R00338791) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-28.
+This technical & solutions architect position at Accenture was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

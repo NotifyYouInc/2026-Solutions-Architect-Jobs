@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Florida, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64047) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Solution-Architect---Emergency-Call-Handling_R64041) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-05-18.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

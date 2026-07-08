@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460360/delivery-consultant-data) |
+| Location | 10 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10461959/delivery-consultant-data) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-26.
+This technical & solutions architect position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

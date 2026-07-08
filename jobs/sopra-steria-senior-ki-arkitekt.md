@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Stavanger, Rogaland, Norway |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133000260-senior-ki-arkitekt) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134960599-senior-ki-arkitekt) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-06-19.
+This technical & solutions architect position at Sopra Steria was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Malvern, Arkansas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Domain-Architect---Cloud---Senior-Specialist_179386) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Domain-Architect---Cloud---Senior-Specialist_179922) |
 
 ## About This Role
 
-This technical & solutions architect position at Vanguard was posted on 2026-06-18.
+This technical & solutions architect position at Vanguard was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
