@@ -5,12 +5,12 @@
 | Company | [Paytm](https://scoutify.ai/companies/paytm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.lever.co/paytm/6b06523b-92f3-4b81-b1c8-7ee504de80a3) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.lever.co/paytm/e825fb5a-2ede-43ab-84dd-90e00dd9e954) |
 
 ## About This Role
 
-This technical & solutions architect position at Paytm was posted on 2026-05-20.
+This technical & solutions architect position at Paytm was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

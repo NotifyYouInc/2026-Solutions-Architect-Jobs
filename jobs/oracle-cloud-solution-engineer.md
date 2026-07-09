@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gujarat, IN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#336337) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#338867) |
 
 ## About This Role
 
-This technical & solutions architect position at Oracle was posted on 2026-06-09.
+This technical & solutions architect position at Oracle was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

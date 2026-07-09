@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436808/startup-partner-solutions-architect-korea-startups) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464479/startup-partner-solutions-architect-korea-startups) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-02.
+This technical & solutions architect position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

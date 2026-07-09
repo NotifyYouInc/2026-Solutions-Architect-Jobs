@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cursor](https://scoutify.ai/companies/cursor?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cursor/da66442f-d188-4ddb-a77b-6dee028f9dcc) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cursor/c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d) |
 
 ## About This Role
 
-This technical & solutions architect position at Cursor was posted on 2026-06-02.
+This technical & solutions architect position at Cursor was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

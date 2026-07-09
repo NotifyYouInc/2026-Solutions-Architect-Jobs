@@ -1,16 +1,16 @@
-# Systems Architect at ALTEN Canada
+# Systems Architect  at ALTEN Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134842159-systems-architect) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134952169-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN Canada was posted on 2026-06-29.
+This technical & solutions architect position at ALTEN Canada was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

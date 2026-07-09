@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Shenzhen, Guangdong, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406400/solutions-architect-smb-solutions-architect) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464534/solutions-architect-smb-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-04-29.
+This technical & solutions architect position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

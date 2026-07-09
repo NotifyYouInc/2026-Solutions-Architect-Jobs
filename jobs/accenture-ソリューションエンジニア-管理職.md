@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Fukushima, JP |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Tokyo/--_R00335861) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Aizuwakamatsu/--_R00335584) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-29.
+This technical & solutions architect position at Accenture was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | North Carolina, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/Associate-Director--Enterprise-Architecture--Global-Commercial---Medical-IT_REQ23625) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Associate-Director--Enterprise-Architecture--Global-Commercial---Medical-IT_REQ23677-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Biogen was posted on 2026-06-25.
+This technical & solutions architect position at Biogen was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

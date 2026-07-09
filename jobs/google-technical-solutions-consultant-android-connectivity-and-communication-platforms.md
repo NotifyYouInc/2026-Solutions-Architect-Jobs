@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaIj2ZBV3vi3Kg-xcbWZWG6anUcZDunOI9Llst-C7iDrEjsA1Ny_i2CXIPNH_Z1rn1wGEi1znS6rXzUyWYhc-ZH4bRLsE8aruPyE3D-EFPB-dMTp_wi8BoV0okyGNg%3D%3D_V2&loc=US&title=Technical+Solutions+Consultant) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYM4nejMhnxvVn0yUmvG9w6PYphdyMfnrcpYfupp6pR2EjsA1Ny_i69acL79nX5yhCWytpU7zUnCMv8PBCqbcT54HhP7lRyN8WNyOlHF-HRKJp-eWScrvIS_B3LHfQ%3D%3D_V2&loc=US&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-18.
+This technical & solutions architect position at Google was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000133883594-senior-staff-engineer-salesforce-health-cloud) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135434705-senior-staff-engineer-salesforce-health-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-06-24.
+This technical & solutions architect position at Nagarro was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
