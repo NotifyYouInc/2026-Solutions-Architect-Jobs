@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New Jersey, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Enterprise-Architect_1193130) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Pennsylvania-United-States-of-America/Enterprise-Architect---Florida_1204529-3) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-06-30.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

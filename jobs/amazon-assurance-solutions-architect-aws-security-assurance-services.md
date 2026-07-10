@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 7 locations |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462263/assurance-solutions-architect-aws-security-assurance-services) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462871/assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 

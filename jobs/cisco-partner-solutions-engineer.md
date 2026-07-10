@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Partner-Solutions-Engineer_2014218-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Riyadh-Saudi-Arabia/Partner-Solutions-Engineer_2017334-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-05-18.
+This technical & solutions architect position at Cisco was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

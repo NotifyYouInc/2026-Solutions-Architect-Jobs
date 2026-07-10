@@ -5,12 +5,12 @@
 | Company | [Blue Cross and Blue Shield of Kansas](https://scoutify.ai/companies/bcbsks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Topeka, Kansas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Solutions-Architect_R2026106) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Solutions-Architect_R2026247) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Cross and Blue Shield of Kansas was posted on 2026-03-26.
+This technical & solutions architect position at Blue Cross and Blue Shield of Kansas was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

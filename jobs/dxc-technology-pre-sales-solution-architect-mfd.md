@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Erfurt, Thuringia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/DEU---TH---ERFURT/Pre-Sales-Solution-Architect--m-f-d-_51584133) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/DEU---TH---ERFURT/Pre-Sales-Solution-Architect--m-f-d-_51584328) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-06-30.
+This technical & solutions architect position at DXC Technology was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

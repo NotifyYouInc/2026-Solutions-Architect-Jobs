@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Solution-Architect-Personalization_R567797-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Solution-Architect-Personalization_R601891-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Alimentation Couche-Tard was posted on 2026-02-27.
+This technical & solutions architect position at Alimentation Couche-Tard was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10461657/senior-delivery-consultant-data-professional-services-awsi-hcls) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464243/senior-delivery-consultant-data-professional-services-awsi-hcls) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-29.
+This technical & solutions architect position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

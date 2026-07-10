@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
-| Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133344420-data-architect) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000135501159-data-architect) |
 
 ## About This Role
 
-This data engineer position at Version 1 was posted on 2026-06-22.
+This technical & solutions architect position at Version 1 was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

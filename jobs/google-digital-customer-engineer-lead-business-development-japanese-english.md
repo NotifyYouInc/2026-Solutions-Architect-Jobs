@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXlUm7dd06vT2UMXmKB4VXsnFTG8PeZsDY217hDoDa9XEjsACxwdTMSK6qwplsJgYjoewbEvs9PZm29pXQK2iBQsiwI31-pGnpRFc_IuYrAxxRggtGErTOHwxF1WDA%3D%3D_V2&loc=JP&title=Digital+Customer+Engineer+Lead) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfcJr-iazMlJVIMloHY1SvBTKQnzZjWJl2sNErJLZWmEEjsA1Ny_i7dvAayW35THBPXzKC6i9Fh4xKI81ndkMG52mEM-289Q8Cd5ogpmnAgY_0DuYeu8DDGd5Ir57g%3D%3D_V2&loc=JP&title=Digital+Customer+Engineer+Lead) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Google was posted on 2026-05-19.
+This technical & solutions architect position at Google was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

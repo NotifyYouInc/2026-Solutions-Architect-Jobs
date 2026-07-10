@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---WA---PERTH/Lead-Solution-Architect_51576922) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/Lead-Solution-Architect_51583349) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-04-02.
+This technical & solutions architect position at DXC Technology was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

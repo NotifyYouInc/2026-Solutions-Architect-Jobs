@@ -5,12 +5,12 @@
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000129063052-ai-native-solutions-architect-software-engineering-transformation) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000135655959-ai-native-solutions-architect-software-engineering-transformation) |
 
 ## About This Role
 
-This technical & solutions architect position at KMS Technology was posted on 2026-05-29.
+This technical & solutions architect position at KMS Technology was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

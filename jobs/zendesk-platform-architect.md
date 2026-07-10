@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Australia/Platform-Architect_R35040-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Texas-United-States-of-America/Platform-Architect_R35123) |
 
 ## About This Role
 
-This technical & solutions architect position at Zendesk was posted on 2026-06-25.
+This technical & solutions architect position at Zendesk was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

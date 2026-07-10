@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Va-de-los-Poblados/Solution-Architect_REQ-10108810-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Solution-Architect_REQ-10117527) |
 
 ## About This Role
 
-This technical & solutions architect position at ING was posted on 2026-04-13.
+This technical & solutions architect position at ING was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

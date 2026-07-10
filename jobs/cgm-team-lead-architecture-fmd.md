@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Koblenz/Team-Lead-Architecture--f-m-d-_JR108978) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Berlin/Team-Lead-Architecture--f-m-d-_JR109881) |
 
 ## About This Role
 
-This technical & solutions architect position at Cgm was posted on 2026-04-08.
+This technical & solutions architect position at Cgm was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

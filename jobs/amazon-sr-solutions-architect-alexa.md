@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407286/sr-solutions-architect-alexa) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465204/sr-solutions-architect-alexa) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-04-29.
+This technical & solutions architect position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

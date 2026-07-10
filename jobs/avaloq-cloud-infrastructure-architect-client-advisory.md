@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bioggio, Ticino, Switzerland |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000122461179-cloud-infrastructure-architect-client-advisory) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000135518292-cloud-infrastructure-architect-client-advisory) |
 
 ## About This Role
 
-This technology / it consulting position at Avaloq was posted on 2026-04-23.
+This technical & solutions architect position at Avaloq was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

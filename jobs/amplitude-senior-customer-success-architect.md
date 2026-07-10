@@ -1,16 +1,16 @@
-# Senior Customer Success Architect  at Amplitude
+# Senior Customer Success Architect at Amplitude
 
 | Field | Details |
 |-------|---------|
 | Company | [Amplitude](https://scoutify.ai/companies/amplitude?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 13 locations |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8413708002) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8618776002) |
 
 ## About This Role
 
-This customer success position at Amplitude was posted on 2026-02-09.
+This technical & solutions architect position at Amplitude was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
