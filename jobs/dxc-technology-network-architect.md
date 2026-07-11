@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect at Devoteam
+# Network Architect at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Farnborough, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135731339-servicenow-security-solution-architect) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Network-Architect_51584418) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-03.
+This technical & solutions architect position at DXC Technology was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

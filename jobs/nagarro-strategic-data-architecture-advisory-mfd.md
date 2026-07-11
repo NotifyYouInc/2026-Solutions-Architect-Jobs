@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect at Devoteam
+# Strategic Data Architecture & Advisory (m/f/d) at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135731339-servicenow-security-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135765395-strategic-data-architecture-advisory-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-03.
+This technical & solutions architect position at Nagarro was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

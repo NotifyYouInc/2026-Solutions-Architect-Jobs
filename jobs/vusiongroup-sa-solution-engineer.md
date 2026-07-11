@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect at Devoteam
+# Solution Engineer  at VusionGroup SA
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Nanterre, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135731339-servicenow-security-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000135685190-solution-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-03.
+This technical & solutions architect position at VusionGroup SA was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect at Devoteam
+# Solutions Architect- ZBS FP&A at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135731339-servicenow-security-solution-architect) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Solutions-Architect--ZBS-FP-A_JR_1051033) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-03.
+This technical & solutions architect position at Zeiss was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

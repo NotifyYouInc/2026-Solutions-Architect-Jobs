@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect at Devoteam
+# Principal Solutions Architect, Foundation Model Providers at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135731339-servicenow-security-solution-architect) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465713/principal-solutions-architect-foundation-model-providers) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-03.
+This technical & solutions architect position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

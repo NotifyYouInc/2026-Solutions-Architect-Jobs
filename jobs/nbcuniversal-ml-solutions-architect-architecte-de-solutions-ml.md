@@ -1,12 +1,12 @@
-# ML Solutions Architect - Architecte de solutions ML  at NBCUniversal
+# ML Solutions Architect - Architecte de solutions ML at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Montréal, Quebec, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135082249-ml-solutions-architect-architecte-de-solutions-ml) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135090899-ml-solutions-architect-architecte-de-solutions-ml) |
 
 ## About This Role
 

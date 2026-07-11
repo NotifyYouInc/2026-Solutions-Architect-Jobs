@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Cloud-Solutions-Architect--Memory---Storage-_JR102559) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Munich-Leopold-Germany/Staff-Cloud-Solutions-Architect--Memory---Storage-_JR104561) |
 
 ## About This Role
 
-This technical & solutions architect position at Micron was posted on 2026-05-21.
+This technical & solutions architect position at Micron was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

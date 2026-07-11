@@ -1,4 +1,4 @@
-# Solution Architect at DXC Technology
+# Infrastructure/Platform Architect at DXC Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Farnborough, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Solution-Architect_51584447) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Infrastructure-Platform-Architect_51584419) |
 
 ## About This Role
 

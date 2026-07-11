@@ -1,16 +1,16 @@
-# ServiceNow Security Solution Architect at Devoteam
+# Senior Solutions Engineer at Jobber
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Company | [Jobber](https://scoutify.ai/companies/jobber?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135731339-servicenow-security-solution-architect) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jobber/49072a3c-b6d3-4c75-b6f9-8cbd86205f40) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-03.
+This technical & solutions architect position at Jobber was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Customer Engineer, Platform, Software and Media, DACH (German) at Google
+# AI Architect, Partner Engineering at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXZndhf2IjGNyvomoUKDcAIiJcsSFht-DhzW2kMqc1v0EjsA1Ny_i86-lx2fz_WVFf4tsKoRk02emAjNEhTrsy8Ex5PpcLRtXA-FgVoNrnRiSE3js_dmu4ertG23eQ%3D%3D_V2&loc=DE&title=Customer+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka6_XWQWdh8yZ7JkHY1pDxantqyFJzYJ05MSTcm3gOYpEjsA1Ny_i10f2CX_fQ5AB61lqqZVVxgoeSlwvddYlN6zJyH7j8VWxMONsFuUfXL6Xwm6kSK_-MsuWBI3Fg%3D%3D_V2&loc=GB&title=AI+Architect) |
 
 ## About This Role
 

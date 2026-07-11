@@ -1,16 +1,16 @@
-# Enterprise Architect at GE Vernova
+# IT Senior Solution Architect (Hybrid) at Eversource Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Eversource Energy](https://scoutify.ai/companies/eversource-energy?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Cambridge/Enterprise-Architect_R5045016-2) |
+| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/IT-Senior-Solution-Architect--Hybrid-_R-031035) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-07-03.
+This technical & solutions architect position at Eversource Energy was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
