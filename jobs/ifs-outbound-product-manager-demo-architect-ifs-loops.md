@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Outbound Product Manager, Demo Architect - IFS Loops at IFS
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000135945289-outbound-product-manager-demo-architect-ifs-loops) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-07-06.
+This devops engineer position at IFS was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

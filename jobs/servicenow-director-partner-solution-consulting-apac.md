@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120303177-director-partner-solution-consulting-apac) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135909899-director-partner-solution-consulting-apac) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-04-13.
+This technical & solutions architect position at ServiceNow was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

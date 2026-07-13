@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# SKYWISE - Solution Architect at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Waterloo/SKYWISE---Solution-Architect_JR10427126) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-07-06.
+This technical & solutions architect position at Airbus was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

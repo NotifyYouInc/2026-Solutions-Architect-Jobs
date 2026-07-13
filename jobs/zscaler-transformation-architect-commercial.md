@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Transformation Architect - Commercial at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5156077007) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-07-06.
+This technical & solutions architect position at Zscaler was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

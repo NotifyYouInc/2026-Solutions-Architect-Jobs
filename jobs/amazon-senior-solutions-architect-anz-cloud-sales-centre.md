@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415537/senior-solutions-architect-anz-cloud-sales-centre) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465987/senior-solutions-architect-anz-cloud-sales-centre) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-10.
+This technical & solutions architect position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

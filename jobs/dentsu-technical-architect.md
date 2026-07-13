@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Technical-Architect_R1121279-2) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Technical-Architect_R1120244-8) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-06-05.
+This technical & solutions architect position at Dentsu was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

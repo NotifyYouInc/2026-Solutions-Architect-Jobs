@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Sr. Manager, Field Engineering - Lakebase at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8568043002) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-07-06.
+This technical & solutions architect position at Databricks was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

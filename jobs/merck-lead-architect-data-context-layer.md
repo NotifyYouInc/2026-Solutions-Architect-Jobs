@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Lead Architect, Data Context Layer at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Lead-Architect--Data-Context-Layer_R401138) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-07-06.
+This technical & solutions architect position at Merck was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

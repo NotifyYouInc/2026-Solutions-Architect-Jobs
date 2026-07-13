@@ -1,16 +1,16 @@
-# Lead Software Engineer at Mastercard
+# Solution Architect (Pre-sales) at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7811850&gh_jid=7811850) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-07-06.
+This technical & solutions architect position at Elastic was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
