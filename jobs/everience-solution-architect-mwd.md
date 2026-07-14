@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000135207899-solution-architect-mwd) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000135729184-solution-architect-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Everience was posted on 2026-07-01.
+This technical & solutions architect position at Everience was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

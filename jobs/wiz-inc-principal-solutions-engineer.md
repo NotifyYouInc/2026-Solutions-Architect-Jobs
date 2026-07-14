@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4691241006/:title?gh_jid=4691241006) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4693944006/:title?gh_jid=4693944006) |
 
 ## About This Role
 
-This technical & solutions architect position at Wiz, Inc. was posted on 2026-07-01.
+This technical & solutions architect position at Wiz, Inc. was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

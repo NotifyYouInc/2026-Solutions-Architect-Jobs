@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Bucharest, București, Romania |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135728360-it-solutions-architect-java) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135731659-it-solutions-architect-java) |
 
 ## About This Role
 

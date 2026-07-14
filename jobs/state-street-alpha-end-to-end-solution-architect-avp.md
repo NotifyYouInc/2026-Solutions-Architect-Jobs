@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Sydney-Australia/Alpha-End-to-End-Solution-Architect--AVP_R-789553-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Sydney-Australia/Alpha-End-to-End-Solution-Architect--AVP_R-792307) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-05-05.
+This technical & solutions architect position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

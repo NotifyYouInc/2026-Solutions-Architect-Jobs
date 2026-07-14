@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7949896?gh_jid=7949896) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7486469?gh_jid=7486469) |
 
 ## About This Role
 
-This technical & solutions architect position at Rubrik was posted on 2026-05-21.
+This technical & solutions architect position at Rubrik was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

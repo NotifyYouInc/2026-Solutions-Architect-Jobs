@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/IT-Architecture--VP_R-788734) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/IT-Architecture--VP_R-793298) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-04-20.
+This technical & solutions architect position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

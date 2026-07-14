@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Chile |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439817/solutions-architect-latam-csc-sa) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466309/solutions-architect-latam-csc-sa) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-04.
+This technical & solutions architect position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

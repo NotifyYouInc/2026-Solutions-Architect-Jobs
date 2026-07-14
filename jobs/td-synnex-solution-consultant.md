@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Customer Success |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/Solution-Consultant_R50953) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Petaling-Jaya-Malaysia/Solution-Consultant_R46970) |
 
 ## About This Role
 
-This customer success position at TD Synnex was posted on 2026-05-25.
+This technical & solutions architect position at TD Synnex was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

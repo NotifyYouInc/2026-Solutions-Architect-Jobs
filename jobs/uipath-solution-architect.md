@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/df54cde5-0f8e-442f-aaef-8237a7b5ab17) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/9ab0d084-e540-4ac1-bb4e-4e8ca767113f) |
 
 ## About This Role
 
-This technical & solutions architect position at UiPath was posted on 2026-05-05.
+This technical & solutions architect position at UiPath was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

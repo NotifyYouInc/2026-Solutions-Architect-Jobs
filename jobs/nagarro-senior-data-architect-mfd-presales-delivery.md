@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000114368567-senior-data-architect-mfd-presales-delivery) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136164929-senior-data-architect-mfd-presales-delivery) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-03-12.
+This technical & solutions architect position at Nagarro was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8425625002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8325429002) |
 
 ## About This Role
 
-This technical & solutions architect position at VML Enterprise Solutions was posted on 2026-05-07.
+This technical & solutions architect position at VML Enterprise Solutions was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

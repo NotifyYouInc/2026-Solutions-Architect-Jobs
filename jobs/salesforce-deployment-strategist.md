@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Deployment-Strategist_JR349518) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Barcelona/Deployment-Strategist_JR350171) |
 
 ## About This Role
 

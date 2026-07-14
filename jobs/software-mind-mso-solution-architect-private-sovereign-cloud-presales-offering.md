@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000135212819-mso-solution-architect-private-sovereign-cloud-presales-offering) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000135495740-mso-solution-architect-private-sovereign-cloud-presales-offering) |
 
 ## About This Role
 
-This technical & solutions architect position at Software Mind was posted on 2026-07-01.
+This technical & solutions architect position at Software Mind was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

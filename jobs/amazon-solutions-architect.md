@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458542/solutions-architect) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466593/solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-25.
+This technical & solutions architect position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Customer Success Architect - Isovalent at Cisco
+# Senior Customer Success Architect, Isovalent at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Senior-Customer-Success-Architect---Isovalent_2011805) |
+| Location | 4 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Toronto-Ontario-Canada/Senior-Customer-Success-Architect--Isovalent_2018476) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-04-22.
+This technical & solutions architect position at Cisco was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

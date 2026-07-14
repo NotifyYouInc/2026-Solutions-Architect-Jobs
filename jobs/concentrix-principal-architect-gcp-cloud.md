@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tennessee, US |
+| Location | Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Work-at-Home/Principal-Architect--GCP-Cloud_R1711680) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CAN-ON-Work-at-Home/Principal-Architect--GCP-Cloud_R1744671-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-04-21.
+This technical & solutions architect position at Concentrix was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

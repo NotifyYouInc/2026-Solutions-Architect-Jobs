@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/ServiceNow-Solution-Architect_51574983) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/ServiceNOW-Solution-Architect---Source-to-Pay_51551172) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-06-05.
+This technical & solutions architect position at DXC Technology was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

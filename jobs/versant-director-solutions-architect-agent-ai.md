@@ -6,7 +6,7 @@
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135336589-director-solutions-architect-agent-ai) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135336691-director-solutions-architect-agent-ai) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MNTN](https://scoutify.ai/companies/mntn?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical Writer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/7611483) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8047145) |
 
 ## About This Role
 
-This technical writer position at MNTN was posted on 2026-02-17.
+This technical & solutions architect position at MNTN was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
