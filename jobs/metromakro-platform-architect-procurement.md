@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000118382146-platform-architect-procurement) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000136395330-platform-architect-procurement) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-04-02.
+This technical & solutions architect position at METRO/MAKRO was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

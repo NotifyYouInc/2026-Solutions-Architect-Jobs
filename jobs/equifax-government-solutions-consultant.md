@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Mexico, US |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Utah---Remote/Government-Solutions-Consultant_J00176641) |
+| Location | Florida, US |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Florida---Remote/Government-Solutions-Consultant_J00177836-1) |
 
 ## About This Role
 
-This implementation / professional services position at Equifax was posted on 2026-05-02.
+This sales engineer position at Equifax was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

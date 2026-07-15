@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Director--Lead-Solutions-Architect--IAM_R-0000165638-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Director--Lead-Solutions-Architect--IAM_R-0000178793-2) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-03-31.
+This technical & solutions architect position at Royal Bank of Canada was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

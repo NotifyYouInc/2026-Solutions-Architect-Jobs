@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Senior-Solutions-Architect_R182462-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Senior-Solutions-Architect_R183014) |
 
 ## About This Role
 
-This technical & solutions architect position at Parsons was posted on 2026-06-24.
+This technical & solutions architect position at Parsons was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

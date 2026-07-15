@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Lead-Architect_R1123395-5) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-H2-block/Lead-Architect_R1123393-5) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-06-23.
+This ai / llm engineer position at Dentsu was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

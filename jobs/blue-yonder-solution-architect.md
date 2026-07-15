@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Tokyo/Solution-Architect_253235) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Solution-Architect_262257) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-02-09.
+This technical & solutions architect position at Blue Yonder was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Paris/Solution-Architect-AVEVA-F-H_R00316664) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Paris/Solution-Architect-AVEVA-F-H---Paris_R00339414) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-28.
+This technical & solutions architect position at Accenture was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

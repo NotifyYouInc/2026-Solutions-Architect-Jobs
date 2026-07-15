@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013919276-architect-delivery-operations-ai-systems) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013935997-architect-delivery-operations-ai-systems) |
 
 ## About This Role
 
-This technical & solutions architect position at AbbVie was posted on 2026-07-02.
+This technical & solutions architect position at AbbVie was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

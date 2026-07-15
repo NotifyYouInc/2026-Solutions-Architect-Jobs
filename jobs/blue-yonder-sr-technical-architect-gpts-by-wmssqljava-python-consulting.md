@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Technical-Architect--GPTS----BY-WMS-SQL-Java--Python--Consulting_260679) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Technical-Architect--GPTS----BY-WMS-SQL-Java--Python--Consulting_262204) |
 
 ## About This Role
 
-This technology / it consulting position at Blue Yonder was posted on 2026-03-25.
+This technical & solutions architect position at Blue Yonder was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125447139-application-solution-engineer-oracle-fusion-erp) |
+| Category | Sales Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000136248339-application-solution-engineer-oracle-fusion-erp) |
 
 ## About This Role
 
-This technical & solutions architect position at SGS was posted on 2026-05-09.
+This sales engineer position at SGS was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

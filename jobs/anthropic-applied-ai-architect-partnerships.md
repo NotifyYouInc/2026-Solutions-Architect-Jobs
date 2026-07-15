@@ -1,16 +1,16 @@
-# Applied AI Architect, Partnerships at Anthropic
+# Applied AI Architect, Partnerships  at Anthropic
 
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5283616008) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5300430008) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-06-26.
+This technical & solutions architect position at Anthropic was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

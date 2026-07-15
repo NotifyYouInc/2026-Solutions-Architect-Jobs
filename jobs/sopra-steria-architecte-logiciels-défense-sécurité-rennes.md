@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chartres-de-Bretagne, Brittany, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128202979-architecte-logiciels-defense-securite-rennes) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136219033-architecte-logiciels-defense-securite-rennes) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-05-25.
+This technical & solutions architect position at Sopra Steria was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

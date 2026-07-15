@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ostrava, Moravskoslezský, Czechia |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/IS-Solution-Architect_JR00035824) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Solution-Architect_JR00040702) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-05-25.
+This technical & solutions architect position at ABB was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
