@@ -6,7 +6,7 @@
 | Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4686284005?gh_jid=4686284005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/ad48ec73-2f2e-4e11-8322-5f68624d18ab) |
 
 ## About This Role
 

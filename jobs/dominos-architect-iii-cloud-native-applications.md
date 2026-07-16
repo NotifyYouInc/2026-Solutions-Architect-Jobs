@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000119701377-architect-iii-cloud-native-applications) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000136556879-architect-iii-cloud-native-applications) |
 
 ## About This Role
 
-This technical & solutions architect position at Domino's was posted on 2026-04-09.
+This technical & solutions architect position at Domino's was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000125893669-senior-consultant-cloud-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136510279-senior-consultant-cloud-architect) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-05-11.
+This technical & solutions architect position at SIA was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

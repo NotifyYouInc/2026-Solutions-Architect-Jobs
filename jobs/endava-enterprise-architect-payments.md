@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000134863480-enterprise-architect-payments) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000136540769-enterprise-architect-payments) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-06-29.
+This technical & solutions architect position at Endava was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

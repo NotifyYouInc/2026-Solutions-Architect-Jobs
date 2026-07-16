@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Sr-Principal-Enterprise-Solution-Architect_R0070942) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Sr-Principal-Enterprise-Solution-Architect_R0070943) |
 
 ## About This Role
 
-This technical & solutions architect position at Huntington Bancshares was posted on 2026-04-08.
+This technical & solutions architect position at Huntington Bancshares was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

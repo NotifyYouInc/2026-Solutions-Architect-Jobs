@@ -5,12 +5,12 @@
 | Company | [Link Solutions](https://scoutify.ai/companies/linksolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Adelphi, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkSolutionsInc/744000136213929-deputy-program-managersenior-solutions-architect) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkSolutionsInc/744000136569289-deputy-program-managersenior-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Link Solutions was posted on 2026-07-07.
+This technical & solutions architect position at Link Solutions was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

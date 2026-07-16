@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bavaria, DE |
-| Category | Technical & Solutions Architect |
+| Location | Munich, Bavaria, Germany |
+| Category | Sales Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4688597005?gh_jid=4688597005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/176c4ad2-1a5a-4011-a440-242d94e319ba) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Intuition was posted on 2026-05-05.
+This sales engineer position at Applied Intuition was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

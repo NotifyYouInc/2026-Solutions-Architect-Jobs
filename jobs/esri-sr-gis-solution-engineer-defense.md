@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vienna, Virginia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.esri.com/careers/5150108007?gh_jid=5150108007) |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.esri.com/careers/5183034007?gh_jid=5183034007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-06-03.
+This sales engineer position at Esri was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

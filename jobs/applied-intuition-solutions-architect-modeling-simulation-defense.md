@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4686286005?gh_jid=4686286005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/fa31df91-9b55-42a9-8853-731d5cb3f3eb) |
 
 ## About This Role
 

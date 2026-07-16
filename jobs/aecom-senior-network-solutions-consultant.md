@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000135526783-senior-network-solutions-consultant) |
+| Category | Sales Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000136517122-senior-network-solutions-consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-07-02.
+This sales engineer position at AECOM was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000135945289-outbound-product-manager-demo-architect-ifs-loops) |
+| Category | Product Manager |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000136720229-outbound-product-manager-demo-architect-ifs-loops) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-07-06.
+This product manager position at IFS was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

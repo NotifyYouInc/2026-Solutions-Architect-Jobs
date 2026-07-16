@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/RIS-AI-Data-Solution-Architect-Manager_14376706) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/RIS-AI-Data-Solution-Architect-Manager_14510630) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-02.
+This technical & solutions architect position at Accenture was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

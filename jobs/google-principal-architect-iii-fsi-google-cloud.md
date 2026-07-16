@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVopMvs2Z3L1IciTb1xjC4VavOtoRNygbaVgA7IZlM-6EjsACxwdTCCjWjhlvGhqrGO42CgZMY0BBi1VsyihI75XM53ts1a9a4ZQ-nSRZuVffT5Y--_30M9P9VxJ0Q%3D%3D_V2&loc=CA&title=Principal+Architect+III) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTLL8JdtCwMLkf6IzXwAm9FzvGJv9QwKoLUKRm0CC41yEjsA1Ny_i9-gGFL7zZ3O--ClhFIsNZl0Aa8lnHg24o0SND83Zv8_gRSp-Dp6QdH68odFOhPCzc0tG3cmdw%3D%3D_V2&loc=CA&title=Principal+Architect+III) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-05.
+This technical & solutions architect position at Google was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

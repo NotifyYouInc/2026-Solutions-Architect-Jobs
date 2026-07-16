@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000136397949-platform-architect-procurement-mfd) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000136721850-platform-architect-procurement-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-07-08.
+This technical & solutions architect position at METRO/MAKRO was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

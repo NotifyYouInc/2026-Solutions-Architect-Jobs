@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Network-Architect_324061) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Network-Architect_328558) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-03-31.
+This technical & solutions architect position at CACI was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

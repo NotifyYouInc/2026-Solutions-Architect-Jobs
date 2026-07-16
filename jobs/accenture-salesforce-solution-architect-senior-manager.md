@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 42 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Salesforce-Solution-Architect-Senior-Manager_14430640-1) |
+| Location | 41 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Salesforce-Solution-Architect-Senior-Manager_R00339203) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-26.
+This technical & solutions architect position at Accenture was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
