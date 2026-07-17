@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Craiova, Dolj, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135731659-it-solutions-architect-java) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000137059869-it-solutions-architect-java) |
 
 ## About This Role
 
-This technical & solutions architect position at Eurofins Scientific was posted on 2026-07-03.
+This technical & solutions architect position at Eurofins Scientific was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

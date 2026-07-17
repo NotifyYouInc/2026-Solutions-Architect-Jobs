@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/2895f7fd-c385-4402-8d5a-fbffc0177bb6) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/8063068d-5315-40bf-88bf-9aa9f8c7413e) |
 
 ## About This Role
 
-This technical & solutions architect position at Legora (formerly Leya) was posted on 2026-07-07.
+This technical & solutions architect position at Legora (formerly Leya) was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

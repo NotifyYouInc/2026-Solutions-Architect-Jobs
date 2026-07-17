@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Autonomy-Application-Architect_R0000374936) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Autonomy-Application-Architect_R0000351689) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-06-23.
+This technical & solutions architect position at Caterpillar Inc. was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

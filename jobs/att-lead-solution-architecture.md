@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Alpharetta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAtlanta--1057-Lenox-Park-Blvd-Ne---Adm1057-Lenox-Park-Blvd-Ne/Lead-Solution-Architecture_R-114241) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Solution-Architecture_R-112301) |
 
 ## About This Role
 
-This technical & solutions architect position at AT&T was posted on 2026-07-08.
+This technical & solutions architect position at AT&T was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

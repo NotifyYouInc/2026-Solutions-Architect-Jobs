@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000136461139-it-architect) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000136732329-it-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Scalian was posted on 2026-07-08.
+This technical & solutions architect position at Scalian was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

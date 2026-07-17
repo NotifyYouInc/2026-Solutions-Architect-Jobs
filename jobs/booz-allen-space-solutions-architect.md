@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ramstein-Miesenbach, Rheinland-Pfalz, Germany |
+| Location | Florida, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ramstein-Miesenbach-Rhineland-Palatinate/Space-Solutions-Architect_R0242428) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/MacDill-AFB-FL/Space-Solutions-Architect_R0244093) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-06-16.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

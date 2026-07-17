@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451374/solutions-architect-fsi-ags-apj-india-sa) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470768/solutions-architect-fsi-ags-apj-india-sa) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-17.
+This technical & solutions architect position at Amazon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

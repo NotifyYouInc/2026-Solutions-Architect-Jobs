@@ -1,16 +1,16 @@
-# Principal Solutions Architect - Middle East at Nebius
+# Principal Solutions Architect Middle East at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4774488101) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4869823101) |
 
 ## About This Role
 
-This technical & solutions architect position at Nebius was posted on 2026-04-23.
+This technical & solutions architect position at Nebius was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

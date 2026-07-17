@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Couchbase](https://scoutify.ai/companies/couchbaseinc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4689669006) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4692093006) |
 
 ## About This Role
 
-This technical & solutions architect position at Couchbase was posted on 2026-06-26.
+This technical & solutions architect position at Couchbase was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

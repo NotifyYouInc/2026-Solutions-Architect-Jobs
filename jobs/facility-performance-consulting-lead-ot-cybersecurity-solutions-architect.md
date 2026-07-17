@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Facility Performance Consulting](https://scoutify.ai/companies/facilityperformanceconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000135452471-lead-ot-cybersecurity-solutions-architect) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000136864999-lead-ot-cybersecurity-solutions-architect) |
 
 ## About This Role
 
-This security engineer position at Facility Performance Consulting was posted on 2026-07-02.
+This technical & solutions architect position at Facility Performance Consulting was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

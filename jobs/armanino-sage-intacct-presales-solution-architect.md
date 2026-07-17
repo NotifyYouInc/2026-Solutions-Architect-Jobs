@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Ramon, California, United States |
-| Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Ramon-California/Sage-Intacct-Presales-Solution-Architect_JR103887) |
+| Location | 21 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Ramon-California/Sage-Intacct-Presales-Solution-Architect_JR104072) |
 
 ## About This Role
 
-This customer success position at Armanino was posted on 2026-05-06.
+This technical & solutions architect position at Armanino was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

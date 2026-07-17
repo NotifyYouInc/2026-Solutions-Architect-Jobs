@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Warsaw---Poland-Office/Senior-Solution-Architect_R03804) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/France---Remote/Senior-Solution-Architect_R03853) |
 
 ## About This Role
 
-This technical & solutions architect position at Cohesity was posted on 2026-06-22.
+This technical & solutions architect position at Cohesity was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Osaka-Flexible/Senior-Solution-Consultant_JR111239-1) |
+| Location | Kansas, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Missouri-USA/Solution-Consultant_JR111519) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-06-04.
+This technical & solutions architect position at Genesys was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

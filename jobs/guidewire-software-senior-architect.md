@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/France---Remote/Senior-Architect_JR_14777) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Germany---Remote/Senior-Architect_JR_14997) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidewire Software was posted on 2026-05-19.
+This technical & solutions architect position at Guidewire Software was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

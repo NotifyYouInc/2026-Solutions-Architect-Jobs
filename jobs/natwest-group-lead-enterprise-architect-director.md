@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Lead-Enterprise-Architect--Director_R-00274987) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Lead-Enterprise-Architect--Director_R-00281620) |
 
 ## About This Role
 
-This technical & solutions architect position at NatWest Group was posted on 2026-03-16.
+This technical & solutions architect position at NatWest Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

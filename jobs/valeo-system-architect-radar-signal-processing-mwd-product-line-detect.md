@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bietigheim-Bissingen, Baden-Wurttemberg, Germany |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bietigheim-Bissingen/System-Architect-Radar-Signal-Processing--m-w-d----Product-Line-Detect_REQ2026072291-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bietigheim-Bissingen/System-Architect-Radar-Signal-Processing--m-w-d----Product-Line-Detect_REQ2026076690) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Valeo was posted on 2026-04-20.
+This technical & solutions architect position at Valeo was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
