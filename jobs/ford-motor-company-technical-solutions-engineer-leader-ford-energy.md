@@ -1,0 +1,22 @@
+# Technical Solutions Engineer Leader, Ford Energy at Ford Motor Company
+
+| Field | Details |
+|-------|---------|
+| Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#62953) |
+
+## About This Role
+
+This sales engineer position at Ford Motor Company was posted on 2026-04-30.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

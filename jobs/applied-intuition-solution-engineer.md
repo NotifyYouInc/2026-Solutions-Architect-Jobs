@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales Engineer |
-| Posted | 2025-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/applied/07e5ad0a-74f7-48a7-b997-6e4b9cda48dd) |
+| Posted | 2025-01-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/deeb8028-bd44-4bb3-ab30-583612879cfe) |
 
 ## About This Role
 
-This sales engineer position at Applied Intuition was posted on 2025-06-27.
+This sales engineer position at Applied Intuition was posted on 2025-01-13.
 
 ## Get Real-Time Alerts
 

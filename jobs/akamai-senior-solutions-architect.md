@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3464) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3030) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-07-06.
+This technical & solutions architect position at Akamai was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

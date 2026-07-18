@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 29 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Lead-Salesforce-Consultant-and-Solution-Architect_R-50653) |
+| Location | 36 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Lead-Salesforce-Consultant-and-Solution-Architect_R-51604) |
 
 ## About This Role
 
-This technology / it consulting position at Crowe was posted on 2026-03-06.
+This technical & solutions architect position at Crowe was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Architect---Data---Analytics_R-540943) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Architect---Data---Analytics_R-552136) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-05-22.
+This technical & solutions architect position at Wells Fargo was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

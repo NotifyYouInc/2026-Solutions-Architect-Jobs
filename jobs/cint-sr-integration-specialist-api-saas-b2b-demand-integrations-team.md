@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brazil |
 | Category | Implementation / Professional Services |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000136083439-sr-integration-specialist-api-saas-b2b-demand-integrations-team) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000137212762-sr-integration-specialist-api-saas-b2b-demand-integrations-team) |
 
 ## About This Role
 
-This implementation / professional services position at Cint was posted on 2026-07-06.
+This implementation / professional services position at Cint was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

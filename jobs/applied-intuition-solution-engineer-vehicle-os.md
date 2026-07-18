@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Sales Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/applied/176c4ad2-1a5a-4011-a440-242d94e319ba) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/d2d783c1-ec46-446f-92fa-88f7460e9be8) |
 
 ## About This Role
 

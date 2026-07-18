@@ -1,16 +1,16 @@
-# Solutions Architect – AI Factory at Nvidia
+# Solutions Architect - AI Factory at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denmark |
+| Location | Seoul, Seoul, South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Remote/Solutions-Architect---AI-Factory_JR2014616) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Korea-Seoul/Solutions-Architect---AI-Factory_JR2020985) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-03-12.
+This technical & solutions architect position at Nvidia was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

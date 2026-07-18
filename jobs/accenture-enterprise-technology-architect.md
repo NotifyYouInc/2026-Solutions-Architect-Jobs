@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 7 locations |
+| Location | 8 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Enterprise-Technology-Architect_ATCI-5218673-S1937743-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Platform-Architect_ATCI-5219226-S1937746-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-19.
+This technical & solutions architect position at Accenture was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

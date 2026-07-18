@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Enterprise-Architect--Adobe-Private-Capital_R165989) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Enterprise-Architect--Adobe-Private-Capital_R170408) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-02-26.
+This technical & solutions architect position at Adobe was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
