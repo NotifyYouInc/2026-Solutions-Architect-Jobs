@@ -1,16 +1,16 @@
-# Architecte Cloud AWS F/H at Devoteam
+# Solution Architect  - SAP at Bristlecone
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Bristlecone](https://scoutify.ai/companies/ocs-cx-oj16856?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136749509-architecte-cloud-aws-fh) |
+| Posted | 2025-03-11 |
+| Apply | [View on company site](https://iaagiz.fa.ocs.oraclecloud.com/jobs/#14393) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-09.
+This technical & solutions architect position at Bristlecone was posted on 2025-03-11.
 
 ## Get Real-Time Alerts
 

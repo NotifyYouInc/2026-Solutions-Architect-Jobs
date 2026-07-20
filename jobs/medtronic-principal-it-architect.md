@@ -1,16 +1,16 @@
-# Sr Analyst Enterprise Arc at Mattel
+# Principal IT Architect at Medtronic
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369299-sr-analyst-enterprise-arc) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-IT-Architect_R71654-3) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-07-13.
+This technical & solutions architect position at Medtronic was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

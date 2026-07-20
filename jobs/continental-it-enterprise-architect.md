@@ -1,16 +1,16 @@
-# Architecte Cloud AWS F/H at Devoteam
+# IT Enterprise Architect at Continental
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136749509-architecte-cloud-aws-fh) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000137403889-it-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-09.
+This technical & solutions architect position at Continental was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

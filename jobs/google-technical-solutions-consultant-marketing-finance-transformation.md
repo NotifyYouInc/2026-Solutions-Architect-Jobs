@@ -1,16 +1,16 @@
-# Customer Engineer, Sovereignty (German, English) at Google
+# Technical Solutions Consultant, Marketing Finance Transformation at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | Mountain View, California, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcOiSw3575I2EeA-j1fgLGehDUA0RktCnag9A2zHpK_4EjsA1Ny_i0i5vc-lpmpkS7w2Xzvaz9jfGRmyDz9XUwVE83ny4pgxmwfHuaQ3NkbHcyQuIxqLWt_-HGEG6Q%3D%3D_V2&loc=DE&title=Customer+Engineer) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQeeGQWtNUbLP4IAUut0k4sGubd7MXO3zKv7gLxOrZnUEjsA1Ny_iwErr8EOMJsfdHSTt3Qrq-MUSu8YdoWI6gi2cnrq9sDk17K0UE_HHFVNpCu4a7iHV8l89rktSA%3D%3D_V2&loc=US&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-09.
+This sales engineer position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

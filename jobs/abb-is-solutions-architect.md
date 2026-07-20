@@ -1,16 +1,16 @@
-# Architecte Cloud AWS F/H at Devoteam
+# IS Solutions Architect at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136749509-architecte-cloud-aws-fh) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/IS-Solutions-Architect_JR00040145) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-09.
+This technical & solutions architect position at ABB was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

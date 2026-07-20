@@ -1,16 +1,16 @@
-# Sr Analyst Enterprise Arc at Mattel
+# Application Architect (ADL Workbench) at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369299-sr-analyst-enterprise-arc) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Application-Architect--ADL-Workbench-_R0121367-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-07-13.
+This technical & solutions architect position at LSEG was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

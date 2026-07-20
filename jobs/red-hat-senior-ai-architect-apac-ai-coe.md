@@ -1,16 +1,16 @@
-# Sr Analyst Enterprise Arc at Mattel
+# Senior AI Architect, APAC AI COE at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369299-sr-analyst-enterprise-arc) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Singapore/Senior-AI-Architect--APAC-AI-COE_R-058065-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-07-13.
+This technical & solutions architect position at Red Hat was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

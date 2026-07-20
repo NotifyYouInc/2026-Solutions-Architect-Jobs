@@ -1,16 +1,16 @@
-# Sr Analyst Enterprise Arc at Mattel
+# Senior Principal Architect, Cyber Security – AI  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369299-sr-analyst-enterprise-arc) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137378114-senior-principal-architect-cyber-security-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-07-13.
+This technical & solutions architect position at NielsenIQ was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

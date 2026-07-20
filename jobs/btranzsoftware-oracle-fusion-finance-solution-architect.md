@@ -1,16 +1,16 @@
-# Sr Analyst Enterprise Arc at Mattel
+# Oracle Fusion Finance Solution Architect at btranzsoftware
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369299-sr-analyst-enterprise-arc) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000137378424-oracle-fusion-finance-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-07-13.
+This technical & solutions architect position at btranzsoftware was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

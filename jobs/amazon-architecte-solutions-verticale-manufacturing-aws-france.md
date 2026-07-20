@@ -1,16 +1,16 @@
-# Sr Analyst Enterprise Arc at Mattel
+# Architecte Solutions, Verticale Manufacturing, AWS France at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Courbevoie, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137369299-sr-analyst-enterprise-arc) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472190/architecte-solutions-verticale-manufacturing-aws-france) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-07-13.
+This technical & solutions architect position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

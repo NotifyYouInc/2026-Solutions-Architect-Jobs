@@ -1,16 +1,16 @@
-# Architecte Cloud AWS F/H at Devoteam
+# Lead Specialist, Platform Architect OT & Control Platform II at Ma'aden
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Ma'aden](https://scoutify.ai/companies/ocs-cx-oj65712?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136749509-architecte-cloud-aws-fh) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://fa-epod-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#6856) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-09.
+This technical & solutions architect position at Ma'aden was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [KordaMentha](https://scoutify.ai/companies/kordamentha?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Queensland, AU |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001221780-consulting-enterprise-architect-technology-data-advisory) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001223079-consulting-enterprise-architect-technology-data-advisory) |
 
 ## About This Role
 
