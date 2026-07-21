@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourn, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000131506389-solution-architect) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000137422709-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at PA Consulting was posted on 2026-06-10.
+This technical & solutions architect position at PA Consulting was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

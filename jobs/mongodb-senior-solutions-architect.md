@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8053142) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8055422) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-07-09.
+This technical & solutions architect position at MongoDB was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

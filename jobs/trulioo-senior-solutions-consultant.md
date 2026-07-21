@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trulioo](https://scoutify.ai/companies/trulioo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/b5481fae-d6f5-4c06-a552-49c22f053880) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/10f8d83e-24e4-46aa-bcaf-5982eabc0cde) |
 
 ## About This Role
 
-This implementation / professional services position at Trulioo was posted on 2026-05-09.
+This sales engineer position at Trulioo was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

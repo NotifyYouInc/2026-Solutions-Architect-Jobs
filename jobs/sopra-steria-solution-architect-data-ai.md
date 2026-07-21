@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Italy |
+| Location | Assago, Lombardy, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117226368-solution-architect-data-ai) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137427610-solution-architect-data-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-03-27.
+This technical & solutions architect position at Sopra Steria was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

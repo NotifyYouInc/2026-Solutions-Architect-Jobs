@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/London/Regional-Services-Engineer_JR2230-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Son/Regional-Services-Engineer_JR2240-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Exclusivenetworks was posted on 2026-07-09.
+This technical & solutions architect position at Exclusivenetworks was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

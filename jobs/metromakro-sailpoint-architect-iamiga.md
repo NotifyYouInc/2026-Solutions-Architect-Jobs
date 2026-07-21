@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000130228289-sailpoint-architect-iamiga) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137615650-sailpoint-architect-iamiga) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-06-04.
+This technical & solutions architect position at METRO/MAKRO was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

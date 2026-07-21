@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [8X8Inc](https://scoutify.ai/companies/8x8inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://8x8inc.wd5.myworkdayjobs.com/8x8_external_careers/job/UK-London-Office/Professional-Services-Solution-Architect_R2457) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://8x8inc.wd5.myworkdayjobs.com/8x8_external_careers/job/US-Remote/Professional-Services-Solution-Architect_R2683) |
 
 ## About This Role
 
-This technical & solutions architect position at 8X8Inc was posted on 2026-04-24.
+This technical & solutions architect position at 8X8Inc was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

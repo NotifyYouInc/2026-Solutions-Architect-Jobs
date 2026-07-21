@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Senior-AI-ML-Architect_R5040904-2) |
+| Location | Greenville, North Carolina, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Senior-AI-ML-Architect_R5047276-2) |
 
 ## About This Role
 
-This ai / ml research position at GE Vernova was posted on 2026-05-08.
+This ai / llm engineer position at GE Vernova was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | AI / ML Research |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Brazil/Senior-Technical-Architect---AI_JR111205-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Mexico-City-Mexico/Senior-Technical-Architect---AI_JR111196-2) |
 
 ## About This Role
 
-This ai / ml research position at Genesys was posted on 2026-06-01.
+This technical & solutions architect position at Genesys was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

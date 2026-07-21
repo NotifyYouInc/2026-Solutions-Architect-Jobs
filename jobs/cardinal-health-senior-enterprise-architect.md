@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Miami, Florida, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Enterprise-Architect_20183088) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Enterprise-Architect_20183813-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cardinal Health was posted on 2026-07-09.
+This technical & solutions architect position at Cardinal Health was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

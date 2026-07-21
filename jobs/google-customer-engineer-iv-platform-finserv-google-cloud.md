@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUVH6dNG9CKlrkJXEikRKZwFltd2LJCPkm6WOUDSfPetEjsACxwdTAkMWyoii59JmupZk3zL7nkVREbK9jklMtvH-Md3RGHOHpGvAc4EqDuZ14YqlmPcRwHOUPPo2w%3D%3D_V2&loc=US&title=Customer+Engineer+IV) |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTFePThsuyRUxmDgxLvYMQQzc-b69cTIARi-lgIf5g56EjsA1Ny_i0auxxdN7AHRZ03owtmXf9gPMPh804_9Keet3UylLRu-5Vtt7g2NVYO5m3Fv8OLicCD6jsUM8Q%3D%3D_V2&loc=US&title=Customer+Engineer+IV) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-09.
+This sales engineer position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
