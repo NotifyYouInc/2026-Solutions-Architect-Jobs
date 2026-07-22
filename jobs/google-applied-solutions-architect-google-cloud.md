@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZqjxjgSPF2wdeXGA-k6mVa87jPAOBafLnw6rj03k6nVEjoA1Ny_i_GkmQ0gSOBghKUYFlHDRCwIwEPFJGZ6afuDnLTLWfVJiOpjfCPVFHxPPyiO6m8uvN-jkWus_V2&loc=KR&title=Applied+Solutions+Architect) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke8BrzrfskbzrmODbU5EuOnQ0pP303dJeVVitqfUvcVfEjsA1Ny_i8_HasF2KwsdZmr6I64XqCeXUTu5EMq5LbxcrRswjU3pkrFvS3xozyvVXHqOU-uo-c3bPNprQw%3D%3D_V2&loc=IN&title=Applied+Solutions+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-10.
+This technical & solutions architect position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

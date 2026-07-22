@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Service-Architect_R63941) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Germany-Offsite-ZWG99/Service-Architect_R66208) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-06-18.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

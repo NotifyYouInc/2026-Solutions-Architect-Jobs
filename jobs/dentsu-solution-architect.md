@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/69-Bulgaria-Blvd/Solution-Strategist_R1125606) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Solution-Architect_R1121291-7) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-06-23.
+This technical & solutions architect position at Dentsu was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

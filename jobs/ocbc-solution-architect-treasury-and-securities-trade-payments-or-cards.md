@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-GE2/Application-Architect_JR00004045) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-GE2/Solution-Architect---Treasury-and-Securities--Trade--Payments-or-Cards_JR00009167) |
 
 ## About This Role
 
-This technical & solutions architect position at OCBC was posted on 2026-07-07.
+This technical & solutions architect position at OCBC was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

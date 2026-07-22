@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical Writer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Network-Architect_R26-1922-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/Network-Architect_R26-4948) |
 
 ## About This Role
 
-This technical writer position at Rockwell Automation was posted on 2026-03-24.
+This technical & solutions architect position at Rockwell Automation was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

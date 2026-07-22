@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Technical-Architect_R0118330) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-5-Canada-Square/Technical-Architect_R0120980-1) |
 
 ## About This Role
 
-This technical & solutions architect position at LSEG was posted on 2026-04-02.
+This technical & solutions architect position at LSEG was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | East Palo Alto, California, United States |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470632/sr-analytics-ai-specialist-solutions-architect-ags-us-specialist-sa) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473322/sr-analytics-ai-specialist-solutions-architect-ags-us-specialist-sa) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-07-10.
+This technical & solutions architect position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

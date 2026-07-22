@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Solutions-Architect_JR100494) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Solutions-Architect_JR100827) |
 
 ## About This Role
 
-This solutions architect position at Hub24management was posted on 2026-02-02.
+This technical & solutions architect position at Hub24management was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

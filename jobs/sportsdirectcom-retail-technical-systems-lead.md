@@ -5,12 +5,12 @@
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000132812491-technical-systems-lead) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000137843417-technical-systems-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at SportsDirect.com Retail was posted on 2026-06-18.
+This technical & solutions architect position at SportsDirect.com Retail was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

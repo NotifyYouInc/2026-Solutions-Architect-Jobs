@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136479671-principal-engineer-solution-architect-microsoft-dynamics-365) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137672287-principal-engineer-solution-architect-microsoft-dynamics-365) |
 
 ## About This Role
 
-This technical & solutions architect position at NielsenIQ was posted on 2026-07-08.
+This technical & solutions architect position at NielsenIQ was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

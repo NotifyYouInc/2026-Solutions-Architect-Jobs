@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1823327949042750) |
+| Category | Sales Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1007286168590518) |
 
 ## About This Role
 
-This technical & solutions architect position at Meta was posted on 2026-07-01.
+This sales engineer position at Meta was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brazil |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7942258) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8052885) |
 
 ## About This Role
 
-This technical & solutions architect position at Twilio was posted on 2026-05-19.
+This technical & solutions architect position at Twilio was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

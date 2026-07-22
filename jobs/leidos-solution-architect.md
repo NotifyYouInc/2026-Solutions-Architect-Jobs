@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Solution-Architect_R-00177485) |
+| Location | Farnborough, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Solution-Architect_R-00187286) |
 
 ## About This Role
 
-This technical writer position at Leidos was posted on 2026-03-04.
+This technical & solutions architect position at Leidos was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000131824531-technical-architect) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000137635950-technical-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Northgate Information Solutions was posted on 2026-06-12.
+This technical & solutions architect position at Northgate Information Solutions was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

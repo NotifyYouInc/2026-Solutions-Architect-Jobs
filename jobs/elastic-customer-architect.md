@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Israel |
-| Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7725620&gh_jid=7725620) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8059843&gh_jid=8059843) |
 
 ## About This Role
 
-This customer success position at Elastic was posted on 2026-03-17.
+This technical & solutions architect position at Elastic was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

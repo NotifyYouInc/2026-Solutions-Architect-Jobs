@@ -5,12 +5,12 @@
 | Company | [Ecovadis](https://scoutify.ai/companies/ecovadis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000128705496-data-architect) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000137632080-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Ecovadis was posted on 2026-05-27.
+This technical & solutions architect position at Ecovadis was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

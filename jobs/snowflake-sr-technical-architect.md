@@ -1,16 +1,16 @@
-# Sr. Technical Architect  at Snowflake
+# Sr. Technical Architect at Snowflake
 
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Illinois, US |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/b17ce782-5973-4066-9712-15a86fd8d4cc) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4210374d-bf8a-4af8-8df3-b8a84a72930c) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-07-10.
+This technical & solutions architect position at Snowflake was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Investment Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000137115209-head-architecture-business-transformation-corporate-investment-banking-technology) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000137644530-head-architecture-business-transformation-corporate-investment-banking-technology) |
 
 ## About This Role
 
-This investment banking position at Standard Bank was posted on 2026-07-10.
+This investment banking position at Standard Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

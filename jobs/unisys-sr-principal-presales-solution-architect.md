@@ -1,16 +1,16 @@
-# Sr Principal Presales Solution Architect at Unisys
+# Sr. Principal Presales Solution Architect at Unisys
 
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pennsylvania, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Sr-Principal-Presales-Solution-Architect_REQ573875) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Sr-Principal-Presales-Solution-Architect_REQ573872) |
 
 ## About This Role
 
-This technical & solutions architect position at Unisys was posted on 2026-07-01.
+This technical & solutions architect position at Unisys was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
