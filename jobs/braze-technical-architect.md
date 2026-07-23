@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7899151?gh_jid=7899151) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8055926?gh_jid=8055926) |
 
 ## About This Role
 
-This technical & solutions architect position at Braze was posted on 2026-05-07.
+This technical & solutions architect position at Braze was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

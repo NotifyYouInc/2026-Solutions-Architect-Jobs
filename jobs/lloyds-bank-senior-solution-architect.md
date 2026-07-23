@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Senior-Solution-Architect_152665-2) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Senior-Solution-Architect_158933-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Lloyds Bank was posted on 2026-03-03.
+This technical & solutions architect position at Lloyds Bank was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

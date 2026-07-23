@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infinite Lambda](https://scoutify.ai/companies/infinite-20lambda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/infinite%20lambda/4ca40e67-f04a-48d7-92c6-06e8179e4dde) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/infinite%20lambda/34d041f9-e3cd-4ebc-ae4b-167a537ce40b) |
 
 ## About This Role
 
-This technical & solutions architect position at Infinite Lambda was posted on 2026-06-10.
+This technical & solutions architect position at Infinite Lambda was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44135/Solution-Architect---Cyber-Security-Engineering_R225503-1) |
+| Location | 6 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44135/Solution-Architect---Cyber-Security-Engineering_R226163-1) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-06-12.
+This technical & solutions architect position at PNC Financial was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

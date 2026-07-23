@@ -1,16 +1,16 @@
-# Principal, Enterprise Architect at Workday
+# Principal Enterprise Architect at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Georgia, US |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal--Enterprise-Architect_JR-0104849) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-VIC-Melbourne/Principal-Enterprise-Architect_JR-0108745) |
 
 ## About This Role
 
-This technical & solutions architect position at Workday was posted on 2026-03-13.
+This technical & solutions architect position at Workday was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

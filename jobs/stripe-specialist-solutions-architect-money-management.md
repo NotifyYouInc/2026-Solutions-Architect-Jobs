@@ -1,16 +1,16 @@
-# Specialist Solutions Architect, Money Management at Stripe
+# Specialist Solutions Architect - Money Management  at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7380371) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8066735) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-04-22.
+This technical & solutions architect position at Stripe was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

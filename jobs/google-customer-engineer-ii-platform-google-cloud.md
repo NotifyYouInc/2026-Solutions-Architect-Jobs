@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRaYEphTeQYGTS-3iFwi22E88vvET3HnA2wUwT195EDcEjsACxwdTP9JfhblRirhiOLDTjdoibaoAKfuz4spkAvyqzuF02Ih_p2dHILNVbDqlazAR3Z2cGieV7GbBQ%3D%3D_V2&loc=BR&title=Customer+Engineer+II) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckavLb6prQ6tDZuF1Sc3xV9o2nWQZsvqfLbjZxe1mi36MEjsA1Ny_i3xy1RUXDROM1AIsRzvfPEmfD-TtEE56lFr1GpE3kSFFMZSm7LfNGb8DOMyryegEBeIFjMnh8Q%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-18.
+This sales engineer position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

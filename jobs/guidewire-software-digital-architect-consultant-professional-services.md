@@ -5,12 +5,12 @@
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Brazil---Remote/Digital-Architect-Consultant--Professional-Services_JR_14921) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Brazil---Remote/Digital-Architect-Consultant--Professional-Services_JR_14922) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidewire Software was posted on 2026-06-22.
+This technical & solutions architect position at Guidewire Software was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

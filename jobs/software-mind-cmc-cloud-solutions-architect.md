@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000135665410-cmc-cloud-solutions-architect) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000137901362-cmc-cloud-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Software Mind was posted on 2026-07-03.
+This technical & solutions architect position at Software Mind was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

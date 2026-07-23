@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Warner Robins, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Cloud-Computing-Application-Architect--Mid_R0230945) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Application-Architect--Mid_R0244398) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-04-13.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

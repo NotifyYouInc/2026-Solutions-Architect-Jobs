@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Field-Service-Specialist_JR345643) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Field-Service-Specialist_JR345641-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-07.
+This technical & solutions architect position at Salesforce was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
