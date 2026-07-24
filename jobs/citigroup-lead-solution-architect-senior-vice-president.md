@@ -1,16 +1,16 @@
-# Lead Solution Architect, Senior Vice President at Citigroup
+# Lead Solution Architect- Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Lead-Solution-Architect--Senior-Vice-President_26958319) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Lead-Solution-Architect--Senior-Vice-President_26979713-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-05-05.
+This technical & solutions architect position at Citigroup was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

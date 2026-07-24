@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQKlMED9gAAiPqUjrsk0EIzRBHoPUF1TcOhtb1IRHyiFEjsACxwdTLk4SLsSVil7ZVTW_TzDFSOa6wmrLeIke6uVyp6ZhmolDw7bYofWYFoMIOKGYXTSggFVkPpASw%3D%3D_V2&loc=SG&title=GSI+Partner+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf5dcr1ej_Eu_BFXiKMCrAbqCvf_qqcganrx3OovH6kpEjsA1Ny_i0bzbTwrJkk6uvoKt1LbNoPqnL5uEK-_ua11pL_OAqxbWqbmJyhzh5tx-Q5ttFCcfIaNVByXvQ%3D%3D_V2&loc=SG&title=GSI+Partner+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-05.
+This sales engineer position at Google was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Power-Platform-Architect_39172) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Power-Platform-Architect_41944) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-05-19.
+This technical & solutions architect position at Guidehouse was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

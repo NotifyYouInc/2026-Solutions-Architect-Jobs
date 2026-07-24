@@ -5,12 +5,12 @@
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000132844870-application-and-integration-architect) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000138135720-application-and-integration-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ARHS Developments was posted on 2026-06-18.
+This technical & solutions architect position at ARHS Developments was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

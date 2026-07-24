@@ -1,16 +1,16 @@
-# Salesforce Solution Consultant - Business Analyst at Guidehouse
+# Salesforce Solution Consultant: Business Analyst at Guidehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Consultant---Business-Analyst_41253) |
+| Category | Business Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Consultant--Business-Analyst_41948) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-07-02.
+This business analyst position at Guidehouse was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Nong Yai, Chon Buri, Thailand |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf22BwTmSLvVej37Oh2GiROj2tIeGI9GEznJOMRSAzpiEjsACxwdTJJO8azp6pRh4ZQkBxbnncq_V4Gkuw7kyiiiJ49w6maNlUDa9xATwO4wDLR4nQUH4V6VLy0MAg%3D%3D_V2&loc=TH&title=Customer+Solutions+Consultant) |
+| Location | Chon Buri, Chon Buri, Thailand |
+| Category | Sales Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWsiaYd-Mnbf20VuiMcjttOez1cL2I_pA1gw-9xWcUWfEjsA1Ny_i_qwgGOXJIKCW6eS7sEzk2hgYPsqml77w2SgzZl_efnUpTJatv83XgODJOuV0rAtyTpkcVxncg%3D%3D_V2&loc=TH&title=Customer+Solutions+Consultant) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-12.
+This sales engineer position at Google was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

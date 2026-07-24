@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457702/solutions-architect-isv) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10477252/solutions-architect-isv) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-24.
+This technical & solutions architect position at Amazon was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

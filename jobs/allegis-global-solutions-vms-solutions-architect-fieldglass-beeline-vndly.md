@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000127062039-vms-solutions-architect-fieldglass-beeline-vndly) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000138198419-vms-solutions-architect-fieldglass-beeline-vndly) |
 
 ## About This Role
 
-This technical & solutions architect position at Allegis Global Solutions was posted on 2026-05-18.
+This technical & solutions architect position at Allegis Global Solutions was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

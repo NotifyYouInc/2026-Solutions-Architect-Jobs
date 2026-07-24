@@ -5,12 +5,12 @@
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Solutions-Architect_R51493) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Solutions-Architect_R51780) |
 
 ## About This Role
 
-This technical & solutions architect position at FirstRand was posted on 2026-07-09.
+This technical & solutions architect position at FirstRand was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

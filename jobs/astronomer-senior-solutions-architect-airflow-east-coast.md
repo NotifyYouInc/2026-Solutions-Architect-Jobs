@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/71eae7f2-88c4-423f-bae7-d253f20d6977) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/4e0ee166-f2d6-4da2-8d5e-334187f82bf1) |
 
 ## About This Role
 
-This technical & solutions architect position at Astronomer was posted on 2026-06-26.
+This technical & solutions architect position at Astronomer was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

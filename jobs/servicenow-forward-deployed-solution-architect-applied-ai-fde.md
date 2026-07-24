@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131533810-forward-deployed-solution-architect-applied-ai-fde) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138244019-forward-deployed-solution-architect-applied-ai-fde) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-06-10.
+This technical & solutions architect position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

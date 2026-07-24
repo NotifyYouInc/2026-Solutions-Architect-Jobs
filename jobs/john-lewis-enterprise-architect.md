@@ -5,12 +5,12 @@
 | Company | [John Lewis](https://scoutify.ai/companies/john-lewis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/London-Central-Office/Enterprise-Architect_R-200219) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/London-Central-Office/Enterprise-Architect_R-206575-1) |
 
 ## About This Role
 
-This technical & solutions architect position at John Lewis was posted on 2026-04-16.
+This technical & solutions architect position at John Lewis was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/CFIN-O2C-Solution-Architect_JR00025744) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/CFIN-O2C-Solution-Architect_JR00039459) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-02-18.
+This technical & solutions architect position at ABB was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

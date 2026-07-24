@@ -1,16 +1,16 @@
-# Solutions Architect - Vice President at Citigroup
+# Solutions Architect-Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/PLOT-NO-1-SNO-77/Solutions-Architect---Vice-President_26937878) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Solutions-Architect-Vice-President_26979717-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-02-17.
+This technical & solutions architect position at Citigroup was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Nairobi-Kenya/Solutions-Architect_2026-16049) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Johannesburg-South-Africa/Solutions-Architect_2026-16259) |
 
 ## About This Role
 
-This technical & solutions architect position at Swift was posted on 2026-06-10.
+This technical & solutions architect position at Swift was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

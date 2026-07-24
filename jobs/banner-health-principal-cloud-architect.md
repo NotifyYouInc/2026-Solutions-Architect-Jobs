@@ -5,12 +5,12 @@
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arizona, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Principal-Cloud-Architect_R4444357) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Principal-Cloud-Architect_R4448449) |
 
 ## About This Role
 
-This technical & solutions architect position at Banner Health was posted on 2026-06-08.
+This technical & solutions architect position at Banner Health was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
