@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Novi, Michigan, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Lead-Brand-Architect---Car-Audio_R-53852-2026-1) |
+| Category | Brand Marketing |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Lead-Brand-Architect-Car-Audio/32017) |
 
 ## About This Role
 
-This technical & solutions architect position at HARMAN International was posted on 2026-06-24.
+This brand marketing position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

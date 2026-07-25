@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axiom](https://scoutify.ai/companies/axiom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8612676002&gh_jid=8612676002) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8638501002&gh_jid=8638501002) |
 
 ## About This Role
 
-This technical & solutions architect position at Axiom was posted on 2026-06-29.
+This software engineer position at Axiom was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Midrand, Gauteng, South Africa |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Technical-Architect-Manager_14042868) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Technical-Architect-Manager_14533074) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-05-20.
+This technical & solutions architect position at Accenture was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

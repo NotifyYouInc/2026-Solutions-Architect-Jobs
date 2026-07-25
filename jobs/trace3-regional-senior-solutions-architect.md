@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trace3](https://scoutify.ai/companies/trace3?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/7993619) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/8072838) |
 
 ## About This Role
 
-This technical & solutions architect position at Trace3 was posted on 2026-06-09.
+This technical & solutions architect position at Trace3 was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

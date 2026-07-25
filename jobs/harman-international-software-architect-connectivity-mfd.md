@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ulm, Baden-Wurttemberg, Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Ulm---Baden-Wurttemberg-Germany/Software-Architect--Connectivity--m-f-d-_R-51428-2026) |
+| Category | Software Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Architect-Connectivity-m-f-d/30795) |
 
 ## About This Role
 
-This technical & solutions architect position at HARMAN International was posted on 2026-03-19.
+This software engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

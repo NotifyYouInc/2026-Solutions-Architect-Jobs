@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Ohio/Lead-Architect_SR-40976-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Lead-Architect_SR-42987-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Fractal was posted on 2026-04-14.
+This technical & solutions architect position at Fractal was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

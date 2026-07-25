@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Oegstgeest, South Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000137740389-solution-architect-supply-chain-solutions) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000138159919-solution-architect-supply-chain-solutions) |
 
 ## About This Role
 
-This technical & solutions architect position at Avery Dennison Corporation was posted on 2026-07-14.
+This technical & solutions architect position at Avery Dennison Corporation was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

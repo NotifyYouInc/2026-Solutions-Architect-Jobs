@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Tokyo, JP |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Ariake---Tokyo-Japan/System-Engineer_R-52737-2026-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/System-Engineer/31171) |
 
 ## About This Role
 
-This technical & solutions architect position at HARMAN International was posted on 2026-04-14.
+This technical & solutions architect position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

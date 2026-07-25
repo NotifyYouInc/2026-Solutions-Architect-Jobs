@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RegScale](https://scoutify.ai/companies/regscale?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/regscale/jobs/5147664007) |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/regscale/jobs/5189924007) |
 
 ## About This Role
 
-This technical & solutions architect position at RegScale was posted on 2026-05-27.
+This sales engineer position at RegScale was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

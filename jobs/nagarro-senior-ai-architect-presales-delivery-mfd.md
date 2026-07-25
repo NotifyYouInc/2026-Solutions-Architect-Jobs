@@ -6,7 +6,7 @@
 | Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000137821794-senior-ai-architect-presales-delivery-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000137842031-senior-ai-architect-presales-delivery-mfd) |
 
 ## About This Role
 

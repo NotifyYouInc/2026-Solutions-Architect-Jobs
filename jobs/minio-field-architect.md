@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MinIO](https://scoutify.ai/companies/minio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/minio/jobs/5164358008) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/minio/jobs/5290193008) |
 
 ## About This Role
 
-This technical & solutions architect position at MinIO was posted on 2026-04-23.
+This technical & solutions architect position at MinIO was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

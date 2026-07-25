@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8051483) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8072262) |
 
 ## About This Role
 
-This technical & solutions architect position at DEPT® was posted on 2026-07-08.
+This technical & solutions architect position at DEPT® was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Garching, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Garching---Bavaria-Germany---Parking-1-5-Business-Campus/Executive-Director--AI-Architecture_R-52120-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Executive-Director-AI-Architecture/30734) |
 
 ## About This Role
 
-This technical & solutions architect position at HARMAN International was posted on 2026-03-13.
+This technical & solutions architect position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

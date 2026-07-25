@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQEFtusI5jL6sBtCz-p-J7EejATcI9qaqodp401UFLCHEjsA1Ny_ix28vnSVhjW2MHKZzEMjl__YRCLHlLr7b8MlZoKQT8iSRugRnHvnHVZjqMfAohPMEU-7zEMdEg%3D%3D_V2&loc=IN&title=Platform+Customer+Engineer) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckezcEiOZ329AqkH94UHU7kckWeqeUOzDamTqfJ21PEZXEjsA1Ny_iwUTEfqBa6EcScj4RdsYOgJhMKdfGe73-E5u6SCx69OHPsBHFKoSs_ycLMqOOI6pPYZrRDGGXA%3D%3D_V2&loc=US&title=Platform+Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-02.
+This sales engineer position at Google was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
