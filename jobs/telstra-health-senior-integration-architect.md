@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Senior Integration Architect at Telstra Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [Telstra Health](https://scoutify.ai/companies/ocs-cx-oj105891?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://iaaktz.fa.ocs.oraclecloud.com/jobs/#1157) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at Telstra Health was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

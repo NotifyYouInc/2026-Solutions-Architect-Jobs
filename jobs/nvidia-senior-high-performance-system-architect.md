@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Senior High-Performance System Architect at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-High-Performance-System-Architect_JR2021493) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at Nvidia was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

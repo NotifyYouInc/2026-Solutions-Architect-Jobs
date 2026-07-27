@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Senior Manager - CrowdStrike Identity Architect at Kroll
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014350) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at Kroll was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

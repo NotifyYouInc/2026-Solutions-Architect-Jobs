@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Holly Springs, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-IS-Architect_R-234327) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Specialist-IS-Architect_R-244958) |
 
 ## About This Role
 
-This technical & solutions architect position at Amgen was posted on 2026-03-10.
+This technical & solutions architect position at Amgen was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tainan, Taiwan, Taiwan |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Tainan-TN/Solutions-Architect---_JR05179) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Taipei-TP/Solutions-Architect---_JR05294) |
 
 ## About This Role
 
-This technical & solutions architect position at Logicalis was posted on 2026-05-29.
+This technical & solutions architect position at Logicalis was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

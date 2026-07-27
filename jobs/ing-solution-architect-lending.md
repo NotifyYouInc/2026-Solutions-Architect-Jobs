@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Solution Architect Lending at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Solution-Architect-Lending_REQ-10118219) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at ING was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

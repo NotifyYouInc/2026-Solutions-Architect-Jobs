@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Enterprise Architect at Heathrow Airport
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [Heathrow Airport](https://scoutify.ai/companies/em3-cx-oj48565?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://encd.fa.em3.oraclecloud.com/jobs/#5021) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at Heathrow Airport was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

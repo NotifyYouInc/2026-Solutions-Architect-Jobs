@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# AI Gen Applied Architect at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138598939-ai-gen-applied-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at Devoteam was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

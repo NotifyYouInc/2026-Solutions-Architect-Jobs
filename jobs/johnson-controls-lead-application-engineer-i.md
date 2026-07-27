@@ -1,16 +1,16 @@
-# Senior Technical Architect at Salesforce
+# Lead. Application Engineer I at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Architect_JR352317) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Lead-Application-Engineer-I_WD30274727) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-20.
+This software engineer position at Johnson Controls was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

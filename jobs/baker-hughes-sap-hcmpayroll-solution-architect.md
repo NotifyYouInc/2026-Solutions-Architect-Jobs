@@ -1,12 +1,12 @@
-# Digital Technology Senior Specialist - Solution Architecture at Baker Hughes
+# SAP HCM/Payroll Solution Architect at Baker Hughes
 
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Senior-Specialist---Solution-Architecture_R166443) |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/SAP-HCM-Payroll-Solution-Architect_R166461) |
 
 ## About This Role
 

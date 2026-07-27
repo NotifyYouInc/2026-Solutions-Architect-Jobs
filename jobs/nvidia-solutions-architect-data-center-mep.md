@@ -1,16 +1,16 @@
-# Senior Technical Architect at Salesforce
+# Solutions Architect, Data Center MEP at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Architect_JR352317) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Solutions-Architect--Data-Center-MEP_JR2021050) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-20.
+This technical & solutions architect position at Nvidia was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

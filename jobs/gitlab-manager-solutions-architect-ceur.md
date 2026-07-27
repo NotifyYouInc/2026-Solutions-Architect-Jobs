@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Manager, Solutions Architect - CEUR at GitLab
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8626770002) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at GitLab was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

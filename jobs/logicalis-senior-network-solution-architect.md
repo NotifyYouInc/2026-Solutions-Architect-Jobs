@@ -1,16 +1,16 @@
-# Senior Product Architect at Endava
+# Senior Network Solution Architect at Logicalis
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138601609-senior-product-architect) |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Golden-Agri-Plaza-SG/Senior-Network-Solution-Architect_JR05335) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-20.
+This technical & solutions architect position at Logicalis was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
