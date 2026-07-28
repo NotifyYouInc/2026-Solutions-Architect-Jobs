@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altaml](https://scoutify.ai/companies/altaml?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/altaml/f373dee9-0ec8-43b6-8618-c6eac1a31366) |
+| Location | Calgary, Alberta, Canada |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.lever.co/altaml/1573be02-6081-43c8-9460-bf4a7a69cdf2) |
 
 ## About This Role
 
-This ai / ml research position at Altaml was posted on 2026-04-17.
+This technical & solutions architect position at Altaml was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

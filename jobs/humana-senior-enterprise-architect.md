@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Enterprise-Architect_R-417655) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Enterprise-Architect_R-422774) |
 
 ## About This Role
 
-This technical & solutions architect position at Humana was posted on 2026-06-01.
+This technical & solutions architect position at Humana was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

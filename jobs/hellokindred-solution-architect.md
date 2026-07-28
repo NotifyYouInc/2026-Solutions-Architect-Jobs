@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Telford, England, United Kingdom |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011469536-solution-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014181676-solution-architect) |
 
 ## About This Role
 
-This solutions architect position at HelloKindred was posted on 2026-02-02.
+This technical & solutions architect position at HelloKindred was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Contagem, Minas Gerais, Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014006929-sr-software-architect) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014169876-sr-software-architect) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-07-09.
+This software engineer position at Wabtec was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

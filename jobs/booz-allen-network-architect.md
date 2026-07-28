@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Network-Architect_R0235061) |
+| Location | 5 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Network-Architect_R0244905) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-03.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

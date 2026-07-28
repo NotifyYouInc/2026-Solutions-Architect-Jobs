@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Tencent-Cloud---Senior-Pre-sales-Solution-Architect--Malaysia-_R107538-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Tencent-Cloud---Senior-Pre-sales-Solution-Architect--Malaysia-_R107786) |
 
 ## About This Role
 
-This technical & solutions architect position at Tencent was posted on 2026-05-31.
+This technical & solutions architect position at Tencent was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

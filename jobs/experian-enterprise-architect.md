@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138078757-enterprise-architect) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138822909-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-07-16.
+This technical & solutions architect position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

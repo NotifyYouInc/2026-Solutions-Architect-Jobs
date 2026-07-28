@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381987/solutions-architect-web3) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479738/solutions-architect-web3) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-04-02.
+This technical & solutions architect position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

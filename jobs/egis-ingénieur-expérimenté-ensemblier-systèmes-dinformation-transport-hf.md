@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Guyancourt, Île-de-France, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000138116164-ingenieur-experimente-ensemblier-systemes-dinformation-transport-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000138136501-ingenieur-experimente-ensemblier-systemes-dinformation-transport-hf) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Solution-Architect_JR_00138087) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Leidseveer-50/Solution-Architect_JR_00142406-1) |
 
 ## About This Role
 
-This devops engineer position at Rabobank was posted on 2026-03-17.
+This technical & solutions architect position at Rabobank was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

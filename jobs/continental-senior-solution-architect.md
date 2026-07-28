@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Portugal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000132799500-senior-solution-architect) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000138647847-senior-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Continental was posted on 2026-06-18.
+This technical & solutions architect position at Continental was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

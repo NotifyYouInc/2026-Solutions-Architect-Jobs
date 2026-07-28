@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Assago, Lombardy, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5615332-S2058513-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/AI-Infrastructure-Architect_R00344222) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-15.
+This technical & solutions architect position at Accenture was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

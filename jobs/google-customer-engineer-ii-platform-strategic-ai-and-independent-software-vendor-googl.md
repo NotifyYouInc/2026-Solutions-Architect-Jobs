@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR6oODrxrLQ3iZ8VO7IcJBSumJ3BT73vQOUbR1nXFSzeEjsACxwdTOB-qkhtaP4B2gEwFoxJQ3osw-Bv4rV7aUCXdgGF3NN85Twt9yvmoa3taQnhb6xmTw2jHOLcWg%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
+| Category | Sales Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeDO5yQ4-BUWGUtoJq8ir9kZBGlrR-IFchm1pksK-RBXEjsA1Ny_i2y_oAFdfFLs0M6GvIA_CPqFz5Xp7heT46mzaKJgOoWhpK9Vl9QVLkgG3oUpm57US1obAVj-0w%3D%3D_V2&loc=US&title=Customer+Engineer+II) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-02.
+This sales engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

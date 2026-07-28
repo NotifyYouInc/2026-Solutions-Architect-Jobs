@@ -5,12 +5,12 @@
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000126676722-aws-cloud-architect-mfd) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000138809515-aws-cloud-architect-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-05-15.
+This technical & solutions architect position at T-Systems International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
