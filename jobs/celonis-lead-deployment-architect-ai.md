@@ -1,16 +1,16 @@
-# Lead Deployment Architect - AI at Celonis
+# Lead Deployment Architect - AI  at Celonis
 
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7806523003?gh_jid=7806523003) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7796205003?gh_jid=7796205003) |
 
 ## About This Role
 
-This technical & solutions architect position at Celonis was posted on 2026-07-16.
+This technical & solutions architect position at Celonis was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

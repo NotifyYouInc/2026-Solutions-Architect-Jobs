@@ -5,12 +5,12 @@
 | Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arnhem, Gelderland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/ARNHEM/Technical-Solution-Lead_JR18645) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/ARNHEM/Technical-Solution-Lead_JR19219) |
 
 ## About This Role
 
-This technical & solutions architect position at Alliander was posted on 2026-05-08.
+This technical & solutions architect position at Alliander was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

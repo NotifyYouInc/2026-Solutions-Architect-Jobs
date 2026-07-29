@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Salvador, San Salvador Department, El Salvador |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000127721139-nodejs-application-architect) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000138909985-nodejs-application-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Applaudo Studios was posted on 2026-05-21.
+This technical & solutions architect position at Applaudo Studios was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

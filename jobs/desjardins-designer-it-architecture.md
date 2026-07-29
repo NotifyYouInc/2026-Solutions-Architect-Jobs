@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-architecture-de-Solution-Applicative--Plateformes-d-assurances-commerciales_R2602872) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Concepteur-ou-conceptrice-de-services-d-automatisation_R2609051) |
 
 ## About This Role
 
-This technical & solutions architect position at Desjardins was posted on 2026-03-17.
+This technical & solutions architect position at Desjardins was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

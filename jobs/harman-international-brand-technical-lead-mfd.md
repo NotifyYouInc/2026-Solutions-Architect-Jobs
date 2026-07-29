@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Garching, Bavaria, Germany |
-| Category | Brand Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Garching---Bavaria-Germany---Parking-1-5-Business-Campus/Brand-Technical-Lead--m-f-d-_R-53235-2026-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Brand-Technical-Lead-m-f-d/31684) |
 
 ## About This Role
 
-This brand marketing position at HARMAN International was posted on 2026-05-28.
+This software engineer position at HARMAN International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

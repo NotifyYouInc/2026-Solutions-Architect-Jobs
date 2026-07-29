@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8013623?gh_jid=8013623) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8013611?gh_jid=8013611) |
 
 ## About This Role
 
-This technical & solutions architect position at Ripple was posted on 2026-06-25.
+This sales engineer position at Ripple was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

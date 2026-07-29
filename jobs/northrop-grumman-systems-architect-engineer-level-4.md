@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Redondo Beach, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Architect-Engineer---Level-4_R10236976) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Systems-Architect-Engineer---Level-4_R10241131-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Northrop Grumman was posted on 2026-06-18.
+This technical & solutions architect position at Northrop Grumman was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

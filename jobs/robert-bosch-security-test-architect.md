@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125306479-security-test-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138989957-security-test-architect) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-08.
+This technical & solutions architect position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

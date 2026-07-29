@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/AI-Solutions-Architect--Remote-_R1531707) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/AI-Solutions-Architect--Remote-_R1540616-1) |
 
 ## About This Role
 
-This technical & solutions architect position at IQVIA was posted on 2026-07-09.
+This technical & solutions architect position at IQVIA was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

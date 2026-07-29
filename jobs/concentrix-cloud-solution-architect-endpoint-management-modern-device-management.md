@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Italy---Work-at-Home/Cloud-Solution-Architect---Endpoint-Management---Modern-Device-Management_R1745948-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Italy---Work-at-Home/Cloud-Solution-Architect---Endpoint-Management---Modern-Device-Management_R1748013) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-07-10.
+This technical & solutions architect position at Concentrix was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

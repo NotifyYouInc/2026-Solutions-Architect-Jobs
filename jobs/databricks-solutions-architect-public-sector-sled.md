@@ -1,16 +1,16 @@
-# Solutions Architect - Public Sector (SLED)  at Databricks
+# Solutions Architect - Public Sector (SLED) at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8522044002) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8633741002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-05-12.
+This technical & solutions architect position at Databricks was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

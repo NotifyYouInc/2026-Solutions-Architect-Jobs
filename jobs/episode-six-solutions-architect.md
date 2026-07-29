@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Episode Six](https://scoutify.ai/companies/episode-six?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/episodesix/jobs/6117852004) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/episodesix/jobs/6121533004) |
 
 ## About This Role
 
-This technical & solutions architect position at Episode Six was posted on 2026-07-16.
+This technical & solutions architect position at Episode Six was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

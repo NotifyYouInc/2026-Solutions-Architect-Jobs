@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Agile-Tools-Architect_329251) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Agile-Tools-Architect_329269-1) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-07-17.
+This technical & solutions architect position at CACI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

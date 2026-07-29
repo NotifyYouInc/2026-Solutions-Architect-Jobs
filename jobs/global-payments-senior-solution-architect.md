@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Alpharetta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Alpharetta-Georgia-USA/Senior-Solution-Architect_R0069939) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Senior-Solution-Architect_R0072441) |
 
 ## About This Role
 
-This technical & solutions architect position at Global Payments was posted on 2026-02-16.
+This technical & solutions architect position at Global Payments was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
