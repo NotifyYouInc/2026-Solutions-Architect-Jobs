@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000128478365-technical-solutions-consultant-pre-sales) |
+| Location | Luxembourg |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000139242030-technical-solutions-consultant-pre-sales) |
 
 ## About This Role
 
-This implementation / professional services position at Avaloq was posted on 2026-05-26.
+This sales engineer position at Avaloq was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

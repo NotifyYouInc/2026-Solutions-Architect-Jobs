@@ -5,12 +5,12 @@
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Principal-Solution-Architect_JR112385) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Principal-Solution-Architect_JR112478-1) |
 
 ## About This Role
 
-This technical & solutions architect position at PTC was posted on 2026-06-25.
+This technical & solutions architect position at PTC was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000138609949-technical-architect-sap-s4hana-finance-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000138641305-technical-architect-sap-s4hana-finance-mfd) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# CYS – Solution Architect – POF at Leonardocompany
+# CYS - Solution Architect - POF at Leonardocompany
 
 | Field | Details |
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Campi Bisenzio, Tuscany, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Firenze---Campi-Bisenzio/CYS---Solution-Architect---POF_R0025391) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Firenze---Campi-Bisenzio/CYS---Solution-Architect---POF_R0031630) |
 
 ## About This Role
 
-This technical & solutions architect position at Leonardocompany was posted on 2026-06-26.
+This technical & solutions architect position at Leonardocompany was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

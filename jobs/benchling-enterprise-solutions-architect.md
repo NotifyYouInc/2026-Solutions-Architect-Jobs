@@ -5,12 +5,12 @@
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/1499952b-deb2-48c4-9de6-f158e77c58ef) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/8f47c31f-4fd1-4108-92c0-98fc85feb7b0) |
 
 ## About This Role
 
-This technical & solutions architect position at Benchling was posted on 2026-04-24.
+This technical & solutions architect position at Benchling was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

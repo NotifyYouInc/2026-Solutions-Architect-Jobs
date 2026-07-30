@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Salesforce-Solution-Architect_R012871) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Mexico/Salesforce-Solution-Architect_R013873) |
 
 ## About This Role
 
-This technical & solutions architect position at SailPoint Technologies was posted on 2026-06-11.
+This technical & solutions architect position at SailPoint Technologies was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

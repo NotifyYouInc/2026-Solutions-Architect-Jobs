@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138379034-analog-mix-signal-systems-modeling-architect) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138858879-analog-mix-signal-systems-modeling-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Renesas Electronics was posted on 2026-07-17.
+This technical & solutions architect position at Renesas Electronics was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Principal-Architect_R0788549) |
+| Location | Texas, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Principal-Architect_R0969803-1) |
 
 ## About This Role
 
-This technical & solutions architect position at CVS Health was posted on 2026-05-14.
+This ai / llm engineer position at CVS Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

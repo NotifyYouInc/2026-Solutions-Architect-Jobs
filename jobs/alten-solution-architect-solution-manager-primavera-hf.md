@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bezons, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132157759-solution-architect-solution-manager-primavera-hf) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139110442-solution-architect-solution-manager-primavera-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN was posted on 2026-06-15.
+This technical & solutions architect position at ALTEN was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

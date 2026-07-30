@@ -1,16 +1,16 @@
-# Cloud Architect (Technical Cloud Training Expert) for T-Cloud Public (m/f/d) at Deutsche Telekom IT Solutions Slovakia
+# Cloud Architect (Technical Cloud Training Expert) for T Cloud Public (m/f/d) at Deutsche Telekom IT Solutions Slovakia
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129682949-cloud-architect-technical-cloud-training-expert-for-t-cloud-public-mfd) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000139052190-cloud-architect-technical-cloud-training-expert-for-t-cloud-public-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-02.
+This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

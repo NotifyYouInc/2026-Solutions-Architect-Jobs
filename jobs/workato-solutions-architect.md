@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8459948002) |
+| Location | Palo Alto, California, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8561580002#open-roles) |
 
 ## About This Role
 
-This technology / it consulting position at Workato was posted on 2026-03-30.
+This technical & solutions architect position at Workato was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

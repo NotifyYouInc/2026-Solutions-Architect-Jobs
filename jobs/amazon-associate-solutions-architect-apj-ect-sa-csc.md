@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Tokyo, JP |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478315/associate-solutions-architect-apj-ect-sa-csc) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479607/associate-solutions-architect-apj-ect-sa-csc) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-07-20.
+This technical & solutions architect position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

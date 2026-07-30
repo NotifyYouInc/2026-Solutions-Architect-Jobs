@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Program-Architect_JR343141) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Program-Architect_JR352800-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-19.
+This technical & solutions architect position at Salesforce was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

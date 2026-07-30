@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8388469002) |
+| Location | Palo Alto, California, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8516233002#open-roles) |
 
 ## About This Role
 
-This solutions architect position at Workato was posted on 2026-02-04.
+This technical & solutions architect position at Workato was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

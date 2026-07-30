@@ -5,12 +5,12 @@
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-Architect_JR1083966) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-Architect_JR1084561-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadridge was posted on 2026-07-01.
+This technical & solutions architect position at Broadridge was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

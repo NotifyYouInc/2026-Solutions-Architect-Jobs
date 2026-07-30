@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Staff-Software-Architect_R5045865-2) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/West-Melbourne/Staff-Software-Architect_R5047757) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-06-26.
+This software engineer position at GE Vernova was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
