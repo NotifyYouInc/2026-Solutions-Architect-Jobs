@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pennsylvania, US |
+| Location | Arkansas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Senior-Architect_J283098-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Senior-Architect_J284063) |
 
 ## About This Role
 
-This technical & solutions architect position at Highmark Health was posted on 2026-07-16.
+This technical & solutions architect position at Highmark Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

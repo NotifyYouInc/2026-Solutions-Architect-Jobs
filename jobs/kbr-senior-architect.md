@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Senior-Architect_R2121641) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Senior-Architect_R2127175-1) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-04-15.
+This technical & solutions architect position at KBR was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

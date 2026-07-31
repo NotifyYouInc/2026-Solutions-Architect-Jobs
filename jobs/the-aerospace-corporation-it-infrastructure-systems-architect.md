@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | El Segundo, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IT-Infrastructure-Systems-Architect_R014678) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IT-Infrastructure-Systems-Architect_R015680) |
 
 ## About This Role
 
-This devops engineer position at The Aerospace Corporation was posted on 2026-03-16.
+This technical & solutions architect position at The Aerospace Corporation was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

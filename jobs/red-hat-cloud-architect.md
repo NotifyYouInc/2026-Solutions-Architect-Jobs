@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-UK/Cloud-Architect_R-057167) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mexico-City/Cloud-Architect_R-058120-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-02.
+This technical & solutions architect position at Red Hat was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

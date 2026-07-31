@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Architecture-Sr-Lead-Analyst---Senior-Vice-President_26970031) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Architecture-Sr-Lead-Analyst---Senior-Vice-President_26979978) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-06-16.
+This technical & solutions architect position at Citigroup was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

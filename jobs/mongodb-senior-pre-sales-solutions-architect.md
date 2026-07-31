@@ -1,16 +1,16 @@
-#  Senior Pre-Sales Solutions Architect at MongoDB
+# Senior Pre-Sales Solutions Architect at MongoDB
 
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7547415) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7719062) |
 
 ## About This Role
 
-This solutions architect position at MongoDB was posted on 2026-02-02.
+This technical & solutions architect position at MongoDB was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

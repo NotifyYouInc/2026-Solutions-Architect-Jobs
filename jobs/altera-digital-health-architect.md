@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | North Carolina, US |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/North-Carolina-United-States/Architect_R0043630-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Architect_R0039180-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Altera Digital Health was posted on 2026-05-11.
+This technical & solutions architect position at Altera Digital Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

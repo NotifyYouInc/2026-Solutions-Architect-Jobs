@@ -1,16 +1,16 @@
-# Success Architect - Slack at Salesforce
+# Success Architect-Slack at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Success-Architect---Slack_JR350401) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Success-Architect-Slack_JR352239) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-16.
+This technical & solutions architect position at Salesforce was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

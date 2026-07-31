@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Body-Structures-System-Architect_JR-202603737) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Body-Structures-System-Architect_JR-202615539-1) |
 
 ## About This Role
 
-This engineering manager position at General Motors was posted on 2026-04-22.
+This technical & solutions architect position at General Motors was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

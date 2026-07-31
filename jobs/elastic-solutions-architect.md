@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8011777&gh_jid=8011777) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-05-08.
+This technical & solutions architect position at Elastic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

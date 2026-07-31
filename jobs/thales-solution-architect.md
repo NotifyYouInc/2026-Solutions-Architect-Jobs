@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Cheadle, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Solution-Architect_R0318964-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cheadle/Solution-Architect_R0334232) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-04-10.
+This technical & solutions architect position at Thales was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

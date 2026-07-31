@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Asunción, Asunción, Paraguay |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Asuncion-Paraguay/Solutions-Engineer_JR104498) |
+| Location | Not specified |
+| Category | Sales Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Solutions-Engineer_JR104656) |
 
 ## About This Role
 
-This customer success position at Infobip was posted on 2026-05-21.
+This sales engineer position at Infobip was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

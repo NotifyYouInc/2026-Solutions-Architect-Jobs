@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWm1srxUD10n_ZMd0nLDUwhNSUVHbkO89JjqzNulWhZ6EjsACxwdTM__uyT1MSVtjFsKJI_YX_IeMg2RlTtUDQiJ-rf3l36uvqypyr8RqJkawZAGT8ofoIoWYWeigQ%3D%3D_V2&loc=PL&title=Product+Solutions+Engineer) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY1dy1JbyHheUWc3nzHodsGIbqU397jADf3IvVphZlM6EjsA1Ny_iyxMyshk3uZQBbuAgHF2VIVZira10bEFdRHkXwea8fm3LQQrdvF-vuEp-g4b5V7q8LWJDht_JA%3D%3D_V2&loc=PL&title=Product+Solutions+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-13.
+This sales engineer position at Google was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

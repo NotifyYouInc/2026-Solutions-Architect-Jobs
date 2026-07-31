@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Toronto, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSv3E_zVkyjBGUOtoTqSI9z6gcOynauMe0W4dfi0REE3EjsACxwdTMASHbgStDGzGOfZykA0LVaSCVuEkDJPT3tcL9ynv7-MSaigR3JkViOCtqmOR1uIr7uQ_2ryaQ%3D%3D_V2&loc=CA&title=Platform+Solutions+Architect+III) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUOeORJEqJF6jlXAhEO5fgGZxAyv_gv8gBhGhEsXJbByEjsA1Ny_i1_uKjJ2YjpccGUAzXb_rNhcVgWuVrVMHnBlHQjrpbP-Yt6CpZuQMyDN0xOVdAoAr310lZ1MJg%3D%3D_V2&loc=CA&title=Platform+Solutions+Architect+III) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-11.
+This technical & solutions architect position at Google was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vietnam |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ1S5u36Ir_3HUOixYoOjoG1RkgDs8Z66YHK1N2YVq9LEjsACxwdTOFn8jrAhqxAb1njceITicK48NlUzgRoGuEnyY2aDU5LsZoK28CSJukasph3bxynCEa3WFPt7w%3D%3D_V2&loc=VN&title=Customer+Solutions+Consultant) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Sales Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ6AhY8EIGdXzoOMvr8s9pFBuXs-0Gevob6MDniphj68EjsA1Ny_i9jCn464gGiFt09oXcghQjjD4uT2mTfqnY0FFM0xP4xqbsl_eT7lFvB9Pc8_FNiFJ-ZjxXTW3Q%3D%3D_V2&loc=PH&title=Customer+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-06-02.
+This sales engineer position at Google was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473317/solution-architect-frontier-ai-startups) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483300/solution-architect-frontier-ai-startups) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-07-14.
+This technical & solutions architect position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

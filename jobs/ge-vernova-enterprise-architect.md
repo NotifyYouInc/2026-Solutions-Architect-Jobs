@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Bellevue, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Cambridge/Enterprise-Architect_R5045016-2) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/Enterprise-Architect_R5047858-2) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-07-03.
+This technical & solutions architect position at GE Vernova was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
