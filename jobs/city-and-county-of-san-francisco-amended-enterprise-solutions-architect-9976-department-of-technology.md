@@ -5,12 +5,12 @@
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990014118581-amended-enterprise-solutions-architect-9976-department-of-technology) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990014281526-amended-enterprise-solutions-architect-9976-department-of-technology) |
 
 ## About This Role
 
-This technical & solutions architect position at City and County of San Francisco was posted on 2026-07-15.
+This technical & solutions architect position at City and County of San Francisco was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Platform-Architect_R-273993-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Architect_R-282719) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-03-26.
+This technical & solutions architect position at Mastercard was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

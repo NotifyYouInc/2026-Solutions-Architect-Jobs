@@ -5,12 +5,12 @@
 | Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Brisbane-Queensland/Senior-IT-Architect_REQ_47314) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Wellington/Senior-IT-Architect_REQ_49565-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cubic was posted on 2026-05-14.
+This technical & solutions architect position at Cubic was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

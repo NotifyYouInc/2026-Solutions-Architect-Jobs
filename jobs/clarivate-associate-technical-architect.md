@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Ann Arbor, Michigan, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Associate-Technical-Architect_JREQ135337) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Associate-Technical-Architect_JREQ136148) |
 
 ## About This Role
 
-This technical & solutions architect position at Clarivate was posted on 2026-04-01.
+This technical & solutions architect position at Clarivate was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

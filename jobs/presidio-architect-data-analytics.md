@@ -5,12 +5,12 @@
 | Company | [Presidio](https://scoutify.ai/companies/recruiting-ultipro-com-oj87519?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://recruiting.ultipro.com/pre1019prsd/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/OpportunityDetail?opportunityId=28380253-63de-4769-9760-4e022023175e) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://recruiting.ultipro.com/pre1019prsd/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/OpportunityDetail?opportunityId=03588555-ec36-4f4b-819d-00a4dafa11ab) |
 
 ## About This Role
 
-This technical & solutions architect position at Presidio was posted on 2026-06-23.
+This technical & solutions architect position at Presidio was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

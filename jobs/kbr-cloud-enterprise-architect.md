@@ -1,16 +1,16 @@
-# Cloud Enterprise Architect at KBR
+# Cloud Enterprise architect at KBR
 
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Chantilly, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Cloud-Enterprise-Architect_R2124468) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Cloud-Enterprise-architect_R2127243-1) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-06-01.
+This technical & solutions architect position at KBR was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

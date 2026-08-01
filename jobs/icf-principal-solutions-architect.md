@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Principal-Solutions-Architect_R2601113) |
+| Location | Washington, District of Columbia, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Washington-DC/Principal-Solutions-Architect_R2602168) |
 
 ## About This Role
 
-This strategy / management consulting position at ICF was posted on 2026-03-30.
+This technical & solutions architect position at ICF was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

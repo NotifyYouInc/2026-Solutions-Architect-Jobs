@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warner Robins, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Infrastructure-Architect--Mid_R0244396) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Infrastructure-Architect--Mid_R0245279) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-07-16.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
