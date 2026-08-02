@@ -1,16 +1,16 @@
-# Principal Enterprise Architect at Celonis
+# Architecte Data & AI Senior - F/H - CDI at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7800476003?gh_jid=7800476003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139827269-architecte-data-ai-senior-fh-cdi) |
 
 ## About This Role
 
-This technical & solutions architect position at Celonis was posted on 2026-07-25.
+This technical & solutions architect position at Talan was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

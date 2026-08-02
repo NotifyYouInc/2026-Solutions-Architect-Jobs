@@ -1,16 +1,16 @@
-# Applications Architect at City of New York
+# Specialist Solution Architect - App Platform at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014282666-applications-architect) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/New-York-1/Specialist-Solution-Architect---App-Platform_R-058297-2) |
 
 ## About This Role
 
-This technical & solutions architect position at City of New York was posted on 2026-07-25.
+This technical & solutions architect position at Red Hat was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000139004525-oracle-fusion-finance-solution-architect) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000139861969-oracle-fusion-finance-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at btranzsoftware was posted on 2026-07-22.
+This technical & solutions architect position at btranzsoftware was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
