@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127665640-solution-architect-microsoft-netazure-cloud) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139938479-solution-architect-microsoft-netazure-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-05-21.
+This technical & solutions architect position at Experian was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

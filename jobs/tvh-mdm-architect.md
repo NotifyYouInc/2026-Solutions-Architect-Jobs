@@ -1,16 +1,16 @@
-# Manager - Data & AI Platform Architect (H/F) at Wavestone
+# MDM Architect at TVH
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139948649-manager-data-ai-platform-architect-hf) |
+| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Pune/MDM-Architect_JR106317) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-07-27.
+This technical & solutions architect position at TVH was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager - Data & AI Platform Architect (H/F) at Wavestone
+# #EG Solution Architect (Databricks) at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139948649-manager-data-ai-platform-architect-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001262319-eg-solution-architect-databricks) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-07-27.
+This technical & solutions architect position at NCS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

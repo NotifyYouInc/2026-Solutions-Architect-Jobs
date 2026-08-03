@@ -1,16 +1,16 @@
-# Manager - Data & AI Platform Architect (H/F) at Wavestone
+# Chief Business Architect at FedEx
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [FedEx](https://scoutify.ai/companies/fedex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139948649-manager-data-ai-platform-architect-hf) |
+| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPOLKRKDKKRKDKKrakw/Chief-Business-Architect_RC781840-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-07-27.
+This technical & solutions architect position at FedEx was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

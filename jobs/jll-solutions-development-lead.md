@@ -1,16 +1,16 @@
-# Manager - Data & AI Platform Architect (H/F) at Wavestone
+# Solutions Development Lead at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139948649-manager-data-ai-platform-architect-hf) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Solutions-Development-Lead_REQ524229) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-07-27.
+This technical & solutions architect position at JLL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

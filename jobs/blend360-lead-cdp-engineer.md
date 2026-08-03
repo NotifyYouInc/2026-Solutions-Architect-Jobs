@@ -1,16 +1,16 @@
-# Manager - Data & AI Platform Architect (H/F) at Wavestone
+#  Lead CDP Engineer at Blend360
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139948649-manager-data-ai-platform-architect-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139931869-lead-cdp-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-07-27.
+This technical & solutions architect position at Blend360 was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

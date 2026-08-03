@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-Solutions-Architect_R-00184205-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-Solutions-Architect_R-00185498) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-05-28.
+This technical & solutions architect position at Leidos was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
