@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#310030) |
 
 ## About This Role
 
-This ai / llm engineer position at Coppel was posted on 2026-07-25.
+This machine learning engineer position at Coppel was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

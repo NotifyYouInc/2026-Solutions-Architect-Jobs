@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eridan](https://scoutify.ai/companies/eridan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/eridan/jobs/4717653005) |
 
 ## About This Role
 
-This sales engineer position at Eridan was posted on 2026-07-23.
+This technical & solutions architect position at Eridan was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Greif](https://scoutify.ai/companies/greif?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Human Resources / People Ops |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://greif.wd5.myworkdayjobs.com/greif/job/Chennai-IND/Senior-Workday---HRIS-Integrations-Architect_034869) |
 
 ## About This Role
 
-This human resources / people ops position at Greif was posted on 2026-07-24.
+This technical & solutions architect position at Greif was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

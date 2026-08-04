@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Diego, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200674016/systems-compute-architect-apple-vision-pro) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-07-24.
+This semiconductor / chip design position at Apple was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

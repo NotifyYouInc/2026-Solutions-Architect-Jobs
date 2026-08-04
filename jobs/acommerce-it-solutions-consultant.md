@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [aCommerce](https://scoutify.ai/companies/acommerce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/acommerce/jobs/6897184) |
 
 ## About This Role
 
-This sales engineer position at aCommerce was posted on 2026-07-27.
+This technical & solutions architect position at aCommerce was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pennsylvania, US |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pennsylvania-USA---Remote/Account-Technical-Lead--Regional-Accounts_26WD100066-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-07-24.
+This technical & solutions architect position at Autodesk was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

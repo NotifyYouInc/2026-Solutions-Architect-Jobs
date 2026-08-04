@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Solutions-Engineer--Back-Office-Transformation_R55336) |
 
 ## About This Role
 
-This sales engineer position at Cadence Design Systems was posted on 2026-07-24.
+This technical & solutions architect position at Cadence Design Systems was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

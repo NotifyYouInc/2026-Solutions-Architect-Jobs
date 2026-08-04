@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.esri.com/careers/5195723007?gh_jid=5195723007) |
 
 ## About This Role
 
-This sales engineer position at Esri was posted on 2026-07-24.
+This technical & solutions architect position at Esri was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

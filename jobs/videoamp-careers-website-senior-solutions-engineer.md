@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VideoAmp Careers Website](https://scoutify.ai/companies/videoamp-careers-website?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](http://videoamp.com/job?gh_jid=8649483002) |
 
 ## About This Role
 
-This sales engineer position at VideoAmp Careers Website was posted on 2026-07-24.
+This technical & solutions architect position at VideoAmp Careers Website was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

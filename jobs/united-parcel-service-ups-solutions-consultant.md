@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bielefeld, North Rhine-Westphalia, Germany |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/DE---BIELEFELD-DEBLD/Solutions-Consultant_R26025061) |
 
 ## About This Role
 
-This sales engineer position at United Parcel Service (UPS) was posted on 2026-07-26.
+This technical & solutions architect position at United Parcel Service (UPS) was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

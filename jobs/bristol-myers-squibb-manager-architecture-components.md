@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Dublin---IE/Manager--Architecture---Components_R1604338-1) |
 
 ## About This Role
 
-This devops engineer position at Bristol-Myers Squibb was posted on 2026-07-27.
+This technical & solutions architect position at Bristol-Myers Squibb was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

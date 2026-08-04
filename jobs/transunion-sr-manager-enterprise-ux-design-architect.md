@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Costa Rica |
-| Category | Technical & Solutions Architect |
+| Category | Product Designer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Sr-Manager--Enterprise-UX-Design-Architect_19041365) |
 
 ## About This Role
 
-This technical & solutions architect position at TransUnion was posted on 2026-07-24.
+This product designer position at TransUnion was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

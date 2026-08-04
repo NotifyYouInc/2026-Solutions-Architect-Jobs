@@ -5,12 +5,12 @@
 | Company | [Affinidi](https://scoutify.ai/companies/affinidi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7804463003) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7817077003) |
 
 ## About This Role
 
-This technical & solutions architect position at Affinidi was posted on 2026-07-14.
+This technical & solutions architect position at Affinidi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

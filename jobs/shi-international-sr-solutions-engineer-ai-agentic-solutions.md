@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ontario, CA |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/CA---ON---Home-Office/Sr-Solutions-Engineer---AI-Agentic-Solutions_JR3447) |
 
 ## About This Role
 
-This sales engineer position at SHI International was posted on 2026-07-24.
+This technical & solutions architect position at SHI International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Perth, Western Australia, Australia |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484255/technical-consultant-mec-team-mining-energy-commercial) |
 
 ## About This Role
 
-This sales engineer position at Amazon was posted on 2026-07-27.
+This technical & solutions architect position at Amazon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

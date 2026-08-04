@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Scottsdale, Arizona, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Solution-Architect_262252-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Scottsdale/Sr-Solution-Architect_262648) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-07-06.
+This technical & solutions architect position at Blue Yonder was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

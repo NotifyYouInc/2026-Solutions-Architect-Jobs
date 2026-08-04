@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | California, US |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-California/VP-Solutions-Consulting--DAP-INDX_R-10399531) |
 
 ## About This Role
 
-This technology / it consulting position at Fiserv was posted on 2026-07-26.
+This technical & solutions architect position at Fiserv was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

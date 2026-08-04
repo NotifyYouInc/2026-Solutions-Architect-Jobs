@@ -6,7 +6,7 @@
 | Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139285139-ps-solution-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139287539-ps-solution-architect) |
 
 ## About This Role
 

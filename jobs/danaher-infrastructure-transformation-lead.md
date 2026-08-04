@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Strategy & Operations |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bengaluru-India/Infrastructure-Transformation-Lead_R1314339) |
 
 ## About This Role
 
-This strategy & operations position at Danaher was posted on 2026-07-23.
+This technical & solutions architect position at Danaher was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

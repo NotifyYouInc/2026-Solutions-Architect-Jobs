@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU31zyBfvZEQjuvTYLAISuQ7yH2nr0Fm8e4TsxOQGZtqEjsACxwdTA0sQy5_hFHqSWTW9_8CgXeJyT00UUcraI6jsN8WxyfChx_EJiISCQVOB7DQvtOyWasORxuYqA%3D%3D_V2&loc=CA&title=Customer+Engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTPSQdRvUaqd9hJSGsIoPh_roV-JQVJlvertOP6dnITLEjsA1Ny_izhhTAwqt0Gxbcrv6KpmQ_p2D8PjYMCY8yZI0Ki4rArLUiv7qq2tdvPXIf1eJVvFJt5KZwXiGQ%3D%3D_V2&loc=SG&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-29.
+This technical & solutions architect position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Oberkochen, Baden-Wurttemberg, Germany |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Solution-Designer---Softwarearchitekt--m-w-x-_JR_1050972-1) |
 
 ## About This Role
 
-This software engineer position at Zeiss was posted on 2026-07-24.
+This technical & solutions architect position at Zeiss was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

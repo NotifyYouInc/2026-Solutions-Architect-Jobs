@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8078276) |
 
 ## About This Role
 
-This technical & solutions architect position at Waymo was posted on 2026-07-24.
+This electrical / hardware engineer position at Waymo was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

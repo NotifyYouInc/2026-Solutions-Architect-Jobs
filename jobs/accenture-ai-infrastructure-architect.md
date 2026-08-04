@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kronberg, Hesse, Germany |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Infrastructure-Architect_R00344572) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/AI-Infrastructure-Architect_ATCI-5687905-S2060478-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-23.
+This technical & solutions architect position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

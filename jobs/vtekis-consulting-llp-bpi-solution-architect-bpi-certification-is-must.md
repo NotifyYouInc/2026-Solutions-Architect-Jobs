@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000139118959-bpi-solution-architect-bpi-certification-is-must) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000139350909-bpi-solution-architect-bpi-certification-is-must) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-07-22.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

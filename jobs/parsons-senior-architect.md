@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | San Antonio, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Senior-Architect_R180363-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---TX-San-Antonio/Senior-Architect_R183769) |
 
 ## About This Role
 
-This technical & solutions architect position at Parsons was posted on 2026-04-30.
+This technical & solutions architect position at Parsons was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

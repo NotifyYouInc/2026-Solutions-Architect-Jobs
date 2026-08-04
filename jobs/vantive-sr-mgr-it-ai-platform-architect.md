@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Bangalore-Karnataka/Sr-Mgr---IT---AI-Platform-Architect_JR-196620) |
 
 ## About This Role
 
-This technical & solutions architect position at Vantive was posted on 2026-07-24.
+This machine learning engineer position at Vantive was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

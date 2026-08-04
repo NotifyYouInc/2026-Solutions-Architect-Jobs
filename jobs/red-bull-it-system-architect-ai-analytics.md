@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000139547274-it-system-architect-ai-analytics) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Bull was posted on 2026-07-24.
+This data engineer position at Red Bull was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

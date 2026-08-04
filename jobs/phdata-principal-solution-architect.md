@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7583613) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=8081883) |
 
 ## About This Role
 
-This solutions architect position at phData was posted on 2026-02-02.
+This technical & solutions architect position at phData was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santa Fe Springs, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Santa-Fe-Springs-90670/Solution-Design-Engineer_R185648-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR05---Bangalore---Office-06A113-WeWork-Galaxy-43-Residency-Road/Solution-Design-Engineer_R189310-1) |
 
 ## About This Role
 
-This technical & solutions architect position at A.P. Moller - Maersk was posted on 2026-07-02.
+This technical & solutions architect position at A.P. Moller - Maersk was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

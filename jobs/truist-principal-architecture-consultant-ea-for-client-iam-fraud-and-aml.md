@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Financial Crimes & AML |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Principal-Architecture-Consultant--EA-for-Client-IAM-Fraud-and-AML-_R0117123) |
 
 ## About This Role
 
-This financial crimes & aml position at Truist was posted on 2026-07-23.
+This technical & solutions architect position at Truist was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

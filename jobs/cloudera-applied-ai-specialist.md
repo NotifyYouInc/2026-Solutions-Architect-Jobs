@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Budapest, Budapest, Hungary |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/United-Arab-Emirates--Dubai/Applied-AI-Specialist_261091) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Applied-AI-Specialist_261095) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-07-22.
+This technical & solutions architect position at Cloudera was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

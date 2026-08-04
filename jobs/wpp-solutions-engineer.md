@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8647508002) |
 
 ## About This Role
 
-This sales engineer position at WPP was posted on 2026-07-23.
+This technical & solutions architect position at WPP was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

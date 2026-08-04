@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milford, Connecticut, United States |
-| Category | Technical & Solutions Architect |
+| Category | Actuary / Insurance Analytics |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Functional-System-Architect--FSA----VMEC-Vehicle-Dynamics-Chassis-Controls_JR-202612782) |
 
 ## About This Role
 
-This technical & solutions architect position at General Motors was posted on 2026-07-24.
+This actuary / insurance analytics position at General Motors was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Parramatta, New South Wales, Australia |
-| Category | Sales Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001261876-senior-solutions-engineer-artificial-intelligences) |
 
 ## About This Role
 
-This sales engineer position at Western Sydney University was posted on 2026-07-27.
+This machine learning engineer position at Western Sydney University was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

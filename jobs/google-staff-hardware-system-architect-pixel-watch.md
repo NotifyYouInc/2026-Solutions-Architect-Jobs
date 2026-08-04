@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcAys6GSX7Y170IVjSJcFIycQB6MjgPbXf442qXeLm8HEjsA1Ny_i6oCJUreq3WEteU1kADpWir6t35Vw243GWkbB_-LXeDRt6SIg3XCL08A8UYD6qWh69snuxpNZw%3D%3D_V2&loc=US&title=Staff+Hardware+System+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-23.
+This electrical / hardware engineer position at Google was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

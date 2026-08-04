@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/fb0143e8-23d3-4de2-8a6f-81d7e2187d89) |
 
 ## About This Role
 
-This sales engineer position at Astronomer was posted on 2026-07-24.
+This technical & solutions architect position at Astronomer was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

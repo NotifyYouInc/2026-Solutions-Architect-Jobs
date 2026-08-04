@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Atruvia](https://scoutify.ai/companies/ocs-cx-oj9736?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
-| Category | Compliance & Risk Management |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://fa-exxd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2269) |
 
 ## About This Role
 
-This compliance & risk management position at Atruvia was posted on 2026-07-27.
+This technical & solutions architect position at Atruvia was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

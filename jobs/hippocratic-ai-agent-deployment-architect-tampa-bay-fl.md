@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hippocratic AI](https://scoutify.ai/companies/hippocratic-20ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Florida, US |
-| Category | Deployment Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/hippocratic%20ai/e16f6d74-7113-4190-980a-8051e79184fd) |
 
 ## About This Role
 
-This deployment engineer position at Hippocratic AI was posted on 2026-07-24.
+This technical & solutions architect position at Hippocratic AI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

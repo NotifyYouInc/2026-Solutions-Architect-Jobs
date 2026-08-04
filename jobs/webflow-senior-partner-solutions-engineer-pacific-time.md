@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Webflow](https://scoutify.ai/companies/webflow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | British Columbia, CA |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/8075059) |
 
 ## About This Role
 
-This sales engineer position at Webflow was posted on 2026-07-23.
+This technical & solutions architect position at Webflow was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

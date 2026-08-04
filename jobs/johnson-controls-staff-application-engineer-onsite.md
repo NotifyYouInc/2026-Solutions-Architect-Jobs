@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Staff-Application-Engineer--onsite-_WD30271151) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-07-24.
+This technical & solutions architect position at Johnson Controls was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

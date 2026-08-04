@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Senior-Solutions-Consultant--Personalization_R-275745) |
 
 ## About This Role
 
-This sales engineer position at Mastercard was posted on 2026-07-23.
+This technical & solutions architect position at Mastercard was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

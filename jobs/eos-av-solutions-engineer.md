@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EOS ](https://scoutify.ai/companies/eos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8648731002) |
 
 ## About This Role
 
-This sales engineer position at EOS  was posted on 2026-07-27.
+This technical & solutions architect position at EOS  was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

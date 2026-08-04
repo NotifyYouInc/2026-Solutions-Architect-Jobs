@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Executive-Director--Chief-AI-Architect_2625988) |
 
 ## About This Role
 
-This ai / llm engineer position at Labcorp was posted on 2026-07-24.
+This machine learning engineer position at Labcorp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

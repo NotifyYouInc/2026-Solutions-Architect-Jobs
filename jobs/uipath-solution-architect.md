@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/9ab0d084-e540-4ac1-bb4e-4e8ca767113f) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/97049556-ec30-4958-b98c-f5c6ccc2ee18) |
 
 ## About This Role
 
-This technical & solutions architect position at UiPath was posted on 2026-07-06.
+This technical & solutions architect position at UiPath was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
