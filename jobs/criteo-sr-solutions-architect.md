@@ -1,16 +1,16 @@
-# Sr. Solutions Architect, at Criteo
+# Sr. Solutions Architect at Criteo
 
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/New-York/Sr-Solutions-Architect-_r20437) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/New-York/Sr-Solutions-Architect_r20818) |
 
 ## About This Role
 
-This technical & solutions architect position at Criteo was posted on 2026-03-25.
+This technical & solutions architect position at Criteo was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

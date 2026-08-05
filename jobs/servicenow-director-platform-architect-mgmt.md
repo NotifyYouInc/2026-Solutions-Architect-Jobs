@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Addison, Illinois, United States |
+| Location | San Diego, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125208027-director-platform-architect-mgmt) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140307189-director-platform-architect-mgmt) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-05-07.
+This technical & solutions architect position at ServiceNow was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

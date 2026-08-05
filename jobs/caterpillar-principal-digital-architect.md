@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Illinois, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Principal-Digital-Architect_R0000373408) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Principal-Digital-Architect_R0000381583-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar was posted on 2026-06-01.
+This technical & solutions architect position at Caterpillar was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000139544159-deployment-architect-buyer-experience-24-month-ftc) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000140048489-deployment-architect-buyer-experience-24-month-ftc) |
 
 ## About This Role
 
-This technical & solutions architect position at Informa was posted on 2026-07-24.
+This technical & solutions architect position at Informa was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

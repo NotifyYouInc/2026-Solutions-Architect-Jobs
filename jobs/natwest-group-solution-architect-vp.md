@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Solution-Architect--VP_R-00280763-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Solution-Architect--VP_R-00281488-1) |
 
 ## About This Role
 
-This technical & solutions architect position at NatWest Group was posted on 2026-06-23.
+This technical & solutions architect position at NatWest Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

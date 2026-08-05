@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/eCommerce-Sr-Front-End-Architect_R57810) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Office-India/eCommerce-Sr-Front-End-Architect_R60862) |
 
 ## About This Role
 
-This frontend engineer position at PVH was posted on 2026-02-25.
+This technical & solutions architect position at PVH was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

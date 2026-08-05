@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Applied-AI-Specialist_261095) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore--Singapore/Applied-AI-Specialist_261013) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-07-23.
+This technical & solutions architect position at Cloudera was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

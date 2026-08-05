@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443732/sr-partner-solution-architect-amazon-leo-partner-services) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486866/sr-partner-solution-architect-amazon-leo-partner-services) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-09.
+This technical & solutions architect position at Amazon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Architect-SME_R-00183439) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Network-Architect-SME_R-00188294) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-05-15.
+This technical & solutions architect position at Leidos was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Illinois, US |
+| Location | San Antonio, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Scott-AFB-IL/Solutions-Architect_R0243105) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Solutions-Architect_R0245343) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-06-26.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

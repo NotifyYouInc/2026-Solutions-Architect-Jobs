@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kentucky, US |
+| Location | 11 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Principal-Anaplan-Solutions-Architect_R-416121) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Principal-Anaplan-Solutions-Architect_R-423419) |
 
 ## About This Role
 
-This technical & solutions architect position at Humana was posted on 2026-05-12.
+This technical & solutions architect position at Humana was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

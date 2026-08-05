@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Maryland, US |
+| Location | Bethesda, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Solution-Architect_R0233522) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Solution-Architect_R0245305) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-07-14.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

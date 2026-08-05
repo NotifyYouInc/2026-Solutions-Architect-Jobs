@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Staines, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139029185-principal-presales-solution-architect) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140257539-principal-presales-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-07-22.
+This technical & solutions architect position at ServiceNow was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Agency-Application-Architect_R26-01906) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Agency-Application-Architect_R26-02403) |
 
 ## About This Role
 
-This technical & solutions architect position at Maine was posted on 2026-05-19.
+This technical & solutions architect position at Maine was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Marketing Operations |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139325760-solution-expert-marketing-platform-mfd) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000140289669-solution-expert-marketing-platform-mfd) |
 
 ## About This Role
 
-This marketing operations position at METRO/MAKRO was posted on 2026-07-23.
+This marketing operations position at METRO/MAKRO was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

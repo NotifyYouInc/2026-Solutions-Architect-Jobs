@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453450/sr-solutions-architect-retail-cpg) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486834/sr-solutions-architect-retail-cpg) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-19.
+This technical & solutions architect position at Amazon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

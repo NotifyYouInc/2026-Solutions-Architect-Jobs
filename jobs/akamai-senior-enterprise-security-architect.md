@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3554) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3604) |
 
 ## About This Role
 
-This security engineer position at Akamai was posted on 2026-07-17.
+This technical & solutions architect position at Akamai was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GEM Technologies](https://scoutify.ai/companies/gem-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Los Alamos, New Mexico, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/gem-technologies/18827ecd-24c6-4134-b8d2-82ead0b2a9f6) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gem-technologies/64854b9c-d367-4726-8662-fb4584f166a2) |
 
 ## About This Role
 
-This technical & solutions architect position at GEM Technologies was posted on 2026-07-23.
+This technical & solutions architect position at GEM Technologies was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

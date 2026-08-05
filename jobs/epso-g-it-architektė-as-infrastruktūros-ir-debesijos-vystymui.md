@@ -5,12 +5,12 @@
 | Company | [EPSO-G](https://scoutify.ai/companies/epsog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kaunas, Kaunas, Lithuania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSOG/744000131135481-it-architekte-as-infrastrukturos-ir-debesijos-vystymui) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSOG/744000140231274-it-architekte-as-infrastrukturos-ir-debesijos-vystymui) |
 
 ## About This Role
 
-This technical & solutions architect position at EPSO-G was posted on 2026-06-09.
+This technical & solutions architect position at EPSO-G was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

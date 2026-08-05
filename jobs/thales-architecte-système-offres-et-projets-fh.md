@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rungis, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Architecte-Systme-Offres-et-Projets--H-F----Rungis_R0302782-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Architecte-Systme-Offres-et-Projets-FH_R0335893-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-07-13.
+This technical & solutions architect position at Thales was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
