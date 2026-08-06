@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bolton, England, United Kingdom |
+| Location | Derby, England, United Kingdom |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000140425269-industrial-architect-nuclear) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000140431640-industrial-architect-nuclear) |
 
 ## About This Role
 

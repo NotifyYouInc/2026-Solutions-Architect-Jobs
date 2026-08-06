@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beghouconsulting](https://scoutify.ai/companies/beghouconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/3ae30738-8d36-4e91-ac89-d3b38551e96c) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/23a37c2c-9da6-496a-91a7-6922ad0630ac) |
 
 ## About This Role
 
-This strategy / management consulting position at Beghouconsulting was posted on 2026-04-16.
+This technical & solutions architect position at Beghouconsulting was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

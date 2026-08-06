@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Human Resources / People Ops |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8648043002?gh_jid=8648043002) |
 
 ## About This Role
 
-This human resources / people ops position at Lyft was posted on 2026-07-28.
+This technical & solutions architect position at Lyft was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

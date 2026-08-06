@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bremen, City state Bremen, Germany |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Avionics-Systems-Architect--D-F-M-_JR10407984) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Airbus was posted on 2026-07-28.
+This technical & solutions architect position at Airbus was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

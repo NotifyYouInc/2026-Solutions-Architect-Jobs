@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Technical-Architect_JREQ135186) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Technical-Architect_JREQ136156) |
 
 ## About This Role
 
-This technical & solutions architect position at Clarivate was posted on 2026-03-23.
+This technical & solutions architect position at Clarivate was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

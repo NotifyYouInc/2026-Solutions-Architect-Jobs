@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northwood Space](https://scoutify.ai/companies/northwoodspace?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Torrance, California, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/northwoodspace/fc27661c-cbc7-4706-943a-d9a0167894a2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Northwood Space was posted on 2026-07-27.
+This technical & solutions architect position at Northwood Space was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

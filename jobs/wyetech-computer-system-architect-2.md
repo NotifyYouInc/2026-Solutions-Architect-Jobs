@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Maryland, US |
-| Category | IT & Systems Administration |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.lever.co/wyetechllc/331d5e3f-2bec-4a8f-9070-471051cb602f) |
 
 ## About This Role
 
-This it & systems administration position at Wyetech was posted on 2026-07-28.
+This technical & solutions architect position at Wyetech was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

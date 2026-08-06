@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140338969-databrick-practice-lead) |
 
 ## About This Role
 
-This data engineer position at KMS Technology was posted on 2026-07-28.
+This technical & solutions architect position at KMS Technology was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

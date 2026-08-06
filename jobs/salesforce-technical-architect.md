@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Technical-Architect_JR342420-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea---Remote/Technical-Architect_JR353933-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-21.
+This technical & solutions architect position at Salesforce was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

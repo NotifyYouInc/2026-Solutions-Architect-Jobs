@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Costa Rica |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Sr-Staff-IT-Architect_R-01343787) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Staff-IT-Architect_R-01358870) |
 
 ## About This Role
 
-This technical & solutions architect position at Thermo Fisher Scientific was posted on 2026-03-09.
+This technical & solutions architect position at Thermo Fisher Scientific was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

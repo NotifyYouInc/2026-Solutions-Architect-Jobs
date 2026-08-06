@@ -5,12 +5,12 @@
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000140046919-solution-architect) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000140240765-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at EDF UK was posted on 2026-07-27.
+This technical & solutions architect position at EDF UK was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Enterprise-Architect--Lead_R0244270) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Enterprise-Architect--Lead_R0245635) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-07-13.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

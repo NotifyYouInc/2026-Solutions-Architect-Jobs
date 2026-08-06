@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Laconia, New Hampshire, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000135327469-application-customer-engineer-i) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000140516099-application-customer-engineer-i) |
 
 ## About This Role
 
-This technical & solutions architect position at Smiths Group was posted on 2026-07-01.
+This technical & solutions architect position at Smiths Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

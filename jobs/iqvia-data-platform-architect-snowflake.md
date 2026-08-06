@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Data-Platform-Architect--Snowflake-_R1551802-1) |
 
 ## About This Role
 
-This data engineer position at IQVIA was posted on 2026-07-28.
+This technical & solutions architect position at IQVIA was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

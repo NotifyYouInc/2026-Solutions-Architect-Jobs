@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Draper, Utah, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Lead-Architect_R202677998-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Lead-Architect_R202680390-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cox was posted on 2026-06-29.
+This technical & solutions architect position at Cox was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

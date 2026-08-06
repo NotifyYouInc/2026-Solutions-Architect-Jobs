@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8095963/?gh_jid=8095963) |
 
 ## About This Role
 
-This technical & solutions architect position at Datadog was posted on 2026-06-11.
+This technical & solutions architect position at Datadog was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

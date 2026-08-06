@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fnz](https://scoutify.ai/companies/fnz?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tunis, Tunis Governorate, Tunisia |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Tunis---Tunisia/Senior-Technical-Architect_REQ-17005) |
 
 ## About This Role
 
-This data engineer position at Fnz was posted on 2026-07-28.
+This technical & solutions architect position at Fnz was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

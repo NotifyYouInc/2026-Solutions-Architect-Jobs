@@ -5,12 +5,12 @@
 | Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7809724003) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7809725003) |
 
 ## About This Role
 
-This technical & solutions architect position at DoiT was posted on 2026-07-27.
+This technical & solutions architect position at DoiT was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

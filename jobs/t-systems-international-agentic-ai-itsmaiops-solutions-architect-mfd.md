@@ -5,12 +5,12 @@
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reus, Catalonia, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000140013772-agentic-ai-itsmaiops-solutions-architect-mfd) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000140183394-agentic-ai-itsmaiops-solutions-architect-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-07-27.
+This technical & solutions architect position at T-Systems International was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

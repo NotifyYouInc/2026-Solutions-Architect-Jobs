@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Farnborough, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Solution-Architect_51584447) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Solution-Architect_51586011) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-07-03.
+This technical & solutions architect position at DXC Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

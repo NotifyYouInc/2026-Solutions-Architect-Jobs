@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000134758629-enterprise-software-architect) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000140501119-enterprise-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at bet365 was posted on 2026-06-29.
+This technical & solutions architect position at bet365 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

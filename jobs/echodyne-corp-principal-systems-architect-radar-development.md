@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Echodyne Corp](https://scoutify.ai/companies/echodyne-corp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kirkland, Washington, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/echodynecorp/jobs/4700716006) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Echodyne Corp was posted on 2026-07-29.
+This technical & solutions architect position at Echodyne Corp was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

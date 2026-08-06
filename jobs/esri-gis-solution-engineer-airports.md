@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://www.esri.com/careers/5195181007?gh_jid=5195181007) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5196960007?gh_jid=5196960007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-07-26.
+This technical & solutions architect position at Esri was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

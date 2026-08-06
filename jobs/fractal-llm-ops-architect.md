@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | California, US |
-| Category | Machine Learning Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/California/LLM-Ops-Architect_SR-43842-1) |
 
 ## About This Role
 
-This machine learning engineer position at Fractal was posted on 2026-07-27.
+This technical & solutions architect position at Fractal was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

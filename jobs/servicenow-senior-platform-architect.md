@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Israel |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132579024-senior-platform-architect) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140447600-senior-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-06-17.
+This technical & solutions architect position at ServiceNow was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

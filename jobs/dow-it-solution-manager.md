@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/IT-Solution-Manager_R2067604) |
 
 ## About This Role
 
-This data engineer position at Dow was posted on 2026-07-28.
+This technical & solutions architect position at Dow was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Albemarle](https://scoutify.ai/companies/albemarle?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://albemarle.wd5.myworkdayjobs.com/External/job/Banglore-India/Data---Analytics-Architect_REQ-31160-2) |
 
 ## About This Role
 
-This data engineer position at Albemarle was posted on 2026-07-29.
+This technical & solutions architect position at Albemarle was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
