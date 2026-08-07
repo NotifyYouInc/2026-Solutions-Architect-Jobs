@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Principal-Data-and-AI-Architect_JR344172) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Principal-Data-and-AI-Architect_JR354244) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-06-11.
+This technical & solutions architect position at Salesforce was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

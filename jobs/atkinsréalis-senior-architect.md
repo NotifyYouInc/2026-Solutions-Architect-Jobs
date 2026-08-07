@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Exeter, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBLondonNova-North/Senior-Architect_R-159889) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBExeterAperture-West/Senior-Architect_R-159372) |
 
 ## About This Role
 
-This technical & solutions architect position at AtkinsRéalis was posted on 2026-07-21.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

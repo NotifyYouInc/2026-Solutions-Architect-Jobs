@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135230859-cloud-architect-mwd) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140722939-cloud-architect-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-07-01.
+This technical & solutions architect position at Sopra Steria was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

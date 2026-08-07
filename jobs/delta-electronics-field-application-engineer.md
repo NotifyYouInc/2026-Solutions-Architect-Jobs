@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delta Electronics](https://scoutify.ai/companies/deltaelectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
-| Category | Technical & Solutions Architect |
+| Category | Industrial Automation |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeltaElectronics/744000140454219-field-application-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Delta Electronics was posted on 2026-07-29.
+This industrial automation position at Delta Electronics was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

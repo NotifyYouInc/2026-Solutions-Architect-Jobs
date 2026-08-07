@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ultralytics](https://scoutify.ai/companies/ultralytics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ultralytics/b11b11d3-f69d-418f-8a1c-f915fe3476ed) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ultralytics/efcdc6b9-80ac-4975-b766-f105b371bd4a) |
 
 ## About This Role
 
-This technical & solutions architect position at Ultralytics was posted on 2026-07-27.
+This technical & solutions architect position at Ultralytics was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

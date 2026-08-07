@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Phaidra](https://scoutify.ai/companies/phaidra?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Australia |
-| Category | Technical & Solutions Architect |
+| Category | Industrial Automation |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/phaidra/jobs/4719607005) |
 
 ## About This Role
 
-This technical & solutions architect position at Phaidra was posted on 2026-07-29.
+This industrial automation position at Phaidra was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

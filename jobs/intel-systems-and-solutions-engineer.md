@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Systems-and-Solutions-Engineer_JR0285173) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Systems-and-Solutions-Engineer_JR0285495) |
 
 ## About This Role
 
-This technical & solutions architect position at Intel was posted on 2026-06-29.
+This technical & solutions architect position at Intel was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

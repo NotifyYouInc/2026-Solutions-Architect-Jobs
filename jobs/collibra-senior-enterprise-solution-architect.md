@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8026393) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8094341) |
 
 ## About This Role
 
-This technical & solutions architect position at Collibra was posted on 2026-06-26.
+This technical & solutions architect position at Collibra was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

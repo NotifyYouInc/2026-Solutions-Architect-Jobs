@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Senior-Solution-Architect_WD30274723) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Senior-Solution-Architect_WD30275876) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson Controls was posted on 2026-07-16.
+This technical & solutions architect position at Johnson Controls was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---New-York/Lead-Enterprise-Architect_R1120834-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Chicago/Lead-Enterprise-Architect_R1127792) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-05-01.
+This technical & solutions architect position at Dentsu was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

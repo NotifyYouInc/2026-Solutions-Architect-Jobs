@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Engineering Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Senior-Manager--Solutions-Builder_JR349033) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/Senior-Manager--Solutions-Builder_JR348355) |
 
 ## About This Role
 
-This engineering manager position at Salesforce was posted on 2026-06-30.
+This technical & solutions architect position at Salesforce was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

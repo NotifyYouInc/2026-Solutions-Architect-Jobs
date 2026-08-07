@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001170595-google-cloud-solution-architect-gcp) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001273418-google-cloud-solution-architect-gcp) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS Australia was posted on 2026-06-22.
+This technical & solutions architect position at NCS Australia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
