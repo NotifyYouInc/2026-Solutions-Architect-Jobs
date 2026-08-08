@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Lead-Enterprise-Architect--Disney-Experiences-_10154964-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Lead-Enterprise-Architect--Disney-Experiences-_10154966-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Disney was posted on 2026-07-27.
+This technical & solutions architect position at Disney was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

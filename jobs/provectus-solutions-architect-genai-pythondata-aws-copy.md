@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ukraine |
+| Location | Skopje, Grad Skopje, North Macedonia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/93548756-8101-46e5-b518-a1f2525886ae) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/6d0a3e52-ac9a-4d5d-a886-5831639fc764) |
 
 ## About This Role
 
-This technical & solutions architect position at Provectus was posted on 2026-07-27.
+This technical & solutions architect position at Provectus was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

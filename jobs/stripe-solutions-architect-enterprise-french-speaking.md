@@ -1,16 +1,16 @@
-# Solutions Architect, Enterprise, French Speaking at Stripe
+# Solutions Architect, Enterprise (French Speaking) at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7619227) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8092652) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-02-17.
+This technical & solutions architect position at Stripe was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

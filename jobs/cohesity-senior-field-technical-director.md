@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Florida---Remote/Senior-Field-Technical-Director_R03168) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Illinois---Remote/Senior-Field-Technical-Director_R04243) |
 
 ## About This Role
 
-This technical & solutions architect position at Cohesity was posted on 2026-04-21.
+This technical & solutions architect position at Cohesity was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

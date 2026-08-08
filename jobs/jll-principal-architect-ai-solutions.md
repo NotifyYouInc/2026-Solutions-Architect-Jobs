@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Principal-Architect--AI-Solutions_REQ503815) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Principal-Architect--AI-Solutions_REQ523433) |
 
 ## About This Role
 
-This technical & solutions architect position at JLL was posted on 2026-06-01.
+This technical & solutions architect position at JLL was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

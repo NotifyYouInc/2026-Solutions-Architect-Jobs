@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132869125-payments-solutions-architect) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000140967174-payments-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-06-18.
+This technical & solutions architect position at Endava was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

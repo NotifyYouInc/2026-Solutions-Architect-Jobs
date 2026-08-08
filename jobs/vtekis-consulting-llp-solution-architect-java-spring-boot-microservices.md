@@ -6,7 +6,7 @@
 | Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140513189-solution-architect-java-spring-boot-microservices) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140530939-solution-architect-java-spring-boot-microservices) |
 
 ## About This Role
 

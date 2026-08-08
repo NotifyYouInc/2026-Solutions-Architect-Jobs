@@ -5,12 +5,12 @@
 | Company | [Swiss Life Asset Management](https://scoutify.ai/companies/swiss-life-asset-management?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://swisslife.wd3.myworkdayjobs.com/swiss_life_asset_managers_career_site/job/Lisbon/Cloud-Architect-for-Azure_R11710-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://swisslife.wd3.myworkdayjobs.com/swiss_life_asset_managers_career_site/job/Lisbon/Cloud-Architect-for-Azure_R12256) |
 
 ## About This Role
 
-This technical & solutions architect position at Swiss Life Asset Management was posted on 2026-04-21.
+This technical & solutions architect position at Swiss Life Asset Management was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

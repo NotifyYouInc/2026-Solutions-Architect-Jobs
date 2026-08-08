@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nimble Gravity](https://scoutify.ai/companies/nimble-gravity?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nimblegravity/jobs/4694144005) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nimblegravity/jobs/4720332005) |
 
 ## About This Role
 
-This technology / it consulting position at Nimble Gravity was posted on 2026-05-20.
+This technical & solutions architect position at Nimble Gravity was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

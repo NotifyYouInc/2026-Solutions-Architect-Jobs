@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140446758-embedded-iot-architect-ect) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140604893-embedded-iot-architect-ect) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-07-29.
+This technical & solutions architect position at Robert Bosch was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

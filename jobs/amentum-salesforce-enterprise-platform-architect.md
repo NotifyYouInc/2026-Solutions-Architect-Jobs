@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Salesforce-Enterprise-Platform-Architect_R0166523-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Salesforce-Enterprise-Platform-Architect_R0167251) |
 
 ## About This Role
 
-This technical & solutions architect position at Amentum was posted on 2026-07-22.
+This technical & solutions architect position at Amentum was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

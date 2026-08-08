@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | Tampa, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---FL-MacDill-Air-Force-Base/Lead-Systems-Engineering-Architect---TS-SCI_R178962-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---FL-MacDill-Air-Force-Base/Lead-Systems-Engineering-Architect---TS-SCI_R184145-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Parsons was posted on 2026-04-07.
+This technical & solutions architect position at Parsons was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

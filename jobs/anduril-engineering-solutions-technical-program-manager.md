@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5177558007?gh_jid=5177558007) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5200591007?gh_jid=5200591007) |
 
 ## About This Role
 
-This technical & solutions architect position at Anduril was posted on 2026-06-30.
+This technical & solutions architect position at Anduril was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---New-York/Lead-Functional-Architect_R1125254) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---New-York/Lead-Functional-Architect_R1128226) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-06-24.
+This technical & solutions architect position at Dentsu was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138862099-cloud-architect-mwd) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000140922129-cloud-architect-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-21.
+This technical & solutions architect position at Devoteam was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

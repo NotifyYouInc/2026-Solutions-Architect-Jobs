@@ -1,16 +1,16 @@
-# Data Domain Architect- Associate at JPMorgan Chase
+# Data Domain Architect - Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770102) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773757) |
 
 ## About This Role
 
-This technical & solutions architect position at JPMorgan Chase was posted on 2026-07-28.
+This technical & solutions architect position at JPMorgan Chase was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
