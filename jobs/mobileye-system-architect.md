@@ -1,16 +1,16 @@
-# SAP Digital Manufacturing Architect, AWS FinTech at Amazon
+# System Architect at Mobileye
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Jerusalem, Jerusalem, Israel |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490027/sap-digital-manufacturing-architect-aws-fintech) |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/5215cdc7-1576-48da-8c92-ca128ddf2c6e) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-08-03.
+This technical & solutions architect position at Mobileye was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

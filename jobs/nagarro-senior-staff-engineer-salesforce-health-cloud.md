@@ -1,16 +1,16 @@
-# Senior Staff Engineer, Salesforce Health Cloud at Nagarro
+# Senior Staff Engineer, salesforce health cloud at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135434705-senior-staff-engineer-salesforce-health-cloud) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141184810-senior-staff-engineer-salesforce-health-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-07-02.
+This technical & solutions architect position at Nagarro was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

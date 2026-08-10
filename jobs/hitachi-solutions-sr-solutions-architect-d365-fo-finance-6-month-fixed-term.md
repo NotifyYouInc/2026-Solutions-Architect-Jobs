@@ -1,16 +1,16 @@
-# Solution Designer- AU Citizen with Security Clearance at Accenture
+# Sr. Solutions Architect - D365 F&O (Finance) (6-Month Fixed Term) at Hitachi Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Solution-Designer--AU-Citizen-with-Security-Clearance_14275796-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000141203069-sr-solutions-architect-d365-fo-finance-6-month-fixed-term) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-08-03.
+This technical & solutions architect position at Hitachi Solutions was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

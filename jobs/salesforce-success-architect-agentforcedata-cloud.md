@@ -1,16 +1,16 @@
-# Success Architect Sales Cloud/ Platform - French or Italian Speaking at Salesforce
+# Success Architect - Agentforce/Data Cloud at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Customer Success |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Success-Architect-Sales-Cloud--Platform---French-or-Italian-Speaking_JR335896) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Success-Architect---Agentforce-Data-Cloud_JR354599) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-07-31.
+This technical & solutions architect position at Salesforce was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

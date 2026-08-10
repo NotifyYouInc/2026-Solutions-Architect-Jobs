@@ -1,4 +1,4 @@
-# SAP Digital Manufacturing Architect, AWS FinTech at Amazon
+# SAP EWM Architect, AWS FinTech at Amazon
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490027/sap-digital-manufacturing-architect-aws-fintech) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490023/sap-ewm-architect-aws-fintech) |
 
 ## About This Role
 

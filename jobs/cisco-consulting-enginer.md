@@ -1,16 +1,16 @@
-# SAP Digital Manufacturing Architect, AWS FinTech at Amazon
+# Consulting Enginer at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Minato, Wakayama, Japan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490027/sap-digital-manufacturing-architect-aws-fintech) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Consulting-Enginer_2018055) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-08-03.
+This technical & solutions architect position at Cisco was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

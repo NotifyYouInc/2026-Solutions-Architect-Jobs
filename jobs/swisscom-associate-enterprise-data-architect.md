@@ -1,16 +1,16 @@
-# SAP Digital Manufacturing Architect, AWS FinTech at Amazon
+# Associate Enterprise Data Architect at Swisscom
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bern, Bern, Switzerland |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490027/sap-digital-manufacturing-architect-aws-fintech) |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Zurich/Associate-Enterprise-Data-Architect_R-0003757-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-08-03.
+This technical & solutions architect position at Swisscom was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

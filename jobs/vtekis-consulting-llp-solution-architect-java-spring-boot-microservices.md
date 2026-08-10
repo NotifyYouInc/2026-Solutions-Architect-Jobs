@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140530939-solution-architect-java-spring-boot-microservices) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140714479-solution-architect-java-spring-boot-microservices) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-07-29.
+This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Architect, Cloud Inference Services at Nvidia
+# Solutions Architect, Graduate Program at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Solutions-Architect--Cloud-Inference-Services_JR2022206-1) |
+| Category | Leadership Development Program |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Solutions-Architect--Graduate-Program_JR2022440) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-08-03.
+This leadership development program position at Nvidia was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

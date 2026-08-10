@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001275193-solution-designer-lead-data-engineer-google-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS Australia was posted on 2026-07-31.
+This data engineer position at NCS Australia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

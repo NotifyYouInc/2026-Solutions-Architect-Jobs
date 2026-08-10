@@ -1,16 +1,16 @@
-# SAP Digital Manufacturing Architect, AWS FinTech at Amazon
+# System Test Architect at Magna
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490027/sap-digital-manufacturing-architect-aws-fintech) |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Bangalore-IN/System-Test-Architect_R00247734) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-08-03.
+This technical & solutions architect position at Magna was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

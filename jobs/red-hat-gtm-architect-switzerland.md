@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
-| Category | Technical & Solutions Architect |
+| Category | Go To Market Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Zurich---MSO/GTM-Architect-Switzerland_R-058200-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-07-30.
+This go to market engineer position at Red Hat was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

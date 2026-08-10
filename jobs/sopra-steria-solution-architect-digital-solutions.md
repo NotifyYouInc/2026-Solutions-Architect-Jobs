@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137608069-solution-architect-digital-solutions) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141195059-solution-architect-digital-solutions) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-07-14.
+This technical & solutions architect position at Sopra Steria was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
