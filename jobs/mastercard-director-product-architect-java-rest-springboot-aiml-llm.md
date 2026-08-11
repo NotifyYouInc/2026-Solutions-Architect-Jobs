@@ -1,0 +1,22 @@
+# Director Product Architect (Java, REST, SpringBoot, AI/ML, LLM) at Mastercard
+
+| Field | Details |
+|-------|---------|
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director-Product-Architect--Java--REST--SpringBoot--AI-ML--LLM-_R-286794) |
+
+## About This Role
+
+This technical & solutions architect position at Mastercard was posted on 2026-08-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

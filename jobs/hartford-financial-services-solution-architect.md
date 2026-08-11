@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Technical Writer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Solution-Architect_R2624487) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/Solution-Architect_R2626307) |
 
 ## About This Role
 
-This technical writer position at Hartford Financial Services was posted on 2026-03-23.
+This technical & solutions architect position at Hartford Financial Services was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

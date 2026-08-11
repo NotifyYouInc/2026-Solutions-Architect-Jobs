@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bogota/Junior-Solution-Architect_R-057829-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mexico-City/Junior-Solution-Architect_R-057830-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-22.
+This technical & solutions architect position at Red Hat was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

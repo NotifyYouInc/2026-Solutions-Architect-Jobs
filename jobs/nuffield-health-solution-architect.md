@@ -5,12 +5,12 @@
 | Company | [Nuffield Health](https://scoutify.ai/companies/nuffield-health?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://nuffieldhealth.wd3.myworkdayjobs.com/nh_careers/job/Epsom/Solution-Architect_JR0098384-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://nuffieldhealth.wd3.myworkdayjobs.com/nh_careers/job/Epsom/Solution-Architect_JR0099776-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Nuffield Health was posted on 2026-05-22.
+This technical & solutions architect position at Nuffield Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

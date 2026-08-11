@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Raleigh, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bogota/Senior-Account-Solution-Architect_R-057210-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Account-Solution-Architect_R-058716) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-05-30.
+This technical & solutions architect position at Red Hat was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

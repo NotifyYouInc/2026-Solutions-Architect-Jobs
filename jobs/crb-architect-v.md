@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Houston, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000139346951-architect-v) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000141347219-architect-v) |
 
 ## About This Role
 
-This technical & solutions architect position at CRB was posted on 2026-07-23.
+This technical & solutions architect position at CRB was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

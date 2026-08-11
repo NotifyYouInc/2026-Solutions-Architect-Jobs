@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore |
+| Location | Seoul, Seoul, South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bedok/Solution-Architect_R-11289) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Seoul/Solution-Architect_R-12469) |
 
 ## About This Role
 
-This technical & solutions architect position at Yokogawa was posted on 2026-05-13.
+This technical & solutions architect position at Yokogawa was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

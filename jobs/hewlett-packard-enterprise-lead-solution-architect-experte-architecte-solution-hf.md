@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Puteaux-Hauts-de-Seine-France/Lead-Solution-Architect---Expert-e--Architecte-Solution-H-F_1205812) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Puteaux-Hauts-de-Seine-France/Lead-Solution-Architect---Expert-e--Architecte-Solution-H-F_1207745-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-05-12.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

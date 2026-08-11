@@ -1,16 +1,16 @@
-# Senior Solutions Architect - Airflow (West Coast) at Astronomer
+# Senior Solutions Architect - Airflow - West Coast at Astronomer
 
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/2c8ce72d-d492-4034-8605-b0cbe210ad57) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/039cd516-5bfd-4eeb-8742-1dc6d95097db) |
 
 ## About This Role
 
-This technical & solutions architect position at Astronomer was posted on 2026-07-14.
+This technical & solutions architect position at Astronomer was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000137967729-technical-architect-enterprise-data) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000141316889-technical-architect-enterprise-data) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-07-15.
+This technical & solutions architect position at Arista Networks was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

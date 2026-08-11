@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Enterprise-Solution-Architect--TMS-_262162) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Scottsdale/Enterprise-Solution-Architect--TMS-_262748) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-06-19.
+This technical & solutions architect position at Blue Yonder was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

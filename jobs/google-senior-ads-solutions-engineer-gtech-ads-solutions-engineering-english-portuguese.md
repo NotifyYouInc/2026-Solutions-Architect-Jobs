@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX75IneF_QRNdw3s97rsY4V_mrDe5sUDCCaESohKMZqQEjsACxwdTEM_3ezokPi8GhJlRFfTLPyXlhdqCt1S6605_-hgRth3fp9qC7yvrvmTC6QyNlZXsUdYo7GgTw%3D%3D_V2&loc=BR&title=Senior+Ads+Solutions+Engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWlsb5LrrcdmiIaMf57a6xqE2Nh34RhNnUFIYhHCrO6zEjsA1Ny_i2trEq2aWX-Cay_uRhYqDrAkNb8kb8fH6XSfBop2NkJXpIrDnr48nTzjz4ZbZRjKlcPitYqX9Q%3D%3D_V2&loc=BR&title=Senior+Ads+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-25.
+This technical & solutions architect position at Google was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

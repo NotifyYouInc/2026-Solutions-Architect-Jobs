@@ -5,12 +5,12 @@
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Homeworker---UK/Solution-Architect_JR_17023) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Homeworker---UK/Solution-Architect_JR_18171-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Kainos was posted on 2026-04-27.
+This technical & solutions architect position at Kainos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

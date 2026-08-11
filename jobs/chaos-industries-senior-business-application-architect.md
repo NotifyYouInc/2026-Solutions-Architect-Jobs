@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5197879007) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5200355007) |
 
 ## About This Role
 
-This technical & solutions architect position at CHAOS Industries was posted on 2026-07-30.
+This technical & solutions architect position at CHAOS Industries was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
