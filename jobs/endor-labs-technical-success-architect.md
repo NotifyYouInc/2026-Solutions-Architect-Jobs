@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endor Labs](https://scoutify.ai/companies/endor-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/endorlabs/jobs/4706246005) |
 
 ## About This Role
 
-This technical & solutions architect position at Endor Labs was posted on 2026-08-03.
+This customer success position at Endor Labs was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

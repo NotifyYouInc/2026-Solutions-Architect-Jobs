@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000140779299-senior-cyber-architect-digital-data) |
 
 ## About This Role
 
-This technical & solutions architect position at Endeavour Group Careers was posted on 2026-07-30.
+This cybersecurity engineer position at Endeavour Group Careers was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

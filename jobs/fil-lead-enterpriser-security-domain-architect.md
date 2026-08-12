@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Cannon-Street-Office/Lead-Enterpriser-Security-Domain-Architect_J69923-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Fil was posted on 2026-07-30.
+This cybersecurity engineer position at Fil was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

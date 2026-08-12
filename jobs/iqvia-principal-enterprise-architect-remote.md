@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Wayne, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Principal-Enterprise-Architect--Remote-_R1527822) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Principal-Enterprise-Architect--Remote-_R1552973-1) |
 
 ## About This Role
 
-This technical & solutions architect position at IQVIA was posted on 2026-04-02.
+This technical & solutions architect position at IQVIA was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

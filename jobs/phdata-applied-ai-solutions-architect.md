@@ -1,16 +1,16 @@
-# Applied AI Solutions Architect at phData
+# Applied AI solutions Architect at phData
 
 | Field | Details |
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=8002644) |
+| Location | Brazil |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=8084122) |
 
 ## About This Role
 
-This ai / ml research position at phData was posted on 2026-06-18.
+This technical & solutions architect position at phData was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

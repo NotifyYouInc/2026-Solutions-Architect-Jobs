@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8091860&gh_jid=8091860) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-08-04.
+This customer success position at Elastic was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

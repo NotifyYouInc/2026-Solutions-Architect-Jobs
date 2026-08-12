@@ -1,16 +1,16 @@
-# Full Stack Architect at TD Bank
+# Full-Stack Architect at TD Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Architect_R_1494147) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Architect_R_1500813) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-07-07.
+This technical & solutions architect position at TD Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

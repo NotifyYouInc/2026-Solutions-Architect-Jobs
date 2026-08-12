@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Poznań, Greater Poland, Poland |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Poznan-Business-Garden/Enterprise-Architect---Cyber--Cloud--Data---AI_546716) |
 
 ## About This Role
 
-This technical & solutions architect position at Haleon was posted on 2026-07-31.
+This cybersecurity engineer position at Haleon was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

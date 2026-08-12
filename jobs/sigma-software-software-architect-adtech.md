@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000117029962-software-architect-adtech) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000141665189-software-architect-adtech) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Software was posted on 2026-03-26.
+This technical & solutions architect position at Sigma Software was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

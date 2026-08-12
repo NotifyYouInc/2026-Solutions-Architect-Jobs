@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000127301859-principal-engineer-sap-cloud-solution-architect) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141515770-principal-engineer-sap-cloud-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-05-19.
+This technical & solutions architect position at Nagarro was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000134990324-enterprise-infrastructure-architect-banking) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000141457669-enterprise-infrastructure-architect-banking) |
 
 ## About This Role
 
-This technical & solutions architect position at VAM Systems was posted on 2026-06-30.
+This technical & solutions architect position at VAM Systems was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

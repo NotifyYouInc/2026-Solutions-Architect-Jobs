@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Success-Architect-Sales-Cloud--Platform---French-or-Italian-Speaking_JR335896) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-31.
+This customer success position at Salesforce was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

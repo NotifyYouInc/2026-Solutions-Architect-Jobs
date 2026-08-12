@@ -5,12 +5,12 @@
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Solution-Architect--Solution-Engineering--Java-_JR0128855) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Solution-Architect--Solution-Engineering--Java-_JR0131498) |
 
 ## About This Role
 
-This technical & solutions architect position at Western Union was posted on 2026-04-16.
+This technical & solutions architect position at Western Union was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

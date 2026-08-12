@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8516233002#open-roles) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8659491002#open-roles) |
 
 ## About This Role
 
-This technical & solutions architect position at Workato was posted on 2026-07-22.
+This technical & solutions architect position at Workato was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

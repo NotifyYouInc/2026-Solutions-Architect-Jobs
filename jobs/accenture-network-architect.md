@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Network-Architect_ATCI-5544277-S2024781-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Network-Architect_14551888) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-19.
+This technical & solutions architect position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

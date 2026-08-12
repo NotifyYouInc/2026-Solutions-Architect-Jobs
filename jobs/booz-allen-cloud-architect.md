@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Lanham, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cloud-Architect_R0245871) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lanham-MD/Cloud-Architect_R0245752) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-07-30.
+This technical & solutions architect position at Booz Allen was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

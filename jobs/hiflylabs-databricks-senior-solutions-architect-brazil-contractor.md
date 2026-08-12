@@ -1,16 +1,16 @@
-# Databricks Senior Solutions Architect _ Brazil _ Contractor at Hiflylabs
+# Databricks Senior Solutions Architect _ Brazil_ Contractor at Hiflylabs
 
 | Field | Details |
 |-------|---------|
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Blumenau, Santa Catarina, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000137100846-databricks-senior-solutions-architect-brazil-contractor) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000141654329-databricks-senior-solutions-architect-brazil-contractor) |
 
 ## About This Role
 
-This technical & solutions architect position at Hiflylabs was posted on 2026-07-10.
+This technical & solutions architect position at Hiflylabs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

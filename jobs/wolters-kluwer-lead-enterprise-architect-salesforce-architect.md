@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Enterprise-Architect--Salesforce-Architect-_R0056741) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Enterprise-Architect--Salesforce-Architect-_R0059083) |
 
 ## About This Role
 
-This technical & solutions architect position at Wolters Kluwer was posted on 2026-05-15.
+This technical & solutions architect position at Wolters Kluwer was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

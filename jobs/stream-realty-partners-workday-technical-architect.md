@@ -5,12 +5,12 @@
 | Company | [Stream Realty Partners](https://scoutify.ai/companies/streamrealtypartners?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000136050680-workday-technical-architect) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000141557829-workday-technical-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Stream Realty Partners was posted on 2026-07-06.
+This technical & solutions architect position at Stream Realty Partners was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Newark, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newark-NJ/Smartsheet-Architect_R-00188034) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newark-NJ/Smartsheet-Architect_R-00188704) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-07-23.
+This technical & solutions architect position at Leidos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

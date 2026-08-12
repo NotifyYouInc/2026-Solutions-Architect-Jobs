@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salas O'Brien](https://scoutify.ai/companies/recruiting2-ultipro-com-oj91998?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/sal1016salo/JobBoard/3347ce03-ba60-4bdc-8af2-26369c80b18f/OpportunityDetail?opportunityId=7cb82f1a-15d7-46cf-a7ed-33779d157577) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/sal1016salo/JobBoard/3347ce03-ba60-4bdc-8af2-26369c80b18f/OpportunityDetail?opportunityId=0a09c3ce-5669-4949-a9fb-aa96605e79a0) |
 
 ## About This Role
 
-This technical & solutions architect position at Salas O'Brien was posted on 2026-06-23.
+This technical & solutions architect position at Salas O'Brien was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

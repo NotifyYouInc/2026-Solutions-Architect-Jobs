@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000140284219-technical-architect-sap-s4hana-finance-mfd) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000141507690-technical-architect-sap-s4hana-finance-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-07-28.
+This technical & solutions architect position at METRO/MAKRO was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5700829-S2061750-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5689130-S2062591) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-30.
+This technical & solutions architect position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
