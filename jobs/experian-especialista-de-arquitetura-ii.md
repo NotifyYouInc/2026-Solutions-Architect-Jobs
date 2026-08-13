@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140756400-especialista-de-arquitetura-ii) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140992879-especialista-de-arquitetura-ii) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-07-30.
+This technical & solutions architect position at Experian was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

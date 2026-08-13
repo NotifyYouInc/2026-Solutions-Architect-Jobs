@@ -5,12 +5,12 @@
 | Company | [Woolpert](https://scoutify.ai/companies/woolpert?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/woolpert/jobs/4278205009) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/woolpert/jobs/4342503009) |
 
 ## About This Role
 
-This technical & solutions architect position at Woolpert was posted on 2026-06-09.
+This technical & solutions architect position at Woolpert was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

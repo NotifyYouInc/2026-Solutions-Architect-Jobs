@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Switzerland |
+| Location | Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Zurich-Flexible/Lead-AI-Solutions-Architect--Customer-Success_JR111884-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sweden/Lead-AI-Solutions-Architect--Customer-Success_JR111885-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-07-30.
+This technical & solutions architect position at Genesys was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

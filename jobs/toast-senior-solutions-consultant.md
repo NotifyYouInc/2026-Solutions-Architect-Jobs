@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7950807) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8097746) |
 
 ## About This Role
 
-This implementation / professional services position at Toast was posted on 2026-05-21.
+This technical & solutions architect position at Toast was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

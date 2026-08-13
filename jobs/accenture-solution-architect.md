@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Solution-Architect_ATCI-5686064-S2062255-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Solution-Architect_ATCI-5672263-S2057107-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-31.
+This technical & solutions architect position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

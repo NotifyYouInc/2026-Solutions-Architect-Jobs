@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Cloud-Architect---DevOps-Manager_REQ525907) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-08-04.
+This technical & solutions architect position at JLL was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Barcelona/Cloud-Solutions-Architect_R1128326) |
 
 ## About This Role
 
-This devops engineer position at Dentsu was posted on 2026-08-03.
+This technical & solutions architect position at Dentsu was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

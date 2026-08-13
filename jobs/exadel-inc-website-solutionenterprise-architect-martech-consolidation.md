@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6114391004) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6135549004) |
 
 ## About This Role
 
-This technical & solutions architect position at Exadel Inc (Website) was posted on 2026-07-15.
+This technical & solutions architect position at Exadel Inc (Website) was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

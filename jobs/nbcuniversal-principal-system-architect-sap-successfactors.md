@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York, US |
-| Category | Human Resources / People Ops |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000141541289-principal-system-architect-sap-successfactors) |
 
 ## About This Role
 
-This human resources / people ops position at NBCUniversal was posted on 2026-08-04.
+This technical & solutions architect position at NBCUniversal was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

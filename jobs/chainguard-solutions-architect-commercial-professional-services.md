@@ -5,12 +5,12 @@
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4697121006) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4702669006) |
 
 ## About This Role
 
-This technical & solutions architect position at Chainguard was posted on 2026-07-16.
+This technical & solutions architect position at Chainguard was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

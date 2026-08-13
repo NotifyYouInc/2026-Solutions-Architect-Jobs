@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Westpac](https://scoutify.ai/companies/ap1-cx-oj118843?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Human Resources / People Ops |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#67228) |
 
 ## About This Role
 
-This human resources / people ops position at Westpac was posted on 2026-08-05.
+This technical & solutions architect position at Westpac was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

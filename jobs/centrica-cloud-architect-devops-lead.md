@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Cloud-Architect---DevOps-Lead_R0087637) |
 
 ## About This Role
 
-This devops engineer position at Centrica was posted on 2026-07-31.
+This technical & solutions architect position at Centrica was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

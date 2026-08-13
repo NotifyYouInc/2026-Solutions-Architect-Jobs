@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Seattle, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Australia--New-South-Wales--Sydney/Applied-AI-Specialist_261164) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--Washington--Seattle/Applied-AI-Specialist_261005-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Cloudera was posted on 2026-07-31.
+This technical & solutions architect position at Cloudera was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

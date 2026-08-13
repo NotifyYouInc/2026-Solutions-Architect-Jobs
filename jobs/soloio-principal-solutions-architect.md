@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solo.io](https://scoutify.ai/companies/soloioinc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austria |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/soloioinc/jobs/4720174005) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/soloioinc/jobs/4720591005) |
 
 ## About This Role
 
-This technical & solutions architect position at Solo.io was posted on 2026-07-30.
+This technical & solutions architect position at Solo.io was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

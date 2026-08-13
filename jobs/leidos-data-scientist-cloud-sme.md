@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Odenton, Maryland, United States |
-| Category | Data Scientist |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Data-Scientist-Cloud---SME_R-00188538) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-31.
+This technical & solutions architect position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

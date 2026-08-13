@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reus, Catalonia, Spain |
+| Location | 9 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000131179301-arquitectoa-software-senior-mfd) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000141729044-arquitectoa-software-senior-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Systems International was posted on 2026-06-09.
+This technical & solutions architect position at T-Systems International was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

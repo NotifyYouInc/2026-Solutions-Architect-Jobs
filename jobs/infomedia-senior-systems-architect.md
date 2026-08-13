@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infomedia](https://scoutify.ai/companies/infomedia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Georgia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infomedia/jobs/7739975003) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infomedia/jobs/7828597003) |
 
 ## About This Role
 
-This technical & solutions architect position at Infomedia was posted on 2026-07-21.
+This technical & solutions architect position at Infomedia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | IT & Systems Administration |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014413536-hrit-systems-architect) |
 
 ## About This Role
 
-This it & systems administration position at Wabtec was posted on 2026-08-03.
+This technical & solutions architect position at Wabtec was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

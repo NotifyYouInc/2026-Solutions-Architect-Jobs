@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomberg Industry Group](https://scoutify.ai/companies/bloomberg-industry-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Technical-Architect-Manager_141380) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Technical-Architect-Manager_143361) |
 
 ## About This Role
 
-This engineering manager position at Bloomberg Industry Group was posted on 2026-04-07.
+This technical & solutions architect position at Bloomberg Industry Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

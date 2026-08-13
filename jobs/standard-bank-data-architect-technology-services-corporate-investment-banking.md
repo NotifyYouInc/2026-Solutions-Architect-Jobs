@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Investment Banking |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000141479980-data-architect-technology-services-corporate-investment-banking) |
 
 ## About This Role
 
-This investment banking position at Standard Bank was posted on 2026-08-04.
+This technical & solutions architect position at Standard Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

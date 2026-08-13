@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bulgaria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/RON-Work--at--Home/Cloud-Solution-Architect--CSA--for-Azure-Infrastructure---Russian---English-speaker_R1746156) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/BGR-Work-at-Home/Cloud-Solution-Architect--CSA--for-Azure-Infrastructure---Russian---English-speaker_R1748025) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-07-10.
+This technical & solutions architect position at Concentrix was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

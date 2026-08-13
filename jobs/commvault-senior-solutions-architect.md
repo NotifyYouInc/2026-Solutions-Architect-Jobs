@@ -5,12 +5,12 @@
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5206676008) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5380976008) |
 
 ## About This Role
 
-This technical & solutions architect position at Commvault was posted on 2026-05-05.
+This technical & solutions architect position at Commvault was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000140882499-solution-architect) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000141460000-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Version 1 was posted on 2026-07-31.
+This technical & solutions architect position at Version 1 was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

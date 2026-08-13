@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, US |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7819752003?gh_jid=7819752003) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7830985003?gh_jid=7830985003) |
 
 ## About This Role
 
-This technical & solutions architect position at Celonis was posted on 2026-07-28.
+This technical & solutions architect position at Celonis was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

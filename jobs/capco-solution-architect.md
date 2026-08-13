@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7744470) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8110744) |
 
 ## About This Role
 
-This technical & solutions architect position at Capco was posted on 2026-06-05.
+This technical & solutions architect position at Capco was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

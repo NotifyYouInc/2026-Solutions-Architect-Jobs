@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000124143590-senior-software-architect) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000141740005-senior-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Netcompany was posted on 2026-05-01.
+This technical & solutions architect position at Netcompany was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Java Technical Architect at Sopra Steria
+# Java Technical Architect  at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118330257-java-technical-architect) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141695999-java-technical-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-04-02.
+This technical & solutions architect position at Sopra Steria was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
