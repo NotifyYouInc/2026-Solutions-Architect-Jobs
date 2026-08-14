@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Paid-Media-Data-Solution-Architect-Associate_26984707) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-08-04.
+This digital / performance marketing position at Citigroup was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

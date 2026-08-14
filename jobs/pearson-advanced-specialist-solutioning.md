@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#23614) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#25200) |
 
 ## About This Role
 
-This technical & solutions architect position at Pearson was posted on 2026-04-17.
+This technical & solutions architect position at Pearson was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

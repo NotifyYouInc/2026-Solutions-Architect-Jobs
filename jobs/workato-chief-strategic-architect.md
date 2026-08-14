@@ -5,12 +5,12 @@
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8619069002#open-roles) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8687306002#open-roles) |
 
 ## About This Role
 
-This technical & solutions architect position at Workato was posted on 2026-07-03.
+This technical & solutions architect position at Workato was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

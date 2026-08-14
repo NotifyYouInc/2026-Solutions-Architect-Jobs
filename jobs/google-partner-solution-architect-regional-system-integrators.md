@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWFd0ZOXH-WMt4vhsXuuTqqS65uzn9waXJPiS_nox-ZHEjsA1Ny_i-3vXnTtkhmNZ7n5-Or3diLx16gCprNVSXE40EY4h_B3BvDCbwR8OJ4hn4VyqFTaim9Pi63GPQ%3D%3D_V2&loc=IT&title=Partner+Solution+Architect) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckctoBo7IfjDwXoIzmsjfrpZV9x5cwenfiQ2_z3h0ldHIEjsA1Ny_i_T3-kR_12KG09uggIwSODq8LzIRTG8EZRotZ_QYLxeGl3sVmMVFWwpug_FYTTE264hqLM-Kvg%3D%3D_V2&loc=SE&title=Partner+Solution+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-25.
+This technical & solutions architect position at Google was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#149158) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#149157) |
 
 ## About This Role
 
-This technical & solutions architect position at Zensar was posted on 2026-08-03.
+This technical & solutions architect position at Zensar was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Charlotte, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/London-UK/Industry-Cloud-Architect_R2024848-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Industry-Cloud-Architect_R2025029-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Intapp was posted on 2026-05-19.
+This technical & solutions architect position at Intapp was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

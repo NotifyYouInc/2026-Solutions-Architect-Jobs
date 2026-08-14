@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AppViewX](https://scoutify.ai/companies/appviewx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | California, US |
+| Location | West, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.appviewx.com/current-openings/?gh_jid=6019751004) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.appviewx.com/current-openings/?gh_jid=6129505004) |
 
 ## About This Role
 
-This technical & solutions architect position at AppViewX was posted on 2026-06-22.
+This technical & solutions architect position at AppViewX was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

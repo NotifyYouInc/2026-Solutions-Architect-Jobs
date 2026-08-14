@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Technical & Solutions Architect |
+| Category | Database Administration |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000141671639-database-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Netcompany was posted on 2026-08-05.
+This database administration position at Netcompany was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

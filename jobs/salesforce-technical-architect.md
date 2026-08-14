@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | South Korea |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea---Remote/Technical-Architect_JR353933-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Architect_JR346625) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-30.
+This technical & solutions architect position at Salesforce was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chandler, Arizona, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Senior-Architect-Cloud---SaaS_26015803) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Senior-Architect-Cloud---SaaS_26027840) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-05-18.
+This technical & solutions architect position at Bank of America was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

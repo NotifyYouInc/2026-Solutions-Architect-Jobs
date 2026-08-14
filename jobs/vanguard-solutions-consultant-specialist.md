@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Solutions-Consultant--Specialist_180230-1) |
+| Location | Dallas, Texas, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Solutions-Consultant--Specialist_181360) |
 
 ## About This Role
 
-This sales engineer position at Vanguard was posted on 2026-07-22.
+This technical & solutions architect position at Vanguard was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

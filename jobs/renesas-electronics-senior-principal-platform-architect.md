@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141577978-senior-principal-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Renesas Electronics was posted on 2026-08-04.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

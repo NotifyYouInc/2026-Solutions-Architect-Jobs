@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001288434-uni-jan-till-jun-2027-devops-enterprise-architect-assistant-intern) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS was posted on 2026-08-05.
+This devops engineer position at NCS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

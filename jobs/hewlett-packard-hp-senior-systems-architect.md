@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Spring, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Senior-Systems-Architect_3166233-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-08-04.
+This electrical / hardware engineer position at Hewlett Packard (HP) was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

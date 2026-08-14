@@ -5,12 +5,12 @@
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | California City, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990013931876-121411-zuora-billing-revenue-solutions-architect) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014482936-121411-zuora-billing-revenue-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lifted, an Upwork Company™ was posted on 2026-07-06.
+This technical & solutions architect position at Lifted, an Upwork Company™ was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

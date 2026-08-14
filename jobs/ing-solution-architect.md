@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Solution-Architect_REQ-10118169) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Solution-Architect_REQ-10118888) |
 
 ## About This Role
 
-This technical & solutions architect position at ING was posted on 2026-07-14.
+This technical & solutions architect position at ING was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Architect_R114308-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Architect_R117018) |
 
 ## About This Role
 
-This technical & solutions architect position at LexisNexis Risk Solutions was posted on 2026-06-01.
+This technical & solutions architect position at LexisNexis Risk Solutions was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

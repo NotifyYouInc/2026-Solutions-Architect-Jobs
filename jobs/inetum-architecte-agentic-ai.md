@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135764489-architecte-agentic-ai) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000142006729-architecte-agentic-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-07-03.
+This technical & solutions architect position at Inetum was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

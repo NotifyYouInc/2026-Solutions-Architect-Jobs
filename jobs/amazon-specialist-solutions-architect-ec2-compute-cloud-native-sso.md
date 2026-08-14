@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Beijing, CN |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473403/specialist-solutions-architect-ec2-compute-cloud-native-sso) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10495492/specialist-solutions-architect-ec2-compute-cloud-native-sso) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-07-14.
+This technical & solutions architect position at Amazon was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
