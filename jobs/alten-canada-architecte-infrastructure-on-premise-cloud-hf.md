@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000131067272-architecte-infrastructure-on-premise-cloud-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142164029-architecte-infrastructure-on-premise-cloud-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN Canada was posted on 2026-06-09.
+This technical & solutions architect position at ALTEN Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

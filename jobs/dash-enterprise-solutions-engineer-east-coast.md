@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dash](https://scoutify.ai/companies/dash?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/dash0/288244ba-0623-47f5-8d7c-de3cb0590a49) |
 
 ## About This Role
 
-This technical & solutions architect position at Dash was posted on 2026-08-04.
+This sales engineer position at Dash was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

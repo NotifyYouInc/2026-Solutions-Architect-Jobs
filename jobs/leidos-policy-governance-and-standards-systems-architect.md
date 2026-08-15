@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Policy-Governance-and-Standards-Systems-Architect_R-00186178-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Policy-Governance-and-Standards-Systems-Architect_R-00189068) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-07-07.
+This technical & solutions architect position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

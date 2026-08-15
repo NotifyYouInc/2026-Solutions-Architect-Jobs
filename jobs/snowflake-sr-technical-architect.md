@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/4210374d-bf8a-4af8-8df3-b8a84a72930c) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/8a9aa154-50fc-4fde-b581-f24f291315fe) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-07-13.
+This technical & solutions architect position at Snowflake was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

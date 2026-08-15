@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000141488409-lsningsarkitekt-data-analyse-og-ki) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000142143929-lsningsarkitekt-data-analyse-og-ki) |
 
 ## About This Role
 
-This technical & solutions architect position at AFRY was posted on 2026-08-04.
+This technical & solutions architect position at AFRY was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

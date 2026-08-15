@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Network-Architect--Senior_R0242126) |
+| Location | Fort Meade, Maryland, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Network-Architect--Senior_R0246288) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-12.
+This technical & solutions architect position at Booz Allen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

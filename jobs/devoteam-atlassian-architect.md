@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141469019-atlassian-architect) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141642105-atlassian-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-08-04.
+This technical & solutions architect position at Devoteam was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

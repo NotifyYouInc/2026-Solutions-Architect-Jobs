@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | National Capital Region, PH |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Solution-Architect_JR00124581) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Solution-Architect_JR00126333) |
 
 ## About This Role
 
-This technical & solutions architect position at Sun Life Financial was posted on 2026-06-03.
+This technical & solutions architect position at Sun Life Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

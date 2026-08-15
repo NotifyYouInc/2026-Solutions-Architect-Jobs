@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Texas City, Texas, United States |
+| Location | Calgary, Alberta, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000135766444-genesys-cloud-architect) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000142100868-genesys-cloud-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-07-03.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

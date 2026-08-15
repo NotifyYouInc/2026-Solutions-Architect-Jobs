@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014413536-hrit-systems-architect) |
+| Location | Contagem, Minas Gerais, Brazil |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014490976-hrit-systems-architect) |
 
 ## About This Role
 
-This it & systems administration position at Wabtec was posted on 2026-08-03.
+This technical & solutions architect position at Wabtec was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

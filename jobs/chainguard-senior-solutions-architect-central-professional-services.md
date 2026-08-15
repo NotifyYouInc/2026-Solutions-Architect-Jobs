@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4673651006) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4703060006) |
 
 ## About This Role
 
-This technical & solutions architect position at Chainguard was posted on 2026-04-28.
+This technical & solutions architect position at Chainguard was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138647369-architecte-cloud-hybride-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000142161529-architecte-cloud-hybride-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-20.
+This technical & solutions architect position at Devoteam was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

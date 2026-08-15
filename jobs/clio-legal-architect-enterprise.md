@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/London/Legal-Architect--Enterprise_REQ-4981) |
+| Location | Toronto, Ontario, Canada |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Toronto/Legal-Architect--Enterprise_REQ-5230) |
 
 ## About This Role
 
-This technology / it consulting position at Clio was posted on 2026-06-05.
+This technical & solutions architect position at Clio was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

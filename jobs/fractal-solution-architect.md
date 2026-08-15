@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Solution-Architect_SR-43683-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/California/Solution-Architect_SR-44682-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Fractal was posted on 2026-07-18.
+This technical & solutions architect position at Fractal was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

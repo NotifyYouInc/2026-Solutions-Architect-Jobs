@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Milton Keynes, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Texas---Houston/Lead-Enterprise-Architect_RQ108309) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Milton-Keynes/Lead-Enterprise-Architect_RQ113966-1) |
 
 ## About This Role
 
-This technical & solutions architect position at BP was posted on 2026-04-08.
+This technical & solutions architect position at BP was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

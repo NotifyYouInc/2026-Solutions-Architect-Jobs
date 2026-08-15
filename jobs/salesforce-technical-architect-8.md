@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Technical-Architect-8_JR339663) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Technical-Architect-8_JR354681) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-04-23.
+This technical & solutions architect position at Salesforce was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
