@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Semiconductor / Chip Design |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/System-Architect_JR104175) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-08-07.
+This technical & solutions architect position at Micron was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

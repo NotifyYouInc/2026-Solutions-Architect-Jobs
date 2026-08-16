@@ -1,16 +1,16 @@
-# AI Systems Design Architect, Vice President at State Street
+# AI Systems Design Architect – Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Systems-Design-Architect--Vice-President_R-794903-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/AI-Systems-Design-Architect---Vice-President_R-795829) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-07-23.
+This technical & solutions architect position at State Street was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

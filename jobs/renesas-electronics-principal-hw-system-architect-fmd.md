@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Semiconductor / Chip Design |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142073289-principal-hw-system-architect-fmd) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-08-07.
+This technical & solutions architect position at Renesas Electronics was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
