@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000142147580-senior-solution-engineer) |
 
 ## About This Role
 
-This sales engineer position at Smiths Group was posted on 2026-08-07.
+This technical & solutions architect position at Smiths Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

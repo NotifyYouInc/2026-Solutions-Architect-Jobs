@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Infomedia](https://scoutify.ai/companies/infomedia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Georgia, US |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/infomedia/jobs/7828597003) |
 
 ## About This Role
 
-This devops engineer position at Infomedia was posted on 2026-08-05.
+This technical & solutions architect position at Infomedia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

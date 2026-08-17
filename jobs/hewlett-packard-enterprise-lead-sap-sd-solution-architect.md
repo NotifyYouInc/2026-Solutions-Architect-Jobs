@@ -1,16 +1,16 @@
-# Enterprise Solution Architect at Accenture
+# Lead SAP SD Solution Architect at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Enterprise-Solution-Architect_ATCI-5712906-S2063186-1) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Lead-Solution-Architect_1197502) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-08-10.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

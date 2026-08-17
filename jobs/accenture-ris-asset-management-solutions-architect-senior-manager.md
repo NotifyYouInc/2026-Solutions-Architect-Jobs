@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Asset Management / Portfolio Management |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/RIS-Asset-Management-Solutions-Architect-Senior-Manager_14616308) |
 
 ## About This Role
 
-This asset management / portfolio management position at Accenture was posted on 2026-08-07.
+This technical & solutions architect position at Accenture was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

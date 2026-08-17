@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Solution-Architect--Solution-Engineering-DevOps-_JR0131366) |
 
 ## About This Role
 
-This devops engineer position at Western Union was posted on 2026-08-07.
+This technical & solutions architect position at Western Union was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000142506829-ai-solutions-engineer-for-offshoreonsite-banking) |
 
 ## About This Role
 
-This sales engineer position at VAM Systems was posted on 2026-08-09.
+This technical & solutions architect position at VAM Systems was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

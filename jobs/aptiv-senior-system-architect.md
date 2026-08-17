@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Monterrey-Mexico/Senior-System-Architect_J000702003) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-08-06.
+This technical & solutions architect position at Aptiv was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

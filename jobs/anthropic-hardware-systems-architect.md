@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5286362008) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Anthropic was posted on 2026-08-05.
+This technical & solutions architect position at Anthropic was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

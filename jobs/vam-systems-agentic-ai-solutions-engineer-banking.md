@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data at Microsoft
+# Agentic AI Solutions Engineer - Banking at VAM Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556956885) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000142511009-agentic-ai-solutions-engineer-banking) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-08-09.
+This technical & solutions architect position at VAM Systems was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Cloud Architect at General Dynamics Information Technology
+# Technical Lead / Technical Architect at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cloud-Architect_RQ226080) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Technical-Lead---Technical-Architect_RQ226083) |
 
 ## About This Role
 

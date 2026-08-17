@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ELEVI Associates](https://scoutify.ai/companies/eleviassociates?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Minnesota, US |
-| Category | IT & Systems Administration |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/eleviassociates/jobs/7835661003) |
 
 ## About This Role
 
-This it & systems administration position at ELEVI Associates was posted on 2026-08-07.
+This technical & solutions architect position at ELEVI Associates was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

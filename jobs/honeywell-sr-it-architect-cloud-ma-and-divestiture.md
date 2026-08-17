@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Luis Potosí, San Luis Potosí, Mexico |
-| Category | Corporate Development & M&A |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154637) |
 
 ## About This Role
 
-This corporate development & m&a position at Honeywell was posted on 2026-08-05.
+This technical & solutions architect position at Honeywell was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

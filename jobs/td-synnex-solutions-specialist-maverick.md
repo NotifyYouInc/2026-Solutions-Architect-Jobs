@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Basingstoke, England, United Kingdom |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Basingstoke-United-Kingdom/Solutions-Specialist---Maverick_R54784) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-08-06.
+This technical & solutions architect position at TD Synnex was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

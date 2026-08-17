@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Lead-Engineer--Systems-Engineering---Salesforce-Architect_R2612837) |
 
 ## About This Role
 
-This devops engineer position at Cencora was posted on 2026-08-05.
+This technical & solutions architect position at Cencora was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

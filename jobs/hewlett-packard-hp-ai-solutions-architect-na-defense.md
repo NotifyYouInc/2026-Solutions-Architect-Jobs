@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/AI-Solutions-Architect-NA---Defense_3166331-1) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-07.
+This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

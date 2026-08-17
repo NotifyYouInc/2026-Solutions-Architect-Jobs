@@ -1,16 +1,16 @@
-# IS Solutions Architect at ABB
+# Application Architect(Java with AWS) at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/IS-Solutions-Architect_JR00042879) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Application-Architect-Java-with-AWS-_R0122245) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-08-10.
+This technical & solutions architect position at LSEG was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

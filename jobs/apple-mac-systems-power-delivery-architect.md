@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200676423/mac-systems-power-delivery-architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-08-06.
+This technical & solutions architect position at Apple was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

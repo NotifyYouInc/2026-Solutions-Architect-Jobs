@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [540](https://scoutify.ai/companies/540?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7836155003) |
 
 ## About This Role
 
-This devops engineer position at 540 was posted on 2026-08-07.
+This technical & solutions architect position at 540 was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

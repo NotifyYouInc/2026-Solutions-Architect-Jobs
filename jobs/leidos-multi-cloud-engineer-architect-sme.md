@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Multi-Cloud-Engineer-Architect-SME_R-00188224-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-08-04.
+This technical & solutions architect position at Leidos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

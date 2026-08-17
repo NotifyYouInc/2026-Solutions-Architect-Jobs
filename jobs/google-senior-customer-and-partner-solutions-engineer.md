@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128122871397393094-senior-customer-and-partner-solutions-engineer?sort_by=date&page=1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR_mLyTWSOxR46OwEk5NlxtXIEYPQgrCIML8GQ4BqTIlEjsA1Ny_i9OilMjXnmAASOkmtgjF8LgPDiCOers5O0mC4awx-TkwIezXak1SwbX_Wefs1p8XtHAo4ak45A%3D%3D_V2&loc=TW&title=Senior+Customer+and+Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-09.
+This technical & solutions architect position at Google was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

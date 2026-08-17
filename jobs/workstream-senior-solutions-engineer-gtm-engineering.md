@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data at Microsoft
+# Senior Solutions Engineer, GTM Engineering at Workstream
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Company | [Workstream](https://scoutify.ai/companies/workstream?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Lehi, Utah, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556956885) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workstream/jobs/6138363004) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-08-09.
+This technical & solutions architect position at Workstream was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

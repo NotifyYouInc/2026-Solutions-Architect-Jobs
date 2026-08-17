@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QVC](https://scoutify.ai/companies/qvc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | West Chester, Pennsylvania, United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-PA-West-Chester/Solutions-Engineer_R82918) |
 
 ## About This Role
 
-This sales engineer position at QVC was posted on 2026-08-05.
+This technical & solutions architect position at QVC was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

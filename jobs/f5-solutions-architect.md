@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Arkansas, US |
-| Category | Technical Writer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Field-WA/Solutions-Architect_RP1037099-1) |
+| Location | Norway |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Norway-Homebase/Solutions-Architect_RP1038383) |
 
 ## About This Role
 
-This technical writer position at F5 was posted on 2026-04-03.
+This technical & solutions architect position at F5 was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

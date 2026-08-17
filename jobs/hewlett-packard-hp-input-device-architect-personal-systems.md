@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Taipei-Taipei-City-Taiwan-Region/Input-Device-Architect--Personal-Systems_3162814-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hewlett Packard (HP) was posted on 2026-08-06.
+This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

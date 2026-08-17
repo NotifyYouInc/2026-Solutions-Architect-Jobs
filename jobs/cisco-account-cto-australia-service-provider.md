@@ -1,16 +1,16 @@
-# Cloud Solution Architect - Cloud & AI Data at Microsoft
+# Account CTO – Australia Service Provider at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556956885) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Account-CTO---Australia-Service-Provider_2021025-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-08-09.
+This technical & solutions architect position at Cisco was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 
