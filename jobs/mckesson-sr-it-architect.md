@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Toronto/Sr-IT-Architect_JR0141901-1) |
+| Location | Irving, Texas, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-IT-Architect_JR0152001) |
 
 ## About This Role
 
-This devops engineer position at McKesson was posted on 2026-03-24.
+This technical & solutions architect position at McKesson was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

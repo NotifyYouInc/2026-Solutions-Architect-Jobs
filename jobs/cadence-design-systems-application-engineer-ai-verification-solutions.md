@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Israel |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-09 |
 | Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PETAH-TIKVA/Application-Engineer---AI---Verification-Solutions_R55844) |
 
 ## About This Role
 
-This technical & solutions architect position at Cadence Design Systems was posted on 2026-08-09.
+This software engineer position at Cadence Design Systems was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workstream](https://scoutify.ai/companies/workstream?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lehi, Utah, United States |
-| Category | Technical & Solutions Architect |
+| Category | Go To Market Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/workstream/jobs/6138363004) |
 
 ## About This Role
 
-This technical & solutions architect position at Workstream was posted on 2026-08-10.
+This go to market engineer position at Workstream was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bounteous](https://scoutify.ai/companies/bounteous?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Marketing Operations |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.lever.co/bounteous/dad6900c-9389-419f-9de6-83e8d6d1328d) |
 
 ## About This Role
 
-This technical & solutions architect position at Bounteous was posted on 2026-08-06.
+This marketing operations position at Bounteous was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

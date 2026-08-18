@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ready](https://scoutify.ai/companies/yc-ready?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/ready/jobs/bAgQaNG-product-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Ready was posted on 2026-08-07.
+This sales engineer position at Ready was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

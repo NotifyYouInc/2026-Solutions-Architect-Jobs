@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfX1zmrlWTJjhB7V7ks6MUKmZUYXV09erzR4_klwM-nGEjsA1Ny_i7N9xyTcYsrhEMk4o2gb74L7FvvGOT3sUg7FlBG23YEMpuuQX2BkzqYwWL1kEr4gYos8STXsIg%3D%3D_V2&loc=US&title=Ads+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-08-07.
+This sales engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Le Plessis-Robinson, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116995530-architecte-systeme-bu-defense-securite-le-plessis-robinson) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142599739-architecte-systeme-bu-defense-securite-le-plessis-robinson) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-03-26.
+This technical & solutions architect position at Sopra Steria was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

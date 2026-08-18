@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Itasca, Illinois, United States |
-| Category | Technical & Solutions Architect |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000142172409-ai-presales-solution-architect-asset-management-service-management) |
 
 ## About This Role
 
-This technical & solutions architect position at IFS was posted on 2026-08-07.
+This asset management / portfolio management position at IFS was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

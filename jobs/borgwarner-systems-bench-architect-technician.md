@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Technical & Solutions Architect |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Krakow---Poland/Systems-Bench-Architect-Technician_R2026-3178) |
 
 ## About This Role
 
-This technical & solutions architect position at BorgWarner was posted on 2026-08-06.
+This electrical / hardware engineer position at BorgWarner was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

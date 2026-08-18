@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Architecture-Senior-Advisor_26006942-3) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Architecture-Senior-Advisor_26009949) |
 
 ## About This Role
 
-This ai / ml research position at Cigna was posted on 2026-06-24.
+This technical & solutions architect position at Cigna was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

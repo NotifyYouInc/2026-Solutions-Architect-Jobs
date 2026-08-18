@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Vein & Vascular Centers](https://scoutify.ai/companies/unitedveincenters?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/unitedveincenters/jobs/5382933008) |
 
 ## About This Role
 
-This technical & solutions architect position at United Vein & Vascular Centers was posted on 2026-08-07.
+This data engineer position at United Vein & Vascular Centers was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

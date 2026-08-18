@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000139198549-servicenow-technical-architect) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000142617001-servicenow-technical-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-07-23.
+This technical & solutions architect position at Endava was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

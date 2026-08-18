@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Munson Healthcare](https://scoutify.ai/companies/munsonhealthcare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Traverse City, Michigan, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990014447706-systems-architect) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990014494066-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Munson Healthcare was posted on 2026-08-05.
+This it & systems administration position at Munson Healthcare was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

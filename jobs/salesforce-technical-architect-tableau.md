@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo---Remote/Technical-Architect---Tableau_JR353574) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-08-06.
+This customer success position at Salesforce was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

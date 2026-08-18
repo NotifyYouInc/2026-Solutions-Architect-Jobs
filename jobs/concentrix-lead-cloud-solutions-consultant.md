@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/AUS-Melbourne---276-Flinders-Street-Level-7/Lead-Cloud-Solutions-Consultant_R1753769) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-08-07.
+This sales engineer position at Concentrix was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

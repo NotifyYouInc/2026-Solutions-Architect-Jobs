@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nimble Gravity](https://scoutify.ai/companies/nimble-gravity?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/nimblegravity/jobs/4720498005) |
 
 ## About This Role
 
-This technical & solutions architect position at Nimble Gravity was posted on 2026-08-06.
+This software engineer position at Nimble Gravity was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

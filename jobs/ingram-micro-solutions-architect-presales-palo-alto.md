@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai/Solutions-Architect---Presales--Palo-Alto-_R-113143) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-08-07.
+This sales engineer position at Ingram Micro was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

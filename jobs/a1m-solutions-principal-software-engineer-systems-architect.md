@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A1M Solutions](https://scoutify.ai/companies/a1msolutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/a1msolutions/jobs/7828584003) |
 
 ## About This Role
 
-This technical & solutions architect position at A1M Solutions was posted on 2026-08-05.
+This software engineer position at A1M Solutions was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | Huntingdon, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Solution-Architect_R-00187286) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Solution-Architect_R-00189152) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-07-14.
+This technical & solutions architect position at Leidos was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

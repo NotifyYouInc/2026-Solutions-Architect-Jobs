@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://careers.oracle.com/jobs/#342221) |
 
 ## About This Role
 
-This technical & solutions architect position at Oracle was posted on 2026-08-08.
+This software engineer position at Oracle was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Luxembourg |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000141695829-solution-manager-architect-with-avaloq-experience) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000141919449-solution-manager-architect-with-avaloq-experience) |
 
 ## About This Role
 
-This technical & solutions architect position at Avaloq was posted on 2026-08-05.
+This technical & solutions architect position at Avaloq was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Jacksonville-Florida/Solutions-Architecture---Advisor-II_R-10399398) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Solutions-Architecture---Advisor-II_R-10400409-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-07-30.
+This technical & solutions architect position at Fiserv was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

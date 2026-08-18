@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Sustainability-Tech-Lead_R-144568) |
 
 ## About This Role
 
-This technical & solutions architect position at Coca-Cola was posted on 2026-08-07.
+This software engineer position at Coca-Cola was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

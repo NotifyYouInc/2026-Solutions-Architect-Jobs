@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | Technical & Solutions Architect |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Enterprise-Architect_R-00189052) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-08-07.
+This ai / llm engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

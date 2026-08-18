@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Horsley Park, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/AU---SCS-HORSLEY-PARK-AUHPK/Logistics-Solutions-Engineer_R26024913) |
 
 ## About This Role
 
-This technical & solutions architect position at United Parcel Service (UPS) was posted on 2026-08-10.
+This sales engineer position at United Parcel Service (UPS) was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

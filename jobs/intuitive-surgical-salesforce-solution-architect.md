@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132550630-salesforce-solution-architect) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142710409-salesforce-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Intuitive Surgical was posted on 2026-06-17.
+This technical & solutions architect position at Intuitive Surgical was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

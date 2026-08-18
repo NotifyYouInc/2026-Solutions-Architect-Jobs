@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000142122959-technical-architect-full-stack) |
 
 ## About This Role
 
-This technical & solutions architect position at QAD was posted on 2026-08-07.
+This software engineer position at QAD was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

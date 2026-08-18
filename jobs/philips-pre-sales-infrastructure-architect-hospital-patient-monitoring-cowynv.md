@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Pre-Sales--Infrastructure-Architect---Hospital-Patient-Monitoring--CO-WY-NV-_588283-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Philips was posted on 2026-08-05.
+This sales engineer position at Philips was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

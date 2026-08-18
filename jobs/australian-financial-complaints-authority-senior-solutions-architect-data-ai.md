@@ -5,12 +5,12 @@
 | Company | [Australian Financial Complaints Authority](https://scoutify.ai/companies/afca?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFCA/744000131299091-senior-solutions-architect-data-ai) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFCA/744000142782449-senior-solutions-architect-data-ai) |
 
 ## About This Role
 
-This technical & solutions architect position at Australian Financial Complaints Authority was posted on 2026-06-10.
+This technical & solutions architect position at Australian Financial Complaints Authority was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

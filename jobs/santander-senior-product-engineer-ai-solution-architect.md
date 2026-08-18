@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Technical & Solutions Architect |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madrid/Senior-Product-Engineer---AI-Solution-Architect_Req1599321) |
 
 ## About This Role
 
-This technical & solutions architect position at Santander was posted on 2026-08-07.
+This ai / llm engineer position at Santander was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

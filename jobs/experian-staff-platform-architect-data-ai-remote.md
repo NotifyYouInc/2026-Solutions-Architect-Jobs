@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142017679-staff-platform-architect-data-ai-remote) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-08-07.
+This software engineer position at Experian was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

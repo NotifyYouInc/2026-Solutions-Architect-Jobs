@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shimadzu Scientific Instruments](https://scoutify.ai/companies/recruiting-ultipro-com-oj97207?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://recruiting.ultipro.com/shi1000/JobBoard/2bc2a753-1232-400c-84cf-ef90d5762b76/OpportunityDetail?opportunityId=2e5ad453-accb-4590-aeaa-896472eecb7f) |
 
 ## About This Role
 
-This technical & solutions architect position at Shimadzu Scientific Instruments was posted on 2026-08-07.
+This software engineer position at Shimadzu Scientific Instruments was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
