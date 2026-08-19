@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClickHouse](https://scoutify.ai/companies/clickhouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/6139783004) |
 
 ## About This Role
 
-This customer success position at ClickHouse was posted on 2026-08-10.
+This sales engineer position at ClickHouse was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141521719-associate-principal-engineer-salesforce-architect-health-cloud) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000142877829-associate-principal-engineer-salesforce-architect-health-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-08-04.
+This technical & solutions architect position at Nagarro was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

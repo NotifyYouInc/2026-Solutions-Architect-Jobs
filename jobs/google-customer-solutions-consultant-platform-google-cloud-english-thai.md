@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZfQW_E7eruwS4W5xuMXN8kzFeFKH712jOga4kgtMADBEjsACxwdTHnXU7dhpA9z7q8HqPoKH7NJJ_ELO4gHb2HRPoiAGDCTzeTX5gE34uGfDHBCTycxCaHOvbYbwQ%3D%3D_V2&loc=VN&title=Customer+Solutions+Consultant) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcUjkA-R-oa0vX0FmKDQ1A6NWY4TXgObkB5W_-dXrg-LEjsA1Ny_i_r_nZ3DRKrSUCzBmubapXUwogFcnpqnbee12QDquBbgyk23Ie5KG5XhikjA3cJgv8nuWCRwkg%3D%3D_V2&loc=TH&title=Customer+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-04-10.
+This sales engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

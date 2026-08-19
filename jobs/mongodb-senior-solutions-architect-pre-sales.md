@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8050412) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8119292) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-07-21.
+This technical & solutions architect position at MongoDB was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

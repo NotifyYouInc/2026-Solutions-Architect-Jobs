@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applydigital](https://scoutify.ai/companies/applydigital?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.lever.co/applydigital/2d7ca997-7031-4a86-84ae-888b1045f7bd) |
+| Location | United States |
+| Category | Marketing Operations |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.lever.co/applydigital/61ef6108-4269-4d1a-bd79-5e27a18e8ea1) |
 
 ## About This Role
 
-This technical & solutions architect position at Applydigital was posted on 2026-06-16.
+This marketing operations position at Applydigital was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfuZ5FnOazTET0W_4xQDqQAXaTnZCb5FP7EraU0tlzv9EjsA1Ny_i7WRVeYrpPApFvQmyCZAc3i6edu7TZ4ga7Yeh8k_xaJHqzOYaxbmf4VPVaEuf35tOIGEd-x5Wg%3D%3D_V2&loc=IN&title=Partner+Solutions+Engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVHI9ZIBdfTCSOHRyQWfrqes1k0PGCLkJ0JUhay-Rcl9EjsA1Ny_i6Ybwb0gRtJ71Zkcbc5Eg6XFofqGhPKcKgJiCpcs8w0dpHPnId2h8cm1mkbvrmuZ-7ASi6Kwug%3D%3D_V2&loc=IN&title=Partner+Solutions+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-08.
+This sales engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

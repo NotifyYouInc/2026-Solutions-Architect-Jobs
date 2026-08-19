@@ -1,16 +1,16 @@
-# Solutions Architect, Enterprise at Stripe
+# Solutions Architect, Enterprise  at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Israel |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7827184) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8113401) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-05-12.
+This technical & solutions architect position at Stripe was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123937848-architecte-data-services-financiers-ile-de-france) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142864223-architecte-data-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-04-30.
+This technical & solutions architect position at Sopra Steria was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

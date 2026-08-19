@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014452636-sr-product-solutions-architect-gracenote) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014535956-sr-product-solutions-architect-gracenote) |
 
 ## About This Role
 
-This technical & solutions architect position at The Nielsen Company was posted on 2026-08-05.
+This technical & solutions architect position at The Nielsen Company was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

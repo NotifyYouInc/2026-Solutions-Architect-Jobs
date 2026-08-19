@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8080876&gh_jid=8080876) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8091966&gh_jid=8091966) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-07-30.
+This technical & solutions architect position at Elastic was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

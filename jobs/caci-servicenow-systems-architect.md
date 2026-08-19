@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/ServiceNow-Systems-Architect_328333-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/ServiceNow-Systems-Architect_330402) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-07-01.
+This technical & solutions architect position at CACI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
