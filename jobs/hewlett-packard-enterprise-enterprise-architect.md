@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Pennsylvania-United-States-of-America/Enterprise-Architect---Florida_1204529-3) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mumbai-Maharashtra-India/Enterprise-Architect_1208201) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-07-02.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

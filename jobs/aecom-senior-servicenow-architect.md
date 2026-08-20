@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140255004-senior-servicenow-architect) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143112703-senior-servicenow-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-07-28.
+This technical & solutions architect position at AECOM was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

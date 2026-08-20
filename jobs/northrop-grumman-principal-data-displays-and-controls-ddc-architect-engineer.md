@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Florida, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Data-Displays-and-Controls--DDC--Architect-Engineer_R10244479) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-08-07.
+This industrial automation position at Northrop Grumman was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

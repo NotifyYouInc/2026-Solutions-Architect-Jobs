@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Technical-Solutions-Architect---Specialist_J00176565) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Technical-Solutions-Architect---Specialist_J00178247) |
 
 ## About This Role
 
-This technical & solutions architect position at Equifax was posted on 2026-05-18.
+This technical & solutions architect position at Equifax was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Staines, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138673614-senior-principal-platform-architect) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143081159-senior-principal-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-07-20.
+This technical & solutions architect position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

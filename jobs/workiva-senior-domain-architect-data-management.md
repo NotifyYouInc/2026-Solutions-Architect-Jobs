@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Senior-Domain-Architect--Data-Management_R11554) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Senior-Domain-Architect--Data-Management_R12187) |
 
 ## About This Role
 
-This technical & solutions architect position at Workiva was posted on 2026-03-23.
+This technical & solutions architect position at Workiva was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

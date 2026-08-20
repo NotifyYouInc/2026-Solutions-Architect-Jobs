@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UAE-Dubai/Solutions-Architect---NVIDIA-Cloud-Partners-and-Datacentre-Infrastructure_JR2013942) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UAE-Remote/Solutions-Architect---NVIDIA-Cloud-Partners-and-Datacentre-Infrastructure_JR2023133) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-02-27.
+This technical & solutions architect position at Nvidia was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

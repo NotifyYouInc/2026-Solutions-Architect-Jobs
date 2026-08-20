@@ -1,16 +1,16 @@
-# Identity Governance / Lifecycle Management (LCM) Architect  at ServiceNow
+# Identity Governance / Lifecycle Management (LCM) Architect at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Diego, California, United States |
+| Location | Santa Clara, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133460869-identity-governance-lifecycle-management-lcm-architect) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143159500-identity-governance-lifecycle-management-lcm-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-06-22.
+This technical & solutions architect position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

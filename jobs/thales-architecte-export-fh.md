@@ -1,16 +1,16 @@
-# Architecte Export (F/H) at Thales
+# Architecte Export F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Massy, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Massy/Architecte-Export--F-H-_R0331855-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Massy/Architecte-Export-F-H_R0337051-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-07-08.
+This technical & solutions architect position at Thales was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

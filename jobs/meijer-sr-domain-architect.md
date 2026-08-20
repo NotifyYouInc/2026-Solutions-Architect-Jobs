@@ -5,12 +5,12 @@
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Sr-Domain-Architect_R000636667) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Sr-Domain-Architect_R000692012) |
 
 ## About This Role
 
-This technical & solutions architect position at Meijer was posted on 2026-02-17.
+This technical & solutions architect position at Meijer was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
