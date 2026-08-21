@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Senior-Platform-Architect_R35034) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Paris-France/Senior-Platform-Architect_R35331) |
 
 ## About This Role
 
-This technical & solutions architect position at Zendesk was posted on 2026-06-25.
+This technical & solutions architect position at Zendesk was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

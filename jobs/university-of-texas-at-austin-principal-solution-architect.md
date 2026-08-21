@@ -5,12 +5,12 @@
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Principal-Solution-Architect_R_00047462) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Principal-Solution-Architect_R_00048070) |
 
 ## About This Role
 
-This technical & solutions architect position at University of Texas at Austin was posted on 2026-07-21.
+This technical & solutions architect position at University of Texas at Austin was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

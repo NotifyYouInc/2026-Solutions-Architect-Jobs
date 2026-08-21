@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Senior-Specialist--Solution-Architecture_R403696-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Solution-Architecture_R406981-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Merck was posted on 2026-06-25.
+This technical & solutions architect position at Merck was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

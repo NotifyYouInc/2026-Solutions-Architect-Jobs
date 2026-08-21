@@ -1,16 +1,16 @@
-# Associate Principal Engineer, Salesforce Health Cloud at Nagarro
+# Associate Principal Engineer - Salesforce Health Cloud at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135434521-associate-principal-engineer-salesforce-health-cloud) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143367874-associate-principal-engineer-salesforce-health-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-07-02.
+This software engineer position at Nagarro was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

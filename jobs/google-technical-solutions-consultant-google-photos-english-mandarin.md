@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSkskWEzXdVVsLWsGPDv-_wG4DrPepdAm8faM5CRf3WAEjsACxwdTGQZY9FoflO_uYpW_siUyPm85XaUpPNTv_LShQasPrBdvZcFn8xVmdpXNF6VMINdAacvKqgS0Q%3D%3D_V2&loc=AU&title=Technical+Solutions+Consultant) |
+| Location | 2 locations |
+| Category | Sales Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRir93l2ce9QQrapBsD3Tu6cRNryKn-RnrQhFQCENpPcEjsA1Ny_iwC7-gorgHuWtgRKYp4YowgvNIx2ec1SEdtfJQm8cHC6_aWz1MwiLwoLmT_fupEIpF_ErBOjXA%3D%3D_V2&loc=HK&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-05-13.
+This sales engineer position at Google was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Norway |
+| Location | Seattle, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Norway-Homebase/Solutions-Architect_RP1038383) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Solutions-Architect_RP1038408) |
 
 ## About This Role
 
-This technical & solutions architect position at F5 was posted on 2026-08-09.
+This technical & solutions architect position at F5 was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

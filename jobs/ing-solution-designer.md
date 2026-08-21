@@ -1,16 +1,16 @@
-# Solution designer at ING
+# Solution Designer at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Solution-designer_REQ-10114468-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Solution-Designer_REQ-10119534-1) |
 
 ## About This Role
 
-This technical & solutions architect position at ING was posted on 2026-05-08.
+This technical & solutions architect position at ING was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

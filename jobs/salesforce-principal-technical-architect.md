@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | 7 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/Principal--Technical-Architect_JR337787) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Principal--Technical-Architect_JR355249) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-07-27.
+This technical & solutions architect position at Salesforce was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

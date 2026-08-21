@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/Senior-Serdes-System-Design-Engineer-Architect_R025517) |
+| Location | United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/Senior-Serdes-System-Design-Engineer-Architect_R026784) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Broadcom was posted on 2026-03-25.
+This semiconductor / chip design position at Broadcom was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

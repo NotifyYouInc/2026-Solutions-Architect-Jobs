@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Global-Kinaxis-Solution-Architect_R00344098) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Berlin-Hallesches-Ufer-40/Global-Kinaxis-Solution-Architect_R00350294) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-28.
+This technical & solutions architect position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
