@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Vice-President_JR119315) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Vice-President_JR121067) |
 
 ## About This Role
 
-This technical & solutions architect position at National Australia Bank (NAB) was posted on 2026-06-13.
+This technical & solutions architect position at National Australia Bank (NAB) was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127086519-solution-engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000143603309-solution-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Experian was posted on 2026-05-18.
+This sales engineer position at Experian was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

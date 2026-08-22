@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 10 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Pune/Senior-Architect_264446) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Warsaw/Senior-Architect_264737) |
 
 ## About This Role
 
-This technical & solutions architect position at Covance was posted on 2026-08-11.
+This technical & solutions architect position at Covance was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

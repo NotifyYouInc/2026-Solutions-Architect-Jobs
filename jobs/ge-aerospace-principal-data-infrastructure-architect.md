@@ -5,12 +5,12 @@
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Evendale, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Principal-Data-Infrastructure-Architect_R5037797-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Principal-Data-Infrastructure-Architect_R5038682-1) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Aerospace was posted on 2026-07-24.
+This technical & solutions architect position at GE Aerospace was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

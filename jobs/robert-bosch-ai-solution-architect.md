@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142723279-ai-solution-architect) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143077409-ai-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-08-10.
+This technical & solutions architect position at Robert Bosch was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

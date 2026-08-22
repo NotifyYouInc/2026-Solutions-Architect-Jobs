@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/AI-Solution-Architect_729735WD) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Sofia/AI-Solution-Architect_752721WD) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-05-18.
+This technical & solutions architect position at PwC was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

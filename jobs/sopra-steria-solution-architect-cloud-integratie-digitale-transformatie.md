@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121386362-solution-architect-cloud-integratie-digitale-transformatie) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143475780-solution-architect-cloud-integratie-digitale-transformatie) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-04-17.
+This technical & solutions architect position at Sopra Steria was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

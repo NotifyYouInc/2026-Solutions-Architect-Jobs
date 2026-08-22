@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
+| Posted | 2026-08-14 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Associate-Solution-Architect_JREQ198286-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thomson Reuters was posted on 2026-03-03.
+This technical & solutions architect position at Thomson Reuters was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

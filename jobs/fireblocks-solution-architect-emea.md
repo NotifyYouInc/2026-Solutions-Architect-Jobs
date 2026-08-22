@@ -5,12 +5,12 @@
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/4697179006?gh_jid=4697179006) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4705307006) |
 
 ## About This Role
 
-This technical & solutions architect position at Fireblocks was posted on 2026-07-20.
+This technical & solutions architect position at Fireblocks was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
