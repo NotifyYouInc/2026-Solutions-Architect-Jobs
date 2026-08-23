@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mount Laurel, New Jersey, United States |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Architecture--Taxonomy---Modeling-Principal-Architect--US-_R_1501945) |
 
 ## About This Role
 
-This data engineer position at TD Bank was posted on 2026-08-11.
+This technical & solutions architect position at TD Bank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

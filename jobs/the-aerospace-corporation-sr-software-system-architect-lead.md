@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Sr-Software-System-Architect-Lead_R015943) |
 
 ## About This Role
 
-This software engineer position at The Aerospace Corporation was posted on 2026-08-12.
+This technical & solutions architect position at The Aerospace Corporation was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

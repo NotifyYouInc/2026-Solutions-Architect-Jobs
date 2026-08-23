@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kepler Group](https://scoutify.ai/companies/kepler-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Canada |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/keplergroup/jobs/8128741) |
 
 ## About This Role
 
-This data engineer position at Kepler Group was posted on 2026-08-13.
+This technical & solutions architect position at Kepler Group was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

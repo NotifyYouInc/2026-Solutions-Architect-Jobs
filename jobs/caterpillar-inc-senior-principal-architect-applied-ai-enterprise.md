@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Principal-Architect--Applied-AI-Enterprise_R0000388122) |
 
 ## About This Role
 
-This ai / llm engineer position at Caterpillar Inc. was posted on 2026-08-12.
+This technical & solutions architect position at Caterpillar Inc. was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
