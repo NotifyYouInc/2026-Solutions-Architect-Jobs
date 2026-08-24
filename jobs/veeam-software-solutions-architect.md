@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denmark |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4943162101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952286101) |
 
 ## About This Role
 
-This technical & solutions architect position at Veeam Software was posted on 2026-08-03.
+This technical & solutions architect position at Veeam Software was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Applied AI Architect, Industries  at Anthropic
+# Tech Alliance Architect at DevRev
 
 | Field | Details |
 |-------|---------|
-| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [DevRev](https://scoutify.ai/companies/devrev?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390778008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/devrev/jobs/6144769004) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-08-17.
+This technical & solutions architect position at DevRev was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Principal Engineer -- Salesforce Architect (Health Cloud) at Nagarro
+# Principal Engineer  -- Salesforce Architect (Health Cloud) at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000142877710-principal-engineer-salesforce-architect-health-cloud) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000142877239-principal-engineer-salesforce-architect-health-cloud) |
 
 ## About This Role
 

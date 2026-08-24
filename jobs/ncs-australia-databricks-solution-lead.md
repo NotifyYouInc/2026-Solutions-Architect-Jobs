@@ -1,16 +1,16 @@
-# Applied AI Architect, Industries  at Anthropic
+# Databricks Solution Lead at NCS Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Adelaide, South Australia, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390778008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001318393-databricks-solution-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-08-17.
+This technical & solutions architect position at NCS Australia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

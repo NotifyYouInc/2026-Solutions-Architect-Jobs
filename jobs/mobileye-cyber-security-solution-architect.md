@@ -1,16 +1,16 @@
-# Applied AI Architect, Industries  at Anthropic
+# Cyber Security Solution Architect at Mobileye
 
 | Field | Details |
 |-------|---------|
-| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Jerusalem, Jerusalem, Israel |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390778008) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/89b5d584-1a18-4087-a8ca-46172fdf9c29) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-08-17.
+This technical & solutions architect position at Mobileye was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet_JR2018870) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Czechia-Remote/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet_JR2023307) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-06-03.
+This technical & solutions architect position at Nvidia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

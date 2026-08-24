@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485637/senior-specialist-sa-developer-transformation) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503272/senior-specialist-sa-developer-transformation) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-07-28.
+This technical & solutions architect position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

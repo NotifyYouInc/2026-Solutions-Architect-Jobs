@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
+| Location | Malaysia |
 | Category | Database Administration |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/United-Kingdom-Remote/Senior-Oracle-Cloud-Architect_R19744) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Selangor-Malaysia/Senior-Oracle-Cloud-Architect_R20015) |
 
 ## About This Role
 
-This database administration position at ZOLL Medical Corporation was posted on 2026-08-04.
+This database administration position at ZOLL Medical Corporation was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

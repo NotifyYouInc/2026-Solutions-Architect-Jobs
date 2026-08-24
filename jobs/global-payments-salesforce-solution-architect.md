@@ -1,16 +1,16 @@
-# Applied AI Architect, Industries  at Anthropic
+# Salesforce Solution Architect at Global Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390778008) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/BRISBANE-QUEENSLAND-AUSTRALIA/Salesforce-Solution-Architect_R0072762) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-08-17.
+This technical & solutions architect position at Global Payments was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

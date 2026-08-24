@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8658145002) |
 
 ## About This Role
 
-This technical & solutions architect position at WPP was posted on 2026-08-12.
+This software engineer position at WPP was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

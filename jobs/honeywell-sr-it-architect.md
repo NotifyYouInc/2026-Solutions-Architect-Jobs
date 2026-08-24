@@ -5,12 +5,12 @@
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152928) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155297) |
 
 ## About This Role
 
-This technical & solutions architect position at Honeywell was posted on 2026-07-10.
+This technical & solutions architect position at Honeywell was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000143095393-solution-architectlead-software-engineer-ai-data-applications) |
 
 ## About This Role
 
-This technical & solutions architect position at Hiflylabs was posted on 2026-08-12.
+This software engineer position at Hiflylabs was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
