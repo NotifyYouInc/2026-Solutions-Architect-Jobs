@@ -5,12 +5,12 @@
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143130259-enterprise-architect-professional-services) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143885359-enterprise-architect-professional-services) |
 
 ## About This Role
 
-This technical & solutions architect position at Mirantis was posted on 2026-08-12.
+This technical & solutions architect position at Mirantis was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

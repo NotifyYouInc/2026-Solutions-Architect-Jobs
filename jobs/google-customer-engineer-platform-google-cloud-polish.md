@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdSmNddubVAG1rdkPYlcr4nn8VAPXb1ytQalERrKFyyZEjsACxwdTBLJDvsTaeTpH2bG61bTRrCx_vI8q_99DUr-e0yoyb1bV-cHS_vOf_CaLZ2Ds8a1TnT7fDIgxg%3D%3D_V2&loc=PL&title=Customer+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQwtBwP4h_fXxw5uneEtUPJsVbhLEovgxx5vrCXx_ZQrEjsA1Ny_i1LWKVZiMcBmSmfXXetakHTZcYtIBUUJSVX6MS7kX3IS-cRT_uQUFIsHCHKjOTtFpP3MH-DaZg%3D%3D_V2&loc=PL&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-05-12.
+This sales engineer position at Google was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New Jersey, US |
+| Location | Santa Clara, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-New-York/Senior-Solutions-Architect--Financial-Services-Banking_JR2015640) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Solutions-Architect--Financial-Services-Banking_JR2023237) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-04-03.
+This technical & solutions architect position at Nvidia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

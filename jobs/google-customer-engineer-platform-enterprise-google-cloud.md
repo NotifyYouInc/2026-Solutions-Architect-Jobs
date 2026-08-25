@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQxji6EpRuiJTgI4aIVW2YcapEwCcpjMGyPTzDRnRWd6EjsA1Ny_i9OxsTdwZFCnIzSUugOt9I1gbTxiPjPFnUxZbZpa51_xOXhLOiYUXwnIx2J955cAym3lSxsrkg%3D%3D_V2&loc=SG&title=Customer+Engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaFRFRhq4niI8yoOmxSs1NJ5qeBxObyejj1EfXd31W9CEjsA1Ny_iyjAzBeYz_bgfvys_mb8dfya-MD2XSN7wfHYIjwXV0sc6eMf-xrSh4ILotkObPlfo04hQ1QucQ%3D%3D_V2&loc=SG&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-14.
+This sales engineer position at Google was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

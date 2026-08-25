@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Holly Springs, North Carolina, United States |
+| Location | Thousand Oaks, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Specialist-IS-Architect_R-244958) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Specialist-IS-Architect_R-248051) |
 
 ## About This Role
 
-This technical & solutions architect position at Amgen was posted on 2026-07-20.
+This technical & solutions architect position at Amgen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

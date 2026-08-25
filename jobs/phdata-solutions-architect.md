@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=8094320) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7988577) |
 
 ## About This Role
 
-This technical & solutions architect position at phData was posted on 2026-08-05.
+This technical & solutions architect position at phData was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

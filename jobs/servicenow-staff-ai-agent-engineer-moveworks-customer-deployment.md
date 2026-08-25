@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Deployment Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138420329-staff-ai-agent-engineer-moveworks-customer-deployment) |
+| Location | Staines, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143892019-staff-ai-agent-engineer-moveworks-customer-deployment) |
 
 ## About This Role
 
-This deployment engineer position at ServiceNow was posted on 2026-07-17.
+This technical & solutions architect position at ServiceNow was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79985) |
 
 ## About This Role
 
-This technical & solutions architect position at BNY was posted on 2026-08-14.
+This data engineer position at BNY was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

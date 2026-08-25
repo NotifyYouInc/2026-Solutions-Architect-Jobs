@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [540](https://scoutify.ai/companies/540?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Florida, US |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7733715003) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7886182003) |
 
 ## About This Role
 
-This technical & solutions architect position at 540 was posted on 2026-05-14.
+This technical & solutions architect position at 540 was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

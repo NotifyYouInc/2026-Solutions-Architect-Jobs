@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/Global-Network-Architect_R58776) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/Global-Network-Architect_R61104) |
 
 ## About This Role
 
-This technical & solutions architect position at PVH was posted on 2026-04-23.
+This cybersecurity engineer position at PVH was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

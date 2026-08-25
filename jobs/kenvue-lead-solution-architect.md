@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Solution-Architect_2607043349W) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Solution-Architect_2607043350W-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Kenvue was posted on 2026-03-15.
+This technical & solutions architect position at Kenvue was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

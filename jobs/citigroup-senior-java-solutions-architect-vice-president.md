@@ -1,16 +1,16 @@
-# Senior Java Solutions Architect- Vice President at Citigroup
+# Senior Java Solutions Architect -Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Senior-Java-Solutions-Architect--Vice-President_26979907) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Java-Solutions-Architect--Vice-President_26986446) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-08-05.
+This technical & solutions architect position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
