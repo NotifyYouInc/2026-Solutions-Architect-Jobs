@@ -1,16 +1,16 @@
-# Data & AI Platform Architect at Red Bull
+# Data & AI Platform Architect  at Red Bull
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000143450449-data-ai-platform-architect) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000143773194-data-ai-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Bull was posted on 2026-08-14.
+This technical & solutions architect position at Red Bull was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

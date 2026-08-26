@@ -1,0 +1,22 @@
+# Principal Systems Engineer / Systems Architect – Modular Weapons GRA at KBR
+
+| Field | Details |
+|-------|---------|
+| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Florida, US |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Eglin-AFB-Florida/Principal-Systems-Engineer---Systems-Architect---Modular-Weapons-GRA_R2128516) |
+
+## About This Role
+
+This software engineer position at KBR was posted on 2026-08-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

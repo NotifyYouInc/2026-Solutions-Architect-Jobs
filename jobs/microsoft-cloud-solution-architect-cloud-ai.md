@@ -1,16 +1,16 @@
-# Cloud Solution Architect- Cloud & AI at Microsoft
+# Cloud Solution Architect - Cloud & AI at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mexico |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556869651) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556958392) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-07-06.
+This technical & solutions architect position at Microsoft was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

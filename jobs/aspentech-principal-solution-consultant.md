@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Singapore/Principal-Solution-Consultant_R8439) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Mumbai/Principal-Solution-Consultant_R9323) |
 
 ## About This Role
 
-This technical & solutions architect position at Aspentech was posted on 2026-03-10.
+This technical & solutions architect position at Aspentech was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

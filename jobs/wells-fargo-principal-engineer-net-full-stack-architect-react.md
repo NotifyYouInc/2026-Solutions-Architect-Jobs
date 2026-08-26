@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer--Net-Full-Stack-Architect--React-_R-533741) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-04-06.
+This software engineer position at Wells Fargo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Solution-Architect--L11-_2602256-2) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Central-Region-Engagement-Hub-IN/AVP--Solution-Architect--L11-_2602392-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Synchrony Financial was posted on 2026-08-07.
+This technical & solutions architect position at Synchrony Financial was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

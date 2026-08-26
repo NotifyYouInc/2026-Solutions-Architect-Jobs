@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Senior-Systems-Architect--HW-SW-Solutions_R-10066256) |
 
 ## About This Role
 
-This embedded / firmware engineer position at NXP Semiconductors was posted on 2026-08-13.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

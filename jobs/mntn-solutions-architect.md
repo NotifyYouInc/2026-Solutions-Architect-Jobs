@@ -5,12 +5,12 @@
 | Company | [MNTN](https://scoutify.ai/companies/mntn?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8047145) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8139987) |
 
 ## About This Role
 
-This technical & solutions architect position at MNTN was posted on 2026-07-06.
+This technical & solutions architect position at MNTN was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

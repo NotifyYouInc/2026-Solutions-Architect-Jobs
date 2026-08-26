@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/AI-Solutions-Architect--LLMs---AI-Agents-_51583363) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/AI-Solutions-Architect--LLMs---AI-Agents-_51587061) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-07-02.
+This technical & solutions architect position at DXC Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Principal-Architect_R-540952) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Architect_R-568422-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Wells Fargo was posted on 2026-05-13.
+This technical & solutions architect position at Wells Fargo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

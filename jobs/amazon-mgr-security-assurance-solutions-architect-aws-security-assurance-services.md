@@ -1,16 +1,16 @@
-# Mgr, Security Assurance Solutions Architect, AWS Security Assurance Services at Amazon
+# Mgr., Security Assurance Solutions Architect, AWS Security Assurance Services at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428428/mgr-security-assurance-solutions-architect-aws-security-assurance-services) |
+| Location | Herndon, Virginia, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10506350/mgr-security-assurance-solutions-architect-aws-security-assurance-services) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-05-22.
+This technical & solutions architect position at Amazon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

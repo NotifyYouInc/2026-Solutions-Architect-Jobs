@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bucharest, București, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/97049556-ec30-4958-b98c-f5c6ccc2ee18) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/f6641312-4b96-4e18-8a08-305117794a03) |
 
 ## About This Role
 
-This technical & solutions architect position at UiPath was posted on 2026-07-27.
+This technical & solutions architect position at UiPath was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8128855) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8078069) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-08-13.
+This technical & solutions architect position at MongoDB was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Georgia, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-GA-Georgia-Remote-Employees/Technical-Solutions-Architect_R243367-1) |
+| Location | Colorado, US |
+| Category | Sales Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Colorado-Remote-Employees/Technical-Solutions-Architect_R246428) |
 
 ## About This Role
 
-This technical & solutions architect position at Arrow Electronics was posted on 2026-04-27.
+This sales engineer position at Arrow Electronics was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Technical Architect - Data 360 at Salesforce
+# Senior Technical Architect, Data 360 at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Philippines |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Senior-Technical-Architect---Data-360_JR334846) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Technical-Architect--Data-360_JR354949) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-23.
+This technical & solutions architect position at Salesforce was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

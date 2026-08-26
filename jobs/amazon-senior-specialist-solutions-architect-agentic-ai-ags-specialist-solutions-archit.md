@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10501853/senior-specialist-solutions-architect-agentic-ai-ags-specialist-solutions-architects) |
+| Location | Mountain View, California, United States |
+| Category | Go To Market Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10506289/senior-specialist-solutions-architect-agentic-ai-ags-specialist-solutions-architects) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-08-14.
+This go to market engineer position at Amazon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

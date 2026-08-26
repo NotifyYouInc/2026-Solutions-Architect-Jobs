@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Long Island City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014532301-solutions-architect-bureau-of-it-application-and-platform-engineering) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014641916-solutions-architect-bureau-of-it-application-and-platform-engineering) |
 
 ## About This Role
 
-This technical & solutions architect position at City of New York was posted on 2026-08-11.
+This technical & solutions architect position at City of New York was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

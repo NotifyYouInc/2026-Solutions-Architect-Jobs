@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5800190004) |
+| Location | India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/6146088004) |
 
 ## About This Role
 
-This devops engineer position at 66degrees was posted on 2026-02-11.
+This technical & solutions architect position at 66degrees was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
