@@ -1,16 +1,16 @@
-# Sr Platform Architect at ServiceNow
+# Sr. Platform Architect at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141882770-sr-platform-architect) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144587242-sr-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-08-06.
+This technical & solutions architect position at ServiceNow was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

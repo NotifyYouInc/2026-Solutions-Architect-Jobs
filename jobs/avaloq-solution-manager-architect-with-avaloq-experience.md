@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Luxembourg |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000141919449-solution-manager-architect-with-avaloq-experience) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000144483549-solution-manager-architect-with-avaloq-experience) |
 
 ## About This Role
 
-This technical & solutions architect position at Avaloq was posted on 2026-08-06.
+This technical & solutions architect position at Avaloq was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

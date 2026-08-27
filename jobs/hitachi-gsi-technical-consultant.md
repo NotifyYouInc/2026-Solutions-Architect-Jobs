@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/GSI-Technical-Consultant_R0135927) |
 
 ## About This Role
 
-This sales engineer position at Hitachi was posted on 2026-08-18.
+This technical & solutions architect position at Hitachi was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

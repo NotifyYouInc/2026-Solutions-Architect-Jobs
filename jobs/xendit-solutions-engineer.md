@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xendit](https://scoutify.ai/companies/xendit?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/xendit/jobs/7870293003) |
 
 ## About This Role
 
-This sales engineer position at Xendit was posted on 2026-08-18.
+This technical & solutions architect position at Xendit was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

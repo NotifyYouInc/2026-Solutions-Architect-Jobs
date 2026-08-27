@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bilbao, Basque Country, Spain |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116598678-software-architect) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000144507269-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-03-25.
+This technical & solutions architect position at Inetum was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

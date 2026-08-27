@@ -1,16 +1,16 @@
-# Solution Architect - IBM at TD Synnex
+# Solution Architect IBM at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Location | Solna, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Solution-Architect---IBM_R54642) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Solna-Sweden/Solution-Architect-IBM_R54055) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-08-03.
+This technical & solutions architect position at TD Synnex was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

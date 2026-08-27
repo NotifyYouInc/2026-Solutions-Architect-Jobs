@@ -5,12 +5,12 @@
 | Company | [Umdasch](https://scoutify.ai/companies/umdasch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amstetten, Lower Austria, Austria |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000142595478-solution-architect-supply-chain-execution-mwd-schwerpunkt-sap-atm) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000144502955-solution-architect-supply-chain-execution-mwd-schwerpunkt-sap-atm) |
 
 ## About This Role
 
-This technical & solutions architect position at Umdasch was posted on 2026-08-10.
+This technical & solutions architect position at Umdasch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

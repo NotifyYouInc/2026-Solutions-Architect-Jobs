@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Baden-Daettwil-Aargau-Switzerland/Direct-Current-Datacenter-System-Architect_JR00033515) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Baden-Daettwil-Aargau-Switzerland/Direct-Current-Datacenter-System-Architect_JR00043668) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-05-07.
+This electrical / hardware engineer position at ABB was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

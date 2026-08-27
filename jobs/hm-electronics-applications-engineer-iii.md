@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HM Electronics](https://scoutify.ai/companies/hmeukg-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://hmeukg.rec.pro.ukg.net/hme1500hmen/JobBoard/616b8ff0-9933-405d-9892-26f121d3a657/OpportunityDetail?opportunityId=097d6442-06e6-4862-9cce-e5032b30c8d8) |
 
 ## About This Role
 
-This software engineer position at HM Electronics was posted on 2026-08-18.
+This technical & solutions architect position at HM Electronics was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

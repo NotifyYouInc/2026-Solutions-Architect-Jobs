@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Senior-Staff-Software-Engineer_R244860) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Senior-Staff-Software-Engineer_R249343-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-06-19.
+This technical & solutions architect position at Capital One was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

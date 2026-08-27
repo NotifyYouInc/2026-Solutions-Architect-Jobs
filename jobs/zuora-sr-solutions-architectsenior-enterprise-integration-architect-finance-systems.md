@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8098142?gh_jid=8098142) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8138522?gh_jid=8138522) |
 
 ## About This Role
 
-This technical & solutions architect position at Zuora was posted on 2026-07-31.
+This technical & solutions architect position at Zuora was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

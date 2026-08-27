@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Senior-Solution-Architect_R0160473) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Senior-Solution-Architect_R0168638-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amentum was posted on 2026-05-01.
+This technical & solutions architect position at Amentum was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

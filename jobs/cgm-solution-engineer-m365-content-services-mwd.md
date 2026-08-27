@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Koblenz, Rheinland-Pfalz, Germany |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Koblenz/Solution-Engineer-M365-Content-Services--m-w-d-_JR109840) |
 
 ## About This Role
 
-This sales engineer position at Cgm was posted on 2026-08-18.
+This technical & solutions architect position at Cgm was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

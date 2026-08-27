@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cyber-Security-Architect_R0247111) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-17.
+This technical & solutions architect position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

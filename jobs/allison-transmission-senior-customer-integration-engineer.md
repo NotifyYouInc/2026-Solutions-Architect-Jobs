@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allison Transmission](https://scoutify.ai/companies/allisontransmission?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Senior-Customer-Integration-Engineer_R007907-1) |
 
 ## About This Role
 
-This software engineer position at Allison Transmission was posted on 2026-08-17.
+This technical & solutions architect position at Allison Transmission was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

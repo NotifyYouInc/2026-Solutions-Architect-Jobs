@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/Zero-Trust-Enterprise-Architect_R-00189712) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-18.
+This technical & solutions architect position at Leidos was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

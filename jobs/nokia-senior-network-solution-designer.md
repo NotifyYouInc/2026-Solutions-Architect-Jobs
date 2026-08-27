@@ -5,12 +5,12 @@
 | Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#30898) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#39605) |
 
 ## About This Role
 
-This technical & solutions architect position at Nokia was posted on 2026-07-22.
+This technical & solutions architect position at Nokia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

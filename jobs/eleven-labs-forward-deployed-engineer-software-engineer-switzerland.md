@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05) |
 
 ## About This Role
 
-This software engineer position at Eleven Labs was posted on 2026-08-17.
+This technical & solutions architect position at Eleven Labs was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bangkok, TH |
-| Category | Customer Success |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504419/delivery-consultant-data-analytics-professional-services) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-08-18.
+This technical & solutions architect position at Amazon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

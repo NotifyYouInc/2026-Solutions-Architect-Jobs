@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AppViewX](https://scoutify.ai/companies/appviewx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://www.appviewx.com/current-openings/?gh_jid=6144209004) |
 
 ## About This Role
 
-This sales engineer position at AppViewX was posted on 2026-08-18.
+This technical & solutions architect position at AppViewX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

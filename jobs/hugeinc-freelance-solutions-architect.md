@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HugeInc](https://scoutify.ai/companies/hugeinc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Colombia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hugeinc/jobs/7826042) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hugeinc/jobs/8122816) |
 
 ## About This Role
 
-This technical & solutions architect position at HugeInc was posted on 2026-04-22.
+This technical & solutions architect position at HugeInc was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

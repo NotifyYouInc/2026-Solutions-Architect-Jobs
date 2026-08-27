@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 5 locations |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Maryland---Baltimore/Sr-Global-Technical-Consultant---LS_R00277407) |
 
 ## About This Role
 
-This sales engineer position at Ecolab was posted on 2026-08-18.
+This technical & solutions architect position at Ecolab was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

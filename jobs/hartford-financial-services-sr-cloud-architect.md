@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-Cloud-Architect_R2626414) |
 
 ## About This Role
 
-This devops engineer position at Hartford Financial Services was posted on 2026-08-18.
+This technical & solutions architect position at Hartford Financial Services was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

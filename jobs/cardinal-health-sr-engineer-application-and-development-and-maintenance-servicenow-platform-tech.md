@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Sr-Engineer-Application-and-Development-and-Maintenance---ServiceNow-Platform-Technical-Lead_20185458) |
 
 ## About This Role
 
-This software engineer position at Cardinal Health was posted on 2026-08-18.
+This technical & solutions architect position at Cardinal Health was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

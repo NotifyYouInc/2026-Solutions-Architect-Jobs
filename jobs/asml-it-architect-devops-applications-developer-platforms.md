@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/IT-Architect---DevOps-Applications---Developer-Platforms_J-00349250) |
 
 ## About This Role
 
-This devops engineer position at ASML was posted on 2026-08-17.
+This technical & solutions architect position at ASML was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

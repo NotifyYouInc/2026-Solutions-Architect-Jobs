@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000134803852-solution-architect) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000144398092-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Acumatica was posted on 2026-06-29.
+This technical & solutions architect position at Acumatica was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

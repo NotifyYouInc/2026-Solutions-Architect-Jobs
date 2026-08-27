@@ -5,12 +5,12 @@
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/AI-Solutioning-Consultant_R160152) |
 
 ## About This Role
 
-This technical & solutions architect position at Baker Hughes was posted on 2026-04-10.
+This technical & solutions architect position at Baker Hughes was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

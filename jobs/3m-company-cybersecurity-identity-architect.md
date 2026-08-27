@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Cybersecurity-Identity-Architect_R01169094) |
 
 ## About This Role
 
-This cybersecurity engineer position at 3M Company was posted on 2026-08-19.
+This technical & solutions architect position at 3M Company was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

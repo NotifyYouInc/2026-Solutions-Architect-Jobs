@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Florida, US |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Eglin-AFB-Florida/Principal-Systems-Engineer---Systems-Architect---Modular-Weapons-GRA_R2128516) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-08-18.
+This technical & solutions architect position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

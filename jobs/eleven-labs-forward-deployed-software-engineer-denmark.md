@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denmark |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165) |
 
 ## About This Role
 
-This software engineer position at Eleven Labs was posted on 2026-08-17.
+This technical & solutions architect position at Eleven Labs was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

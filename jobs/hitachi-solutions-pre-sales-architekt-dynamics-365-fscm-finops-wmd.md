@@ -5,12 +5,12 @@
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000123939733-pre-sales-architekt-dynamics-365-fscm-finops-wmd) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000144262859-pre-sales-architekt-dynamics-365-fscm-finops-wmd) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi Solutions was posted on 2026-04-30.
+This technical & solutions architect position at Hitachi Solutions was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

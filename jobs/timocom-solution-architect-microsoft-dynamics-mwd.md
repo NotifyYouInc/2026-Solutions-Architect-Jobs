@@ -5,12 +5,12 @@
 | Company | [TIMOCOM](https://scoutify.ai/companies/timocomgmbh1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Erkrath, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TimocomGmbH1/744000126942499-solution-architect-microsoft-dynamics-mwd) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TimocomGmbH1/744000144288999-solution-architect-microsoft-dynamics-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at TIMOCOM was posted on 2026-05-18.
+This technical & solutions architect position at TIMOCOM was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

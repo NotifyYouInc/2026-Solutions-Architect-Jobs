@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000141849227-technical-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000144520883-technical-architect) |
 
 ## About This Role
 
-This software engineer position at Ubisoft was posted on 2026-08-06.
+This technical & solutions architect position at Ubisoft was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

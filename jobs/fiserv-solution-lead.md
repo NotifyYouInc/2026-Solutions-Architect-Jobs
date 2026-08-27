@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milan-Italy/Solution-Lead_R-10399376) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milan-Italy/Solution-Lead_R-10401218) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-08-10.
+This technical & solutions architect position at Fiserv was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

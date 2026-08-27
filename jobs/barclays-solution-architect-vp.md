@@ -1,16 +1,16 @@
-# Solution Architect - VP at Barclays
+# Solution Architect -VP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Solution-Architect---VP_JR-0000103398-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Solution-Architect--VP_JR-0000115390-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-06-24.
+This technical & solutions architect position at Barclays was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

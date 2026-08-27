@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Solution-Architect_R-056715-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Senior-Solution-Architect_R-058498-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-28.
+This technical & solutions architect position at Red Hat was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

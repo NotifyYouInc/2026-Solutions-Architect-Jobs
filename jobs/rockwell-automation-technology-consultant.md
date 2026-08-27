@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Industrial Automation |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Taipei-Taiwan/Technology-Consultant_R26-6224) |
 
 ## About This Role
 
-This industrial automation position at Rockwell Automation was posted on 2026-08-18.
+This technical & solutions architect position at Rockwell Automation was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

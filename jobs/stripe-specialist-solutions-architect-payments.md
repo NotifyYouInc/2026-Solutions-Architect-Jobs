@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7377593) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8119967) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-04-22.
+This technical & solutions architect position at Stripe was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

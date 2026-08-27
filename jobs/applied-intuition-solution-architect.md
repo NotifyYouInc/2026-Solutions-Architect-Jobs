@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2024-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/applied/80887332-6052-4367-8e56-265b6a55eced) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/99199418-b770-4524-93fe-6e5f6e641dcc) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Intuition was posted on 2024-08-29.
+This technical & solutions architect position at Applied Intuition was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

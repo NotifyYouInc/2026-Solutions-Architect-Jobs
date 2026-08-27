@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Solutions-Architect--CSP-System_JR2015608-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Solutions-Architect--CSP-System_JR2023079) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-05-13.
+This technical & solutions architect position at Nvidia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

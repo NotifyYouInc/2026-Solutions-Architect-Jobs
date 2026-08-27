@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Waukesha, Wisconsin, United States |
-| Category | AI / ML Research |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Principal-Data---AI-Architect_JR16103) |
 
 ## About This Role
 
-This ai / ml research position at Generac was posted on 2026-08-18.
+This technical & solutions architect position at Generac was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
