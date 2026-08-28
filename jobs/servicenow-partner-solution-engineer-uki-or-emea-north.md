@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Staines, England, United Kingdom |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144585679-partner-solution-engineer-uki-or-emea-north) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-08-20.
+This sales engineer position at ServiceNow was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

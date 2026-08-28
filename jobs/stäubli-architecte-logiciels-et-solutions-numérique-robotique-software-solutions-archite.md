@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | France |
-| Category | Robotics Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000144573879-architecte-logiciels-et-solutions-numerique-robotique-software-solutions-architect-robotics-hf) |
 
 ## About This Role
 
-This robotics engineer position at Stäubli was posted on 2026-08-20.
+This embedded / firmware engineer position at Stäubli was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014701076-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at HelloKindred was posted on 2026-08-20.
+This data engineer position at HelloKindred was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

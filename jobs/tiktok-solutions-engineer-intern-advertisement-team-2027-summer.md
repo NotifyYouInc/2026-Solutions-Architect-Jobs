@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7673228407870687493/detail) |
 
 ## About This Role
 
-This technical & solutions architect position at TikTok was posted on 2026-08-19.
+This sales engineer position at TikTok was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

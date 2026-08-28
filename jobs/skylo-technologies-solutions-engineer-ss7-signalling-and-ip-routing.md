@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/skylo/723b2d2e-1aa3-4fa4-b076-61d7a41003f0) |
 
 ## About This Role
 
-This technical & solutions architect position at Skylo Technologies was posted on 2026-08-19.
+This sales engineer position at Skylo Technologies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

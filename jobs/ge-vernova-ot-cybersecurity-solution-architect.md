@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/OT-Cybersecurity-Solution-Architect_R5050318-2) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-08-20.
+This cybersecurity engineer position at GE Vernova was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

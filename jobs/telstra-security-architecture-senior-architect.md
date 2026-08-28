@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Australia |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Australia-Flexible/Security-Architecture---Senior-Architect_JR-10173471-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Telstra was posted on 2026-08-20.
+This cybersecurity engineer position at Telstra was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

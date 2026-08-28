@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Solutions-Architect_JR2016966) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Solutions-Architect_JR2023086) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-04-29.
+This technical & solutions architect position at Nvidia was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

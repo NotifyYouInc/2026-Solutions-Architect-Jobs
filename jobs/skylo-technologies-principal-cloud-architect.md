@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skylotechnologies/jobs/6333061003) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/ad1f02ba-1ca8-49c5-a2bc-9bd5b6166400) |
 
 ## About This Role
 
-This technical & solutions architect position at Skylo Technologies was posted on 2026-03-12.
+This technical & solutions architect position at Skylo Technologies was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

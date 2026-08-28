@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Saudi Arabia |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/62bd5d49-6122-421a-8f18-3aa65dbdbd1d) |
 
 ## About This Role
 
-This technical & solutions architect position at Eleven Labs was posted on 2026-08-20.
+This sales engineer position at Eleven Labs was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

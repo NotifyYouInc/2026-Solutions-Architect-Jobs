@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Camp H.M. Smith, Hawaii, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/ZT-Enterprise-Architect--Lead_R0242994) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/ZT-Enterprise-Architect--Lead_R0247604) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-06-24.
+This technical & solutions architect position at Booz Allen was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

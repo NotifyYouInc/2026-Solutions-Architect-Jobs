@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7675148263813597493/detail) |
 
 ## About This Role
 
-This technical & solutions architect position at TikTok was posted on 2026-08-20.
+This sales engineer position at TikTok was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

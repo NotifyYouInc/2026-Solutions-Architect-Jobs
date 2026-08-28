@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390754008) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-08-20.
+This sales engineer position at Anthropic was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryan](https://scoutify.ai/companies/ryan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Solutions-Architect--HRIS_R0020025) |
 
 ## About This Role
 
-This technical & solutions architect position at Ryan was posted on 2026-08-20.
+This human resources / people ops position at Ryan was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

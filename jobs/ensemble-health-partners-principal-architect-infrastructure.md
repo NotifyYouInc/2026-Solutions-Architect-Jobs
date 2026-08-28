@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Principal-Architect--Infrastructure_R049433) |
 
 ## About This Role
 
-This technical & solutions architect position at Ensemble Health Partners was posted on 2026-08-20.
+This cybersecurity engineer position at Ensemble Health Partners was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

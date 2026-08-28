@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6148352004) |
 
 ## About This Role
 
-This technical & solutions architect position at Dataiku was posted on 2026-08-20.
+This sales engineer position at Dataiku was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

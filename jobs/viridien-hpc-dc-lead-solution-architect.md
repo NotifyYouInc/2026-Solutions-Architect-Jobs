@@ -5,12 +5,12 @@
 | Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/HPC-DC-Lead-Solution-Architect_JR101221) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/HPC-DC-Lead-Solution-Architect_JR101458) |
 
 ## About This Role
 
-This technical & solutions architect position at Viridien was posted on 2026-04-06.
+This technical & solutions architect position at Viridien was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/SAP-Global-Trade-Services-Solution-Architect_R2611137) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/SAP-Global-Trade-Services-Solution-Architect_R2626645) |
 
 ## About This Role
 
-This technical & solutions architect position at Applied Materials was posted on 2026-02-09.
+This technical & solutions architect position at Applied Materials was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

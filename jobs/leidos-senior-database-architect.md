@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Technical & Solutions Architect |
+| Category | Database Administration |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Senior-Database-Architect_R-00189992) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-08-19.
+This database administration position at Leidos was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

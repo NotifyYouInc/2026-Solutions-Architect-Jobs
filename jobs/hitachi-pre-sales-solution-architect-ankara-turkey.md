@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ankara, Ankara, Turkey |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ankara-Ankara-Turkey/Pre-Sales-Solution-Architect--Ankara--Turkey-_R0136894-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Hitachi was posted on 2026-08-20.
+This sales engineer position at Hitachi was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

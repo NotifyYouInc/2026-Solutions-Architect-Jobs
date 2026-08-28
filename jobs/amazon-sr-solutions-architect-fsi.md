@@ -1,16 +1,16 @@
-# Sr. Solutions Architect, FSI at Amazon
+# Sr Solutions Architect, FSI at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397526/sr-solutions-architect-fsi) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10509837/sr-solutions-architect-fsi) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-04-21.
+This technical & solutions architect position at Amazon was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

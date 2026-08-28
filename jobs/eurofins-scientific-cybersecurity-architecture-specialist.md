@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144470229-cybersecurity-architecture-specialist) |
 
 ## About This Role
 
-This technical & solutions architect position at Eurofins Scientific was posted on 2026-08-20.
+This cybersecurity engineer position at Eurofins Scientific was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

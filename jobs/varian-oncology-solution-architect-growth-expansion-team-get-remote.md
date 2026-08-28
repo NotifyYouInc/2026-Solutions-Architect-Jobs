@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Account Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-G/Oncology-Solution-Architect---Growth---Expansion-Team--GET----Remote-_R-29794) |
 
 ## About This Role
 
-This technical & solutions architect position at Varian was posted on 2026-08-20.
+This account manager position at Varian was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

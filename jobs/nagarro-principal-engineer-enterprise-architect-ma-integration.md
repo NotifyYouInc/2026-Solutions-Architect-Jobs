@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Technical & Solutions Architect |
+| Category | Corporate Development & M&A |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000144490230-principal-engineer-enterprise-architect-ma-integration) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-08-20.
+This corporate development & m&a position at Nagarro was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

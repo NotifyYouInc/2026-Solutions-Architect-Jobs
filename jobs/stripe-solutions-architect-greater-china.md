@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8108889) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8144223) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-08-06.
+This technical & solutions architect position at Stripe was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

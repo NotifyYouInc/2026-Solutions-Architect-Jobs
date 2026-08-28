@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Reading-Berkshire-United-Kingdom/Pre--Sales-Technical-Consultant_3166766) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard (HP) was posted on 2026-08-19.
+This sales engineer position at Hewlett Packard (HP) was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spaulding Ridge](https://scoutify.ai/companies/spaulding-ridge?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/spauldingridge/jobs/6110970004) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/spauldingridge/jobs/6150198004) |
 
 ## About This Role
 
-This technical & solutions architect position at Spaulding Ridge was posted on 2026-07-14.
+This technical & solutions architect position at Spaulding Ridge was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

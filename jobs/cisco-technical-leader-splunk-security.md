@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Technical-Leader--Splunk-Security_2021913-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-08-20.
+This cybersecurity engineer position at Cisco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

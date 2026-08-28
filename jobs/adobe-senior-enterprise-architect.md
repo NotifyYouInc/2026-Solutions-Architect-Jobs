@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Georgia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Singapore/Senior-Enterprise-Architect_R171142-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Senior-Enterprise-Architect_R170832) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-08-10.
+This technical & solutions architect position at Adobe was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

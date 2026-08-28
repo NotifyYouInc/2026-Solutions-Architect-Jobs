@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Dublin/Regional-Services-Engineer---Ireland_JR2364-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Exclusivenetworks was posted on 2026-08-19.
+This customer success position at Exclusivenetworks was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

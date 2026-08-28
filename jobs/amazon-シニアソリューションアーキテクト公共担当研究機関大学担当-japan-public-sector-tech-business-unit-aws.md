@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Tokyo, JP |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415423/japan-public-sector-tech-business-unit-aws) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10509721/japan-public-sector-tech-business-unit-aws) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-09.
+This technical & solutions architect position at Amazon was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

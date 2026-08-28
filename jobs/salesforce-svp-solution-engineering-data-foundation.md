@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sweden---Stockholm/SVP--Solution-Engineering-Data-Foundation_JR356847) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-08-20.
+This sales engineer position at Salesforce was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

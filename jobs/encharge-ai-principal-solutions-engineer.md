@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EnCharge AI](https://scoutify.ai/companies/encharge-ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/enchargeai36/jobs/4375746009) |
 
 ## About This Role
 
-This technical & solutions architect position at EnCharge AI was posted on 2026-08-19.
+This sales engineer position at EnCharge AI was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

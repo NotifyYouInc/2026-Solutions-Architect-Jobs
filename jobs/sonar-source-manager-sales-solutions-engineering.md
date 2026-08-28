@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sonar Source](https://scoutify.ai/companies/sonar-source?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.lever.co/sonarsource/08d83bf9-297a-4725-abd8-0270dd2ae533) |
 
 ## About This Role
 
-This technical & solutions architect position at Sonar Source was posted on 2026-08-19.
+This sales engineer position at Sonar Source was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5388956008) |
 
 ## About This Role
 
-This technical & solutions architect position at Dragos was posted on 2026-08-19.
+This cybersecurity engineer position at Dragos was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

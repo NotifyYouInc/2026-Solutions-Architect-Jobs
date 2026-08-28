@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/harvey/302a0914-2763-4e16-b044-b54de4367808) |
 
 ## About This Role
 
-This technical & solutions architect position at Harvey was posted on 2026-08-20.
+This sales engineer position at Harvey was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

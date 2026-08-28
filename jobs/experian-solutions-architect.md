@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | São Carlos, São Paulo, Brazil |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140888579-solutions-architect) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144809179-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Experian was posted on 2026-07-31.
+This technical & solutions architect position at Experian was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

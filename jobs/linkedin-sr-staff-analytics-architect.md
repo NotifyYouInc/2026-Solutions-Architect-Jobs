@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 9 locations |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144179059-sr-staff-analytics-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at LinkedIn was posted on 2026-08-18.
+This data engineer position at LinkedIn was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

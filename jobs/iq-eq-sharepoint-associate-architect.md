@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142058649-sharepoint-associate-architect) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000144683839-sharepoint-associate-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at IQ-EQ was posted on 2026-08-07.
+This technical & solutions architect position at IQ-EQ was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

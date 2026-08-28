@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Network-Solutions-Engineer--On-site--Schriever-Space-Force-Base--CO_R031525) |
 
 ## About This Role
 
-This technical & solutions architect position at Ciena was posted on 2026-08-18.
+This sales engineer position at Ciena was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

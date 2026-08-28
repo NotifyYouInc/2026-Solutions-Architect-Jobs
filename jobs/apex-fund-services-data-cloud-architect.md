@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Sofia/Data-Cloud-Architect_JR-0025411) |
 
 ## About This Role
 
-This technical & solutions architect position at Apex Fund Services was posted on 2026-08-19.
+This data engineer position at Apex Fund Services was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

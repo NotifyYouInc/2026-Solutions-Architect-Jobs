@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Workday---Financials-Solution-Architect_32877) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Workday---Financials-Solution-Architect_43441) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-04-22.
+This technical & solutions architect position at Guidehouse was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

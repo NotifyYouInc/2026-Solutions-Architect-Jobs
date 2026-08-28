@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | AI / ML Research |
-| Posted | 2026-04-20 |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
 | Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Warsaw/Senior-AI-Architect--w-m-x-_R5031629) |
 
 ## About This Role
 
-This ai / ml research position at GE Aerospace was posted on 2026-04-20.
+This machine learning engineer position at GE Aerospace was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

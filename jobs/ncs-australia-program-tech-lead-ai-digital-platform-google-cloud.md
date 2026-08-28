@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001333621-program-tech-lead-ai-digital-platform-google-cloud) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS Australia was posted on 2026-08-20.
+This machine learning engineer position at NCS Australia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

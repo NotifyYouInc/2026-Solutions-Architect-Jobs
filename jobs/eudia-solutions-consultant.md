@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eudia](https://scoutify.ai/companies/eudia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/eudia/jobs/4375061009) |
 
 ## About This Role
 
-This technical & solutions architect position at Eudia was posted on 2026-08-19.
+This sales engineer position at Eudia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [applied](https://scoutify.ai/companies/applied?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/applied/64f6eb25-2824-41d4-b022-3bdd0ca4b80a) |
 
 ## About This Role
 
-This technical & solutions architect position at applied was posted on 2026-08-19.
+This sales engineer position at applied was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

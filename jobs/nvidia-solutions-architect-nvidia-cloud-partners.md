@@ -1,16 +1,16 @@
-# Solutions Architect - NVIDIA Cloud Partners at Nvidia
+# Solutions Architect, NVIDIA Cloud Partners at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect---NVIDIA-Cloud-Partners_JR2022446) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--NVIDIA-Cloud-Partners_JR2023991) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-07-30.
+This technical & solutions architect position at Nvidia was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

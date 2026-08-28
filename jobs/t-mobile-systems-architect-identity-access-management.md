@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Systems-Architect---Identity---Access-Management_REQ366519-1) |
 
 ## About This Role
 
-This technical & solutions architect position at T-Mobile was posted on 2026-08-20.
+This cybersecurity engineer position at T-Mobile was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

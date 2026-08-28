@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Principal-Architect--Security-Architecture_R2613844) |
 
 ## About This Role
 
-This technical & solutions architect position at Cencora was posted on 2026-08-19.
+This cybersecurity engineer position at Cencora was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

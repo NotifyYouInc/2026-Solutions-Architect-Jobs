@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5217489007) |
 
 ## About This Role
 
-This technical & solutions architect position at The Trade Desk was posted on 2026-08-20.
+This sales engineer position at The Trade Desk was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

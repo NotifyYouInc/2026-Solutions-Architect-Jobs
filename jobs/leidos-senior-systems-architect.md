@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | 6 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Systems-Architect_R-00181450) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Senior-Systems-Architect_R-00190187) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-04-22.
+This technical & solutions architect position at Leidos was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

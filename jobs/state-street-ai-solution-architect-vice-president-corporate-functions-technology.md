@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Solution-Architect--Vice-President---Corporate-Functions-Technology_R-784835) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/AI-Solution-Architect--Vice-President---Corporate-Functions-Technology_R-784835) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-02-26.
+This machine learning engineer position at State Street was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hawaii, US |
+| Location | Joint Base Pearl Harbor Hickam, Hawaii, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014368426-senior-enterprise-architect) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014719305-senior-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SOSi was posted on 2026-07-30.
+This technical & solutions architect position at SOSi was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

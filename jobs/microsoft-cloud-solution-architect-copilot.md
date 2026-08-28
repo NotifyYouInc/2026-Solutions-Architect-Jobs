@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866184) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556962965) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-07-21.
+This technical & solutions architect position at Microsoft was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
