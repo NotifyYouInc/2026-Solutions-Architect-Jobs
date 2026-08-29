@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bergamo, Lombardy, Italy |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bergamo-Bergamo-Italy/IS-Software-Architect_JR00044471-1) |
 
 ## About This Role
 
-This technical & solutions architect position at ABB was posted on 2026-08-19.
+This software engineer position at ABB was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

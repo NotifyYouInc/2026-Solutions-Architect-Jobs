@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Lead-de-plateforme-technologique--Architecte-de-solutions_R2609484) |
 
 ## About This Role
 
-This technical & solutions architect position at Desjardins was posted on 2026-08-20.
+This devops engineer position at Desjardins was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

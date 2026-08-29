@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chon Buri, Chon Buri, Thailand |
 | Category | Sales Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWsiaYd-Mnbf20VuiMcjttOez1cL2I_pA1gw-9xWcUWfEjsA1Ny_i_qwgGOXJIKCW6eS7sEzk2hgYPsqml77w2SgzZl_efnUpTJatv83XgODJOuV0rAtyTpkcVxncg%3D%3D_V2&loc=TH&title=Customer+Solutions+Consultant) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbw8uJZVQtWlCpJLCHt4oY92PXcSCyC4ZcWRZopgur6KEjsA1Ny_ix9UyTvBc5rJKsA_Wal3EEM3LgMVuOjBHqpzeP_k-uOJa6c8aXX5wekpCuxyFAldBsunRbtL4Q%3D%3D_V2&loc=TH&title=Customer+Solutions+Consultant) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-16.
+This sales engineer position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

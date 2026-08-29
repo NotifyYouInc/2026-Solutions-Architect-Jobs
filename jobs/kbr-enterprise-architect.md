@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Maryland, US |
+| Location | Leatherhead, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bethesda-Chevy-Chase-Maryland/Enterprise-Architect_R2124862) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Enterprise-Architect_R2128748) |
 
 ## About This Role
 
-This technical & solutions architect position at KBR was posted on 2026-06-11.
+This technical & solutions architect position at KBR was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

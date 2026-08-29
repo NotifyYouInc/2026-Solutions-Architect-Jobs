@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Lead-Engineer-Data-Center-Fabric-Architect_R55005) |
 
 ## About This Role
 
-This technical & solutions architect position at TD Synnex was posted on 2026-08-21.
+This devops engineer position at TD Synnex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

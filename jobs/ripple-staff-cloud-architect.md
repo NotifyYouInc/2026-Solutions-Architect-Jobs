@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7685310?gh_jid=7685310) |
 
 ## About This Role
 
-This technical & solutions architect position at Ripple was posted on 2026-08-20.
+This devops engineer position at Ripple was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYxg6O_wIczQ4tcjL4ow--i8YcpjOuUhymUlbnhJrLceEjsA1Ny_i1fG43f4k5BSdPSBAUJJGf9UtCuIdetizQKfn-8Ucx3LdfUiHeSEY-dZFkNOKZL2uxQZHG16Aw%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-08-21.
+This software engineer position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

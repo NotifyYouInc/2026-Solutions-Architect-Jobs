@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Computer-Systems-Architect--Software---26-377-_R10246396-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Northrop Grumman was posted on 2026-08-19.
+This software engineer position at Northrop Grumman was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Sr-Software-engineer---Salesforce-Architect_2026-0021592) |
 
 ## About This Role
 
-This technical & solutions architect position at U.S. Bancorp was posted on 2026-08-19.
+This software engineer position at U.S. Bancorp was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

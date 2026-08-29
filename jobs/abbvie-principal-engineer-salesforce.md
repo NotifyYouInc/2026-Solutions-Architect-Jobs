@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014731386-principal-engineer-salesforce) |
 
 ## About This Role
 
-This technical & solutions architect position at AbbVie was posted on 2026-08-21.
+This software engineer position at AbbVie was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

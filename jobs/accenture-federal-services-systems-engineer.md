@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4707290006?gh_jid=4707290006) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture Federal Services was posted on 2026-08-21.
+This devops engineer position at Accenture Federal Services was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

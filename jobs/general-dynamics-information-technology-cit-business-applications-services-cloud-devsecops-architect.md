@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Bethesda/CIT-Business-Applications-Services-Cloud---DevSecOps-Architect_RQ226801) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-08-19.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

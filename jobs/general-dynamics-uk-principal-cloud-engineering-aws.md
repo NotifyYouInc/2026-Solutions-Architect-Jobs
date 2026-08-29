@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000144344946-principal-cloud-engineering-aws) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics UK was posted on 2026-08-19.
+This devops engineer position at General Dynamics UK was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

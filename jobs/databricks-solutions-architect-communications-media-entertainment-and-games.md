@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8414461002) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8737857002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-02-24.
+This technical & solutions architect position at Databricks was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

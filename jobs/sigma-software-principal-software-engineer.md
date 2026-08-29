@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000144590408-principal-software-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Software was posted on 2026-08-20.
+This software engineer position at Sigma Software was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

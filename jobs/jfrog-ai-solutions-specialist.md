@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://join.jfrog.com/job/?job=8138480&gh_jid=8138480) |
 
 ## About This Role
 
-This sales engineer position at JFrog was posted on 2026-08-20.
+This ai / llm engineer position at JFrog was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

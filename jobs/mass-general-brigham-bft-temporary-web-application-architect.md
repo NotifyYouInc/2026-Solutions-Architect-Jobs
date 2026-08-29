@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/BFT-Temporary-Web-Application-Architect_RQ4077047) |
 
 ## About This Role
 
-This technical & solutions architect position at Mass General Brigham was posted on 2026-08-20.
+This software engineer position at Mass General Brigham was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

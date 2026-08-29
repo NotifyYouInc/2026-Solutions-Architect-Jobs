@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Oak Brook, Illinois, United States |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Principal--Cloud-Infrastructure-Architect_JR31406) |
 
 ## About This Role
 
-This technical & solutions architect position at Chamberlain Group was posted on 2026-08-20.
+This devops engineer position at Chamberlain Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

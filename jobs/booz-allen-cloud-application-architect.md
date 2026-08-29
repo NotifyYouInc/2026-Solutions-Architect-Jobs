@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dayton, Ohio, United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/Cloud-Application-Architect_R0247285) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-08-18.
+This software engineer position at Booz Allen was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

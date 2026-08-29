@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Principal-Perception-Architect---System-Integration_R0000389026) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar Inc. was posted on 2026-08-19.
+This software engineer position at Caterpillar Inc. was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

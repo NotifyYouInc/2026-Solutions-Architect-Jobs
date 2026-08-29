@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KLA](https://scoutify.ai/companies/kla?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Boise-ID/Customer-Engagement-Applications-Engineer_2639864-2) |
 
 ## About This Role
 
-This technical & solutions architect position at KLA was posted on 2026-08-20.
+This software engineer position at KLA was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

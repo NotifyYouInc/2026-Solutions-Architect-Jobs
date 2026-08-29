@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LivePerson](https://scoutify.ai/companies/liveperson?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/liveperson/jobs/8144687) |
 
 ## About This Role
 
-This technical & solutions architect position at LivePerson was posted on 2026-08-20.
+This devops engineer position at LivePerson was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

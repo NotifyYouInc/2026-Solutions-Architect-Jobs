@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000144732159-microsoft-azure-cloud-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at VAM Systems was posted on 2026-08-21.
+This devops engineer position at VAM Systems was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

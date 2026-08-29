@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Liberate](https://scoutify.ai/companies/liberate?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/liberate/jobs/4925435008) |
 
 ## About This Role
 
-This technical & solutions architect position at Liberate was posted on 2026-08-21.
+This ai / llm engineer position at Liberate was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
