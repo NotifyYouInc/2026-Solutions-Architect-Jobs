@@ -1,16 +1,16 @@
-# Sr. Technical Architect - Cloud at Blue Yonder
+# Sr Technical Architect - Cloud at Blue Yonder
 
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Technical-Architect---Cloud_260870) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Technical-Architect---Cloud_254796) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-03-27.
+This devops engineer position at Blue Yonder was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

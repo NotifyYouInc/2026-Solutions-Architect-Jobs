@@ -1,16 +1,16 @@
-# Lead Enterprise Architect at Humana
+# Architect - Channels at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 6 locations |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Lead-Enterprise-Architect_R-421448-1) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Architect---Channels_R_1506507) |
 
 ## About This Role
 
-This technical & solutions architect position at Humana was posted on 2026-08-23.
+This technical & solutions architect position at TD Bank was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
