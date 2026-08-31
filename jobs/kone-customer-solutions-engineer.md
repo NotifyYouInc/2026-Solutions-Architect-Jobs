@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mascot, New South Wales, Australia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mascot/Customer-Solutions-Engineer_R0662379-1) |
+| Location | Brno, South Moravian, Czechia |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Brno/Customer-Solutions-Engineer_R0663575) |
 
 ## About This Role
 
-This technical & solutions architect position at Kone was posted on 2026-08-04.
+This sales engineer position at Kone was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

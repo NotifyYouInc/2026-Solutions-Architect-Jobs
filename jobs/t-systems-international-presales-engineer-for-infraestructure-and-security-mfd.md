@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000132378906-presales-engineer-for-infraestructure-and-security-mfd) |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000145244507-presales-engineer-for-infraestructure-and-security-mfd) |
 
 ## About This Role
 
-This security engineer position at T-Systems International was posted on 2026-06-16.
+This sales engineer position at T-Systems International was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

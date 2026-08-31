@@ -5,12 +5,12 @@
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Singapore/Red-Hat-Enterprise-Linux-Specialist-Solution-Architect_R-055419) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-04-21.
+This technical & solutions architect position at Red Hat was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

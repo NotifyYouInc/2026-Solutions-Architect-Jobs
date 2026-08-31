@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vienna, Virginia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.esri.com/careers/5171974007?gh_jid=5171974007) |
+| Location | Redlands, California, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5219784007?gh_jid=5219784007) |
 
 ## About This Role
 
-This it & systems administration position at Esri was posted on 2026-06-23.
+This technical & solutions architect position at Esri was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

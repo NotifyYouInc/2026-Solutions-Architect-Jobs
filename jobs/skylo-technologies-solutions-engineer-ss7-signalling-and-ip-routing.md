@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Espoo, Uusimaa, Finland |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/723b2d2e-1aa3-4fa4-b076-61d7a41003f0) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/f5cb1607-8437-43d5-9468-a8c4226605a9) |
 
 ## About This Role
 
-This sales engineer position at Skylo Technologies was posted on 2026-08-19.
+This sales engineer position at Skylo Technologies was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

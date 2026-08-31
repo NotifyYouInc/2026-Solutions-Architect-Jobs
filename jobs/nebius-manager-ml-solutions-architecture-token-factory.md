@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4952080101) |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4952091101) |
 
 ## About This Role
 

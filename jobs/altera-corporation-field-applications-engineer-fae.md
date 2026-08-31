@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Field-Applications-Engineer--FAE-_R02976) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-08-20.
+This software engineer position at Altera Corporation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

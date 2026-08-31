@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegromicro](https://scoutify.ai/companies/allegromicro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Buenos-Aires-Argentina/Kinaxis-Solution-Architect--Supply-Chain-Planning_R6578) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Hyderabad-India/Kinaxis-Solution-Architect--Supply-Chain-Planning_R6813) |
 
 ## About This Role
 
-This technical & solutions architect position at Allegromicro was posted on 2026-06-02.
+This technical & solutions architect position at Allegromicro was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

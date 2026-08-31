@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Enterprise-Architect_R-00189052) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/Enterprise-Architect_R-00189978-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Leidos was posted on 2026-08-07.
+This cybersecurity engineer position at Leidos was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

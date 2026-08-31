@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
-| Category | DevOps Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144577050-condition-monitoring-engineer-or-vibration-technical-specialist-hybrid) |
 
 ## About This Role
 
-This devops engineer position at Smiths Group was posted on 2026-08-20.
+This sales engineer position at Smiths Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
