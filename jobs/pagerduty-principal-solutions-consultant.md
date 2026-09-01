@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PagerDuty](https://scoutify.ai/companies/pagerduty?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/6006454004) |
+| Location | United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/6161037004) |
 
 ## About This Role
 
-This implementation / professional services position at PagerDuty was posted on 2026-05-28.
+This sales engineer position at PagerDuty was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

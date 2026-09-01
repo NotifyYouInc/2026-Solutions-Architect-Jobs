@@ -1,16 +1,16 @@
-# Senior Customer Architect at Elastic
+# Senior Customer Architect  at Elastic
 
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7623863&gh_jid=7623863) |
+| Location | Singapore, Singapore |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8138584&gh_jid=8138584) |
 
 ## About This Role
 
-This customer success position at Elastic was posted on 2026-03-03.
+This technical & solutions architect position at Elastic was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

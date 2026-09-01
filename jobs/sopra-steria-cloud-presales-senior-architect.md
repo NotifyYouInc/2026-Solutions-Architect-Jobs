@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136767579-cloud-presales-senior-architect) |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000145468168-cloud-presales-senior-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-07-09.
+This sales engineer position at Sopra Steria was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

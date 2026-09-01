@@ -1,16 +1,16 @@
-# Consulting Solution Architect - Hybrid Infrastructure at CDW
+# Consulting Solution Architect – Hybrid Infrastructure at CDW
 
 | Field | Details |
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Consulting-Solution-Architect---Hybrid-Infrastructure_R26_00001382) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Consulting-Solution-Architect---Hybrid-Infrastructure_R26_00002268) |
 
 ## About This Role
 
-This technology / it consulting position at CDW was posted on 2026-04-03.
+This technical & solutions architect position at CDW was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

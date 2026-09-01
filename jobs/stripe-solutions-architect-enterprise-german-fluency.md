@@ -1,16 +1,16 @@
-# Solutions Architect, Enterprise (German fluency)  at Stripe
+# Solutions Architect, Enterprise (German fluency) at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8066953) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8144202) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-07-21.
+This technical & solutions architect position at Stripe was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

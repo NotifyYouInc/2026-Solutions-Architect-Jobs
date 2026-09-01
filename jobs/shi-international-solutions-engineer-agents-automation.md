@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Solutions-Engineer---Agents---Automation_JR3109-1) |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Solutions-Engineer---Agents---Automation_JR3554) |
 
 ## About This Role
 
-This technical & solutions architect position at SHI International was posted on 2026-05-20.
+This sales engineer position at SHI International was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

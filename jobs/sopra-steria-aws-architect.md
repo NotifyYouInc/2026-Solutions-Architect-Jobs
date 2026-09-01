@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malmö, Skåne, Sweden |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144563349-aws-architect) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144696370-aws-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-08-20.
+This technical & solutions architect position at Sopra Steria was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

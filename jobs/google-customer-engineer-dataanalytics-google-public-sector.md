@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaYN0wMpFWW4TZDdiGoQHGdYxQoN5jt4hVO51tr9ooPHEjsA1Ny_i8u4wI3AUsahSQdhttAqUlfwHfqT3bDplHRhwCKpg6bcbNJ96pb8FHGqeTVz_gqeUafGdtGnMg%3D%3D_V2&loc=US&title=Customer+Engineer) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfSZjUQ77WFcba8qiTipXCHZ1fDO6Opp2MvXUl3oB6Z_EjsA1Ny_i3uCsqLUFPUl6h3IsN-9uHH7i-sST7MJepm0-ezWu9jKQNg6lInD67Dzf-appPw6YEzLZtsl2g%3D%3D_V2&loc=US&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-21.
+This sales engineer position at Google was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

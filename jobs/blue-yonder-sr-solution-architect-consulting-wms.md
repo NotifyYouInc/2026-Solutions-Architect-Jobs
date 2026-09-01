@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Solution-Architect---Consulting---WMS_260522) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Enterprise-Solution-Architect---Consulting---WMS_260520) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-04-07.
+This technical & solutions architect position at Blue Yonder was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

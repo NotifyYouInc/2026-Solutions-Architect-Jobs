@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8056751) |
+| Location | 3 locations |
+| Category | Sales Leadership |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8138914) |
 
 ## About This Role
 
-This technical & solutions architect position at MongoDB was posted on 2026-07-14.
+This sales leadership position at MongoDB was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
