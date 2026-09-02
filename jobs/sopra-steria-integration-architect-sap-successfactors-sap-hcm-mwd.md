@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125113676-integration-architect-sap-successfactors-sap-hcm-mwd) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000145707239-integration-architect-sap-successfactors-sap-hcm-mwd) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-05-07.
+This human resources / people ops position at Sopra Steria was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

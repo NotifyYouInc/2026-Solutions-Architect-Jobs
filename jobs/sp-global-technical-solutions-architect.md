@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Islamabad, Islamabad, Pakistan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Technical-Solutions-Architect_326783-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Islamabad-PK/Technical-Solutions-Architect_326789-1) |
 
 ## About This Role
 
-This technical & solutions architect position at S&P Global was posted on 2026-05-08.
+This technical & solutions architect position at S&P Global was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

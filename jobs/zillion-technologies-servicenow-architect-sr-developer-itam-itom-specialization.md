@@ -5,12 +5,12 @@
 | Company | [Zillion Technologies](https://scoutify.ai/companies/zilliontechnologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZILLIONTECHNOLOGIESINC/744000127668829-servicenow-architect-sr-developer-itam-itom-specialization) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZILLIONTECHNOLOGIESINC/744000145600389-servicenow-architect-sr-developer-itam-itom-specialization) |
 
 ## About This Role
 
-This technical & solutions architect position at Zillion Technologies was posted on 2026-05-21.
+This technical & solutions architect position at Zillion Technologies was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

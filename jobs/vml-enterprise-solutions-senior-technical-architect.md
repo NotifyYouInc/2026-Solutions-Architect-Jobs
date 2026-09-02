@@ -1,12 +1,12 @@
-# Senior Technical Architect  at VML Enterprise Solutions
+# Senior Technical Architect at VML Enterprise Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8736867002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8736938002) |
 
 ## About This Role
 

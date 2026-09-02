@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EQT Group](https://scoutify.ai/companies/eqt-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Poland |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/eqtpartners/jobs/4880244101) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/eqtpartners/jobs/4880254101) |
 
 ## About This Role
 
-This technical & solutions architect position at EQT Group was posted on 2026-06-02.
+This technical & solutions architect position at EQT Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

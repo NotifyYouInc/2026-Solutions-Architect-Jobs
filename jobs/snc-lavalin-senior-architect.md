@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBLondonNova-North/Senior-Architect_R-159889) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USCODenver/Senior-Architect_R-162731) |
 
 ## About This Role
 
-This technical & solutions architect position at SNC-Lavalin was posted on 2026-07-21.
+This technical & solutions architect position at SNC-Lavalin was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

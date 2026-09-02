@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134716204-architecte-cloud-solutions-hf) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000145672819-architecte-cloud-solutions-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-06-29.
+This technical & solutions architect position at Talan was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

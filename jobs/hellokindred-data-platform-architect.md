@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014797496-data-platform-architect) |
 
 ## About This Role
 
-This devops engineer position at HelloKindred was posted on 2026-08-24.
+This data engineer position at HelloKindred was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

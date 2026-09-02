@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140422069-solution-architect-mwd-sap-successfactors) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000145706759-solution-architect-mwd-sap-successfactors) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-07-29.
+This human resources / people ops position at Sopra Steria was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

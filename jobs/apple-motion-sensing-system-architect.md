@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | California, US |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659035/motion-sensing-system-architect) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679935/motion-sensing-system-architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-22.
+This electrical / hardware engineer position at Apple was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

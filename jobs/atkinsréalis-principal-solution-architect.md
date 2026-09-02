@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cheltenham, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCheltenhamCheltenham-House/Principal-Solution-Architect_R-150791) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCheltenhamCheltenham-House/Principal-Solution-Architect_R-162657-1) |
 
 ## About This Role
 
-This technology / it consulting position at AtkinsRéalis was posted on 2026-03-11.
+This technical & solutions architect position at AtkinsRéalis was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

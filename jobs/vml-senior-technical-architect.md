@@ -1,12 +1,12 @@
-# Senior Technical Architect  at VML
+# Senior Technical Architect at VML
 
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8736866002?gh_jid=8736866002) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8736939002?gh_jid=8736939002) |
 
 ## About This Role
 

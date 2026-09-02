@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Charlotte-28210/Software-Architect_R224094-1) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Birmingham---Brock-AL112/Software-Architect_R231222-2) |
 
 ## About This Role
 
-This technical & solutions architect position at PNC Financial was posted on 2026-05-29.
+This software engineer position at PNC Financial was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

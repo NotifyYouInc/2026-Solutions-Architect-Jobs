@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Solution-Architect_R000071017) |
 
 ## About This Role
 
-This technical & solutions architect position at Chevron was posted on 2026-04-28.
+This technical & solutions architect position at Chevron was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

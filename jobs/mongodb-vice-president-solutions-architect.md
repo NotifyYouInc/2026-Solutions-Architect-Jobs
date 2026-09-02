@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8138914) |
 
 ## About This Role
 
-This sales leadership position at MongoDB was posted on 2026-08-24.
+This sales position at MongoDB was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Applied AI Architect, Industries at Anthropic
+# Applied AI Architect, Industries  at Anthropic
 
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390765008) |
+| Location | Milan, Lombardy, Italy |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390770008) |
 
 ## About This Role
 
-This sales engineer position at Anthropic was posted on 2026-08-19.
+This technical & solutions architect position at Anthropic was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
