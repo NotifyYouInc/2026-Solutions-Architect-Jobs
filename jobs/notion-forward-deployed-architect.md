@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Notion](https://scoutify.ai/companies/notion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/notion/77861b77-9493-4869-bbaf-eaa11477a251) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/notion/3e988191-692b-48b7-969f-61c000c1636e) |
 
 ## About This Role
 
-This technical & solutions architect position at Notion was posted on 2026-08-14.
+This technical & solutions architect position at Notion was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

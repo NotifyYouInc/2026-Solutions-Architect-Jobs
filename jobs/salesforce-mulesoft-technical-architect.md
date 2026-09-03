@@ -1,16 +1,16 @@
-# Mulesoft Technical Architect at Salesforce
+# Mulesoft -Technical Architect at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Mulesoft-Technical-Architect_JR342624) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Architect_JR355697) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-05-15.
+This technical & solutions architect position at Salesforce was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

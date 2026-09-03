@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Riyadh-Saudi-Arabia/Customer-Delivery-Architect_2018455) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hong-Kong-Hong-Kong/Customer-Delivery-Architect_2023221) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-08-22.
+This technical & solutions architect position at Cisco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

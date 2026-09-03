@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vienna, Virginia, United States |
+| Location | Redlands, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.esri.com/careers/5219789007?gh_jid=5219789007) |
+| Apply | [View on company site](https://www.esri.com/careers/5219793007?gh_jid=5219793007) |
 
 ## About This Role
 

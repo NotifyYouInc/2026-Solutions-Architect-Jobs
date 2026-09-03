@@ -1,16 +1,16 @@
-# Senior solution architect at BP
+# Senior Solution Architect at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-solution-architect_RQ112404) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-Solution-Architect_RQ114823) |
 
 ## About This Role
 
-This technical & solutions architect position at BP was posted on 2026-06-25.
+This technical & solutions architect position at BP was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

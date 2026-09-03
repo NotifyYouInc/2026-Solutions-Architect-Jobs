@@ -1,16 +1,16 @@
-# Salesforce Enterprise Architect at VAM Systems
+# Salesforce Enterprise Architect  at VAM Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000131639835-salesforce-enterprise-architect) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000145964700-salesforce-enterprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at VAM Systems was posted on 2026-06-11.
+This technical & solutions architect position at VAM Systems was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

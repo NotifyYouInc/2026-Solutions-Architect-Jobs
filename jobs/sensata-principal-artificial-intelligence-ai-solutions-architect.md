@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Pune-India/Principal-Artificial-Intelligence--AI--Solutions-Architect_IRC98319) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Sofia-Bulgaria/Principal-Artificial-Intelligence--AI--Solutions-Architect_IRC98380) |
 
 ## About This Role
 
-This technical & solutions architect position at Sensata was posted on 2026-08-20.
+This technical & solutions architect position at Sensata was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

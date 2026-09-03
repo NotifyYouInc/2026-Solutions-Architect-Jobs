@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ridecell](https://scoutify.ai/companies/ridecell?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/ridecell/jobs/ySezk94-solutions-engineer) |
+| Location | Germany |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/ridecell/jobs/dUhzuoB-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Ridecell was posted on 2026-05-13.
+This sales engineer position at Ridecell was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2019150) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2024045) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-06-08.
+This machine learning engineer position at Nvidia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
