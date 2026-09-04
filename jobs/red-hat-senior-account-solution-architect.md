@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Account-Solution-Architect_R-058716) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Senior-Account-Solution-Architect_R-059003) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-08-03.
+This technical & solutions architect position at Red Hat was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

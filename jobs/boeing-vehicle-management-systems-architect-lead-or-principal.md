@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Berkeley, California, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Vehicle-Management-Systems-Architect--Lead-or-Principal-_JR2026522164-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Boeing was posted on 2026-08-25.
+This technical & solutions architect position at Boeing was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

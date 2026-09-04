@@ -5,12 +5,12 @@
 | Company | [Vitol](https://scoutify.ai/companies/vitol?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Switzerland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000144781399-entreprise-architect) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000145992451-entreprise-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Vitol was posted on 2026-08-21.
+This technical & solutions architect position at Vitol was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Semiconductor / Chip Design |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Manchester/Senior-Principal-System-Architect---Integrated-Power-Products_R-20015501-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nexperia was posted on 2026-08-25.
+This technical & solutions architect position at Nexperia was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

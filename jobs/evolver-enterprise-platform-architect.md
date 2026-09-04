@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evolver](https://scoutify.ai/companies/evolver?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/evolver/jobs/4382122009) |
 
 ## About This Role
 
-This cybersecurity engineer position at Evolver was posted on 2026-08-25.
+This technical & solutions architect position at Evolver was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

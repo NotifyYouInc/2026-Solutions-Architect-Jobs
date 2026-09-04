@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#22892) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#23247) |
 
 ## About This Role
 
-This technical & solutions architect position at Pearson was posted on 2026-03-06.
+This technical & solutions architect position at Pearson was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Singapore-Singapore/SE-Partner-Solutions-Manager_R013202-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Paris-France/SE-Partner-Solutions-Manager_R010743) |
 
 ## About This Role
 
-This technical & solutions architect position at AVEVA was posted on 2026-02-11.
+This technical & solutions architect position at AVEVA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

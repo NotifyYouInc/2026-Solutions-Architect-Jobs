@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQZ6Vx0xPBp2ecttmawXCFux-qDsi8vHieOQ_YwQ3I-NEjsA1Ny_i0nCLlCzzVqUO8dFCBV3yKHtdz60OF7Mu7aTbCa1HIHKYGHDsVKvpDWfKBpJapOtVuLOwnZ3dg%3D%3D_V2&loc=CL&title=Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-08-26.
+This technical & solutions architect position at Google was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accelya World](https://scoutify.ai/companies/accelya-world?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Specialist---Solution-Engineering_JR102520) |
 
 ## About This Role
 
-This sales engineer position at Accelya World was posted on 2026-08-26.
+This technical & solutions architect position at Accelya World was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

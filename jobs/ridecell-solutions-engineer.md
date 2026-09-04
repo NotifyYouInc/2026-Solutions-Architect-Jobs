@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ridecell](https://scoutify.ai/companies/ridecell?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/ridecell/jobs/dUhzuoB-solutions-engineer) |
 
 ## About This Role
 
-This sales engineer position at Ridecell was posted on 2026-08-27.
+This technical & solutions architect position at Ridecell was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000145615878-solutions-engineering-it) |
 
 ## About This Role
 
-This sales engineer position at General Dynamics UK was posted on 2026-08-26.
+This technical & solutions architect position at General Dynamics UK was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Cincinnati-OH/Technical-Architect_R1741618) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---EXXA-Tower/Technical-Architect_R1741233) |
 
 ## About This Role
 
-This technical & solutions architect position at Concentrix was posted on 2026-06-24.
+This technical & solutions architect position at Concentrix was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

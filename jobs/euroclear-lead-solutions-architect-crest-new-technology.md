@@ -5,12 +5,12 @@
 | Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#9672) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#9886) |
 
 ## About This Role
 
-This technical & solutions architect position at Euroclear was posted on 2026-07-03.
+This technical & solutions architect position at Euroclear was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

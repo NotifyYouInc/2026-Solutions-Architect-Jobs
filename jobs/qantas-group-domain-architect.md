@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001148394-domain-architect) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001358945-domain-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Qantas Group was posted on 2026-06-11.
+This technical & solutions architect position at Qantas Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Technical-Manager---Application-Architect_266220) |
+| Category | Software Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Technical-Manager---Application-Architect_2625124) |
 
 ## About This Role
 
-This engineering manager position at Labcorp was posted on 2026-06-02.
+This software engineer position at Labcorp was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Local-Office-Sydney-Australia/Technical-Advisor_R013536) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Local-Office-Tokyo-Japan/Technical-Advisor_R013857) |
 
 ## About This Role
 
-This technical & solutions architect position at SailPoint Technologies was posted on 2026-07-09.
+This technical & solutions architect position at SailPoint Technologies was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

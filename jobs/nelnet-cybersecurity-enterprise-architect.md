@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Centennial-CO/Cybersecurity-Enterprise-Architect_R23035) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nelnet was posted on 2026-08-25.
+This technical & solutions architect position at Nelnet was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

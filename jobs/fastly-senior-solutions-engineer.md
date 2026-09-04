@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=8158042) |
 
 ## About This Role
 
-This sales engineer position at Fastly was posted on 2026-08-26.
+This technical & solutions architect position at Fastly was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

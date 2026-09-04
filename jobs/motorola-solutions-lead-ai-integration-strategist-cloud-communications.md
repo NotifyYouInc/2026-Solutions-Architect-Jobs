@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Malaysia |
-| Category | Machine Learning Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Lead-AI-Integration-Strategist--Cloud---Communications-_R67387) |
 
 ## About This Role
 
-This machine learning engineer position at Motorola Solutions was posted on 2026-08-27.
+This technical & solutions architect position at Motorola Solutions was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

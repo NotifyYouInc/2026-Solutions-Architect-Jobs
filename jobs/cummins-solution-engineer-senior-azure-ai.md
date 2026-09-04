@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2435918) |
 
 ## About This Role
 
-This sales engineer position at Cummins was posted on 2026-08-26.
+This technical & solutions architect position at Cummins was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

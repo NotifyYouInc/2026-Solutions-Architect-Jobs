@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Huntingdon, England, United Kingdom |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Solution-Architect_R-00189152) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/London--UK/Solution-Architect_R-00190465-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-08-10.
+This technical & solutions architect position at Leidos was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

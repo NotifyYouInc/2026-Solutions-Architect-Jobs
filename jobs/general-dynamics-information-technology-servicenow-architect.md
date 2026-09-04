@@ -1,12 +1,12 @@
-# ServiceNow Architect at General Dynamics Information Technology
+# SERVICENOW ARCHITECT at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rockville, Maryland, United States |
+| Location | Nebraska, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Rockville/ServiceNow-Architect_RQ227125) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/SERVICENOW-ARCHITECT_RQ227175-1) |
 
 ## About This Role
 

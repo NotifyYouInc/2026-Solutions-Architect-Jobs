@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckao9Mw8J2MvWcCYAxSzXmCfbPb92nEDIglTvDNTOprNwEjsA1Ny_i3Xat14n5oQRq7B8idJo56yzwOTnlfeLMjsWuX9nHfWk4XnIBsS3ea402tDgmxBEtsG-CzA3TQ%3D%3D_V2&loc=US&title=Senior+Technical+Program+Manager) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-08-26.
+This technical & solutions architect position at Google was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

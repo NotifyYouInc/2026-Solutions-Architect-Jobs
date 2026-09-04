@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Solution-Architect_R012891) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-New-Zealand/Solution-Architect_R014045) |
 
 ## About This Role
 
-This technical & solutions architect position at SailPoint Technologies was posted on 2026-03-24.
+This technical & solutions architect position at SailPoint Technologies was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

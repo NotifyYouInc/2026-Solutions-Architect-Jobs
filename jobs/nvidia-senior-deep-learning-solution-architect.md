@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2024045) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-08-27.
+This technical & solutions architect position at Nvidia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

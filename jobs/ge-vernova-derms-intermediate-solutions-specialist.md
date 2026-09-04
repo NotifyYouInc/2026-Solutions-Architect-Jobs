@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/DERMS-Intermediate-Solutions-Specialist_R5047905-2) |
 
 ## About This Role
 
-This sales engineer position at GE Vernova was posted on 2026-08-26.
+This technical & solutions architect position at GE Vernova was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

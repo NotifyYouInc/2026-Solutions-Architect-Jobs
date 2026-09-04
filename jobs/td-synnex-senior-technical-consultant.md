@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Selangor, MY |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Senior-Technical-Consultant_R55399) |
 
 ## About This Role
 
-This sales engineer position at TD Synnex was posted on 2026-08-27.
+This technical & solutions architect position at TD Synnex was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

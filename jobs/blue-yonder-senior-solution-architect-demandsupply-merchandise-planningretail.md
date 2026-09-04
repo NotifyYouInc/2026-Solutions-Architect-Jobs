@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 7 locations |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Warsaw/Senior-Solution-Architect---Demand-Supply--Merchandise-Planning-Retail_262646) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dubai/Senior-Solution-Architect---Demand-Supply--Merchandise-Planning-Retail_262860) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-08-10.
+This technical & solutions architect position at Blue Yonder was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Irvine, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000145798987-senior-architect-security-and-infrastructure) |
 
 ## About This Role
 
-This cybersecurity engineer position at Hitachi Solutions was posted on 2026-08-26.
+This technical & solutions architect position at Hitachi Solutions was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

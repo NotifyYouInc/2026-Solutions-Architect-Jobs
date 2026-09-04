@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Brussels/Solution-Architect_746838WD) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Solution-Architect_755806WD) |
 
 ## About This Role
 
-This technical & solutions architect position at PwC was posted on 2026-07-22.
+This technical & solutions architect position at PwC was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

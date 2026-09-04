@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Taipei City, Taipei, Taiwan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSGPhPZjpERHKc0cviNglx1rWO7aW_4iw0Pi1IrXsfM2EjsA1Ny_izM2AbcAB0buv3RBxiKbWK4cJexqwlMNoxch8cbHPpv-ZmG09N3m_YOboL3TEeGDdSQ5pFAtKg%3D%3D_V2&loc=TW&title=Technical+Solutions+Consultant) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW6_cOdeJUHN19TkXs255pfY20k_JrOLPJxCMNMzs13uEjsA1Ny_ixAb1u26onsr5sdlluFUDh_Dzwj_g6zJPG2Xbz_9x-UDC8LLExA1Wwmx3FwiurI8RaZTQEO6zg%3D%3D_V2&loc=TW&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-27.
+This technical & solutions architect position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

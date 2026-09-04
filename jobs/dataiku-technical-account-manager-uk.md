@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6145018004) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6145120004) |
 
 ## About This Role
 
-This sales engineer position at Dataiku was posted on 2026-08-17.
+This technical & solutions architect position at Dataiku was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

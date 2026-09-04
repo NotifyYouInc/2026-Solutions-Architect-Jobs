@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ESP-Barcelona---C-de-la-Selva-de-Mar-129/Technical-Partner-Engineer--English-speaking----Hybrid----GP01_R1756651) |
 
 ## About This Role
 
-This sales engineer position at Concentrix was posted on 2026-08-26.
+This technical & solutions architect position at Concentrix was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

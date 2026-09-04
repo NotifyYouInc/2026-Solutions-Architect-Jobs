@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Northampton, England, United Kingdom |
-| Category | Marketing Operations |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Enterprise-Architect--Marketing-Technology_JR-0000123058) |
 
 ## About This Role
 
-This marketing operations position at Barclays was posted on 2026-08-26.
+This technical & solutions architect position at Barclays was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

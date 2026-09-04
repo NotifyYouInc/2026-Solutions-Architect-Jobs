@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/PARIS-9me/XMLNAME--S3NS----Cloud-Technical-Account-Manager--H-F-_R0334937-1) |
 
 ## About This Role
 
-This sales engineer position at Thales was posted on 2026-08-26.
+This technical & solutions architect position at Thales was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

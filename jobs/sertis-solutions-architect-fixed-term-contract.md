@@ -5,12 +5,12 @@
 | Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8703625002) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8758666002) |
 
 ## About This Role
 
-This technical & solutions architect position at Sertis was posted on 2026-08-13.
+This technical & solutions architect position at Sertis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Delhi, Delhi, India |
-| Category | Sales Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Delhi/Pre--Sales-Engineer_JR2406) |
 
 ## About This Role
 
-This sales engineer position at Exclusivenetworks was posted on 2026-08-27.
+This technical & solutions architect position at Exclusivenetworks was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

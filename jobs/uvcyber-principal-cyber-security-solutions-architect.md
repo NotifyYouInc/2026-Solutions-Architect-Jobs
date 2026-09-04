@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uvcyber](https://scoutify.ai/companies/uvcyber?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | National Harbor, Maryland, United States |
-| Category | Cybersecurity Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://jobs.lever.co/uvcyber/eeac2fd9-dbc9-428c-b0c6-a81e24f8ce71) |
 
 ## About This Role
 
-This cybersecurity engineer position at Uvcyber was posted on 2026-08-25.
+This technical & solutions architect position at Uvcyber was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

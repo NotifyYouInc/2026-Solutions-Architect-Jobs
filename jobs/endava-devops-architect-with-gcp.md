@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000145955099-devops-architect-with-gcp) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-08-27.
+This technical & solutions architect position at Endava was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
