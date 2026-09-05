@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Enterprise-Technical-Architect-Int-cloud---Sre-Performance-Engineering-Azure_262076) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-08-26.
+This devops engineer position at Blue Yonder was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000130861789-workday-solutions-architect) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000146262021-workday-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at SanDisk was posted on 2026-06-08.
+This technical & solutions architect position at SanDisk was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

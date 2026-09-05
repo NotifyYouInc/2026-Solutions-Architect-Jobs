@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSUJ65EdsU3crQZ5nP8HQlvlRTNITtNUeDxFm3WtN-x1EjoA1Ny_i8lcZ9399zy9kNhR2gm0pRfBklTQTM5RbHU54YTwjh07Jds7XEQNKx5V7H02fCu7EYGfrsMy_V2&loc=US&title=Principal+Architect) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZiBxeLcx8uPoxfgKbxvrngpIexOopwtpjI6jS0l42mNEjoA1Ny_i3RRI30BxR7ZWCeLGe3G4A2KSwllSLQZ3VJl_uByxagB2TMH9BcN3AVFFaN0E3UZTeETHyf-_V2&loc=US&title=Principal+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-06-25.
+This technical & solutions architect position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

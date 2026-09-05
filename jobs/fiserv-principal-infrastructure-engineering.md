@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Cloud-Solution-Architect_R-10380339) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-08-27.
+This devops engineer position at Fiserv was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

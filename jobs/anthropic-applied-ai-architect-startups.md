@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5387827008) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5406982008) |
 
 ## About This Role
 
-This sales engineer position at Anthropic was posted on 2026-08-19.
+This technical & solutions architect position at Anthropic was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

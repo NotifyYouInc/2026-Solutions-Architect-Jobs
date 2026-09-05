@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Solutions-Architect_34373R) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Solutions-Architect_34815R-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Vizient was posted on 2026-08-18.
+This technical & solutions architect position at Vizient was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

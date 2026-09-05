@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQYZJyU6W99dIyweDSG_Out5AYyhtLUbDNwJHmv2ljwSEjsA1Ny_i4zMt0R9sxi4VRkJFWvwjDpp8I2gznq5wOD0U43DMfFrWFJHyDgKz0iRWldoo7Zt3s1EqzQyrQ%3D%3D_V2&loc=SG&title=Strategic+Cloud+Engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVwu_uzW3y6jkO5k2MqIKgUphMqan_N7bNXCE3rOPgP0EjsA1Ny_i-rn2o9tMIp2xfqPD7VguNDE3ZF_I27E26Ci06sTwFrQgr0DRbZc-8KTHU0qHzZQrSEmAYWoFA%3D%3D_V2&loc=SG&title=Strategic+Cloud+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-28.
+This devops engineer position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Myriad360](https://scoutify.ai/companies/myriad360?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Technical & Solutions Architect |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://boards.greenhouse.io/myriad360/jobs/8756124002?gh_jid=8756124002) |
 
 ## About This Role
 
-This technical & solutions architect position at Myriad360 was posted on 2026-08-27.
+This cybersecurity engineer position at Myriad360 was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Belgium |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Data-Center-Ethernet-Network-Engineer_JR2017951) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Data-Center-Ethernet-Network-Engineer_JR2024513) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-05-12.
+This technical & solutions architect position at Nvidia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mayo Clinic](https://scoutify.ai/companies/ocs-cx-oj67819?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#390187) |
 
 ## About This Role
 
-This technical & solutions architect position at Mayo Clinic was posted on 2026-08-28.
+This devops engineer position at Mayo Clinic was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

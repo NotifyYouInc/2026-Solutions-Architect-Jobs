@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556918778) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556981170) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-06-30.
+This technical & solutions architect position at Microsoft was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
