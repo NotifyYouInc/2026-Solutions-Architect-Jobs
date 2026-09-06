@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Project Manager |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYXSM4EiaGBOprbCVd_nW-vrvRv6PpQ5Ll_yY-3_iBEQEjsA1Ny_i1iD2yXFG7TP_f9mXDffCzZnYxltGLtraMlGRnpBkuLZ64tInreeTSKrvtmf-lh121OjoS478A%3D%3D_V2&loc=CA&title=AI+Solutions+Deployment+Manager) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-08-27.
+This project manager position at Google was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

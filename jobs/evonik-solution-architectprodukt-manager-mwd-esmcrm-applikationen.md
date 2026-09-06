@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evonik](https://scoutify.ai/companies/evonik?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Marl, North Rhine-Westphalia, Germany |
-| Category | Technical & Solutions Architect |
+| Category | Technical Product Manager |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Marl-SYNEQT/Solution-Architect-Produkt-Manager--m-w-d--ESM-CRM-Applikationen_R47810-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Evonik was posted on 2026-08-27.
+This technical product manager position at Evonik was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
