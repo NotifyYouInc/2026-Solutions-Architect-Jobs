@@ -1,16 +1,16 @@
-# Technical Solutions Architect II at Akamai
+# Solution Architect - Acquirer Processing at Network International
 
 | Field | Details |
 |-------|---------|
-| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Company | [Network International](https://scoutify.ai/companies/ocs-cx-oj73599?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Egypt |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3736) |
+| Apply | [View on company site](https://fa-euqk-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#260000631) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-08-31.
+This technical & solutions architect position at Network International was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

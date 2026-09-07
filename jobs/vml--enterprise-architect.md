@@ -1,16 +1,16 @@
-# Technical Solutions Architect II at Akamai
+# ​ Enterprise Architect at VML
 
 | Field | Details |
 |-------|---------|
-| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3736) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8764359002?gh_jid=8764359002) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-08-31.
+This technical & solutions architect position at VML was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

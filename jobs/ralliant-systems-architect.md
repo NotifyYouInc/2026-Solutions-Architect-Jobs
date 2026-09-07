@@ -1,16 +1,16 @@
-# Sr BI Architect at Weekdayworks
+# Systems Architect at Ralliant
 
 | Field | Details |
 |-------|---------|
-| Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [Ralliant](https://scoutify.ai/companies/ocs-cx-oj90966?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/8dd677ba-c336-47af-8642-129703cc5437) |
+| Apply | [View on company site](https://ibwujb.fa.ocs.oraclecloud.com/jobs/#9946) |
 
 ## About This Role
 
-This technical & solutions architect position at Weekdayworks was posted on 2026-08-31.
+This software engineer position at Ralliant was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud Solutions Architect Azure H/F at Devoteam
+# Architect AI generative H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
-| Category | Technical & Solutions Architect |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146459839-cloud-solutions-architect-azure-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146457455-architect-ai-generative-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-08-31.
+This ai / llm engineer position at Devoteam was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

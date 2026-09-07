@@ -1,16 +1,16 @@
-# Technical Solutions Architect II at Akamai
+# AVP - Enterprise Architect.MGN PAK - Tech - Enterprise Architecture.MIT - PAKCOE at Mashreq
 
 | Field | Details |
 |-------|---------|
-| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Company | [Mashreq](https://scoutify.ai/companies/em2-cx-oj68872?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Pakistan |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3736) |
+| Apply | [View on company site](https://hcld.fa.em2.oraclecloud.com/jobs/#6144) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-08-31.
+This technical & solutions architect position at Mashreq was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

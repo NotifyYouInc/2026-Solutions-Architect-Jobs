@@ -1,4 +1,4 @@
-# Associate Manager Cloud Architecture at DXC Technology
+# Solution Architect – Data Engineering (Snowflake & AWS) at DXC Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Associate-Manager-Cloud-Architecture_51588114) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Solution-Architect---Data-Engineering--Snowflake---AWS-_51587684) |
 
 ## About This Role
 

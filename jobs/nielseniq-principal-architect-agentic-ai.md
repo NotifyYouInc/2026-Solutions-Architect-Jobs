@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145711724-principal-architect-agentic-ai) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145983249-principal-architect-agentic-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-08-26.
+This technical & solutions architect position at NielsenIQ was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

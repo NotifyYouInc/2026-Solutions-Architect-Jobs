@@ -1,16 +1,16 @@
-# Technical Solutions Architect II at Akamai
+# Consultant, IT Price and Tendering at Vantive
 
 | Field | Details |
 |-------|---------|
-| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3736) |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Bangalore-Karnataka/Consultant--IT-Price-and-Tendering_JR-197372) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-08-31.
+This technical & solutions architect position at Vantive was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

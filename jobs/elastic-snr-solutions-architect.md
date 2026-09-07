@@ -1,16 +1,16 @@
-# Technical Solutions Architect II at Akamai
+# Snr Solutions Architect at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3736) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8067195&gh_jid=8067195) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-08-31.
+This technical & solutions architect position at Elastic was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

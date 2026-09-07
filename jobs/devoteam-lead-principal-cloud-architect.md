@@ -1,16 +1,16 @@
-# Technical Solutions Architect II at Akamai
+# Lead / Principal Cloud Architect at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Malaysia |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Denmark |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3736) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146403369-lead-principal-cloud-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-08-31.
+This technical & solutions architect position at Devoteam was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

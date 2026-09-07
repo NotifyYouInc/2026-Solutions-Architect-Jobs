@@ -1,12 +1,12 @@
-# Sr. Architect - Java at Accenture
+# Databricks Senior Architect / Technical Lead at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kochi/Sr-Architect---Java_R00352506) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Databricks-Senior-Architect---Technical-Lead_14681613) |
 
 ## About This Role
 
