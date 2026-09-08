@@ -1,0 +1,22 @@
+# Senior Architect Cloud Infrastructure (m/w/d) at DATEV
+
+| Field | Details |
+|-------|---------|
+| Company | [DATEV](https://scoutify.ai/companies/datev?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://datev.wd3.myworkdayjobs.com/datev_careers/job/Nuremberg/Senior-Architect-Cloud-Infrastructure--m-w-d-_ID15416) |
+
+## About This Role
+
+This technical & solutions architect position at DATEV was posted on 2026-09-01.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -1,16 +1,16 @@
-# Senior Customer Architect (West) at Elastic
+# Senior Customer Architect - West  at Elastic
 
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7859326&gh_jid=7859326) |
+| Category | Customer Success |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8161647&gh_jid=8161647) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-04-27.
+This customer success position at Elastic was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

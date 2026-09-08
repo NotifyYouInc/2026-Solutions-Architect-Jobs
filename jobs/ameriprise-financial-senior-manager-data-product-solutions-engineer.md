@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Hyderabad-Telangana-India/Senior-Manager--Data-Product-Solutions-Engineer_R26_2607) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Hyderabad-Telangana-India/Senior-Manager--Data-Product-Solutions-Engineer_R26_3499) |
 
 ## About This Role
 
-This sales engineer position at Ameriprise Financial was posted on 2026-07-09.
+This technical & solutions architect position at Ameriprise Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Cluj-Napoca---Decembrie/Solutions-Architect_R_360495-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Cluj-Napoca---Decembrie/Solutions-Architect_R_363236) |
 
 ## About This Role
 
-This technical & solutions architect position at Marsh & McLennan Companies was posted on 2026-08-05.
+This technical & solutions architect position at Marsh & McLennan Companies was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

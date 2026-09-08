@@ -5,12 +5,12 @@
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Platform---Governance-Lead-Architect--ServiceNow---CM----High-Level-Clearance--Remote---US-_R2602464) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Platform---Governance-Lead-Architect--ServiceNow---CM----High-Level-Clearance--Remote---US-_R2602926-1) |
 
 ## About This Role
 
-This technical & solutions architect position at ICF was posted on 2026-07-18.
+This technical & solutions architect position at ICF was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

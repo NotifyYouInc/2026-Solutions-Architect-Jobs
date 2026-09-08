@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000132564989-losningsarkitekt) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000146478149-losningsarkitekt) |
 
 ## About This Role
 
-This technical & solutions architect position at AFRY was posted on 2026-06-17.
+This technical & solutions architect position at AFRY was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

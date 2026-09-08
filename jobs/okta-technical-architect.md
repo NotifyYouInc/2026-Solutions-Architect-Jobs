@@ -1,16 +1,16 @@
-# Technical Architect  at Okta
+# Technical Architect at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8011143?gh_jid=8011143) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8070791?gh_jid=8070791) |
 
 ## About This Role
 
-This technical & solutions architect position at Okta was posted on 2026-06-17.
+This technical & solutions architect position at Okta was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

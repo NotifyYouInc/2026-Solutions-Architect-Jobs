@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Solution-Architect_JR-0000120944) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Solution-Architect_JR-0000087685) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-08-05.
+This technical & solutions architect position at Barclays was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

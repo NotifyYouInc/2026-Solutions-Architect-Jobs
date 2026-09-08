@@ -1,16 +1,16 @@
-# Solutions Architect - Digital Pathology at Danaher
+# Solutions Architect Digital Pathology at Danaher
 
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Dallas-Texas-United-States/Solutions-Architect---Digital-Pathology_R1315711) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Denver-Colorado-United-States/Solutions-Architect-Digital-Pathology_R1315993-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Danaher was posted on 2026-07-30.
+This technical & solutions architect position at Danaher was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

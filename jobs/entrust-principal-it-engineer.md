@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entrust](https://scoutify.ai/companies/entrust?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | IT & Systems Administration |
+| Category | Customer Success |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Field/Principal-IT-Engineer_R004365) |
 
 ## About This Role
 
-This it & systems administration position at Entrust was posted on 2026-08-28.
+This customer success position at Entrust was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

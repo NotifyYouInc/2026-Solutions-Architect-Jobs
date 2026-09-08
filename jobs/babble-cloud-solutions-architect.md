@@ -5,12 +5,12 @@
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pristina, Pristina, Kosovo |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000139325075-solutions-architect) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000146687694-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Babble Cloud was posted on 2026-07-23.
+This technical & solutions architect position at Babble Cloud was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

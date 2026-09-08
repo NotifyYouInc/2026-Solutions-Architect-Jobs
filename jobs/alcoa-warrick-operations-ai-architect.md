@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Perth, Western Australia, Australia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/Australia-WA-Perth/AI-Architect_Req-36794) |
 
 ## About This Role
 
-This ai / llm engineer position at Alcoa Warrick Operations was posted on 2026-04-22.
+This technical & solutions architect position at Alcoa Warrick Operations was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

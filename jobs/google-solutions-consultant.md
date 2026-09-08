@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka5_vNbj-TrQ3tECq2bbPa8S2ifemxEf3aHlTfuyQuRrEjsA1Ny_iz8k-J3AIp5wYMKMoMIPMJhX-QtdwSyZ5NbdK_zu0s574QXKS-LufDTa7IxOIhcrGr4rse95OA%3D%3D_V2&loc=US&title=Solutions+Consultant) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQQRsdOuA0l0PzqeejE_MPnk8ePslrKza_t-gZiulCKtEjsA1Ny_i0Bk5yI2J63YjlrVnY0fv9RBV3lzJlB9f7in2uLZNK2ekbNZDIvigB_pZz2a5418Rx0T0Z4rzQ%3D%3D_V2&loc=US&title=Solutions+Consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-27.
+This technical & solutions architect position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

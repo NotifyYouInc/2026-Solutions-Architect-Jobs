@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-Solution-Architect_RQ114823) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Solution-Architect_RQ114124-1) |
 
 ## About This Role
 
-This technical & solutions architect position at BP was posted on 2026-08-27.
+This technical & solutions architect position at BP was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
