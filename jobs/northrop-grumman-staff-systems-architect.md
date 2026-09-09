@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Rolling Meadows, Illinois, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Staff-Systems-Architect_R10231329) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Staff-Systems-Architect_R10248796) |
 
 ## About This Role
 
-This technical & solutions architect position at Northrop Grumman was posted on 2026-04-29.
+This technical & solutions architect position at Northrop Grumman was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

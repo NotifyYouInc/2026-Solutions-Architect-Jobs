@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Diego, California, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131946959-principal-platform-architect-federal) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146761213-principal-platform-architect-federal) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-06-12.
+This technical & solutions architect position at ServiceNow was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

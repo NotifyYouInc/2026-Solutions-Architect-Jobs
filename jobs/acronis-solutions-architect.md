@@ -5,12 +5,12 @@
 | Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Japan/Solutions-Architect_R-101057) |
 
 ## About This Role
 
-This technical & solutions architect position at Acronis was posted on 2026-04-23.
+This technical & solutions architect position at Acronis was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

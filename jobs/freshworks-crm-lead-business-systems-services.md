@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000141842029-lead-business-systems-services) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000146759239-lead-business-systems-services) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-08-06.
+This technical & solutions architect position at Freshworks CRM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

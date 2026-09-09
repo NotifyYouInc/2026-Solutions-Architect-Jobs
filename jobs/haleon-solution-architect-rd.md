@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Poznań, Greater Poland, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Poznan-Business-Garden/Solution-Architect---R-D_544438-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Haleon was posted on 2026-06-10.
+This technical & solutions architect position at Haleon was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/665fbd6b-ca9c-4deb-9850-2b61c73c1d02) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/80fd9588-1b9b-4c40-9bfc-3728c28caeb7) |
 
 ## About This Role
 
-This ai / llm engineer position at Jerry.ai was posted on 2026-08-27.
+This ai / llm engineer position at Jerry.ai was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

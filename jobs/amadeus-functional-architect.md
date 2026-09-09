@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Functional-Architect_R33771-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Functional-Architect_R36804-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amadeus was posted on 2026-07-29.
+This technical & solutions architect position at Amadeus was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

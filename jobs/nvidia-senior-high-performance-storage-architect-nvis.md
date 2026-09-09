@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Texas, US |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-High-Performance-Storage-Architect---NVIS_JR2024079-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-High-Performance-Storage-Architect---NVIS_JR2024694) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-08-27.
+This technical & solutions architect position at Nvidia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

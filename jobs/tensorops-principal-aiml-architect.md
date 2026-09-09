@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TensorOps](https://scoutify.ai/companies/tensorops?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Portugal |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/tensorops/jobs/4927018101) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/tensorops/jobs/4966583101) |
 
 ## About This Role
 
-This machine learning engineer position at TensorOps was posted on 2026-07-14.
+This technical & solutions architect position at TensorOps was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

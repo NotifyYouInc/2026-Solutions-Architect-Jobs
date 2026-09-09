@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000146645390-mso-senior-openstack-engineer) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-09-01.
+This technical & solutions architect position at Software Mind was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

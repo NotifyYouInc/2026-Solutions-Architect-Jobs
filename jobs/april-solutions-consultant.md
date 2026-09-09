@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [April](https://scoutify.ai/companies/april?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Customer Success |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/april/9514702a-d5a4-4b8f-b6ff-f2482028e5a0) |
 
 ## About This Role
 
-This customer success position at April was posted on 2026-08-28.
+This technical & solutions architect position at April was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

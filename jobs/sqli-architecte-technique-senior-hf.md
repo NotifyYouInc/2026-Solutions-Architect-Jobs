@@ -5,12 +5,12 @@
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000145978855-architecte-technique-senior-hf) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000146501439-architecte-technique-senior-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at SQLI was posted on 2026-08-27.
+This technical & solutions architect position at SQLI was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000146488630-expert-cloud-architect-for-t-cloud-public-ref4695n) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-08-31.
+This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

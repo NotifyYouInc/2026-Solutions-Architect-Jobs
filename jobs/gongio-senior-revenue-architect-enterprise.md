@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Customer Success |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4708430006) |
 
 ## About This Role
 
-This customer success position at Gong.io was posted on 2026-08-31.
+This technical & solutions architect position at Gong.io was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

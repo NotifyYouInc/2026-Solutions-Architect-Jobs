@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Miguel Hidalgo, Mexico City, Mexico |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Arquitecto-a-de-Soluciones-Senior--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00103033) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Arquitecto-a-de-Soluciones-Senior--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00113278) |
 
 ## About This Role
 
-This technical & solutions architect position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-05.
+This technical & solutions architect position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

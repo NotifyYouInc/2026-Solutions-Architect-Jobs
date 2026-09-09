@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/Senior-Serdes-System-Design-Engineer-Architect_R026784) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/Senior-Serdes-System-Design-Engineer-Architect_R026785) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-08-14.
+This semiconductor / chip design position at Broadcom was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

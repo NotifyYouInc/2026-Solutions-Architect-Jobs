@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Sales Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXA8DcFRd8yPQG3AEdF7QIuU6P4f9PWDbaN6u6sqZ_ziEjsA1Ny_i8XpA6a8PWFVMg8ZLnDTBppzo5qFIE1jfSKLlsNp_HRrx83qFyc_8NpkEHvklB-7auMpiz_dnA%3D%3D_V2&loc=JP&title=AI+Outcome+Customer+Engineer) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaDBpatoA7SHzOQCI6Th2OywjuVISEbXY79mzvEhF0yDEjsA1Ny_i77jxr8SUltv5o64N-pDP7DM7VYa0kt1Nel0LIznIZkrOcCSxI2im_ebYq3DpGi0dCSj69IHBA%3D%3D_V2&loc=JP&title=AI+Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-07-23.
+This technical & solutions architect position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

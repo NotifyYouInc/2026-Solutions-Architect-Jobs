@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Database Administration |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Manassas-United-States/Database---Platform-Architect--Hybrid-_2026-16104-1) |
 
 ## About This Role
 
-This database administration position at Swift was posted on 2026-08-28.
+This technical & solutions architect position at Swift was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

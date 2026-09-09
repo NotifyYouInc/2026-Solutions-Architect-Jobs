@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Human Resources / People Ops |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8166906) |
 
 ## About This Role
 
-This human resources / people ops position at DoorDash was posted on 2026-08-31.
+This technical & solutions architect position at DoorDash was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

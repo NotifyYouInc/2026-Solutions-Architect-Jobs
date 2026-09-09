@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ralliant](https://scoutify.ai/companies/ocs-cx-oj90966?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://ibwujb.fa.ocs.oraclecloud.com/jobs/#9946) |
 
 ## About This Role
 
-This software engineer position at Ralliant was posted on 2026-08-31.
+This technical & solutions architect position at Ralliant was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

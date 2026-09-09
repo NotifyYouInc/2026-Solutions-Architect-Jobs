@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
-| Category | Customer Success Manager |
-| Posted | 2026-03-12 |
+| Location | Austin, Texas, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200638312/solution-architect-customer-success) |
 
 ## About This Role
 
-This customer success manager position at Apple was posted on 2026-03-12.
+This technical & solutions architect position at Apple was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

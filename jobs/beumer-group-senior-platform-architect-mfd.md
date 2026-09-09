@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BEUMER Group](https://scoutify.ai/companies/beumergroup1?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Beckum, North Rhine-Westphalia, Germany |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BEUMERGroup1/744000146432179-senior-platform-architect-mfd) |
 
 ## About This Role
 
-This software engineer position at BEUMER Group was posted on 2026-08-31.
+This technical & solutions architect position at BEUMER Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8382169002) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8721207002) |
 
 ## About This Role
 
-This solutions architect position at Dialpad was posted on 2026-02-03.
+This technical & solutions architect position at Dialpad was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

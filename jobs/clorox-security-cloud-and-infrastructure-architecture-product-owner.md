@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Product Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Durham-NC---USA-Strickland-Bldg/Security--Cloud-and-Infrastructure-Architecture-Product-Owner_23250) |
 
 ## About This Role
 
-This product manager position at Clorox was posted on 2026-08-31.
+This technical & solutions architect position at Clorox was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 6 locations |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Cloud-Architect--Senior-_JR2026519984-1) |
 
 ## About This Role
 
-This devops engineer position at Boeing was posted on 2026-08-31.
+This technical & solutions architect position at Boeing was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

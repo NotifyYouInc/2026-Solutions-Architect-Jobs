@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Dublin---Charlotte/AI-Analyst---Architecture_R_347311) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Dublin---Frame/AI-Analyst---Architecture_R_347311) |
 
 ## About This Role
 
-This technical & solutions architect position at Marsh & McLennan Companies was posted on 2026-04-27.
+This technical & solutions architect position at Marsh & McLennan Companies was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

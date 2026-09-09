@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/8744-Gaithersburg-MD-Home-Office/Senior-Salesforce-Developer-Architect_R-00190827) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-28.
+This technical & solutions architect position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

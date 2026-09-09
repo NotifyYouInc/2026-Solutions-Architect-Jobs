@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Switzerland |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/ceab2fc0-71b0-4506-8e38-8fe3983fae5e) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/65d30858-1165-4c3f-8ba1-38489fa2e63f) |
 
 ## About This Role
 
-This technical & solutions architect position at Benchling was posted on 2026-04-20.
+This technical & solutions architect position at Benchling was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
