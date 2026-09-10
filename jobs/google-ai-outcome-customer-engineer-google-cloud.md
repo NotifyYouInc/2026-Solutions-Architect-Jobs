@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcShLgLJTZgMnjhdmaQJM0rq6Ri5FrVXZPjHMatGf5cKEjsA1Ny_i_x1jehHPdbJsq6FQW1AotQcLLzoEIQ1khqHZeDLURHTn6LajUEz1T9c9ouEoiQW_NT-A5LGrQ%3D%3D_V2&loc=KR&title=AI+Outcome+Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-09-01.
+This sales engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

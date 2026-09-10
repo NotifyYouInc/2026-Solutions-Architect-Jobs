@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evismart](https://scoutify.ai/companies/evismart?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/evismart/jobs/4391044009) |
 
 ## About This Role
 
-This technical & solutions architect position at Evismart was posted on 2026-09-01.
+This customer success position at Evismart was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ontario, CA |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556984597) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-09-01.
+This sales engineer position at Microsoft was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

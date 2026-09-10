@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Solutions-Architect_34815R-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Solutions-Architect_34926R) |
 
 ## About This Role
 
-This technical & solutions architect position at Vizient was posted on 2026-08-28.
+This technical & solutions architect position at Vizient was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

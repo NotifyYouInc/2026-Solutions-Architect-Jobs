@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8769476002?gh_jid=8769476002) |
 
 ## About This Role
 
-This technical & solutions architect position at SpaceX was posted on 2026-09-01.
+This sales engineer position at SpaceX was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

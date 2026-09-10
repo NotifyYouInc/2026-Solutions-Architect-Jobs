@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWH_ZHST1O-E2ZR1313_cMHCft9J4i4JAMb8cmKu_v7HEjoA1Ny_i4yApawkeqxMwea1kTDOS3pA5uKtawqIT_4ysL-9tRqeDxuln6fPLJ5z_GE4iw0dIgr4ofM5_V2&loc=IE&title=Technical+Solutions+Consultant) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-09-01.
+This sales engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

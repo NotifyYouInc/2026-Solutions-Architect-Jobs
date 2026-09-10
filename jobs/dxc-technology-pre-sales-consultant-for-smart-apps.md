@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---KUALA-LUMPUR/Pre-Sales-Consultant-for-Smart-Apps_51585564) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-09-01.
+This sales engineer position at DXC Technology was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

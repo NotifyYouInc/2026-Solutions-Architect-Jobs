@@ -1,16 +1,16 @@
-# Integration Engineer, Metronome at Stripe
+# Integration Engineer, Metronome  at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8080454) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8171222) |
 
 ## About This Role
 
-This technical & solutions architect position at Stripe was posted on 2026-08-18.
+This software engineer position at Stripe was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

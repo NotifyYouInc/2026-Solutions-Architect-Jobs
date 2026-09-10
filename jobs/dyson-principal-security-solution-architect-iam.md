@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-05-22 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Principal-Security-Solution-Architect--IAM-_JR32925) |
 
 ## About This Role
 
-This security engineer position at Dyson was posted on 2026-05-22.
+This cybersecurity engineer position at Dyson was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

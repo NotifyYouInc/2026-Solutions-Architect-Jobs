@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pennsylvania, US |
+| Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-PA/Solution-Architect_R-057617-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-WA/Solution-Architect_R-058957-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-24.
+This technical & solutions architect position at Red Hat was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

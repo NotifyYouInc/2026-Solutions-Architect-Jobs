@@ -5,12 +5,12 @@
 | Company | [Roboflow](https://scoutify.ai/companies/roboflow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2025-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/roboflow/fa06d985-6671-4cdd-afff-dc67344db1d6) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/roboflow/5fff1882-b92e-46af-875c-cb26339d52c3) |
 
 ## About This Role
 
-This technical & solutions architect position at Roboflow was posted on 2025-08-01.
+This technical & solutions architect position at Roboflow was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

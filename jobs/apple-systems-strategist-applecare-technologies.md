@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680590/systems-strategist-applecare-technologies) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680445/systems-strategist-applecare-technologies) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-08-28.
+This technical & solutions architect position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

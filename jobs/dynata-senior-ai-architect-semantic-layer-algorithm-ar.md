@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
+| Category | Accounting |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Remote--USA/Senior-AI-Architect--Semantic-Layer---Algorithm-Ar_REQ13785-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Dynata was posted on 2026-08-31.
+This accounting position at Dynata was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

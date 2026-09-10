@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5412427008) |
 
 ## About This Role
 
-This technical & solutions architect position at Baselayer was posted on 2026-09-01.
+This sales engineer position at Baselayer was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

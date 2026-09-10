@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Salesforce-Success-Architect_JR340003-1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Salesforce-Success-Architect--Agentforce-_JR330045-1) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-04-28.
+This technical & solutions architect position at Salesforce was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

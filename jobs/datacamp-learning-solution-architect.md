@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DataCamp](https://scoutify.ai/companies/datacamp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York, US |
-| Category | Technical & Solutions Architect |
+| Category | Learning & Development |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/8172981) |
 
 ## About This Role
 
-This technical & solutions architect position at DataCamp was posted on 2026-09-02.
+This learning & development position at DataCamp was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

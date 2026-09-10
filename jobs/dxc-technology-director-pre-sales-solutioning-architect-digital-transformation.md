@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sant Cugat del Vallès, Catalonia, Spain |
-| Category | Technical & Solutions Architect |
+| Category | Strategy & Operations |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SCV01---DXC-Barcelona-Sant-Cugat-SCV01/Director-Pre-Sales-Solutioning-Architect---Digital-Transformation_51588275) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-09-01.
+This strategy & operations position at DXC Technology was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

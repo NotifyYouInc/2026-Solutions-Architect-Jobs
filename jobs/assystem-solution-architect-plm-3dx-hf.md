@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132448801-solution-architect-plm-3dx-hf) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147201319-solution-architect-plm-3dx-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Assystem was posted on 2026-06-16.
+This technical & solutions architect position at Assystem was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

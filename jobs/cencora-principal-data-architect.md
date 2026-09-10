@@ -5,12 +5,12 @@
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-03 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/Principal-Data-Architect_R262572) |
 
 ## About This Role
 
-This technical & solutions architect position at Cencora was posted on 2026-04-03.
+This technical & solutions architect position at Cencora was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

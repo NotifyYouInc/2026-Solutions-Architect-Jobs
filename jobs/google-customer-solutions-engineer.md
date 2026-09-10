@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdLwyWnR3SZaykaEsLibG5K3g3tLcc4fJeFU3Mu5nLmOEjsA1Ny_iw8aSa-8SwJ6lajjzvxIZtpk260rU7nJgRC5gQ_X2gJ6DPS7hjxa3u9YYAtE1ASyTphZnHFcnw%3D%3D_V2&loc=US&title=Customer+Solutions+Engineer) |
+| Location | 5 locations |
+| Category | Sales Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZmTQqcaKL3SltLIsb2Uu04nrKUUwtMEfR6MHDgUv7GlEjsA1Ny_i1QOBTvxz-oW3vtav87R_KatWQ63BDqV2D_0Uw5ShhtXYHTWvuWHnzDvALj_Kit5efkRqunOhA%3D%3D_V2&loc=US&title=Customer+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-08-31.
+This sales engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

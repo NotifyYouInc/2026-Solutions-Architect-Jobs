@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Riyadh-Saudi-Arabia/Solutions-Engineer_2018436-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-09-01.
+This sales engineer position at Cisco was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

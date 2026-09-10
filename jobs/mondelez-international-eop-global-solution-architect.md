@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/EOP-Global-Solution-Architect_R-161319) |
 
 ## About This Role
 
-This technical & solutions architect position at Mondelez International was posted on 2026-04-02.
+This technical & solutions architect position at Mondelez International was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

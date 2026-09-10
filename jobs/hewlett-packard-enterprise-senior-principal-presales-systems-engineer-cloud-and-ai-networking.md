@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Andover-Massachusetts/Principal-Presales-Systems-Engineer--Cloud-and-AI-Networking_1204750) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-09-02.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

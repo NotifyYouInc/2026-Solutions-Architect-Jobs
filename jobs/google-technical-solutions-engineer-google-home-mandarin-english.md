@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New Taipei City, Taipei, Taiwan |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQbGPFq8qWZq12-MSzpvM70zoTJl7m0uGOE3xQ8NHxq8EjsA1Ny_i9D_4OnRcHaf_nJbeTBfn7tFrfkkKD7hI7D-L4dtpqfb-Heoa27m2DGhE_OtmtRIFiGxO_uGlA%3D%3D_V2&loc=TW&title=Technical+Solutions+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-09-01.
+This sales engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Enterprise-IT-AI-Solution-Architect_R0248343) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-09-01.
+This machine learning engineer position at Booz Allen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

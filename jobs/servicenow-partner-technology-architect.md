@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146512627-partner-technology-architect) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147051798-partner-technology-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-08-31.
+This technical & solutions architect position at ServiceNow was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

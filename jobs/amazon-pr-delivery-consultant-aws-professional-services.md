@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | PR & External Communications |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445667/pr-delivery-consultant-aws-professional-services) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10528149/pr-delivery-consultant-aws-professional-services) |
 
 ## About This Role
 
-This pr & external communications position at Amazon was posted on 2026-06-11.
+This pr & external communications position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

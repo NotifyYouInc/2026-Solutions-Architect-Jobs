@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zapier](https://scoutify.ai/companies/zapier?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/zapier/eaf4ef36-116b-4aa1-b874-7474b16851e6) |
 
 ## About This Role
 
-This technical & solutions architect position at Zapier was posted on 2026-08-31.
+This sales engineer position at Zapier was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

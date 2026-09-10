@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Workday-Integration-Architect_R00293314-1) |
+| Location | London, England, United Kingdom |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Workday-Integration-Architect_R00304972) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-17.
+This technical & solutions architect position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

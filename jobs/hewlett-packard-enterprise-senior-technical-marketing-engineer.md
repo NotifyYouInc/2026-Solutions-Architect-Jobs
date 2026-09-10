@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Juan, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Product Marketing |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Juan-Puerto-Rico-Puerto-Rico/Senior-Technical-Marketing-Engineer_1212249-3) |
 
 ## About This Role
 
-This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-08-31.
+This product marketing position at Hewlett Packard Enterprise was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

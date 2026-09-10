@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Go To Market Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/6167305004?gh_jid=6167305004) |
 
 ## About This Role
 
-This technical & solutions architect position at Figma was posted on 2026-09-01.
+This go to market engineer position at Figma was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

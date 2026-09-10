@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Technical & Solutions Architect |
+| Category | Product Marketing |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Sales-Architect---Outbound-Product-Management-Lead_R-00190882) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-09-01.
+This product marketing position at Leidos was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

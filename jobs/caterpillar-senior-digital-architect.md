@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Diego, California, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/San-Diego-California/Senior-Digital-Architect_R0000385060-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Digital-Architect_R0000390830) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar was posted on 2026-07-27.
+This technical & solutions architect position at Caterpillar was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

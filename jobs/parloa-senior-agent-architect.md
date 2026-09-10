@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parloa](https://scoutify.ai/companies/parloa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/parloa/jobs/4871790101) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/parloa/jobs/4823910101) |
 
 ## About This Role
 
-This ai / llm engineer position at Parloa was posted on 2026-05-20.
+This technical & solutions architect position at Parloa was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

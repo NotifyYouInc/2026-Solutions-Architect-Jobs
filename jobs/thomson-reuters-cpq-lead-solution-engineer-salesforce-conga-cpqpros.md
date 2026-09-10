@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Eagan, Minnesota, United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/CPQ-Lead-Solution-Engineer---Salesforce-Conga-CPQ-PROS_JREQ203225-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thomson Reuters was posted on 2026-09-01.
+This sales engineer position at Thomson Reuters was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

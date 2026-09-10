@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000146531379-cloud-architect-gcp) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000147087829-cloud-architect-gcp) |
 
 ## About This Role
 
-This technical & solutions architect position at Applaudo Studios was posted on 2026-08-31.
+This technical & solutions architect position at Applaudo Studios was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

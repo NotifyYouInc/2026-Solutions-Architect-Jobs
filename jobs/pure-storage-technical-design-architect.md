@@ -1,16 +1,16 @@
-# Technical Design Architect  at Pure Storage
+# Technical Design Architect at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7623568?gh_jid=7623568) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8138540) |
 
 ## About This Role
 
-This customer success position at Pure Storage was posted on 2026-02-19.
+This technical & solutions architect position at Pure Storage was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Associate-Manager-Cloud-Architecture_51588114) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Associate-Manager-Cloud-Architecture_51586073) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-08-31.
+This technical & solutions architect position at DXC Technology was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

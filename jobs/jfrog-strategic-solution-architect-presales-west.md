@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://join.jfrog.com/job/?job=8164605&gh_jid=8164605) |
 
 ## About This Role
 
-This technical & solutions architect position at JFrog was posted on 2026-09-01.
+This sales engineer position at JFrog was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Senior-Architect_26028787-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Architect_26032371) |
 
 ## About This Role
 
-This technical & solutions architect position at Bank of America was posted on 2026-08-14.
+This technical & solutions architect position at Bank of America was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

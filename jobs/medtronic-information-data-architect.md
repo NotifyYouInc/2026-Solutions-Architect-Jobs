@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fridley, Minnesota, United States |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Information---Data-Architect_R71120-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Medtronic was posted on 2026-09-01.
+This data engineer position at Medtronic was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

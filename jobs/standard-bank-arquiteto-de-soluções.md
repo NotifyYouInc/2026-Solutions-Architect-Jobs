@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Luanda, Luanda, Angola |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000139237675-arquiteto-de-solucoes) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000147234689-arquiteto-de-solucoes) |
 
 ## About This Role
 
-This technical & solutions architect position at Standard Bank was posted on 2026-07-23.
+This technical & solutions architect position at Standard Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Italy |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Roma/E2E-System-Architect_R0323016) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Roma/E2E-System-Architect_R0334832-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-05-09.
+This technical & solutions architect position at Thales was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

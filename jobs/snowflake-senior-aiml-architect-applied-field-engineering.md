@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/be26f3f8-84b7-41ab-b99f-4e258bfecab5) |
+| Location | Chicago, Illinois, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/9d538c1b-16fa-4d21-8549-d1d1993aa201) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-05-12.
+This machine learning engineer position at Snowflake was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

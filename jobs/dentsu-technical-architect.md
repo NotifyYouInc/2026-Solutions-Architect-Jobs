@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Technical-Architect_R1120244-8) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Indiqube-Orchid/Technical-Architect_R1130450-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-07-06.
+This data engineer position at Dentsu was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

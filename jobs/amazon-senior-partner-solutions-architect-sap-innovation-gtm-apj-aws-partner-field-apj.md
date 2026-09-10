@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423482/senior-partner-solutions-architect-sap-innovation-gtm-apj-aws-partner-field-apj) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Go To Market Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10528168/senior-partner-solutions-architect-sap-innovation-gtm-apj-aws-partner-field-apj) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-05-19.
+This go to market engineer position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

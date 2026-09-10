@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | SOC & Incident Response |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Presales-Solutions-Architect---Security-Operations_JR3620) |
 
 ## About This Role
 
-This technical & solutions architect position at SHI International was posted on 2026-09-01.
+This soc & incident response position at SHI International was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
