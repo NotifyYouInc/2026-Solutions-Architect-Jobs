@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
-| Category | Customer Success |
+| Category | Sales Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/NIC-Work-at-Home/Directory-Federation-Services--ADFS--Customer-Engineer--English-Bilingual-_R1760611) |
 
 ## About This Role
 
-This customer success position at Concentrix was posted on 2026-09-01.
+This sales engineer position at Concentrix was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

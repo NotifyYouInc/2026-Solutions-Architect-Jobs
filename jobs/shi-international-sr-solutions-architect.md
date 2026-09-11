@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Somerset, New Jersey, United States |
-| Category | Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/Sr-Solutions-Architect_JR2414) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/London-United-Kingdom/Sr-Solutions-Architect_JR3684) |
 
 ## About This Role
 
-This solutions architect position at SHI International was posted on 2026-02-03.
+This technical & solutions architect position at SHI International was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

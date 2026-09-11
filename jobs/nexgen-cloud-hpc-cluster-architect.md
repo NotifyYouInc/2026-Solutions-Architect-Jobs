@@ -5,12 +5,12 @@
 | Company | [NexGen Cloud](https://scoutify.ai/companies/nexgen-cloud?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/nexgencloud/jobs/4845717101) |
 
 ## About This Role
 
-This technical & solutions architect position at NexGen Cloud was posted on 2026-04-21.
+This technical & solutions architect position at NexGen Cloud was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

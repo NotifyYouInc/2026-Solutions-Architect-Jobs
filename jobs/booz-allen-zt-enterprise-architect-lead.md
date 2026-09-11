@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Camp H.M. Smith, Hawaii, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/ZT-Enterprise-Architect--Lead_R0247604) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/ZT-Enterprise-Architect--Lead_R0248653) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-08-21.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

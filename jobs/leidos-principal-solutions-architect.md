@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Fort Belvoir, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-Solutions-Architect_R-00190368-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Principal-Solutions-Architect_R-00191353) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-08-24.
+This technical & solutions architect position at Leidos was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

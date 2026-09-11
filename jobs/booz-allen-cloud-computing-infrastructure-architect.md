@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Diego, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Cloud-Computing-Infrastructure-Architect_R0247685) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Cloud-Computing-Infrastructure-Architect_R0248665) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-26.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

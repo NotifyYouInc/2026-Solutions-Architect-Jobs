@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-Chicago-IL/Lead-Solutions-Design-Engineer---SIMIO-Warehouse---Transportation-Simulation--REMOTE-_R179914) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Lead-Solutions-Design-Engineer---SIMIO-Warehouse---Transportation-Simulation--REMOTE-_R183178) |
 
 ## About This Role
 
-This technical & solutions architect position at Ryder System was posted on 2026-08-04.
+This technical & solutions architect position at Ryder System was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

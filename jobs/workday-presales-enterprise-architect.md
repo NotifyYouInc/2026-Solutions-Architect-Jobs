@@ -1,16 +1,16 @@
-# Presales- Enterprise Architect at Workday
+# Presales-  Enterprise Architect at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Texas, US |
-| Category | Sales Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-TX-Remote/Presales--Enterprise-Architect_JR-0109768) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USANYHome-Office-NY-Metro-Tri-State/Presales---Enterprise-Architect_JR-0109846) |
 
 ## About This Role
 
-This sales engineer position at Workday was posted on 2026-09-01.
+This technical & solutions architect position at Workday was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

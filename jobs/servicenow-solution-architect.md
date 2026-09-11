@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Addison, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146042249-solution-architect) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147314789-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-08-27.
+This technical & solutions architect position at ServiceNow was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

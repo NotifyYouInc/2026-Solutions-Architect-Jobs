@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135090899-ml-solutions-architect-architecte-de-solutions-ml) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147327139-ml-solutions-architect-architecte-de-solutions-ml) |
 
 ## About This Role
 
-This technical & solutions architect position at NBCUniversal was posted on 2026-06-30.
+This technical & solutions architect position at NBCUniversal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

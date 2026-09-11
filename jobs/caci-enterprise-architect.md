@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Reston, Virginia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Stuttgart-Germany/Enterprise-Architect_330504) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Enterprise-Architect_331411) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-08-13.
+This technical & solutions architect position at CACI was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

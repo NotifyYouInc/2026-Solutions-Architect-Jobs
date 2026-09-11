@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangalore/Lead-Solutions-Architect_R1126823) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Dublin/Lead-Solutions-Architect_R1130436) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-08-07.
+This technical & solutions architect position at Dentsu was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

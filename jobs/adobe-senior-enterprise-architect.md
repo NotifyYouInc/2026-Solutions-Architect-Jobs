@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Senior-Enterprise-Architect_R169773) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Senior-Enterprise-Architect_R169772) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-09-01.
+This technical & solutions architect position at Adobe was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

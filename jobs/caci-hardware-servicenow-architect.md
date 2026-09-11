@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/147-CHANTILLY-VA-COMMONWEALTH-BUILDING-A/Hardware-ServiceNow-Architect_324695) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Hardware-ServiceNow-Architect_331620) |
 
 ## About This Role
 
-This electrical / hardware engineer position at CACI was posted on 2026-04-09.
+This electrical / hardware engineer position at CACI was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

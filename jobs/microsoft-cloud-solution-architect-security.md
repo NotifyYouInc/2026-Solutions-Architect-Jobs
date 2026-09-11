@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vancouver, Washington, United States |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826571) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556984371) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-08-14.
+This technical & solutions architect position at Microsoft was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

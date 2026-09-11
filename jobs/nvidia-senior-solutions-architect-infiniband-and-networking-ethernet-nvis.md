@@ -1,16 +1,16 @@
-# Senior Solutions Architect, Infiniband and Networking Ethernet - NVIS at Nvidia
+# Senior Solutions Architect, InfiniBand and Networking Ethernet - NVIS at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2023983) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Senior-Solutions-Architect--InfiniBand-and-Networking-Ethernet---NVIS_JR2024703) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-08-27.
+This technical & solutions architect position at Nvidia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

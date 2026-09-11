@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-High-Performance-Storage-Architect---NVIS_JR2024694) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Senior-High-Performance-Storage-Architect---NVIS_JR2024695) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-09-01.
+This technical & solutions architect position at Nvidia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

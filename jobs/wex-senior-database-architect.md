@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Senior-Database-Architect_R22934) |
+| Location | 4 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Senior-Database-Architect_R22973) |
 
 ## About This Role
 
-This ai / llm engineer position at Wex was posted on 2026-08-28.
+This data engineer position at Wex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

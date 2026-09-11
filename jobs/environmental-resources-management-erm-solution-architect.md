@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | New Delhi, Delhi, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Adelaide-Australia/Solution-Architect_R00030896) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/Solution-Architect---India-GDC--Gurugram-_R00029833-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Environmental Resources Management (ERM) was posted on 2026-06-25.
+This technical & solutions architect position at Environmental Resources Management (ERM) was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
