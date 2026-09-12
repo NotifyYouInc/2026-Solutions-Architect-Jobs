@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | North Rhine-Westphalia, DE |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Technical-Solution-Architect_R246915) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/DE-NW-North-Rhine-Westphalia-Germany---Remote/Technical-Solution-Architect_R246639) |
 
 ## About This Role
 
-This technical & solutions architect position at Arrow Electronics was posted on 2026-08-11.
+This technical & solutions architect position at Arrow Electronics was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

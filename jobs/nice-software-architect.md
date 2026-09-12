@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4880667101?gh_jid=4880667101) |
+| Location | Southampton, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4902441101?gh_jid=4902441101) |
 
 ## About This Role
 
-This technical & solutions architect position at NiCE was posted on 2026-06-11.
+This software engineer position at NiCE was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Solutions Architect, Customer Systems  at Apple
+# Solutions Architect, Customer Systems at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678861/solutions-architect-customer-systems) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681066/solutions-architect-customer-systems) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-09-01.
+This technical & solutions architect position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

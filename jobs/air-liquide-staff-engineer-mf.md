@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/AL-Paris-HO---Digital--IT---Support-Function---ALIT/Staff-Engineer-M-F_R10098714) |
 
 ## About This Role
 
-This software engineer position at Air Liquide was posted on 2026-09-02.
+This ai / llm engineer position at Air Liquide was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

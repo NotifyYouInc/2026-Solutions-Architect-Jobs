@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Senior-Principal---Enterprise-Architect_24801) |
 
 ## About This Role
 
-This machine learning engineer position at OneWest Bank was posted on 2026-09-04.
+This ai / llm engineer position at OneWest Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Enterprise-Architect_R169932) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Enterprise-Architect_R169928) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-09-02.
+This technical & solutions architect position at Adobe was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

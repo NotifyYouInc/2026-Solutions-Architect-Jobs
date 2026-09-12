@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/OPIR-Systems-Engineer_R0239660) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/OPIR-Systems-Engineer_R0248789-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-05-08.
+This technical & solutions architect position at Booz Allen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Principal-AI-Architect_R-0272603) |
 
 ## About This Role
 
-This machine learning engineer position at Sanford Health was posted on 2026-09-03.
+This ai / llm engineer position at Sanford Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

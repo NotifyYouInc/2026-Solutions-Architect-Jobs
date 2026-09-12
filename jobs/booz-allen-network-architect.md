@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 5 locations |
+| Location | El Segundo, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Network-Architect_R0246652) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Network-Architect_R0248758) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-12.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

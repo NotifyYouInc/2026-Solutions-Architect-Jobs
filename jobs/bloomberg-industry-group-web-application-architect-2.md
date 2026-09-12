@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomberg Industry Group](https://scoutify.ai/companies/bloomberg-industry-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Web-Application-Architect-2_140383) |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Web-Application-Architect-2_144269) |
 
 ## About This Role
 
-This technical & solutions architect position at Bloomberg Industry Group was posted on 2026-02-17.
+This software engineer position at Bloomberg Industry Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

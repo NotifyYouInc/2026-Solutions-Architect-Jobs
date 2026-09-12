@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Customer-Delivery-Architect_2023511-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Customer-Delivery-Architect_2024380) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-09-02.
+This technical & solutions architect position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

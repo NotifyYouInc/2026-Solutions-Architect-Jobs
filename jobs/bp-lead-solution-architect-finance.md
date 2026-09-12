@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Lead-Solution-Architect---Finance_RQ111172-1) |
 
 ## About This Role
 
-This technical & solutions architect position at BP was posted on 2026-06-09.
+This technical & solutions architect position at BP was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

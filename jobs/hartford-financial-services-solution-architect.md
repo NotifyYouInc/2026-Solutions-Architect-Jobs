@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/Solution-Architect_R2626307) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Solution-Architect_R2626734) |
 
 ## About This Role
 
-This technical & solutions architect position at Hartford Financial Services was posted on 2026-08-04.
+This technical & solutions architect position at Hartford Financial Services was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

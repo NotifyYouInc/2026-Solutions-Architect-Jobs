@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000133970921-enterprise-architect-ref5464o) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000147501118-enterprise-architect-ref5464o) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-06-24.
+This technical & solutions architect position at Deutsche Telekom IT Solutions HU was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

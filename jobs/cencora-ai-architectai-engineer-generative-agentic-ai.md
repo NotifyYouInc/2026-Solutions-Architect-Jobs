@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Texas, US |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Texas/AI-Architect-AI-Engineer---Generative---Agentic-AI_R2614938) |
 
 ## About This Role
 
-This machine learning engineer position at Cencora was posted on 2026-09-03.
+This ai / llm engineer position at Cencora was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

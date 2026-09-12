@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dallas-5205-N-OConnor-Las-Colinas-Corp/Software-Platform-Technical-Architect_R00343257) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Columbus-400-W-Nationwide-Blvd-Corp/Software-Platform-Technical-Architect_R00354523) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-16.
+This technical & solutions architect position at Accenture was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

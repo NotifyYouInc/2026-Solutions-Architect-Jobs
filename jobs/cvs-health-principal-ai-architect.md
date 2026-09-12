@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Colorado, US |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CO---Work-from-home/Principal-AI-Architect_R1008622) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-09-03.
+This ai / llm engineer position at CVS Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
