@@ -6,7 +6,7 @@
 | Location | New York, US |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Senior-Enterprise-Architect_R169772) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Senior-Enterprise-Architect_R170836) |
 
 ## About This Role
 

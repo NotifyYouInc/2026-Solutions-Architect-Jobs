@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Switzerland |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Solutions-Architect--Higher-Education-and-Research--Multimodal-and-Physical-AI_JR2024873) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Senior-Solutions-Architect--Higher-Education-and-Research--Multimodal-and-Physical-AI_JR2024875) |
 
 ## About This Role
 

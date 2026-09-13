@@ -1,16 +1,16 @@
-# Partner Consultant, Accounting Vertical at Ramp
+# Solutions Consultant, EMEA at FirstWork
 
 | Field | Details |
 |-------|---------|
-| Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Company | [FirstWork](https://scoutify.ai/companies/firstwork?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Sales |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/c63ba7d7-5290-4d9b-b002-40b2873b66f6) |
+| Category | Sales Engineer |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/firstwork/jobs/Imp7Jfm-solutions-consultant-emea) |
 
 ## About This Role
 
-This sales position at Ramp was posted on 2026-09-02.
+This sales engineer position at FirstWork was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
