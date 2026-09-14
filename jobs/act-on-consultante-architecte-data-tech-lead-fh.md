@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACT-ON](https://scoutify.ai/companies/act-on?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Neuilly-sur-Seine, Île-de-France, France |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/act-on/744000147525777-consultante-architecte-data-tech-lead-fh) |
 
 ## About This Role
 
-This software engineer position at ACT-ON was posted on 2026-09-04.
+This technical & solutions architect position at ACT-ON was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

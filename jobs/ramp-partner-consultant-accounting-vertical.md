@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Accounting |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ramp/c63ba7d7-5290-4d9b-b002-40b2873b66f6) |
 
 ## About This Role
 
-This sales position at Ramp was posted on 2026-09-02.
+This accounting position at Ramp was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

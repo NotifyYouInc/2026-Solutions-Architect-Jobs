@@ -1,16 +1,16 @@
-# Success Architect - Tableau at Salesforce
+# Success Architect, Tableau at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Success-Architect---Tableau_JR339531) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of---Seoul/Success-Architect--Tableau_JR358025) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-05-01.
+This technical & solutions architect position at Salesforce was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

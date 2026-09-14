@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dealertire](https://scoutify.ai/companies/dealertire?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cleveland, Ohio, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://dealertire.wd5.myworkdayjobs.com/dealertirellc-careers/job/Cleveland-OH/PHP-Application-Architect_R14381) |
 
 ## About This Role
 
-This software engineer position at Dealertire was posted on 2026-09-03.
+This technical & solutions architect position at Dealertire was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

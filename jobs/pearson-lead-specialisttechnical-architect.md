@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#22857) |
 
 ## About This Role
 
-This software engineer position at Pearson was posted on 2026-09-04.
+This technical & solutions architect position at Pearson was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

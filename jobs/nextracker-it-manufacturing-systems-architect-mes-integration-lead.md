@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fremont, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/IT-Manufacturing-Systems-Architect---MES-Integration-Lead_NX-4540) |
 
 ## About This Role
 
-This software engineer position at Nextracker was posted on 2026-09-03.
+This technical & solutions architect position at Nextracker was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Principal-Systems-Architect---Electronic-Warfare_331556) |
 
 ## About This Role
 
-This electrical / hardware engineer position at CACI was posted on 2026-09-02.
+This technical & solutions architect position at CACI was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

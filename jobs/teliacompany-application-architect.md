@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Vilnius/Application-Architect_62580-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Solna/Application-Architect_63050-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Teliacompany was posted on 2026-08-13.
+This technical & solutions architect position at Teliacompany was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

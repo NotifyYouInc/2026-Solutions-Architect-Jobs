@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8180096) |
 
 ## About This Role
 
-This product manager position at Appian was posted on 2026-09-04.
+This technical & solutions architect position at Appian was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

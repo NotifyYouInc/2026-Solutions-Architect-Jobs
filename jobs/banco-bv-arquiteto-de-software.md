@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco BV](https://scoutify.ai/companies/banco-bv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/bv/513cd4f9-b136-4931-bab3-e555433e140c) |
 
 ## About This Role
 
-This software engineer position at Banco BV was posted on 2026-09-04.
+This technical & solutions architect position at Banco BV was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

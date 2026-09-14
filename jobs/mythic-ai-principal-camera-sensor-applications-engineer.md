@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mythic Ai](https://scoutify.ai/companies/mythic-ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/mythic-ai.com/37df95fb-a05e-48f2-a11a-08a0ad712ab7) |
 
 ## About This Role
 
-This software engineer position at Mythic Ai was posted on 2026-09-04.
+This technical & solutions architect position at Mythic Ai was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

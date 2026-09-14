@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--ITC---Anaplan_R-91413) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-09-03.
+This technical & solutions architect position at Nike was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

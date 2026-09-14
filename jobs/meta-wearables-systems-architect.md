@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/929161830270272) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Meta was posted on 2026-09-04.
+This technical & solutions architect position at Meta was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

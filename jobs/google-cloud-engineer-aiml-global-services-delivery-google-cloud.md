@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfcBg531ppkI5BrRj0TZ-1jRiWaZMJBMf2HPiy706FZwEjsA1Ny_i-jmsTELwgzA0aAI5pnrtXrmqL1ED6GOr-bRgyGhh0t-1C2vlHnJqvCEZ-nP2uoQ1cnPAIyMMw%3D%3D_V2&loc=US&title=Cloud+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-09-04.
+This technical & solutions architect position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

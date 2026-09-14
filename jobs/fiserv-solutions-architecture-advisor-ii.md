@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Solutions-Architecture---Advisor-II_R-10400409-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Solutions-Architecture---Advisor-II_R-10395897) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-08-10.
+This technical & solutions architect position at Fiserv was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/Cloud-Architect---Solution-Design-Engineer_JR-2605177) |
 
 ## About This Role
 
-This devops engineer position at GlobalFoundries was posted on 2026-09-02.
+This technical & solutions architect position at GlobalFoundries was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

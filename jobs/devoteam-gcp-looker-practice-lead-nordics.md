@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Denmark |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146922119-gcp-looker-practice-lead-nordics) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147470409-gcp-looker-practice-lead-nordics) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-09-02.
+This technical & solutions architect position at Devoteam was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

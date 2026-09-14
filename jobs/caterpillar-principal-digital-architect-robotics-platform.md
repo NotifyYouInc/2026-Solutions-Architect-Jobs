@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Principal-Digital-Architect---Robotics-Platform_R0000390181-1) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-09-03.
+This technical & solutions architect position at Caterpillar was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

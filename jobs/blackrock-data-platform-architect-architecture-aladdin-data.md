@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/NY7---50-Hudson-Yards-New-York/Data-Platform-Architect--Architecture---Aladdin-Data_R266304) |
 
 ## About This Role
 
-This software engineer position at Blackrock was posted on 2026-09-04.
+This technical & solutions architect position at Blackrock was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

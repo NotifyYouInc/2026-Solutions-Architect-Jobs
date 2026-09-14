@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Senior-Database-Architect_R22973) |
 
 ## About This Role
 
-This data engineer position at Wex was posted on 2026-09-03.
+This technical & solutions architect position at Wex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

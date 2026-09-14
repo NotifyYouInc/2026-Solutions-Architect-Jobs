@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Virtru](https://scoutify.ai/companies/virtru?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4731211005) |
 
 ## About This Role
 
-This data engineer position at Virtru was posted on 2026-09-04.
+This technical & solutions architect position at Virtru was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

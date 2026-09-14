@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mobile, Alabama, United States |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Home--MobileUT-001/Application-Engineer-III--E3-_R2627314) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-09-03.
+This technical & solutions architect position at Applied Materials was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

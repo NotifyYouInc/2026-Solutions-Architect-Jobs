@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Solution-Architect_JR10392497) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Solution-Architect_JR10439067) |
 
 ## About This Role
 
-This technical & solutions architect position at Airbus was posted on 2026-02-18.
+This technical & solutions architect position at Airbus was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
