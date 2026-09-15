@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Oracle-Cloud-Solution-Architect_329552) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Oracle-Cloud-Solution-Architect_331705) |
 
 ## About This Role
 
-This technical & solutions architect position at CACI was posted on 2026-07-24.
+This technical & solutions architect position at CACI was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001318393-databricks-solution-lead) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001385299-databricks-solution-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS Australia was posted on 2026-08-17.
+This technical & solutions architect position at NCS Australia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

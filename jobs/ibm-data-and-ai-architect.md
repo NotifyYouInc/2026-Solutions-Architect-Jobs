@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99250) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120156) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-03-04.
+This technical & solutions architect position at IBM was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Ngee-Ann-Polytechnic-Clementi-Campus/DATA---GOVERNANCE-ARCHITECT---DIGITAL-SERVICES---TECHNOLOGY-OFFICE_JR-10000046145) |
 
 ## About This Role
 
-This technical & solutions architect position at Economic Development Board was posted on 2026-04-06.
+This technical & solutions architect position at Economic Development Board was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Florida, US |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-FL-Work-at-Home/Director--Enterprise-Solution-Architect_R1729453) |
 
 ## About This Role
 
-This sales position at Concentrix was posted on 2026-09-03.
+This sales leadership position at Concentrix was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alpha Omega](https://scoutify.ai/companies/recruiting-ultipro-com-oj4186?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://recruiting.ultipro.com/alp1013apao/JobBoard/4db1723d-a288-4922-9a21-754e6e1cf5c4/OpportunityDetail?opportunityId=809dba0c-bcf8-4deb-8d69-bdd9a9c5679b) |
 
 ## About This Role
 
-This program manager position at Alpha Omega was posted on 2026-09-03.
+This technical & solutions architect position at Alpha Omega was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

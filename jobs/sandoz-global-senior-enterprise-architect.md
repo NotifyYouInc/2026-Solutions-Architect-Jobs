@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Telangana, IN |
+| Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Global-Senior-Enterprise-Architect_REQ-10029496) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Global-Senior-Enterprise-Architect_REQ-10028918) |
 
 ## About This Role
 
-This technical & solutions architect position at Sandoz was posted on 2026-08-12.
+This technical & solutions architect position at Sandoz was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136737089-architecte-cloud-azure-fh) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148168219-architecte-cloud-azure-fh) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-07-09.
+This technical & solutions architect position at Devoteam was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

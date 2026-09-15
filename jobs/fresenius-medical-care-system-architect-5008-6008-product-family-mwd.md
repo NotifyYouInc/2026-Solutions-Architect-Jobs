@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Embedded / Firmware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bad-Homburg-Germany/System-Architect-5008---6008-product-family--m-w-d-_R0265562) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Fresenius Medical Care was posted on 2026-09-04.
+This technical & solutions architect position at Fresenius Medical Care was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

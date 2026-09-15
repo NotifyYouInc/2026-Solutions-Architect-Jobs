@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Product Marketing |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Technical-Marketing-Engineering--Cisco-Validated_2021892-1) |
 
 ## About This Role
 
-This product marketing position at Cisco was posted on 2026-09-03.
+This technical & solutions architect position at Cisco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

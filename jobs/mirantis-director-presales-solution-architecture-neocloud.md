@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000146267679-director-presales-solution-architecture-neocloud) |
+| Category | Sales Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000147964595-director-presales-solution-architecture-neocloud) |
 
 ## About This Role
 
-This technical & solutions architect position at Mirantis was posted on 2026-08-28.
+This sales engineer position at Mirantis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

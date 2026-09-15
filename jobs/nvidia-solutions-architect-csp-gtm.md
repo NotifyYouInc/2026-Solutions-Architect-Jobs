@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reading, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Remote/Solutions-Architect--CSP-GTM_JR2022659) |
+| Location | Germany |
+| Category | Go To Market Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Solutions-Architect--CSP-GTM_JR2025076) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-08-27.
+This go to market engineer position at Nvidia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

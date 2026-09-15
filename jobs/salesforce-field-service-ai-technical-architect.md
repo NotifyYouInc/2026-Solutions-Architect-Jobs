@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-24 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Field-Service-AI-Technical-Architect_JR335049) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-24.
+This technical & solutions architect position at Salesforce was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Toronto/Legal-Architect--Enterprise_REQ-5230) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Sydney/Legal-Architect--Enterprise_REQ-5357) |
 
 ## About This Role
 
-This technical & solutions architect position at Clio was posted on 2026-08-07.
+This technical & solutions architect position at Clio was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

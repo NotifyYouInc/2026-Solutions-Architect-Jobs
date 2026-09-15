@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Infrastructure-and-DevOps-Architect_JR0286705-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Intel was posted on 2026-09-03.
+This devops engineer position at Intel was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

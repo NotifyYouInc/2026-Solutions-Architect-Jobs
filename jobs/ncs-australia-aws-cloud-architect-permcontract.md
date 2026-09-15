@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001275147-aws-cloud-architect-permcontract) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001384151-aws-cloud-architect-permcontract) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS Australia was posted on 2026-07-31.
+This technical & solutions architect position at NCS Australia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

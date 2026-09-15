@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdkKfsTBvydOa2aE9EbC5_8GVCdBYB2ZznoECugXqljlEjsA1Ny_i3nfvmtEv3TjecFq4UyAGqm5Lk-GG348OuE6jmzmrsqBv7my6bKtfR4eWOpS2eL_HvvPqMgcZw%3D%3D_V2&loc=DE&title=Customer+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQyzcl97F18xHtbHAETR79fk6oCxHVkO-UoMqyDBQZ_3EjsA1Ny_i_y5rtilmSboosGBE5DB8h-p_COLSftQCx40uDRtgv-lc9MXDs82pzJCtu9w9JDkiNSAsZXtjg%3D%3D_V2&loc=DE&title=Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-08-04.
+This sales engineer position at Google was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

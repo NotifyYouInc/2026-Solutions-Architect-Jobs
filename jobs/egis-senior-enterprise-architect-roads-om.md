@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000145030449-senior-enterprise-architect-roads-om) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000148145569-senior-enterprise-architect-roads-om) |
 
 ## About This Role
 
-This technical & solutions architect position at Egis was posted on 2026-08-23.
+This technical & solutions architect position at Egis was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

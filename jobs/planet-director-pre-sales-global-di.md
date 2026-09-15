@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8164967) |
 
 ## About This Role
 
-This sales position at Planet was posted on 2026-09-07.
+This sales leadership position at Planet was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4700758006) |
+| Category | Customer Success |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4711552006) |
 
 ## About This Role
 
-This technical & solutions architect position at Fireblocks was posted on 2026-08-10.
+This customer success position at Fireblocks was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

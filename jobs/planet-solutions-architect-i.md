@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Haarlem, North Holland, The Netherlands |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/7760414) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8161967) |
 
 ## About This Role
 
-This technical & solutions architect position at Planet was posted on 2026-03-31.
+This technical & solutions architect position at Planet was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Infrastructure-Architect----Platform-and-Infrastructure-Department--Product-Development-Division--Rakuten-Payment--Inc--Secondment-_1036611-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Rakuten was posted on 2026-09-04.
+This devops engineer position at Rakuten was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

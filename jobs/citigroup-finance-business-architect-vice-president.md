@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Finance-Business-Architect--Vice-President_26990433) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Finance-Business-Architect--Vice-President_26990428) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-09-02.
+This technical & solutions architect position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

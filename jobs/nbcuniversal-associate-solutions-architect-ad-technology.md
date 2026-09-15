@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
+| Location | North Hollywood, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147077148-associate-solutions-architect-ad-technology) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147558899-associate-solutions-architect-ad-technology) |
 
 ## About This Role
 
-This technical & solutions architect position at NBCUniversal was posted on 2026-09-02.
+This technical & solutions architect position at NBCUniversal was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
