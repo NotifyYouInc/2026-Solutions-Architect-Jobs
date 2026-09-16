@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Project Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145815450-senior-solution-delivery-manager) |
+| Category | Customer Success |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000148483959-senior-solution-delivery-manager) |
 
 ## About This Role
 
-This project manager position at Trustonic was posted on 2026-08-26.
+This customer success position at Trustonic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

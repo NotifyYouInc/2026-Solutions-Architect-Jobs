@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mexico-City/Junior-Solution-Architect_R-057830-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Junior-Solution-Architect_R-059073) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-08-03.
+This technical & solutions architect position at Red Hat was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

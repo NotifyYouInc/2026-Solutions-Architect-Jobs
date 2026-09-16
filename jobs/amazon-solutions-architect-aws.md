@@ -1,16 +1,16 @@
-# Solutions Architect, AWS at Amazon
+# Solutions Architect - AWS at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Providencia, Santiago Metropolitan, Chile |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436444/solutions-architect-aws) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10533877/solutions-architect-aws) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-02.
+This technical & solutions architect position at Amazon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

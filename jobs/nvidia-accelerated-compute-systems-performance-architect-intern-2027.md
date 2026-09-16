@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Semiconductor / Chip Design |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Accelerated-Compute-Systems-Performance-Architect-Intern---2027_JR2024823) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-09-04.
+This technical & solutions architect position at Nvidia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

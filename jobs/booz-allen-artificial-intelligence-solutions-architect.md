@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Artificial-Intelligence-Solutions-Architect_R0236422) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Artificial-Intelligence-Solutions-Architect_R0248949) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-20.
+This technical & solutions architect position at Booz Allen was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

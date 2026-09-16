@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | France |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Paris-La-Defense/Enterprise-Architect_JR_10037125-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Paris/Enterprise-Architect_JR_10041176-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Ayvens was posted on 2026-06-19.
+This technical & solutions architect position at Ayvens was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

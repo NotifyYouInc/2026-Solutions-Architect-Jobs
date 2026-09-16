@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Italy |
+| Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Italy/Principal-AI-Solutions-Architect--Customer-Success_JR111660-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/United-Kingdom/Senior-Principle-Agentic-AI-Orchestrator_JR111457-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-07-23.
+This technical & solutions architect position at Genesys was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

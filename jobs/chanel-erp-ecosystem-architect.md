@@ -5,12 +5,12 @@
 | Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/ERP-Ecosystem-Architect_JOBREQ00112915) |
 
 ## About This Role
 
-This technical & solutions architect position at Chanel was posted on 2026-05-12.
+This technical & solutions architect position at Chanel was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

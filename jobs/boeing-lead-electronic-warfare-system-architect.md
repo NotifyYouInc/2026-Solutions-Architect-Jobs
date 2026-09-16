@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Lead-Electronic-Warfare-System-Architect_JR2026510548-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Boeing was posted on 2026-05-21.
+This technical & solutions architect position at Boeing was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

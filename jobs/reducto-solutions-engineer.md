@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reducto](https://scoutify.ai/companies/reducto?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Sales Engineer |
-| Posted | 2025-11-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/reducto/5cc2517c-42c6-47c1-b3cc-77c6c58bc7fa) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/reducto/f295ba35-2e91-4f95-8d71-863dad84f7d7) |
 
 ## About This Role
 
-This sales engineer position at Reducto was posted on 2025-11-25.
+This sales engineer position at Reducto was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

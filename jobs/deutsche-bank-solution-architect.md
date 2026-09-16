@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-10-Upper-Bank-Street/Solution-Architect_R0384443-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Madrid-Paseo-de-Recoletos-27/Solution-Architect_R0436964-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Bank was posted on 2026-02-14.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

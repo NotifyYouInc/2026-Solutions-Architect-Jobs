@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | India |
+| Location | Georgia, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Remote/Senior-Solutions-Architect--Data-Processing_JR2014733) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Solutions-Architect--Data-Processing_JR2025244-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-03-13.
+This technical & solutions architect position at Nvidia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

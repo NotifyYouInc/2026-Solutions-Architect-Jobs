@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Go To Market Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckafd8hCu2SDyDPwNDCAdSYGcx8nJ8CM6sNLacmwxAuBQEjsA1Ny_i1QuLPbE0xvUUoj19RpoBUVrn5e5SJ0P_lFkZwpAzrgyRJRTB_G_Akq3fVIFw4I-a7djJNQH8Q%3D%3D_V2&loc=MX&title=Customer+Engineer) |
 
 ## About This Role
 
-This go to market engineer position at Google was posted on 2026-09-07.
+This ai / llm engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Securian Financial Group](https://scoutify.ai/companies/hq?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Saint Paul, Minnesota, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Enterprise-Architect--Hybrid-_R-010662-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Securian Financial Group was posted on 2026-06-26.
+This technical & solutions architect position at Securian Financial Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Architecte système F/H at Thales
+# Architecte Système F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Vélizy-Villacoublay, Île-de-France, France |
+| Location | La Ferté-Saint-Aubin, Centre-Val de Loire, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Architecte-systme-F-H_R0330142-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Architecte-Systme-F-H_R0338777-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Thales was posted on 2026-06-16.
+This technical & solutions architect position at Thales was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

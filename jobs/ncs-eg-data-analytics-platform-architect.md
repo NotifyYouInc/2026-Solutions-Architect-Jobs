@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001344282-eg-data-analytics-platform-architect) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001391102-eg-data-analytics-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at NCS was posted on 2026-08-24.
+This technical & solutions architect position at NCS was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

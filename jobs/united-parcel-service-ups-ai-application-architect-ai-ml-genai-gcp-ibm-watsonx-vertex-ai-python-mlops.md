@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/AI-Application-Architect---AI--ML--GenAI--GCP--IBM-Watsonx--Vertex-AI--Python--MLOps_R25031393) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/AI-Application-Architect---AI--ML--GenAI--GCP--IBM-Watsonx--Vertex-AI--Python--MLOps_R26022372) |
 
 ## About This Role
 
-This technical & solutions architect position at United Parcel Service (UPS) was posted on 2026-02-23.
+This ai / llm engineer position at United Parcel Service (UPS) was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United Kingdom |
+| Location | Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-UK/Architect_R-057427-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Australia/Architect_R-059066-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Red Hat was posted on 2026-06-01.
+This technical & solutions architect position at Red Hat was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

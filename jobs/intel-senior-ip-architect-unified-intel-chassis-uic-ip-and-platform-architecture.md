@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Senior-IP-Architect---Unified-Intel-Chassis--UIC--IP-and-Platform-Architecture_JR0286858) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-09-08.
+This technical & solutions architect position at Intel was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

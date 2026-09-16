@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Australia |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8158611?gh_jid=8158611) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8140609?gh_jid=8140609) |
 
 ## About This Role
 
-This technical & solutions architect position at Rubrik was posted on 2026-08-27.
+This technical & solutions architect position at Rubrik was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

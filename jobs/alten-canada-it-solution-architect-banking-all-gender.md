@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132153281-it-solution-architect-banking-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148478659-it-solution-architect-banking-all-gender) |
 
 ## About This Role
 
-This technical & solutions architect position at ALTEN Canada was posted on 2026-06-15.
+This technical & solutions architect position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

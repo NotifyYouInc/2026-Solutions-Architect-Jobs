@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Semiconductor / Chip Design |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcpbEdMyLsQaLIDBpy_dgVo4zzU-2Biv6_0unj6myCx5EjsA1Ny_i6jw-PzQ__oL8SvvQ2R5_s1rSJGvhcEKeAbtcS5jZkdMYnHV57xOGM76vU-F5BR2hBL7W3OsIw%3D%3D_V2&loc=IL&title=Micro-Architect) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-09-07.
+This technical & solutions architect position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
