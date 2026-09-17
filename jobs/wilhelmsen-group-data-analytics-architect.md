@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wilhelmsen group](https://scoutify.ai/companies/wilhelmsen-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://wilhelmsen.wd3.myworkdayjobs.com/wilhelmsen/job/Singapore/Data---Analytics-Architect_JOBREQ_13047) |
 
 ## About This Role
 
-This technical & solutions architect position at Wilhelmsen group was posted on 2026-09-09.
+This data engineer position at Wilhelmsen group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

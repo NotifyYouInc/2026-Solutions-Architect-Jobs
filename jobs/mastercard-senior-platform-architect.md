@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Platform-Architect_R-289619) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Platform-Architect_R-288987) |
 
 ## About This Role
 
-This technical & solutions architect position at Mastercard was posted on 2026-09-04.
+This technical & solutions architect position at Mastercard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

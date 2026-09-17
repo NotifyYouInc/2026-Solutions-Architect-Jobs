@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Principal-Architect--Data---Analytics_R571196) |
 
 ## About This Role
 
-This technical & solutions architect position at Stryker was posted on 2026-09-08.
+This data engineer position at Stryker was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

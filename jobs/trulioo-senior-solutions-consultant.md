@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trulioo](https://scoutify.ai/companies/trulioo?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | London, England, United Kingdom |
 | Category | Sales Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/10f8d83e-24e4-46aa-bcaf-5982eabc0cde) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/eba96d65-1743-450a-aa16-0d37a45d1c66) |
 
 ## About This Role
 
-This sales engineer position at Trulioo was posted on 2026-07-14.
+This sales engineer position at Trulioo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

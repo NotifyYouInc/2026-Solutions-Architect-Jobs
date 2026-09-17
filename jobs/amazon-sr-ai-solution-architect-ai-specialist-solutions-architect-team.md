@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504449/sr-ai-solution-architect-ai-specialist-solutions-architect-team) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10535596/sr-ai-solution-architect-ai-specialist-solutions-architect-team) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-08-18.
+This technical & solutions architect position at Amazon was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

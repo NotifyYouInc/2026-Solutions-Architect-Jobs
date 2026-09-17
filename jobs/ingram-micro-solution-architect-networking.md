@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New Delhi, Delhi, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bengaluru-India/Solution-Architect---Networking_R-113139) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/New-Delhi-South-Delhi-India/Solution-Architect---Networking_R-113141) |
 
 ## About This Role
 
-This technical & solutions architect position at Ingram Micro was posted on 2026-04-27.
+This technical & solutions architect position at Ingram Micro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

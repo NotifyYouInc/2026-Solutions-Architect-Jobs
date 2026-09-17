@@ -1,16 +1,16 @@
-# Solutions Engineer- On SIte at Tenet3
+# Solutions Engineer- On Site at Tenet3
 
 | Field | Details |
 |-------|---------|
 | Company | [Tenet3](https://scoutify.ai/companies/tenet3?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tullahoma, Tennessee, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tenet3/jobs/8608387002) |
+| Category | Sales Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenet3/jobs/8786594002) |
 
 ## About This Role
 
-This technical & solutions architect position at Tenet3 was posted on 2026-06-26.
+This sales engineer position at Tenet3 was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

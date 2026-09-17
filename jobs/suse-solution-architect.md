@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Suse](https://scoutify.ai/companies/suse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://suse.wd3.myworkdayjobs.com/jobsatsuse/job/Tokyo-Japan/Solution-Architect_71007427-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://suse.wd3.myworkdayjobs.com/jobsatsuse/job/Sao-Paulo-Brazil/Solution-Architect_71007772) |
 
 ## About This Role
 
-This technical & solutions architect position at Suse was posted on 2026-07-01.
+This technical & solutions architect position at Suse was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

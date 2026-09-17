@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8609870002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8736498002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-06-30.
+This technical & solutions architect position at Databricks was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

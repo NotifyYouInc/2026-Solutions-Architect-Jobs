@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Westminster, Colorado, United States |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-24 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Salesforce-Application-Architect---Billing---Downstream-Integrations_R56137) |
 
 ## About This Role
 
-This technical & solutions architect position at Trimble was posted on 2026-06-24.
+This technical & solutions architect position at Trimble was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-07 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/System-Architect-SAFe-NET----Hospitality---OnProperty_R34942-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amadeus was posted on 2026-05-07.
+This technical & solutions architect position at Amadeus was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

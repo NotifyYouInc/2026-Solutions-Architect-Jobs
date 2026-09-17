@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Enterprise-Solution-Architect---Supply-Planning--Manufacturing_261745) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Enterprise-Solution-Architect---Supply-Planning--Manufacturing_263006) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-05-20.
+This technical & solutions architect position at Blue Yonder was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

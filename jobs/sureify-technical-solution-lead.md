@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sureify](https://scoutify.ai/companies/sureify?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sureify/jobs/5385469008) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sureify/jobs/5419605008) |
 
 ## About This Role
 
-This technical & solutions architect position at Sureify was posted on 2026-08-10.
+This technical & solutions architect position at Sureify was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

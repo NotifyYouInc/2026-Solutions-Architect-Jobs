@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Santos-37/GenAI-Platform-Architect_R00340469) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Amoreiras-Square/GenAI-Platform-Architect_14511387-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-02.
+This ai / llm engineer position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Paris, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Dubai-Flexible/Principal-AI-Solution-Architect_JR111723-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Paris-France/Principal-AI-Solution-Architect_JR112255-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-07-14.
+This technical & solutions architect position at Genesys was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

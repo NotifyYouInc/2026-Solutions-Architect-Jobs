@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000144484531-solution-architect-mwd) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000148693259-solution-architect-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Securitas was posted on 2026-08-20.
+This technical & solutions architect position at Securitas was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 5 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Microsoft-Solutions-Engineer_R265112) |
+| Category | Sales Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Microsoft-Solutions-Engineer_R267323-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Uline was posted on 2026-07-01.
+This sales engineer position at Uline was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

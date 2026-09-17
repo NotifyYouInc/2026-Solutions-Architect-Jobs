@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7795941003?gh_jid=7795941003) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7990158003?gh_jid=7990158003) |
 
 ## About This Role
 
-This technical & solutions architect position at Celonis was posted on 2026-07-06.
+This technical & solutions architect position at Celonis was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

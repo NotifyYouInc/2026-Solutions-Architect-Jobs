@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Staff-Solution-Architect--China_R1304419) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Staff-Solution-Architect--China_R1318904) |
 
 ## About This Role
 
-This technical & solutions architect position at Danaher was posted on 2026-02-27.
+This technical & solutions architect position at Danaher was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

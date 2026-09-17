@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556981170) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556983395) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-08-28.
+This technical & solutions architect position at Microsoft was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

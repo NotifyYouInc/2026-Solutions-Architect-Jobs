@@ -5,12 +5,12 @@
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Charlotte-NC-US/Sr-Application-Architect---Contract-Funding_DT-17419) |
 
 ## About This Role
 
-This technical & solutions architect position at Daimler Truck was posted on 2026-04-07.
+This technical & solutions architect position at Daimler Truck was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
