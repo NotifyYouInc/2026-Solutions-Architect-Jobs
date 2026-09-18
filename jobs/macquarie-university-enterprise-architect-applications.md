@@ -5,12 +5,12 @@
 | Company | [Macquarie University](https://scoutify.ai/companies/macquarie-university?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | North Ryde, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://mq.wd3.myworkdayjobs.com/careersatmq/job/Wallumattagal-Campus-Macquarie-University/Enterprise-Architect--Applications-_R000023696) |
 
 ## About This Role
 
-This technical & solutions architect position at Macquarie University was posted on 2026-06-23.
+This technical & solutions architect position at Macquarie University was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

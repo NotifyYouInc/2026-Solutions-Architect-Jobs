@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 8 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfZ7sQ-BRQkTjw-Mrk8ZeniVD8wYxkfc5gV7UM-1ln4REjsA1Ny_i4LQdN1J0_-i9rJISv8Z86Gzf29YtNw8xfW9pSO-bYZXSfGR0ZGpWDcDxPl3e5cujnxr0XSIRg%3D%3D_V2&loc=US&title=Cloud+Platforms+and+Infrastructure+Engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdWhUW0GHvHSdiprIISQn_lYqZ983dwLz8L7201fig6LEjsA9yzvglC6Cv3M_kdMloF2-NE6qcz3g3LKiRb5XuY659cV-gTQkv76h0Da7u3r_TNfQn7MkyyBPTmqPw%3D%3D_V2&loc=US&title=Cloud+Platforms+and+Infrastructure+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-08-11.
+This devops engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

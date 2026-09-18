@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Finland |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000109687406-solution-architect) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000148813020-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Konecranes was posted on 2026-02-17.
+This technical & solutions architect position at Konecranes was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

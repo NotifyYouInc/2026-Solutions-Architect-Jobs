@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Solutions-Development-Architect_2018112-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Eschborn-Germany/Solutions-Development-Architect_2021336-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cisco was posted on 2026-08-17.
+This technical & solutions architect position at Cisco was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

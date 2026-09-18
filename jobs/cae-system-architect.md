@@ -5,12 +5,12 @@
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/System-Architect_120733) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/System-Architect_123533) |
 
 ## About This Role
 
-This technical & solutions architect position at CAE was posted on 2026-02-26.
+This technical & solutions architect position at CAE was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/GDIT-is-Hiring-Cloud-focused-IT-Professionals_RQ223214-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-06-26.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

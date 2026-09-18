@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138254829-senior-ai-engineer-ai-architect-all-gender) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148938769-senior-ai-engineer-ai-architect-all-gender) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-07-17.
+This ai / llm engineer position at ALTEN Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

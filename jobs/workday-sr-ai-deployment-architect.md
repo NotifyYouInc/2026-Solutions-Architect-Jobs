@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Sr-AI-Deployment-Architect_JR-0109784) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Germany-Munich/Sr-AI-Deployment-Architect_JR-0109917-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Workday was posted on 2026-09-08.
+This customer success position at Workday was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

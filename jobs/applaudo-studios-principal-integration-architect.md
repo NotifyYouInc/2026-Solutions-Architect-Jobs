@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000144848859-principal-integration-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000148972430-principal-integration-architect) |
 
 ## About This Role
 
-This software engineer position at Applaudo Studios was posted on 2026-08-21.
+This technical & solutions architect position at Applaudo Studios was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

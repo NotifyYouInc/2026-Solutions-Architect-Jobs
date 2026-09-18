@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Architect-Solutions_R0057703) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Architect-Solutions_R0062254) |
 
 ## About This Role
 
-This technical & solutions architect position at Empower was posted on 2026-04-02.
+This technical & solutions architect position at Empower was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

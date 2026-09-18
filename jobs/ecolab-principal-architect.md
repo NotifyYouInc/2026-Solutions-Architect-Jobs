@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Saint Paul, Minnesota, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Principal-Architect_R00303508) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Principal-Architect_R00303130) |
 
 ## About This Role
 
-This technical & solutions architect position at Ecolab was posted on 2026-09-07.
+This technical & solutions architect position at Ecolab was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

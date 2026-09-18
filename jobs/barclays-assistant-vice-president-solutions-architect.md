@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-20 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Assistant-Vice-President-Solutions-Architect_JR-0000104629) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-05-20.
+This technical & solutions architect position at Barclays was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

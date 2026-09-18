@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Albuquerque, New Mexico, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Network-Architect_RQ225530) |
+| Location | Washington, District of Columbia, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Network-Architect_RQ228183-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-17.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Maryland, US |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Solutions-Architect_RQ223603-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Solutions-Architect_RQ226413) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-07-02.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
