@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
+| Category | Project Manager |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Delivery-Lead---Data-Engineering---Databricks--Architecture-Focus----Assistant-Vice-President_R-789927-1) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-05-25.
+This project manager position at State Street was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

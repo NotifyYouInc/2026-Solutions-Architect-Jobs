@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
+| Location | Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148235609-senior-aws-solution-architect-mwd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148422434-senior-aws-solution-architect-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-09-08.
+This technical & solutions architect position at Devoteam was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

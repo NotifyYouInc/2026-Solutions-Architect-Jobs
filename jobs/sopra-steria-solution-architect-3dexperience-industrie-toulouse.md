@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138379674-solution-architect-3dexperience-industrie-toulouse) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149049919-solution-architect-3dexperience-industrie-toulouse) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-07-17.
+This technical & solutions architect position at Sopra Steria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

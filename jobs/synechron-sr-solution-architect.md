@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Sr-Solution-Architect_JR1043792-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Sr-Solution-Architect_JR1043922-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Synechron was posted on 2026-09-04.
+This technical & solutions architect position at Synechron was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

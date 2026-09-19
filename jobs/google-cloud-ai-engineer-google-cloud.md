@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Go To Market Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbEZB1FvpUVjprOWGuZcuwd8n8ffdXIdM48JEr7zVS_wEjsA9yzvgvoBEqLW9uiLjKhU6CHdFz0smJ9RxB8WbMwGmWsyK0J2MoyAAMz95JVGWIEelr3mzMucEBBRVQ%3D%3D_V2&loc=MX&title=Cloud+AI+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckelvPNb8otrl9qyaGsvPGplYzBPoAui5IM5ZeTqNDanBEjsA9yzvgmhbn_ZyfjIfjUIlzlUKrX2BYrOEEgtCI-lDaIB9-gJ-cE7lq2i4Y3_eThlsIbJ9YhTUOqARrw%3D%3D_V2&loc=AR&title=Cloud+AI+Engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-09-11.
+This go to market engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

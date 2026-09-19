@@ -5,12 +5,12 @@
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | California, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/California-USA/Senior-AI-Architect_JR112137) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/California-USA/Senior-AI-Architect_JR112348) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-08-21.
+This technical & solutions architect position at Genesys was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

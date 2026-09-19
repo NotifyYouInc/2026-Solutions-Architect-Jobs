@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000143788679-security-domain-architect) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000149013904-security-domain-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-17.
+This technical & solutions architect position at FCTB (nu: Deloitte Consulting) was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

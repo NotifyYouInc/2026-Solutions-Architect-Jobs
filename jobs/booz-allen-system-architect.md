@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Ashburn, Virginia, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/System-Architect_R0235473) |
+| Location | Chantilly, Virginia, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/System-Architect_R0249255) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-10.
+This technical & solutions architect position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

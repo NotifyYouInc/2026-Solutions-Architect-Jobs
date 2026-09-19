@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mesh](https://scoutify.ai/companies/mesh-oj69018?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mesh/jobs/5372610008) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mesh/jobs/5420686008) |
 
 ## About This Role
 
-This technical & solutions architect position at Mesh was posted on 2026-07-28.
+This technical & solutions architect position at Mesh was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

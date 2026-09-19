@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hyperexponential](https://scoutify.ai/companies/hyperexponential?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hyperexponential/22e4c5d1-17ec-4d3c-9c12-6068271da619) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hyperexponential/6f2de6b9-0a3b-405e-b407-cea05919e367) |
 
 ## About This Role
 
-This technical & solutions architect position at Hyperexponential was posted on 2026-06-23.
+This sales engineer position at Hyperexponential was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

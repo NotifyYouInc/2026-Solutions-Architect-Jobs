@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Solutions-Architect_R0246250) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Solutions-Architect_R0249265) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-08-06.
+This technical & solutions architect position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

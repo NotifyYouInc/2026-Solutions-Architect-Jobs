@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cambridge, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Senior-Director--Semantic-Platform-Enablement_R-251452) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Senior-Director--Semantic-Platform-Enablement_R-259877) |
 
 ## About This Role
 
-This technical & solutions architect position at AstraZeneca was posted on 2026-07-23.
+This technical & solutions architect position at AstraZeneca was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Sales Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146643829-principal-solution-consultant) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000149146849-principal-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at Experian was posted on 2026-09-01.
+This technical & solutions architect position at Experian was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

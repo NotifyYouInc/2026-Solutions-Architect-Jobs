@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/Senior-Solutions-Architect--Generative-AI_JR2025060) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect--Generative-AI_JR2025198) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-09-08.
+This technical & solutions architect position at Nvidia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
