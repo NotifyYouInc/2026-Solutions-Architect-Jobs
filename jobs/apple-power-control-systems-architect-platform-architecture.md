@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200682770/power-control-systems-architect-platform-architecture) |
 
 ## About This Role
 
-This technical & solutions architect position at Apple was posted on 2026-09-09.
+This embedded / firmware engineer position at Apple was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

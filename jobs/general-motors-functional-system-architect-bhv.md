@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Milford, Connecticut, United States |
-| Category | Technical & Solutions Architect |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Functional-System-Architect---BHV_JR-202616599-1) |
 
 ## About This Role
 
-This technical & solutions architect position at General Motors was posted on 2026-09-09.
+This embedded / firmware engineer position at General Motors was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
