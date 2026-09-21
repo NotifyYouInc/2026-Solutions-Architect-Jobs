@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Solutions-Architect---Deep-Learning_JR1997494) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Solutions-Architect---Deep-Learning_JR2024979) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-04-30.
+This technical & solutions architect position at Nvidia was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

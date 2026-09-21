@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Indianapolis-Indiana-United-States/IT-Enterprise-Architect-Leader_248119W) |
 
 ## About This Role
 
-This technical & solutions architect position at Corteva was posted on 2026-09-09.
+This technology / it consulting position at Corteva was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

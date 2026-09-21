@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Silicon Laboratories](https://scoutify.ai/companies/silabs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Customer Success |
+| Category | Technical Support Engineer |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Applications-Engineer-I_21058-1) |
 
 ## About This Role
 
-This customer success position at Silicon Laboratories was posted on 2026-09-10.
+This technical support engineer position at Silicon Laboratories was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

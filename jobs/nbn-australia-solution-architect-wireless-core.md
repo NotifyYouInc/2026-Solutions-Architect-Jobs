@@ -5,12 +5,12 @@
 | Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Australia/Solution-Architect-Wireless-Core_240540-1) |
 
 ## About This Role
 
-This technical & solutions architect position at NBN Australia was posted on 2026-06-05.
+This technical & solutions architect position at NBN Australia was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Developer Relations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10371014/senior-solutions-architect-public-sector-israel) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10538350/senior-solutions-architect-public-sector-israel) |
 
 ## About This Role
 
-This developer relations position at Amazon was posted on 2026-03-19.
+This technical & solutions architect position at Amazon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

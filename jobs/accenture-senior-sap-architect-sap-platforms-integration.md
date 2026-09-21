@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Senior-SAP-Architect---SAP-Platforms---Integration_R00352048) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-09-09.
+This technology / it consulting position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

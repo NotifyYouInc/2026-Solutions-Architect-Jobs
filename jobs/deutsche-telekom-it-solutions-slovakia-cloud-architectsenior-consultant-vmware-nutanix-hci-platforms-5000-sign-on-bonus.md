@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Košice, Košice Region, Slovakia |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000149076630-cloud-architectsenior-consultant-vmware-nutanix-hci-platforms-5000-sign-on-bonus-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-09-11.
+This technology / it consulting position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

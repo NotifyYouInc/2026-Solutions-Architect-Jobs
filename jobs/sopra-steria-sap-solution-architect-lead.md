@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149059546-sap-solution-architect-lead) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-09-11.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Enterprise-Architect_44093) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-09-10.
+This technology / it consulting position at Guidehouse was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Principal-IT-Architect---SAP-Business-AI-Platform--S-4-HANA--and-ABAP_R76511-2) |
 
 ## About This Role
 
-This technical & solutions architect position at Medtronic was posted on 2026-09-09.
+This technology / it consulting position at Medtronic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

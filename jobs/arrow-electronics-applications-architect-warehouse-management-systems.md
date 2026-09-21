@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Technical & Solutions Architect |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Applications-Architect---Warehouse-Management-Systems_R246848) |
 
 ## About This Role
 
-This technical & solutions architect position at Arrow Electronics was posted on 2026-09-09.
+This it & systems administration position at Arrow Electronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

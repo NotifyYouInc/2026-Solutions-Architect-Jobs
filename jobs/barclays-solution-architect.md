@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Solution-Architect_JR-0000087685) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Solution-Architect_JR-0000091581) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-09-01.
+This technical & solutions architect position at Barclays was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Managing-Advisory-Consultant---ServiceNow-Integration-Solution-Architect_R26_00002425) |
 
 ## About This Role
 
-This technical & solutions architect position at CDW was posted on 2026-09-11.
+This technology / it consulting position at CDW was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

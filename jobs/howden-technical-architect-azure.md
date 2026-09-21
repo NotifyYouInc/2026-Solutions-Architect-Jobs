@@ -5,12 +5,12 @@
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Home---UK--England/Technical-Architect--Azure-_R0017580-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Howden was posted on 2026-06-26.
+This technical & solutions architect position at Howden was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amboss](https://scoutify.ai/companies/amboss?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Technical & Solutions Architect |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/amboss/9fc377e5-c0de-4a25-9223-f48221041571) |
 
 ## About This Role
 
-This technical & solutions architect position at Amboss was posted on 2026-09-11.
+This it & systems administration position at Amboss was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
