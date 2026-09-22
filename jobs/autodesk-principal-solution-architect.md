@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Brisbane-AUS/Principal-Solution-Architect_26WD98850-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Poland---Remote/Principal-Solution-Architect_26WD100672-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Autodesk was posted on 2026-06-10.
+This technical & solutions architect position at Autodesk was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

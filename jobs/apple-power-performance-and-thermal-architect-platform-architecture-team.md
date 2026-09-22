@@ -1,0 +1,22 @@
+# Power, Performance and Thermal Architect - Platform Architecture Team at Apple
+
+| Field | Details |
+|-------|---------|
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
+| Location | San Diego, California, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683642/power-performance-and-thermal-architect-platform-architecture-team) |
+
+## About This Role
+
+This semiconductor / chip design position at Apple was posted on 2026-09-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

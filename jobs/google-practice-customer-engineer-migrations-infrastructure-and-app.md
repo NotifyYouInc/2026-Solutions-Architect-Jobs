@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYxI1tfu5zgV-Pv6wzGAznwMG4ep7dXPW2QNf4qF_v5pEjsA1Ny_i-2X-PO0AYo9aPzoHlK3puYFfirtnaXWbrp3ZA0v4dxH7sMCxtVb-srTeRgjsKYf06d4w5OjIw%3D%3D_V2&loc=KR&title=Practice+Customer+Engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTG72pQtJG_QSCLSXEc2qkjkN121CEEUun20x98jtqGyEjsA9yzvgi8msxPOE0h1G6A0Ql7H60hQ-9INLBH9h7LFoIoqTi9A-wptaLyaZSQPUoAtYKhM7wv4FP5R8Q%3D%3D_V2&loc=KR&title=Practice+Customer+Engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-07-29.
+This sales engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

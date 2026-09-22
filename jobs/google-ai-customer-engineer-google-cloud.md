@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTHg5Dm0IqIfvjspr6Rnrz16Av7EZaCPhxEVtvyiD7RXEjsA1Ny_i5nLgPzQ9TjsF5nwQhK7ryAAb9Oh8Q4-CyiKcGN_P80vxbqZjnZS6YMpfU5jHCUqBAmnv5Esnw%3D%3D_V2&loc=SG&title=AI+Customer+Engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcTigR0cWvwL5xGFHGiOBT8iRP6dyZRHzVviv0YCEKoAEjsA9yzvgsAQ783GagCF8p-Dy5cnILSMTS6AYQIPuZ7RwXAB5k8T0V1LlohnItt--O5Nyhy0tQr070S6Qg%3D%3D_V2&loc=TW&title=AI+Customer+Engineer) |
 
 ## About This Role
 
-This sales engineer position at Google was posted on 2026-09-01.
+This sales engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

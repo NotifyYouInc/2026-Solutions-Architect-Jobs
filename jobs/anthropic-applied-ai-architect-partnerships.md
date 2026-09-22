@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Sales |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390787008) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390902008) |
 
 ## About This Role
 
-This sales position at Anthropic was posted on 2026-08-17.
+This technical & solutions architect position at Anthropic was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

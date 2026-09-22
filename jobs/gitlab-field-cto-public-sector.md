@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8493679002) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8792585002) |
 
 ## About This Role
 
-This engineering manager position at GitLab was posted on 2026-04-06.
+This technical & solutions architect position at GitLab was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

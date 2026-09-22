@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/The-Identity-and-Privilege-Management-Solution-Architect_543990) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/The-Identity-and-Privilege-Management-Solution-Architect_547166) |
 
 ## About This Role
 
-This technical & solutions architect position at Haleon was posted on 2026-06-10.
+This technical & solutions architect position at Haleon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

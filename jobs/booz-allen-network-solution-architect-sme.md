@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Fayetteville, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Network-Solution-Architect-SME_R0241703) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Network-Solution-Architect-SME_R0249340) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-08.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

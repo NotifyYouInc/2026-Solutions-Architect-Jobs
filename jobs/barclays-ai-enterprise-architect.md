@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-03 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/AI-Enterprise-Architect_JR-0000077845) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-06-03.
+This technical & solutions architect position at Barclays was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

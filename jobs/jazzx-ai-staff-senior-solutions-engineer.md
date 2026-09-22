@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JazzX AI](https://scoutify.ai/companies/jazzx-ai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Karnataka, IN |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/jazzx-ai/jobs/5154470008) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jazzx-ai/jobs/5154469008) |
 
 ## About This Role
 
-This technical & solutions architect position at JazzX AI was posted on 2026-03-16.
+This sales engineer position at JazzX AI was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

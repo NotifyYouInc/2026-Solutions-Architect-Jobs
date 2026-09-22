@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcB-J4rBf8qqJyegWuruG2Ru77OGDTNov5Ms8HzbaP8mEjsA1Ny_ix-oux77FlN9XHHVJFBMlTJCBHzURhLRn-aUh3rK3qXFCIVS83yL7JY_ilUYl7v0Cn2VmCkYrA%3D%3D_V2&loc=CN&title=Applied+Solutions+Architect) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVXc7i50SiKA9rBj4E27tHE4DLHdrjzo5cqJGcafiQmIEjsA9yzvgjVLW03B2tWavbdu1P838qRzmGMHV6uugigQs5WhzVZDZOnSHC04W-lJ6adGjl8Cr-2v6Tjixw%3D%3D_V2&loc=IN&title=Applied+Solutions+Architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-08-17.
+This technical & solutions architect position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

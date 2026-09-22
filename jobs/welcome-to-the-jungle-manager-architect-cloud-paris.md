@@ -5,12 +5,12 @@
 | Company | [Welcome to the Jungle](https://scoutify.ai/companies/welcome-to-the-jungle?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-21 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/artefactjobs/jobs/8006879002) |
 
 ## About This Role
 
-This technology / it consulting position at Welcome to the Jungle was posted on 2026-04-21.
+This technology / it consulting position at Welcome to the Jungle was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

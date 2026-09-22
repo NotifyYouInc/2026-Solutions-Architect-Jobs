@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Newton, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000146773129-principal-ai-platform-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000149589859-principal-ai-platform-architect) |
 
 ## About This Role
 
-This machine learning engineer position at Informa was posted on 2026-09-01.
+This technical & solutions architect position at Informa was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

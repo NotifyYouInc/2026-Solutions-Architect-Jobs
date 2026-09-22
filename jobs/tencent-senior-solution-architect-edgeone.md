@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Palo Alto, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Senior-Solution-Architect---EdgeOne_R107601) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Senior-Solution-Architect---EdgeOne_R108138) |
 
 ## About This Role
 
-This technical & solutions architect position at Tencent was posted on 2026-05-28.
+This technical & solutions architect position at Tencent was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

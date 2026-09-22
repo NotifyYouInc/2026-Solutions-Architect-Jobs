@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Functional-Architect_R36804-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Functional-Architect_R36836-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amadeus was posted on 2026-09-02.
+This technical & solutions architect position at Amadeus was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Texas--Central-Time/Lead-Enterprise-Architect_R1127796) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Texas--Central-Time/Lead-Enterprise-Architect_R1127798) |
 
 ## About This Role
 
-This technical & solutions architect position at Dentsu was posted on 2026-08-24.
+This technical & solutions architect position at Dentsu was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Architecte solution (H/F) at Devoteam
+# Architecte solution - H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147171720-architecte-solution-hf) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149365459-architecte-solution-hf) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-09-03.
+This technical & solutions architect position at Devoteam was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

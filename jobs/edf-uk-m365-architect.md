@@ -5,12 +5,12 @@
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Gloucester, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000136214889-m365-architect) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000149529520-m365-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at EDF UK was posted on 2026-07-07.
+This technical & solutions architect position at EDF UK was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

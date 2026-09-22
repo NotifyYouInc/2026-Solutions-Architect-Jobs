@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Diego, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678267/soc-audio-architect-platform-architecture) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683637/soc-audio-architect-platform-architecture) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-08-17.
+This semiconductor / chip design position at Apple was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
