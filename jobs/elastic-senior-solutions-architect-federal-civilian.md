@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8068023&gh_jid=8068023) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8206716&gh_jid=8206716) |
 
 ## About This Role
 
-This technical & solutions architect position at Elastic was posted on 2026-07-17.
+This technical & solutions architect position at Elastic was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

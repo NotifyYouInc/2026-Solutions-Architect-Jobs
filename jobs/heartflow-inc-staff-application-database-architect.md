@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HeartFlow, Inc](https://scoutify.ai/companies/heartflow-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Database Administration |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/6190625004) |
 
 ## About This Role
 
-This database administration position at HeartFlow, Inc was posted on 2026-09-11.
+This technical & solutions architect position at HeartFlow, Inc was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

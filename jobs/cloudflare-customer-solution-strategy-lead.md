@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8188498?gh_jid=8188498) |
 
 ## About This Role
 
-This strategy & operations position at Cloudflare was posted on 2026-09-11.
+This technical & solutions architect position at Cloudflare was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

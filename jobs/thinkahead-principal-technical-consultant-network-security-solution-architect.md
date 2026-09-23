@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.lever.co/thinkahead/0135d9ee-eb0b-4c42-bdb2-954312b41ff9) |
 
 ## About This Role
 
-This technology / it consulting position at Thinkahead was posted on 2026-09-14.
+This technical & solutions architect position at Thinkahead was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

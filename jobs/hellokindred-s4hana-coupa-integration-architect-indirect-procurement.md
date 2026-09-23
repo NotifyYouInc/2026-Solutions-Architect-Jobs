@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990015214757-s4hana-coupa-integration-architect-indirect-procurement) |
 
 ## About This Role
 
-This technology / it consulting position at HelloKindred was posted on 2026-09-11.
+This technical & solutions architect position at HelloKindred was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

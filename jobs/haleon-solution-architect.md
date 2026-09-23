@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/London-Bankside/Solution-Architect_544434-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Haleon was posted on 2026-06-11.
+This technical & solutions architect position at Haleon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

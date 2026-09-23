@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Douglas, Douglas, Isle of Man |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000147164109-cloud-solution-architect) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000149825084-cloud-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Standard Bank was posted on 2026-09-03.
+This technical & solutions architect position at Standard Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

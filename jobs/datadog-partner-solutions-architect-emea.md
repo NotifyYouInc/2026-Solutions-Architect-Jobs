@@ -1,16 +1,16 @@
-# Partner Solutions Architect (EMEA) at Datadog
+#  Partner Solutions Architect (EMEA) at Datadog
 
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Spain |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8204056/?gh_jid=8204056) |
 
 ## About This Role
 
-This technical & solutions architect position at Datadog was posted on 2026-07-30.
+This technical & solutions architect position at Datadog was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

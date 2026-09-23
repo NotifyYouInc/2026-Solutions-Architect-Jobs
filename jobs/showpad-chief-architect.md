@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Showpad](https://scoutify.ai/companies/showpad?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Belgium |
-| Category | AI / LLM Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/showpad/jobs/8196138) |
 
 ## About This Role
 
-This ai / llm engineer position at Showpad was posted on 2026-09-11.
+This technical & solutions architect position at Showpad was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

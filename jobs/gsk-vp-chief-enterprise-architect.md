@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-27 |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK--London--New-Oxford-Street/VP--Chief-Enterprise-Architect_438305-1) |
 
 ## About This Role
 
-This engineering manager position at GSK was posted on 2026-03-27.
+This technical & solutions architect position at GSK was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

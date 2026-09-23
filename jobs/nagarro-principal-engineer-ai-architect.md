@@ -1,16 +1,16 @@
-# Principal Engineer -- AI Architect at Nagarro
+# Principal Engineer, AI Architect at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000123784970-principal-engineer-ai-architect) |
+| Location | Gurugram, Haryana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000149789419-principal-engineer-ai-architect) |
 
 ## About This Role
 
-This ai / ml research position at Nagarro was posted on 2026-04-29.
+This technical & solutions architect position at Nagarro was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

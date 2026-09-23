@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/Professional--ERP-Architecture_R-086419) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Professional--ERP-Architecture_R-099577-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Johnson & Johnson was posted on 2026-07-14.
+This technical & solutions architect position at Johnson & Johnson was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

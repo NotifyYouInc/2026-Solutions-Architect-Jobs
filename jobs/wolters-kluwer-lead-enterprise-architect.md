@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Enterprise-Architect_R0057925-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Enterprise-Architect_R0059604) |
 
 ## About This Role
 
-This technical & solutions architect position at Wolters Kluwer was posted on 2026-06-23.
+This technical & solutions architect position at Wolters Kluwer was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

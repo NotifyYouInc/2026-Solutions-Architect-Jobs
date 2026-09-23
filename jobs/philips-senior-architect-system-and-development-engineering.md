@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Embedded / Firmware Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Senior-Architect-System-and-Development-Engineering_591220) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Philips was posted on 2026-09-14.
+This technical & solutions architect position at Philips was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

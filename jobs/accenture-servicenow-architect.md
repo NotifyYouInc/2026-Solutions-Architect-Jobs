@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Melbourne, Victoria, Australia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/ServiceNow-Architect_R00316852) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Architect_14490297) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-21.
+This technical & solutions architect position at Accenture was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

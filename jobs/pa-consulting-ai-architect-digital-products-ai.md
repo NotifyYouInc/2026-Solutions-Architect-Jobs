@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | AI / LLM Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000149162919-ai-architect-digital-products-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at PA Consulting was posted on 2026-09-12.
+This technical & solutions architect position at PA Consulting was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal AI Solution Architect at Genesys
+# Principal AI Solution Architect  at Genesys
 
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Paris-France/Principal-AI-Solution-Architect_JR112255-1) |
+| Location | Germany |
+| Category | Sales Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Frankfurt-Flexible/Principal-AI-Solution-Architect-_JR112253-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Genesys was posted on 2026-09-10.
+This sales engineer position at Genesys was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

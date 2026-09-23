@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bracknell/Sr-Technical-Architect_261533) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bracknell/Sr-Technical-Architect_261534) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-04-23.
+This technical & solutions architect position at Blue Yonder was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

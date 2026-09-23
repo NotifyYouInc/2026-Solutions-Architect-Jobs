@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Senior---Solution-Architect--Telecom-Global-_19041136) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Senior---Solution-Architect--Telecom-Global-_19042409) |
 
 ## About This Role
 
-This technical & solutions architect position at TransUnion was posted on 2026-08-21.
+This technical & solutions architect position at TransUnion was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

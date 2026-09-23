@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Cloud-Architect-Engineer_R-00192064) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-09-11.
+This technical & solutions architect position at Leidos was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

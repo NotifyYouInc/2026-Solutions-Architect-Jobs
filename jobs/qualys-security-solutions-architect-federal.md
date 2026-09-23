@@ -5,12 +5,12 @@
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Washington-DC/Security-Solutions-Architect---Federal_R0005013) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Washington-DC/Security-Solutions-Architect---Federal_R0005012) |
 
 ## About This Role
 
-This technical & solutions architect position at Qualys was posted on 2026-09-10.
+This technical & solutions architect position at Qualys was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

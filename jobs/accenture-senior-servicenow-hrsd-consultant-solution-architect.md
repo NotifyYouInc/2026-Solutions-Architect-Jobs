@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Senior-ServiceNow-HRSD-Consultant---Solution-Architect_14367885) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-15.
+This technical & solutions architect position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

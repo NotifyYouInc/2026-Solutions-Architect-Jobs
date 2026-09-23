@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
-| Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Technical-Architect-Director_JR338481) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle-Metro---Remote/Technical-Architect-Director_JR354970) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-04-20.
+This technical & solutions architect position at Salesforce was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

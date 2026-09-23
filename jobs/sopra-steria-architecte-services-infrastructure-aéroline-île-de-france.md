@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149267008-architecte-services-infrastructure-aeroline-ile-de-france) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-09-14.
+This technical & solutions architect position at Sopra Steria was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 4 locations |
-| Category | AI / LLM Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Supply-Chain---Oracle-Supply-Chain-Planning---S4-aATP-Functional-Analyst_1212314) |
 
 ## About This Role
 
-This ai / llm engineer position at Hewlett Packard Enterprise was posted on 2026-09-11.
+This technical & solutions architect position at Hewlett Packard Enterprise was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

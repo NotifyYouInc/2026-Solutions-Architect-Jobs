@@ -5,12 +5,12 @@
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Solution-Architect_R015678) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Solution-Architect_R015884) |
 
 ## About This Role
 
-This technical & solutions architect position at Netsmart was posted on 2026-08-06.
+This technical & solutions architect position at Netsmart was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

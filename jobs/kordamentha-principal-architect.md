@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KordaMentha](https://scoutify.ai/companies/kordamentha?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Canberra, Australian Capital Territory, Australia |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001407213-principal-architect) |
 
 ## About This Role
 
-This technology / it consulting position at KordaMentha was posted on 2026-09-15.
+This technical & solutions architect position at KordaMentha was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

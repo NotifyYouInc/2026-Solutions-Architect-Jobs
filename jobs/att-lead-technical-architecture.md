@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tokyo-Japan/Lead-Technical-Architecture_R-122365) |
 
 ## About This Role
 
-This technology / it consulting position at AT&T was posted on 2026-09-15.
+This technical & solutions architect position at AT&T was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

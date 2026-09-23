@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Systems-Engineer_R-00189443) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Systems-Engineer_R-00192267) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-08-13.
+This technical & solutions architect position at Leidos was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

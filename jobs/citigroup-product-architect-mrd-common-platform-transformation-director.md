@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Strategy & Operations |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Product-Architect---MRD-Common-Platform-Transformation--Director-_26993492) |
 
 ## About This Role
 
-This strategy & operations position at Citigroup was posted on 2026-09-11.
+This technical & solutions architect position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

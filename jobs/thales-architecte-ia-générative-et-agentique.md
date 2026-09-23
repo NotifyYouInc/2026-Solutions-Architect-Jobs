@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Québec, Quebec, Canada |
-| Category | AI / LLM Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Quebec-City/Architecte-IA-Gnrative-et-Agentique_R0339126-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Thales was posted on 2026-09-14.
+This technical & solutions architect position at Thales was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8750444002) |
 
 ## About This Role
 
-This ai / llm engineer position at iCapital Network was posted on 2026-09-11.
+This technical & solutions architect position at iCapital Network was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

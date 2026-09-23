@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Network-Solution-Engineer_R64246) |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Network-Solution-Engineer_R68472) |
 
 ## About This Role
 
-This technical & solutions architect position at Motorola Solutions was posted on 2026-04-23.
+This sales engineer position at Motorola Solutions was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

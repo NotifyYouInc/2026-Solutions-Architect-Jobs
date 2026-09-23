@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Go To Market Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/India---Remote---IND/Oracle-GTM-Architect_NX-4675) |
 
 ## About This Role
 
-This go to market engineer position at Nextracker was posted on 2026-09-15.
+This technical & solutions architect position at Nextracker was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

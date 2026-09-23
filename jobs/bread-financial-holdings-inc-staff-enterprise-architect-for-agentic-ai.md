@@ -5,12 +5,12 @@
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-19 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Staff-Enterprise-Architect-for-Agentic-AI_R1012754) |
 
 ## About This Role
 
-This technical & solutions architect position at Bread Financial Holdings, Inc. was posted on 2026-06-19.
+This technical & solutions architect position at Bread Financial Holdings, Inc. was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

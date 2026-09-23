@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---EC-2-Gateway-campus/AI-Architect_JR1042440-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Belgrade/AI-Architect_JR1044256) |
 
 ## About This Role
 
-This technical & solutions architect position at Synechron was posted on 2026-09-02.
+This technical & solutions architect position at Synechron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

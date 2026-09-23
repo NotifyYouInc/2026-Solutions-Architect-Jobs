@@ -1,16 +1,16 @@
-# INTEGRATION ARCHITECT at IBM
+# Integration Architect at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Denver, Colorado, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84111) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=132954) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-04-30.
+This technical & solutions architect position at IBM was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

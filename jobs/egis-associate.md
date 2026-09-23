@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000122169948-associate) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000149808554-associate) |
 
 ## About This Role
 
-This technical & solutions architect position at Egis was posted on 2026-04-22.
+This technical & solutions architect position at Egis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148987809-architecte-aws-pole-de-specialite-cloud-archi-it-advisory) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149821629-architecte-aws-pole-de-specialite-cloud-archi-it-advisory) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-09-11.
+This technical & solutions architect position at Sopra Steria was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

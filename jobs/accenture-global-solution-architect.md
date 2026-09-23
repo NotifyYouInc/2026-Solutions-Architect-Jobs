@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Leuven, Flanders, Belgium |
-| Category | Technology / IT Consulting |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leuven/Global-Solution-Architect_R00356668) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-14.
+This technical & solutions architect position at Accenture was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

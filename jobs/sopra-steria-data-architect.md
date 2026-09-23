@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110123965-data-architect) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149843229-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-19.
+This technical & solutions architect position at Sopra Steria was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-30 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/London----GBR/Senior-Solution-Architect---Secure-Networks_R26_00001675-1) |
 
 ## About This Role
 
-This technical & solutions architect position at CDW was posted on 2026-04-30.
+This technical & solutions architect position at CDW was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

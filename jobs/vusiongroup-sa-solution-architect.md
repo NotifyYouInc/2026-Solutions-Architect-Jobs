@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Coppell, Texas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000129793766-solution-architect) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000149706129-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at VusionGroup SA was posted on 2026-06-02.
+This technical & solutions architect position at VusionGroup SA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

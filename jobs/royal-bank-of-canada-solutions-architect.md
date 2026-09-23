@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/Solutions-Architect_R-0000185481) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Solutions-Architect_R-0000178268-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Royal Bank of Canada was posted on 2026-08-28.
+This technical & solutions architect position at Royal Bank of Canada was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

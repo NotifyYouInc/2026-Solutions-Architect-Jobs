@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143603349-senior-data-architect-aws-azure-gcp) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000149713540-senior-data-architect-aws-azure-gcp) |
 
 ## About This Role
 
-This technical & solutions architect position at CapTech Consulting was posted on 2026-08-14.
+This technical & solutions architect position at CapTech Consulting was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

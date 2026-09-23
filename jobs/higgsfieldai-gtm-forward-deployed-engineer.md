@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Higgsfieldai](https://scoutify.ai/companies/higgsfieldai?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
-| Category | Go To Market Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/higgsfieldai/3176a79e-55e3-4bed-97d3-2bdc3f69bd20) |
 
 ## About This Role
 
-This go to market engineer position at Higgsfieldai was posted on 2026-09-12.
+This technical & solutions architect position at Higgsfieldai was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

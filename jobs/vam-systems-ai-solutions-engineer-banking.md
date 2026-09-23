@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000149000260-ai-solutions-engineer-banking) |
 
 ## About This Role
 
-This ai / llm engineer position at VAM Systems was posted on 2026-09-11.
+This sales engineer position at VAM Systems was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
