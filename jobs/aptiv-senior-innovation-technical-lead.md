@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Technical & Solutions Architect |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Senior-Innovation-Technical-Lead_J000703845-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Aptiv was posted on 2026-09-15.
+This embedded / firmware engineer position at Aptiv was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000147857835-asi-ai-solutions-architect) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000149878069-asi-ai-solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Software Mind was posted on 2026-09-07.
+This technical & solutions architect position at Software Mind was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

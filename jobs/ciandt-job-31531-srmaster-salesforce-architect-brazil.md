@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brazil |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/995eab75-237b-42b9-8f48-ba6c44afcd2e) |
 
 ## About This Role
 
-This technical & solutions architect position at Ciandt was posted on 2026-09-15.
+This technology / it consulting position at Ciandt was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

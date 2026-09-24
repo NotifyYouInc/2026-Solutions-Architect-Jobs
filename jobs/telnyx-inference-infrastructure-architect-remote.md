@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telnyx](https://scoutify.ai/companies/telnyx?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | China |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/telnyx54/jobs/7995402003) |
 
 ## About This Role
 
-This technical & solutions architect position at Telnyx was posted on 2026-09-16.
+This devops engineer position at Telnyx was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

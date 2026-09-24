@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5424235008) |
 
 ## About This Role
 
-This technical & solutions architect position at Gruve was posted on 2026-09-16.
+This technology / it consulting position at Gruve was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

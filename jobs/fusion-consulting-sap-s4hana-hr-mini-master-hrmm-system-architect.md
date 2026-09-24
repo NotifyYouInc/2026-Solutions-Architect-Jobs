@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
+| Location | Porto, Porto, Portugal |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000149254229-sap-s4hana-hr-mini-master-hrmm-system-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000149260159-sap-s4hana-hr-mini-master-hrmm-system-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Fusion Consulting was posted on 2026-09-14.
+This technology / it consulting position at Fusion Consulting was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

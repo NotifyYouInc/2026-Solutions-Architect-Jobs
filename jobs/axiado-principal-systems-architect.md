@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axiado](https://scoutify.ai/companies/axiado?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | San Jose, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000149733299-principal-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Axiado was posted on 2026-09-15.
+This semiconductor / chip design position at Axiado was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

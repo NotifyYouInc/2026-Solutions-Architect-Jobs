@@ -5,12 +5,12 @@
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4941973101) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4977860101) |
 
 ## About This Role
 
-This technical & solutions architect position at Spektrum was posted on 2026-07-30.
+This technical & solutions architect position at Spektrum was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

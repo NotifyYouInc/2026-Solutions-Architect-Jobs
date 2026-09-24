@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Carlsbad, California, United States |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Sr-Finance-Systems-Architect_R-01367563) |
 
 ## About This Role
 
-This technical & solutions architect position at Thermo Fisher Scientific was posted on 2026-09-14.
+This technology / it consulting position at Thermo Fisher Scientific was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

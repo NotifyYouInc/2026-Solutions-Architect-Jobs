@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149809964-servicenow-security-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Devoteam was posted on 2026-09-16.
+This technology / it consulting position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

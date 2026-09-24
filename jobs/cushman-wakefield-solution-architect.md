@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Solution-Architect_R330138) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Solution-Architect_R332117-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Cushman & Wakefield was posted on 2026-08-06.
+This technical & solutions architect position at Cushman & Wakefield was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

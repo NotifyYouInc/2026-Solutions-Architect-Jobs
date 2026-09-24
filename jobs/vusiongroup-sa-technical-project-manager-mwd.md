@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
-| Category | Technical & Solutions Architect |
+| Category | Project Manager |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000149313695-technical-project-manager-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at VusionGroup SA was posted on 2026-09-14.
+This project manager position at VusionGroup SA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

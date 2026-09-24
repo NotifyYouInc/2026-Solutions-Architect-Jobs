@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000149791399-application-and-integration-architect-freelance-only) |
 
 ## About This Role
 
-This technical & solutions architect position at Netcompany was posted on 2026-09-16.
+This technology / it consulting position at Netcompany was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

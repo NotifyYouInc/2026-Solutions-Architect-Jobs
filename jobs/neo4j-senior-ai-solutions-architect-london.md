@@ -5,12 +5,12 @@
 | Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4556627006?gh_jid=4556627006) |
 
 ## About This Role
 
-This technical & solutions architect position at Neo4j was posted on 2026-04-15.
+This technical & solutions architect position at Neo4j was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

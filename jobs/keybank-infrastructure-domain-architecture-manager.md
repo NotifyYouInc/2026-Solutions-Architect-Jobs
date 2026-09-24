@@ -5,12 +5,12 @@
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Infrastructure-Domain-Architecture-Manager_R-39223) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Infrastructure-Domain-Architecture-Manager_R-42172-1) |
 
 ## About This Role
 
-This technical & solutions architect position at KeyBank was posted on 2026-05-12.
+This technical & solutions architect position at KeyBank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

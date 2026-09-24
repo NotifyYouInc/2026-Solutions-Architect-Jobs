@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alpha Financial Markets Consulting](https://scoutify.ai/companies/alpha-financial-markets-consulting?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Canada |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/alphafmcroles/jobs/8795505002) |
 
 ## About This Role
 
-This technical & solutions architect position at Alpha Financial Markets Consulting was posted on 2026-09-14.
+This technology / it consulting position at Alpha Financial Markets Consulting was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

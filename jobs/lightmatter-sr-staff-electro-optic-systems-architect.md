@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lightmatter](https://scoutify.ai/companies/lightmatter?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://boards.greenhouse.io/lightmatter/jobs/5286548008?gh_jid=5286548008) |
 
 ## About This Role
 
-This technical & solutions architect position at Lightmatter was posted on 2026-09-14.
+This semiconductor / chip design position at Lightmatter was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

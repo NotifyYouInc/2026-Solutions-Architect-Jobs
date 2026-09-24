@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | India |
-| Category | Technical & Solutions Architect |
+| Category | DevOps Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8781283002) |
 
 ## About This Role
 
-This technical & solutions architect position at WPP was posted on 2026-09-15.
+This devops engineer position at WPP was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | Go To Market Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQBYJj2GKM94S2KSfHMz4JokHrn05dDYxz12yEInuRunEjsA9yzvgi3fde65rkoSIIyS4_LQiGw92140Egur1BU7YbsMSY5lJx0fs2eOs4xblIR7v1z6cZTCUHeLzQ%3D%3D_V2&loc=CA&title=Practice+Customer+Developer) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-09-15.
+This go to market engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

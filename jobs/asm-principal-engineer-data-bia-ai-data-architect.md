@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4968453101) |
 
 ## About This Role
 
-This technical & solutions architect position at ASM was posted on 2026-09-16.
+This data engineer position at ASM was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

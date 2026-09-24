@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4710431006?gh_jid=4710431006) |
+| Location | Washington, District of Columbia, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4712014006?gh_jid=4712014006) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture Federal Services was posted on 2026-09-02.
+This technology / it consulting position at Accenture Federal Services was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

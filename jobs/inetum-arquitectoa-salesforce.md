@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149528819-arquitectoa-salesforce) |
 
 ## About This Role
 
-This technical & solutions architect position at Inetum was posted on 2026-09-15.
+This technology / it consulting position at Inetum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

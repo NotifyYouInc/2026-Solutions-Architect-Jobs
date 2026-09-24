@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Gloucester, England, United Kingdom |
+| Location | Exeter, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000140708889-servicenow-platform-and-solution-architect) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000150095361-servicenow-platform-and-solution-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at EDF UK was posted on 2026-07-30.
+This technical & solutions architect position at EDF UK was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

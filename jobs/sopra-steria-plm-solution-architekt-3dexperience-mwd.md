@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111083860-plm-solution-architekt-3dexperience-mwd) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150046570-plm-solution-architekt-3dexperience-mwd) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-02-24.
+This technical & solutions architect position at Sopra Steria was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

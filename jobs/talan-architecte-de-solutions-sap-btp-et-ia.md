@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149688259-architecte-de-solutions-sap-btp-et-ia) |
 
 ## About This Role
 
-This technical & solutions architect position at Talan was posted on 2026-09-15.
+This technology / it consulting position at Talan was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Sales Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556983513) |
+| Location | Taiwan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556999708) |
 
 ## About This Role
 
-This sales engineer position at Microsoft was posted on 2026-09-04.
+This technical & solutions architect position at Microsoft was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

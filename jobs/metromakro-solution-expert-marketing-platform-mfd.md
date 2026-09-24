@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000140289669-solution-expert-marketing-platform-mfd) |
+| Category | Marketing Operations |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000150023794-solution-expert-marketing-platform-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-07-28.
+This marketing operations position at METRO/MAKRO was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

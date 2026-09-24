@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sheffield, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990015214396-private-cloud-senior-architect) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990015298716-private-cloud-senior-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at HelloKindred was posted on 2026-09-11.
+This devops engineer position at HelloKindred was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

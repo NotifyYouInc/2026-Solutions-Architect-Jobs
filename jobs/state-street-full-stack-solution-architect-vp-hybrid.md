@@ -6,7 +6,7 @@
 | Location | Boston, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Full-Stack-Solution-Architect---VP--Hybrid_R-788826) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Full-Stack-Solution-Architect---VP--Hybrid_R-788827) |
 
 ## About This Role
 

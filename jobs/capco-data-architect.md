@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Brno, South Moravian, Czechia |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8207143) |
 
 ## About This Role
 
-This technical & solutions architect position at Capco was posted on 2026-09-16.
+This data engineer position at Capco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

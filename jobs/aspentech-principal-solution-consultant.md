@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales Engineer |
+| Location | Germany |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Singapore/Principal-Solution-Consultant_R9442) |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Germany-remote/Sr-Principal-Solution-Consultant_R9455) |
 
 ## About This Role
 
-This sales engineer position at Aspentech was posted on 2026-09-15.
+This technical & solutions architect position at Aspentech was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

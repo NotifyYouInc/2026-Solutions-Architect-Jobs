@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Albuquerque, New Mexico, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Barksdale-AFB-LA/Enterprise-Architect_R0247792-1) |
+| Location | Arlington, Texas, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Enterprise-Architect_R0249572) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-09-01.
+This technology / it consulting position at Booz Allen was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

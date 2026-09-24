@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000141175259-principal-solution-engineering) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000150067891-principal-solution-engineering) |
 
 ## About This Role
 
-This technical & solutions architect position at Freshworks CRM was posted on 2026-08-03.
+This sales engineer position at Freshworks CRM was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

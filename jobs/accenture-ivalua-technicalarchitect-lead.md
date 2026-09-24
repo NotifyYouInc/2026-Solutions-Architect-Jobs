@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Technical & Solutions Architect |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Houston-1301-Fannin-Corp/Ivalua-Technical-Architect-Lead_R00356557) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-09-14.
+This technology / it consulting position at Accenture was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
