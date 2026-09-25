@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Mentor, Ohio, United States |
-| Category | Data Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000143893649-principal-enterprise-data-platform-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000150174499-principal-enterprise-data-platform-architect) |
 
 ## About This Role
 
-This data engineer position at Avery Dennison Corporation was posted on 2026-08-17.
+This technical & solutions architect position at Avery Dennison Corporation was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Architecture-Lead-Analyst_26955063) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Architecture-Lead-Analyst---C13---CHENNAI_26993147) |
 
 ## About This Role
 
-This technical & solutions architect position at Citigroup was posted on 2026-04-15.
+This technical & solutions architect position at Citigroup was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

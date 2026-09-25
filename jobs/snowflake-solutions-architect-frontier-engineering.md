@@ -5,12 +5,12 @@
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3e1d38d8-c3ef-421e-8dc3-208de5aafb42) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e76a4cac-b516-45cb-8adc-769424194a0a) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-09-03.
+This technical & solutions architect position at Snowflake was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

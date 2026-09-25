@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-18 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Hyderabad/Enterprise-Architect---Emerging-Technologies---Innovation--Python---AI-_261861) |
 
 ## About This Role
 
-This technical & solutions architect position at Blue Yonder was posted on 2026-06-18.
+This technical & solutions architect position at Blue Yonder was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

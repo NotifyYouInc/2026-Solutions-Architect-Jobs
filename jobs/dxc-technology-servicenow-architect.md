@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---MADRID/ServiceNow-Architect_51586091) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/ServiceNow-Architect_51589492) |
 
 ## About This Role
 
-This technical & solutions architect position at DXC Technology was posted on 2026-07-31.
+This technical & solutions architect position at DXC Technology was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

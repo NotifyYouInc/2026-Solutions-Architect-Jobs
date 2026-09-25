@@ -5,12 +5,12 @@
 | Company | [Trupanion](https://scoutify.ai/companies/trupanion?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000133659699-enterprise-software-architect) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000150180729-enterprise-software-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Trupanion was posted on 2026-06-23.
+This technical & solutions architect position at Trupanion was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

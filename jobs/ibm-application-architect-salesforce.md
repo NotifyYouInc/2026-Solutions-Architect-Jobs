@@ -1,16 +1,16 @@
-# Application Architect Salesforce at IBM
+# Application Architect-Salesforce at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Not specified |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129871) |
+| Location | India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=133212) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-08-20.
+This technology / it consulting position at IBM was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

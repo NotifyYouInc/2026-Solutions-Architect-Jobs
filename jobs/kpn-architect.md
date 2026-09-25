@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amersfoort, Utrecht, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145311169-architect) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000150316477-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at KPN was posted on 2026-08-24.
+This technical & solutions architect position at KPN was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

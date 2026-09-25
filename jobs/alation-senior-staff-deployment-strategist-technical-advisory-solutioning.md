@@ -5,12 +5,12 @@
 | Company | [Alation](https://scoutify.ai/companies/alation?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/GBR-LONDON/Senior-Staff-Deployment-Strategist--Technical-Advisory---Solutioning_R10000763) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/GBR-LONDON/Senior-Staff-Deployment-Strategist--Technical-Advisory---Solutioning_R10000788) |
 
 ## About This Role
 
-This technical & solutions architect position at Alation was posted on 2026-07-30.
+This technical & solutions architect position at Alation was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

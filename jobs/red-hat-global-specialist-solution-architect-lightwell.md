@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | 3 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Global-Specialist-Solution-Architect---Lightwell_R-059029-2) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Global-Specialist-Solution-Architect---Lightwell_R-059025-1) |
 
 ## About This Role
 
-This sales engineer position at Red Hat was posted on 2026-09-15.
+This sales engineer position at Red Hat was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

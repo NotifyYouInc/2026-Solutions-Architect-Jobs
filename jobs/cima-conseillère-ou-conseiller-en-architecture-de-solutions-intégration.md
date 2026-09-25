@@ -5,12 +5,12 @@
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000146712949-conseillere-ou-conseiller-en-architecture-de-solutions-integration) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000150212589-conseillere-ou-conseiller-en-architecture-de-solutions-integration) |
 
 ## About This Role
 
-This technical & solutions architect position at CIMA+ was posted on 2026-09-01.
+This technical & solutions architect position at CIMA+ was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

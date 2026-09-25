@@ -6,7 +6,7 @@
 | Location | Newton, Massachusetts, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000149589859-principal-ai-platform-architect) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000149678520-principal-ai-platform-architect) |
 
 ## About This Role
 

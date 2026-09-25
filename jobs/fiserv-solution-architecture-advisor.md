@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Berkeley Heights, New Jersey, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Solution-Architecture-Advisor_R-10400480) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Solution-Architecture-Advisor_R-10403054) |
 
 ## About This Role
 
-This technical & solutions architect position at Fiserv was posted on 2026-08-18.
+This technical & solutions architect position at Fiserv was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

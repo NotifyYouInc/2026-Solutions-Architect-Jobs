@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Munich, Bavaria, Germany |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5390902008) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5426933008) |
 
 ## About This Role
 
-This technical & solutions architect position at Anthropic was posted on 2026-09-15.
+This technical & solutions architect position at Anthropic was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

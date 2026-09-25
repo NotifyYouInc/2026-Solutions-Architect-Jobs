@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Solution-Designer---Customer-Onboarding--HCM-Hanoi-_JR119067) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Solution-Designer---Customer-Onboarding--HCM-Hanoi-_JR119067) |
 
 ## About This Role
 
-This technical & solutions architect position at National Australia Bank (NAB) was posted on 2026-05-29.
+This technical & solutions architect position at National Australia Bank (NAB) was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

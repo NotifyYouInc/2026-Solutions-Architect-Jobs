@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowengineering](https://scoutify.ai/companies/flowengineering?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Austin, Texas, United States |
 | Category | Sales Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/flowengineering/2abc88d1-3a66-41ce-adb0-943a0b679ecd) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/flowengineering/dc3891be-d3a1-4a74-b997-15c4de87ae58) |
 
 ## About This Role
 
-This sales engineer position at Flowengineering was posted on 2026-09-14.
+This sales engineer position at Flowengineering was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10533874/associate-solutions-architect-benelux) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10553236/associate-solutions-architect-benelux) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-09-09.
+This technical & solutions architect position at Amazon was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
