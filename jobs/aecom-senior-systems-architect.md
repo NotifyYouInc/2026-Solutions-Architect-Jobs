@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Warrington, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134759205-senior-systems-architect) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000150388199-senior-systems-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-06-29.
+This technical & solutions architect position at AECOM was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

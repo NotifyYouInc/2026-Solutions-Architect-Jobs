@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Belgium |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/ITA-Milan-Remote-Location/Kubernetes-Platform-Architect_R026836) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Belgium-Remote-Location/Kubernetes-Platform-Architect_R026837) |
 
 ## About This Role
 
-This technical & solutions architect position at Broadcom was posted on 2026-08-19.
+This technical & solutions architect position at Broadcom was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

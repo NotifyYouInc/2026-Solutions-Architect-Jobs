@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Michigan, US |
+| Location | Columbus, Ohio, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Bloomfield-Hills-MI/Application-Architect_R0070867) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Application-Architect_R0075688) |
 
 ## About This Role
 
-This technical & solutions architect position at Huntington Bancshares was posted on 2026-03-26.
+This technical & solutions architect position at Huntington Bancshares was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144084363-senior-solutions-engineer) |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000150404549-senior-solutions-engineer) |
 
 ## About This Role
 
-This technical & solutions architect position at Renesas Electronics was posted on 2026-08-18.
+This sales engineer position at Renesas Electronics was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

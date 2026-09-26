@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Germany-remote/Sr-Principal-Solution-Consultant_R9455) |
+| Location | South Africa |
+| Category | Sales Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/South-Africa-remote/Principal-Solution-Consultant_R9468) |
 
 ## About This Role
 
-This technical & solutions architect position at Aspentech was posted on 2026-09-15.
+This sales engineer position at Aspentech was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

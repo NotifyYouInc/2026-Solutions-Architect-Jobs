@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Principal-Architect--Solution-Architecture_R2612835) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/Principal-Architect--Solution-Architecture_R2615715) |
 
 ## About This Role
 
-This technical & solutions architect position at Cencora was posted on 2026-08-05.
+This technical & solutions architect position at Cencora was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

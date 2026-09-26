@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
+| Category | Product Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/IT-Solution-Architect---SAP-Plant-Maintenance--PM-_R79475) |
 
 ## About This Role
 
-This technical & solutions architect position at Lonza Group was posted on 2026-09-17.
+This product manager position at Lonza Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

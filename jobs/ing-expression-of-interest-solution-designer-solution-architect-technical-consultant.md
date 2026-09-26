@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Sales Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Expression-of-Interest--Solution-Designer--Solution-Architect--Technical-Consultant---Solutions-Engineer_REQ-10121733-1) |
 
 ## About This Role
 
-This sales engineer position at ING was posted on 2026-09-17.
+This technology / it consulting position at ING was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

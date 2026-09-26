@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Sr-IT-Solution-Architect--Access-Automation_REQ24167) |
 
 ## About This Role
 
-This cybersecurity engineer position at Biogen was posted on 2026-08-22.
+This technical & solutions architect position at Biogen was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infobip](https://scoutify.ai/companies/infobip?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Bangkok-Thailand/Solution-Engineering-Intern_JR104867) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://infobip.wd3.myworkdayjobs.com/infobipcareers/job/Manila-Philippines/Solution-Engineering-Intern-4_JR105026) |
 
 ## About This Role
 
-This technical & solutions architect position at Infobip was posted on 2026-08-18.
+This technical & solutions architect position at Infobip was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

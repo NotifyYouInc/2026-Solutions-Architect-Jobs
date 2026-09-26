@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Windsor, Connecticut, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Minneapolis-MN/Sr-Solutions-Architect_JR0032851) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-Windsor-One-Orange-Way/Sr-Solutions-Architect_JR0033199) |
 
 ## About This Role
 
-This technical & solutions architect position at Voya Financial was posted on 2026-07-06.
+This technical & solutions architect position at Voya Financial was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

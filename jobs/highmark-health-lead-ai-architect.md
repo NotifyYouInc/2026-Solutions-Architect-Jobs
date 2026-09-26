@@ -5,12 +5,12 @@
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Arkansas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
+| Posted | 2026-09-19 |
 | Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Lead-AI-Architect_J278217) |
 
 ## About This Role
 
-This technical & solutions architect position at Highmark Health was posted on 2026-04-15.
+This technical & solutions architect position at Highmark Health was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

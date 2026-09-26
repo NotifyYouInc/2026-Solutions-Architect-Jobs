@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7685747924393330949/detail) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7686104472024418613/detail) |
 
 ## About This Role
 
-This sales engineer position at TikTok was posted on 2026-09-15.
+This sales engineer position at TikTok was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

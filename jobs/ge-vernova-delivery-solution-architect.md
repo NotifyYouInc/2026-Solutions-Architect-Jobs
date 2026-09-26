@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/Delivery-Solution-Architect_R5047909-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Delivery-Solution-Architect_R5047809-1) |
 
 ## About This Role
 
-This technical & solutions architect position at GE Vernova was posted on 2026-07-25.
+This technical & solutions architect position at GE Vernova was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

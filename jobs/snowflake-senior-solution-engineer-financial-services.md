@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/7e8aa8bd-df51-44bd-b5c3-4011b4810739) |
+| Location | New York City, New York, United States |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/bf597618-4c3f-42dc-ba19-b214b754e93f) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-04-15.
+This sales engineer position at Snowflake was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

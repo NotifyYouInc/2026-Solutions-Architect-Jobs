@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technology / IT Consulting |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149684389-sap-btp-ai-solutions-architect) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000150131089-sap-btp-ai-solutions-architect) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-09-15.
+This technology / it consulting position at Talan was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
